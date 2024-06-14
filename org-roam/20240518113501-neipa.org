@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       8ab758c7-d000-44cb-84d1-61e8315fc3bf
+:END:
+#+title: NEIPA
+
+A New England IPA.  Tends to be less bitter and more citrusy then your
+typical IPA,

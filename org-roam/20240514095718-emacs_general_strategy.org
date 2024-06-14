@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       AFAF00F9-1B92-4749-B5C5-E648D384F8B4
+:END:
+#+title: Emacs General Strategy
+
+I think I've been looking for whole, integrated systems for becoming
+proficient with [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][emacs]], and I'm not totally convinced that there's an actual
+way to do that.
+
+So, maybe the only thing to do is to brute memorize a handful of tricks and
+just use that to do what you need to do.
+

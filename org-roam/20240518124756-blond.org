@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       89e431d1-d759-4814-b591-57b4907b8633
+:END:
+#+title: Blond (beer)
+
+A colour of beer, associated often with [[id:87867d59-c2c7-481e-8589-e1408cdc7afc][pilsers]].

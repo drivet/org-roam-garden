@@ -1,0 +1,83 @@
+:PROPERTIES:
+:ID:       d9a36121-e86b-4ba6-8f45-502314f7d21c
+:END:
+#+title: Certificate management basics
+
+Getting Apache to serve up authenticated/encrypted pages via SSL/TLS was a
+bit of an ordeal, so I thought I'd document the procedure here.  There
+aren't that many steps, but unless you're familiar with certificates and
+what they're used for, you'll be flailing.
+
+** Basics
+
+I don't deal with cryptography everyday, so I constantly have to remind
+myself how the whole thing works.  Hence, this section.
+
+Also, there's a bit of a gap between the general concepts and the concrete
+stuff like "How do I secure Apache using openssl?".  I've written
+[[id:37b2affd-0ff1-4683-b071-acf05eebdc5c][another page]] concerning the latter.
+
+*** Public Key Cryptography
+
+[[http://en.wikipedia.org/wiki/Public_key_cryptography][Public key cryptography]]
+
+Public key cryptography refers to the use of certain mathematical algorithms
+to generate what is known as a public/private key pair.  The public key is
+just that: public.  You can publish it, shout it from the roof tops,
+whatever.  The private key is just that: private.  You must keep it
+absolutely secure and secret.  Each user of a public key cryptographic
+system must have one of these pairs of keys.
+
+There are two main uses of public key cryptography:
+
+*Encryption*: If you want to talk to a particular user (computer/person,
+etc.), and you want what you say to be encrypted/confidential
+(i.e. gibberish to anyone other than the intended user), you need that
+user's public key.  Call that person user B (you can be user A).  You take
+your data and you encrypt it with user B's public key.  Now, the only way to
+decrypt it is with the user B's private key, which he has presumably kept
+safe and secure (you hope).  Voila, you have created a message that only
+user B can read (more accurately, you have created a message that only
+someone who possesses user B's private key can read, which you hope is
+actually user B, since he has presumably kept that private key safe and
+secure).
+
+*Signatures*: If you (user A) want to give a message to user B, you can
+sign it with your ''private'' key.  User B, wanting to verify that the
+message actually came from User A (in other words, wanting to
+''authenticate'' the message from user A to user B), can verify the
+signature with user A's public key.  If the signature is verified, you can
+be reasonably sure that user A signed the data (or, more accurately, you can
+be reasonably sure that the possessor of user A's private key has signed the
+data, which is presumably user A himself, since he kept that private key
+safe and secure, right?  Right?)
+
+*** Digital Certificates (or Public Key Certificates)
+
+[[http://en.wikipedia.org/wiki/Public_key_certificate][Public Key Certificate]]
+
+Digital Certificates build on the idea of public key cryptography.  A
+Digital Certificate is an electronic document that binds together a public
+key and identity information, like a name, organization, etc.  If the
+certificate is supposed to identify a server, for example, the name is the
+server's domain name.  In most cases, the certificate is then signed with a
+Certificate's Authority's (CA's) private key (there are other schemes here,
+but they all involve signing the certificate).  If you have the CA's public
+key, you can verify the signature in the certificate.  The idea here is
+that, if you trust the CA, you can be sure that the public key in the
+certificate does in fact belong to the identity in said certificate.  It all
+comes down to trusting the CA.
+
+How do you get the CA's public key?  Usually these are obtained via the CA's
+own certificate, which contains their public key and identity.  This
+certificate can be signed by yet another CA, or it can be self-signed, in
+which case it is called a ''root certificate''.  Root certificates are often
+distributed with web browsers.
+
+*** Certificate Signing Requests
+
+Certificate Signing Requests (CSRs) are effectively unsigned certificates.
+The process of signing a CSR turns it into a legitimate certificate.  You
+can sign a certificate with a CA, or you can create a self-signed
+certificate, which is signed by the same entity that creates the
+certificate.

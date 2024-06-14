@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       e9164af8-9ccb-4ff4-a5de-5869cee293d5
+:END:
+#+title: Indenting regions
+
+You can indent regions in [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]].  Use C-M-\.

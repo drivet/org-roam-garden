@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       23A96D3E-B236-467C-87B6-0328862271F4
+:END:
+#+title: 2024-06-03
+
+ * I like the Indieweb, not only because I own my own data but because I
+   also am not locked into an application
+ * Finished Leviathan Falls.  I found the ending too abrupt, like Neal
+   Stephenson.
+ * Added comments to my website, which go against IndieWeb principles.
+ * I used to kind of admire the Catholic Church for resisting change
+   throught the centuries, but as I get older I appreciate more one's
+   ability to change, and the Catholic Church becomes more and more like a
+   brutish fool who refuses to budge on anything.

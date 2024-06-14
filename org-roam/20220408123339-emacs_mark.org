@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       d712d6e6-e4c8-47a5-afb4-098a95d7b80d
+:END:
+#+title: Emacs mark
+
+[[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]]
+
+The mark is used in Emacs to define a selection.  If you combine this with
+the (occasionally sophisticated) command for moving around then you can
+select semantic bits of text.
+
+ * C-SPC will set the mark.
+ * C-g will unset the mark (and some commands will unset it automatically)

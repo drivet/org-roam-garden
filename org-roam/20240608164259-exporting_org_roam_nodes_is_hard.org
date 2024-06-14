@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       ffcf64d8-7e8e-45b9-93f4-6f4d178ff621
+:END:
+#+hugo_front_matter_format: yaml
+#+title: Exporting org roam nodes is hard
+
+Using something like Pandoc doesn't work very well because it doesn't handle
+org-roam ids in the links.
+
+Using something like orgjs doesn't work well because it doesn't handle
+PROPERTIES.  And I don't know how it handles front-matter.  It'll read the
+"#+title" but what about "#+filetags"?
+
+Maybe I need to revisit the native org-mode exporters methods here?

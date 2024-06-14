@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       92A00B55-3CAE-4E37-8971-DA1A2184A54D
+:END:
+#+title: Rating system
+
+I like the 4 star system.  It's easy to remember.
+
+ * **1 star**: Terrible, would actively avoid
+ * **2 stars**: Would not actively avoid, but not great
+ * **3 stars**: Good, would drink again
+ * **4 stars**: Excellent, among my favourites, would actively seek out.

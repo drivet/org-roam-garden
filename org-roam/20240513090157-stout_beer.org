@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       3e894f07-7186-4cf8-a454-acbb1ce13c4b
+:END:
+#+title: Stout (beer)
+
+A type of beer, characterized by a dark, almost black colour.
+
+Wikipedia: https://en.wikipedia.org/wiki/Stout

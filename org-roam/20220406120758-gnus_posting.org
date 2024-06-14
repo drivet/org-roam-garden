@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2B62399B-6EE5-40A3-82AB-F8AD2AB594BB
+:END:
+#+title: Gnus posting
+
+[[id:436197ee-3978-474a-aa6d-373d0cfd2d67][Gnus]]
+
+Just type S p in the [[id:48D08A8E-FB55-46D2-8827-CAF9803B5A7A][summary buffer]] To reply, S f, or f To reply with
+original, S F, or F.
+
+

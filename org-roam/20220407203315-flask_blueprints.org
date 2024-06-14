@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       45fe87b2-b7cd-4e93-be0e-443ddb93a3dc
+:END:
+#+title: Flask blueprints
+
+Blueprints seem to be a way to compartmentalize an app into logical pieces.
+It seems to be a way of subdividing an app into sub-apps.
+
+Each blueprint (subapp) can have
+ * a set of URLs that it handles.
+ * its own templates
+ * its own static files

@@ -1,0 +1,89 @@
+:PROPERTIES:
+:ID:       654b1afa-a2f9-4c45-967c-c68f0896b4ca
+:END:
+#+title: Bogofilter basics
+#+filetags: :email:
+
+* Bogofilter Basics
+
+I use bogofilter with procmail to counteract spam.  There's a good web page
+here: http://pubpages.unh.edu/notes/bogofilter.html
+
+To use bogofilter effectively, you need two things:
+
+ * a large bunch of emails that are known to be spam.
+ * a large bunch of emails that are known to be ham (i.e. legitimate emails)
+
+You need to register all this email as spam or ham with bogofilter so it can
+build up its ''word lists''.  Then, when another email comes in, bogofilter
+consults its word lists to determine whether the new email is spam or ham.
+
+If you tell it to, bogofilter will insert an appropriate header (X-Bogosity)
+with an indication of the chances that the email in question is spam.  You
+can then use the third-party tools of your choosing to act on this
+information.  I use procmail myself (See Procmail Integration).
+
+Let's say you have all you junk mail in a maildir called Junk.  You can then
+run the following in the directory where your Junk mail resides:
+
+#+begin_src 
+bogofilter -s -B Junk
+#+end_src
+
+The -s options means to register as spam.  The -B options tells bogofilter
+to register the "objects" listed on the command line.  In the above example,
+the object is a maildir box/folder.  bogofilter knows enough about the
+maildir format to register the emails in the folder correctly.
+
+For the rest of your legitimate emails, register them as ham.  You'll need
+to provide all your folder/mailboxes on the command line:
+
+#+begin_src 
+bogofilter -n -B INBOX INBOX.mailing-list01 INBOX.mailing-list02
+#+end_src
+
+The -n tells bogofilter to register as ham.
+
+If your only spam maildir is named Junk, and the rest of your maildirs are
+ham, you can do this:
+
+#+begin_src 
+$ cd ~/Mail # wherever your mail folder are
+$ ls | grep -v Junk | xargs bogofilter -n -B
+#+end_src
+
+bogofilter stores its word lists under ~/.bogofilter.  If you ever want to
+recompute your word lists, you can delete the contents of ~/.bogofilter and
+start again.
+
+** Procmail Integration
+
+Bogofilter will insert an X-Bogosity header into the emails it classifies if
+you tell it to.  My procmail setup takes advantage of this to dump spam into
+a special folder.
+
+
+#+begin_src 
+#### start spam conditions
+:0fw
+| bogofilter -e -p --spam-cutoff=0.95
+
+:0e
+{ EXITCODE=75 HOST }
+
+:0
+,* ^X-Bogosity: Spam, tests=bogofilter
+Junk/
+#### end spam conditions
+#+end_src
+
+
+The -p (passthrough) option to bogofilter tells it to tack on the X-Bogosity
+to the email.
+
+The -e will cause bogofilter to exit with a 0 on success, instead of
+different statuses depending on the classification results.  This simplifies
+procmail integration.
+
+The --spam-cutoff option tells bogofilter that all emails with a spam score
+higher then this will be considered spam.

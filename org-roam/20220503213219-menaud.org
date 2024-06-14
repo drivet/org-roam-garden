@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       c6c11ce1-c017-4450-ac9b-76318673f2eb
+:END:
+#+title: Menaud
+
+Brewery in Quebec
+https://menaud.ca/en/

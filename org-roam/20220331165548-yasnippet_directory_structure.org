@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       288375f6-0022-4ae6-987b-78abb5a587b1
+:END:
+#+title: Yasnippet directory structure
+
+Snippet directories are located in the variable yas-snippet-dirs, which by
+default has a single value of ~/emacs.d/snippets, for your personal
+snippets.  You can find many snippet collections on the web, and as you add
+them to your setup you have to keep adding stuff to the yas-snippet-dirs
+variable.
+
+#+begin_src emacs-lisp
+;; keeping YASnippet defaults try out ~/Downloads/interesting-snippets
+(setq yas-snippet-dirs (append yas-snippet-dirs
+                               '("~/Downloads/interesting-snippets")))
+#+end_src
+
+Under each snippet folder are sub-folders named for the major-modes for
+which the snippets apply.
+

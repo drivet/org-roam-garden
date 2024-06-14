@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       0dc88cd8-000a-4f60-91f5-e70ae0952a83
+:END:
+#+title: Low tech is good for durability
+
+Low tech solutions last longer, because they are less complicated.
+
+Books have been known to last decades, even centuries, with people still
+being able to read them.  Are we confident that Microsoft Word docs or CDs
+will last as long?
+
+[[id:a2e09732-e1f9-4e01-a5fa-74092ae75cd5][Plain Text]] in digital form is about as low tech as you can get and still
+touch a computer.  No special software is required to make sense of the
+content, though special software might be required to process it
+efficiently.
+

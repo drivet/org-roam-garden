@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       f9b01190-b396-4e6a-a912-83167d33968d
+:END:
+#+title: IndieWeb
+
+[[https://indieweb.org/][IndieWeb Wiki]]
+
+I participate in the IndieWeb, a collection of personal websites meshed
+together into something resembling a social network.
+
+** Why?
+
+Interesting question.  A lot of IndieWeb enthusiasts will tell you it's
+about keeping control of your own data.  This is true for me to some
+extent - I want to keep all my blog entries in a form that will be relevant
+in 20 years time and safe on my disk, though maybe that's more about using
+[[id:a2e09732-e1f9-4e01-a5fa-74092ae75cd5][plain text]] than about controlling your data.
+
+Photos too; I like keeping those under my control.
+
+For things like notes or likes, it's less important, but still kinda neat.
+
+** How?
+
+Basically [[id:fc419761-940f-4371-ba30-41ff61220302][microformats]].  They are effectively the API of the IndieWeb.
+

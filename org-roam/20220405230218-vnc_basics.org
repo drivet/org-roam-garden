@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       7cdfd34a-d47c-4a2a-b23c-819bef545dc1
+:END:
+#+title: VNC basics
+
+Not much to say here.  I wanted a way to access my desktop at work.  The way
+to do this is with x11vnc which will attach a VNC process to an existing X
+display.  This page is extremely useful:
+
+http://www.karlrunge.com/x11vnc/
+
+vncserver won't cut it; it can't latch onto an existing X11 session.  You
+need x11vnc.  Just run
+
+#+begin_src 
+x11vnc -display :0 -rfbauth /path/to/passwordfile
+#+end_src
+
+Default /path/to/passwordfile is ~/.vnc/passwd, hence:
+
+#+begin_src 
+x11vnc -display :0 -rfbauth ~/.vnc/passwd
+#+end_src
+
+If you don't have a password file, run x11vnc without one and it will tell
+you how to make one.
+
+You need to have vncviewer running at home, and then point it at your remote
+machine, at whatever display x11vnc tells you.

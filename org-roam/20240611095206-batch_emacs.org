@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       51176056-5601-4D64-9362-10F499F46877
+:END:
+#+title: batch emacs
+
+Emacs can run in batch mode.

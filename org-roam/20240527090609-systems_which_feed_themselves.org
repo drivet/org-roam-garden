@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5abc267c-09ec-491d-b116-f84000574d6a
+:END:
+#+title: Systems which feed themselves
+
+A system which feeds itself is a system which contains, within it, the tools
+to grow.  It's like a self replicating machine.
+
+The example I've used in the social sciences is the subject of history - it
+feels, sometimes, like it exists solely to produce other history teachers.
+
+And the use of [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]], in the end people spend so much time configuring it
+rather than actually using it for anything "outside".
+
+For some programmers, nothing beats writing tools for other programmers.
+
+A good chunk of my blog is about blogging.
+
+A good chuck of people's Zettelkasten are about maintaining and using their
+Zettelkasten.

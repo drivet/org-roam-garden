@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       90ee0e15-de83-4eb9-a091-1c199de79860
+:END:
+#+title: Post summaries versus excerpts
+
+A post summary is a small bit of representative text for a post.  It could
+be a description *about* what you wrote. A post excerpt is a literaly an
+extract of the post.
+
+I make a distinction between the two.  A summary is for sharing, for telling
+other people what you did.  It's often of the form "I wrote a post on X,
+please read it".  The excerpt is really an internal concept, an extract of
+your post.  How it's used varies, but I use it for displaying posts in a
+list on my blog.
+
+A "summary" is a marked up bit of text for the IndieWeb.  It's a meta tag
+for the Open Graph (OG) Protocol, called the "description".  Like OG image
+versus the featured image, if you are coming from the IndieWeb you have the
+problem of having to embed data into your posts that is only used as
+metadata, so you may have to hide it.
+
+In the past I called the "summary" the "blurb" in my blog.  I may change
+that.
+
+I also conflated "excerpt" and summary" but I think I need to fix that.
+
+It is possible to use the "summary" or "description" as your representative
+text in your posts lists on your blog.  I've been using the excerpt for
+that, but I don't have to.  It would make my posts lists look like my
+Twitter or Facebook wall, which is a look, and some people may like that,
+but it's not what I'm going for.

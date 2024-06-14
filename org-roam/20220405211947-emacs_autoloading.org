@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       646eef99-f502-4186-9ca3-6d629b8de33c
+:END:
+#+title: Emacs autoloading
+
+The autoload facility in [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] allows you to make a function or macro known
+in Lisp, but put off loading the file that defines it. The first call to the
+function automatically reads the proper file to install the real definition
+and other associated code, then runs the real definition as if it had been
+loaded all along.
+
+(autoload 'pylookup-lookup "pylookup")
+
+When you try and run pylookup-lookup, the system will try and load pylookup.

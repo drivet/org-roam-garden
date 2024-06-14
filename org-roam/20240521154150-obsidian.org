@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       D9D40756-298A-42D4-B548-2D57263688E9
+:END:
+#+title: Obsidian
+
+Software for [[id:CAA54188-C8EF-4204-AB47-90A27514E2E8][PIM]] or [[id:E9DDE472-8D71-4547-992C-56D16AE6A5E5][digital gardens]].  Can be used like [[id:5942bb24-580d-49b6-a941-28c172b4d7b5][org-roam]].  Uses
+Markdown files on the backend.
+
+This software fulfills the requirements of a [[id:a2e09732-e1f9-4e01-a5fa-74092ae75cd5][text based workflow]], and given
+that it has clients for mobile and desktop, etc. it is tempting to use it.
+
+The only down side, if you can call it that, is that you don't use [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]].
+
+I think that if org-roam doesn't pan out, this might be a good alternative.

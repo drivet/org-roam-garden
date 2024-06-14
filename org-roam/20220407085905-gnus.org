@@ -1,0 +1,53 @@
+:PROPERTIES:
+:ID:       436197ee-3978-474a-aa6d-373d0cfd2d67
+:END:
+#+title: Gnus
+
+A newsreader and [[id:33af9cb5-9bf4-42ab-a140-cbe4b1078525][email client for Emacs]]
+
+[[id:436197ee-3978-474a-aa6d-373d0cfd2d67][Gnus]] can be difficult to use, especially if you can't remember the
+keybindings (you could say that about all of [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]]).  This page is here to
+remind me of the most widely used keybindings and to have a central place
+for useful links.
+
+** Links
+
+Homepage: http://www.gnus.org/
+
+Manuals page: http://www.gnus.org/manual.html
+
+Big Monolithic Manual: http://www.gnus.org/manual/big-gnus.html
+
+A very good introduction: http://www.xemacs.org/Links/tutorials_3.html
+
+** Vocabulary and Model
+
+Gnus uses a somewhat specialized vocabulary.  It's important that one knows
+it (somewhat) before trying to configure Gnus.  Everything is an uphill
+battle otherwise.
+
+The main thing to remember is that is Gnus was designed primarily as a
+newsreader.  All the terms Gnus uses tend to revolve around that idea.  Yes,
+you can use Gnus to read your email effectively, but because Gnus is
+primarily a newsreader, the email concepts tend to get expressed in
+"newsreader" terms.
+
+So where Gnus uses the term "server", it usually means "news server".  News
+servers have lists of news groups that you can subscribe to.  Each group has
+a list of messages that you can view and can, potentially, be posted to.
+Gnus uses the term "select method" interchangably with this concept of
+"server".  It's important to understand this message model when it comes
+time to configure email.
+
+So, servers, have groups, and groups have messages.  In email, groups of
+messages are called "folders" but not in Gnus.  Since Gnus treats everything
+like news, folders of messages are called "groups", just like Usenet. The
+root of all your email groups is the "server" or "select method".  So, if
+you have a bunch of maildir folders, the root directory of that bunch of
+maildir folders is what Gnus would call the "server" or "select method",
+since this is the corresponding email concept - it's the entity which
+logically contains all the groups (folders) you want to read.
+
+Finally, servers have backends.  This tells Gnus how to actually read the
+email/news.
+

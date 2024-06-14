@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       4744515D-6042-4071-B32B-BB837FC25741
+:END:
+#+title: Gnus group buffer
+
+[[id:436197ee-3978-474a-aa6d-373d0cfd2d67][Gnus]]
+
+To see all the groups from your servers active file, you can type A
+A. In theory this could take a while, but I haven't been on dial-up in a
+long time so...
+
+Typing L will list all the groups in your newsrc file. Typing l will list
+the subscribed groups in your newsrc that have unread articles. These
+commands really are all about your newsrc.
+
+Select a group by pressing Enter. It will by default show the unread
+articles unless you have a display config item set. If there are no unread
+articles, it will offer to display them all.
+
+G DEL to delete a group
+
+F to fetch all new newsgroups. This is useful if you've just configured a
+maildir select method.
+
+** Group parameters
+
+Use G c to configure topic/group paramters. You can configure anything
+topic/group specific by adding the variable local to the group (see local
+variables at the end of the configure buffer)
+
+** Which articles to display?
+
+You can set a group parameter (G c, when over a group in the group buffer)
+to display certain articles upon entering a group. Look for the display
+config item.
+
+Once in the group, you can limit the articles by using /.
+
+/ u will only show unread articles. / o will show all, read and unread
+
+** Getting new articles
+
+In the group buffer, type g. In the [[id:48D08A8E-FB55-46D2-8827-CAF9803B5A7A][summary buffer]] type M-g
+
+** Catching up
+
+Pressing c will catchup (mark as read). You can do it in the [[id:48D08A8E-FB55-46D2-8827-CAF9803B5A7A][summary buffer]],
+the group buffer (if you've selected all the groups you want), or if the
+topic you want is selected.

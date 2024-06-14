@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       97C994D7-B1FB-4D50-9293-CC3740708791
+:END:
+#+title: Gnus deleting and expiring
+
+[[id:436197ee-3978-474a-aa6d-373d0cfd2d67][Gnus]]
+
+Deleting only really makes sense in mail groups. B DEL will do a real
+delete.
+
+Expiring is something subtly different. Marking a message as expirable
+(i.e. with the E mark) means that the message is a candidate for
+deletion. It doesn't mean it will get deleted right away, it just means that
+it will be deleted in due course. Gnus provides two features to help with
+this: auto-expire and total-expire.
+
+auto-expire preserves the meaning of all the marks. Expirable articles are
+the ones marked with E, and read one are the ones marked with R, O, etc. But
+auto-expire will arrange to press E for you when you select an article. The
+marks preserve their semantics (E means expirable, R means read, etc., but
+the hitting of the E key is automated.
+
+total-expire, on the other hand, overloads, or changes, the meaning of the
+read flags (r, R, O, K, Y) to also mean expirable, in addition to E.

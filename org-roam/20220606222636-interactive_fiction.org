@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e74eb569-4628-4d79-bed4-285396d68a3e
+:END:
+#+title: Interactive Fiction
+
+Also known as Text based adventure games.  I used to love these as a kid.
+
+On Linux, there's a system called [[id:a5a27e2d-c5ea-41e8-9308-07ac33019c14][TADS]] which lets you run home brewed
+adventures, and to write your own.
+
+You can run Infocom games with Frotz

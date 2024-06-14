@@ -1,0 +1,275 @@
+:PROPERTIES:
+:ID:       37b2affd-0ff1-4683-b071-acf05eebdc5c
+:END:
+#+title: Certificate management with OpenSSL
+
+Knowing [[id:d9a36121-e86b-4ba6-8f45-502314f7d21c][certificate management basics]] is one thing; translating that into
+real life is something else entirely.  This page will attempt to document
+the process I went through to secure my wiki, which you are now reading.  I
+used [[http://www.openssl.org][OpenSSL]] for all of this.
+
+The basic steps are
+
+ * become my own Certificate Authority (CA)
+ * issue a certificate for my personal domain (desmondrivet.net)
+
+To this end, these pages helped immensely:
+
+ * [[http://www.debian-administration.org/articles/284]]
+ * [[http://www.debian-administration.org/articles/618]]
+ * [[http://www.openssl.org/docs/apps/openssl.html][OpenSSL documentation]] (once you have examples to guide you)
+
+What I write here is taken heavily from those sites.
+
+** Setting up the CA workspace
+
+The first step to securing a domain is to set up a CA.  Becoming your own CA
+is not that difficult, and provides a modicum of protection against
+man-in-the-middle attacks.
+
+Set aside a special directory on a trusted machine as so:
+
+#+begin_src 
+mkdir CA
+cd CA
+mkdir newcerts private
+touch index.txt
+echo '01' > serial
+#+end_src
+
+The serial file contains the next serial number to be used for your
+certificate (after you issue your CA certificate).  The index.txt file
+contains a database of all known certificates issued by your CA.
+
+Create an openssl.cnf that looks something like this:
+
+#+begin_src 
+dir = .
+
+[ ca ]
+default_ca = CA_default
+
+[ CA_default ]
+serial = $dir/serial
+database = $dir/index.txt
+new_certs_dir = $dir/newcerts
+certificate = $dir/cacert.pem
+private_key = $dir/private/cakey.pem
+default_days = 3650
+default_md = md5
+preserve = no
+email_in_dn = no
+nameopt = default_ca
+certopt = default_ca
+policy = policy_match
+unique_subject = no
+
+[ policy_match ]
+countryName = match
+stateOrProvinceName = match
+organizationName = supplied
+organizationalUnitName = optional
+commonName = supplied
+emailAddress = optional
+
+[ req ]
+default_bits = 2048 # Size of keys
+default_keyfile = key.pem # name of generated keys
+default_md = md5 # message digest algorithm
+string_mask = nombstr # permitted characters
+distinguished_name = req_distinguished_name
+req_extensions = v3_req
+
+
+[ req_distinguished_name ]
+# Variable name   Prompt string
+#----------------------   ----------------------------------
+0.organizationName = Organization Name (company)
+organizationalUnitName = Organizational Unit Name (department, division)
+emailAddress = Email Address
+emailAddress_max = 40
+localityName = Locality Name (city, district)
+stateOrProvinceName = State or Province Name (full name)
+countryName = Country Name (2 letter code)
+countryName_min = 2
+countryName_max = 2
+commonName = Common Name (hostname, IP, or your name)
+commonName_max = 64
+
+# Default values for the above, for consistency and less typing.
+# Variable name   Value
+#------------------------------   ------------------------------
+0.organizationName_default = Desmond Rivet International
+localityName_default = Montreal
+stateOrProvinceName_default = Quebec
+countryName_default = CA
+
+[ v3_ca ]
+basicConstraints = CA:TRUE
+subjectKeyIdentifier = hash
+authorityKeyIdentifier = keyid:always,issuer:always
+
+[ v3_req ]
+basicConstraints = CA:FALSE
+subjectKeyIdentifier = hash
+#+end_src
+
+You'll want to customize some of the items here.  For example:
+
+#+begin_src 
+[ CA_default ]
+default_days = 3650 # how long your CA certificate is valid for.  Adjust accordingly.
+
+[ req ]
+default_bits = 2048 # Size of keys.  I guess 2048 is a good size?
+
+[ req_distinguished_name ]
+# adjust these to your situation
+0.organizationName_default = Desmond Rivet International
+localityName_default = Montreal
+stateOrProvinceName_default = Quebec
+countryName_default = CA
+#+end_src
+
+Now, we have to create a self-signed CA certificate.  This is the
+certificate that we will use to sign other certificates.
+
+#+begin_src 
+openssl req -new -x509 -extensions v3_ca -keyout private/cakey.pem -out cacert.pem -days 3650 -config ./openssl.cnf
+#+end_src
+
+According to the openssl documentation, the -x509 option makes the
+certificate self-signed.  The certificate is a CA certificate because of the
+-extensions v3_ca option.  I suppose its possible to have a CA certificate
+signed by another CA, in which case we wouldn't use the -x509 option.
+
+You will be asked for a password.  The password will be used everytim you
+sign a certificate with the CA certificate, so keep it safe.
+
+You'll also be asked a bunch of questions, like this:
+
+#+begin_src 
+Organization Name (company) [Desmond Rivet International]:Desmond Rivet International Certificate Authority
+Organizational Unit Name (department, division) []:Desmond Rivet International Certificate Authority
+Email Address []:
+Locality Name (city, district) [Montreal]:
+State or Province Name (full name) [Quebec]:
+Country Name (2 letter code) [CA]:
+Common Name (hostname, IP, or your name) []:Desmond Rivet International Certificate Authority
+#+end_src
+
+It doesn't matter all that much what you put in here, but the information
+should at least make a certain amount of sense.
+
+The command above will :
+
+ * spit out the CA certificate in the cacert.pem file.  This file will
+   contain the CA's public key, self-signed.
+ * spit out the CA's private key in private/cakey.pem.
+
+Note that we create the a) public key b) private key and c) certificate all
+at once.  Variations on the above command will allow you to create the
+public/private key pair and certificate in separate steps.
+
+** Issuing Certificates
+
+Issuing certificates is a two step process:
+
+ * generating a certificate request.
+ * signing it with a CA certificate.
+
+To generate the request, run this command:
+
+#+begin_src 
+openssl req -new -nodes -out req.pem -keyout key.pem -config ./openssl.cnf
+#+end_src
+
+The -nodes options prevents the private key from being encrypted.  Replace
+req.pem and key.pem with whatever files you want.  The -new generates a new
+request.  I'm not sure what happens if we don't put this.
+
+The above command will again ask you some question along the line of the CA
+certificate creation.  '''The key thing here is to make sure that your
+Common Name matches the domain you want to secure'''.  Note that you can use
+a wildcard to secure multiple domains:
+
+#+begin_src 
+Organization Name (company) [Desmond Rivet International]:
+Organizational Unit Name (department, division) []:desmondrivet.net domain certificate
+Email Address []:
+Locality Name (city, district) [Montreal]:
+State or Province Name (full name) [Quebec]:
+Country Name (2 letter code) [CA]:
+Common Name (hostname, IP, or your name) []:*.desmondrivet.net
+#+end_src
+
+You can reuse certificate requests when the associated certificate becomes
+obsolete.
+
+The sign the request, run this command:
+
+#+begin_src 
+openssl ca -out mycert.pem -config ./openssl.cnf -infiles req.pem
+#+end_src
+
+It's fairly self-explanatory.  You feed in the request via the -infiles
+option and you specify the output file via the -out option.  The signed
+certificate is spit out in mycert.pem.  Note that the CA certificate used
+for the signing is specified in the openssl.cnf file.
+
+When you run the above command you'll need to supply the password you used
+to secure your CA certificate.  The output looks like this:
+
+
+#+begin_src 
+Using configuration from ./openssl.cnf
+Enter pass phrase for ./private/cakey.pem:
+Check that the request matches the signature
+Signature ok
+The Subject's Distinguished Name is as follows
+organizationName      :PRINTABLE:'Desmond Rivet International'
+organizationalUnitName:PRINTABLE:'desmondrivet.net domain certificate'
+localityName          :PRINTABLE:'Montreal'
+stateOrProvinceName   :PRINTABLE:'Quebec'
+countryName           :PRINTABLE:'CA'
+commonName            :T61STRING:'*.desmondrivet.net'
+Certificate is to be certified until Nov 27 23:12:18 2019 GMT (3650 days)
+Sign the certificate? [y/n]:y
+
+
+1 out of 1 certificate requests certified, commit? [y/n]y
+Write out database with 1 new entries
+Data Base Updated
+#+end_src
+
+Notice that the database (index.txt) is updated, as well as the serial
+number file.  Please note that if you want to issue more than one
+certificate for the same common name, you'll need to edit the index.txt.atrr
+file and put this:
+
+#+begin_src 
+unique_subject = no
+#+end_src
+
+** Configuring Apache
+
+You need to add the following items to your apache2 configuration (at least
+on Debian Lenny):
+
+#+begin_src 
+SSLCertificateFile    /etc/apache2/ssl/certs/desmondrivet_net_cert.pem
+SSLCertificateKeyFile /etc/apache2/ssl/private/desmondrivet_net_key.pem
+#+end_src
+
+SSLCertificateFile is the certificate you issued, signed by your CA.
+SSLCertificateKeyFile is the private key produced by this process.
+Obviously you need to tailor this to your situation.  '''Make sure your
+private key file is in fact private (readable only by root)'''.
+
+** Make your CA certificate publicly available
+
+Finally, make your root CA certificate publicly available .  You can pass it
+out to your friends on USB keys, email it, or make it available on your
+website.  Making it available on your website is particularly attractive
+since users will be able to download it with their browsers; most browsers
+will install the CA certificate automatically when this is done.

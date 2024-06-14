@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       a2e09732-e1f9-4e01-a5fa-74092ae75cd5
+:END:
+#+title: Plain text is durable and software agnostic
+
+One of the reasons I like writing my blog entries in plain text is that
+plain text is durable.  ASCII has been around since the 60's and every piece
+of writing software in existence has handle it, and will continue to handle
+it.  Thus, plain text is durable and [[id:a8414195-5b63-44f3-a8de-dbddb6d2f1f3][software agnostic]] (maybe it's the same
+idea?).
+
+Software agnosticism is the reason I [[https://desmondrivet.com/2018/11/18/photo-organization][organize my photos]] the way I do.  I
+like being able to re-generate my albums with simple tools.

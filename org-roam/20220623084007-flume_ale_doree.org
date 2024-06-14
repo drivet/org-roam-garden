@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       32b9a72d-27d7-43b9-9f02-b231005a708e
+:END:
+#+title: Flume Ale doree
+
+A [[id:89e431d1-d759-4814-b591-57b4907b8633][blond]] beer (or maybe golden?) from [[id:c9d1a75d-b54b-4e2f-ac6f-72e54cf282f4][St Pancrace]]
+
+ * Alcohol: 5.2%
+ * Moderate bitterness, like a pale ale, but not an IPA.  Refreshing, would
+   drink again
+ * 3 stars

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       af0a5848-90cb-4ad3-997f-bc57cdd0ec80
+:END:
+#+title: Birra Finelli Tiramisu Stout
+
+A [[id:3e894f07-7186-4cf8-a454-acbb1ce13c4b][stout]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:688e1117-f7f4-48d7-9e5b-73e56214be25][Birra Finelli]].
+
+ * Alcohol: 4.9%
+ * Bitter, but not hoppy, like coffee (see the name). Not very sweet.
+ * 2 stars

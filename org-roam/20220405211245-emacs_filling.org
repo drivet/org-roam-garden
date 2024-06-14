@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       2b1d02d1-ca0f-425a-a539-52485cc5adc4
+:END:
+#+title: Emacs filling
+
+Filling, in [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]], means to format a paragrah so that it only takes up a
+certain number of column, usually 80.  There's a command to do this
+directly, called fill-paragraph, which is bound to M-q.  Typing M-q will
+fill whatever paragraph you're in.
+
+Filling is a useful thing to do and in general it's good to have it done
+automatically.  There are two minor modes in this regard: refill-mode and
+auto-fill-mode.  refill-mode will automatically call fill-paragraph for you
+every time you make a change to a paragraph.  This can be distracting and
+can cause "action at a distance"; it can reformat your entire paragraph just
+by typing a letter in the middle.
+
+auto-fill-mode is more popular, and appears to be a good compromise between
+no automatic filling at all and full-blown refill-mode.  It is a minor,
+buffer local mode where every space and <RET> is followed by an attempt to
+break the current line if it is too long.  It will not reformat your entire
+paragraph; auto-fill mode breaks lines but does not merge them.  If your
+paragraph is unfilled near the bottom and you edit the top, you won't refill
+the whole thing.  The easiest thing to do at this point is just to hit M-q.
+
+If you want to add a space or newline without breaking, use C-q, which
+quotes characters.  So use C-q <SPC> or C-q C-j (C-j stands for newline)
+
+Filling, in emacs, is good when writing comments in programming modes.
+Filling is smart enough to prepend the # character when filling perl comment
+paragraphs, for example.
+
+I currently have this in my .emacs file:
+
+#+begin_src 
+(setq default-major-mode 'text-mode)
+(defun my-text-mode-hook ()
+  (auto-fill-mode t)
+)
+(add-hook 'text-mode-hook 'my-text-mode-hook)
+#+end_src
+
+This sets any unknown mode to text, and turns auto-fill mode on for text mode (and its derivatives, like mail-mode (how do I figure out a mode derivative?) ).  So I get auto-fill mode for text modes and unknown modes.  I don't get it for programming modes, but I can turn it on for that if I really want to, or just hit M-q if I want to fill something.  In general, with programming modes, I think filling is only good for comments, so it's probably best not to enable it unconditionally.
+
+But...if you want to unconditionally set auto-fill mode in all modes, add this to your .emacs:
+
+#+begin_src 
+(setq-default auto-fill-function 'do-auto-fill)
+#+end_src
+
+Set the default paragraph width this way:
+
+#+begin_src 
+(setq-default fill-column 76)
+#+end_src
+
+Or call set-fill-column directly; it's bound to C-x f.

@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       e8f63911-0c0b-4f37-9aed-b2e415144f9d
+:END:
+#+title: Emacs
+
+* What is it?
+
+A very old text editor dating back to the 70's.
+
+Emacs is less of a text editor and more of a text editing platform.  You
+can:
+
+ * Use as a kind of IDE
+ * Check your [[id:aaaefce4-768c-4609-ade9-4c22e093e7aa][email]]
+ * [[id:FA31BDBE-5F87-4DEE-ABE2-D8AFD52F7D03][Organize TODO items]]
+
+* Why use it?
+
+ * Insanely configurable
+ * Habit
+ * Efficient if you know how to use it
+ * Especially useful if you edit a lot of [[id:a2e09732-e1f9-4e01-a5fa-74092ae75cd5][plain text]]
+ * Large ecosystem, email, TODO, etc.
+
+It's a bit circular.  You use emacs because you edit a lot of text.  But you
+arrange to edit a lot of text (choosing text formats, etc.) because editing
+text can be done so effectively in Emacs.
+

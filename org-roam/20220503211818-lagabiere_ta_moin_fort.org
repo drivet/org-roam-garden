@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       db157416-7a8e-4305-b6fb-113fc4aa781d
+:END:
+#+title: Lagabiere Ta Moin Fort
+
+[[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]
+
+ * [[id:11c6ac15-957c-4a48-9fa7-6789f513e3b8][Lagabiere]]
+ * Session IPA, 3.8%
+ * Fruity, citrusy, not too bitter

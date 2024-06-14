@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       67dce812-c557-42d4-944a-c2e035db0e3d
+:END:
+#+title: IPA
+
+A type of beer characterized by a bitter, hoppy flavour.

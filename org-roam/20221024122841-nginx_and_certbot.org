@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       c829eff7-eec9-43d5-be5e-0c722792e25e
+:END:
+#+title: Nginx and certbot
+
+There are ways to do this in Docker, but it's also quite easy to do this
+directly on the host.
+
+On Ubuntu:
+
+ * Install nginx with apt-get
+ * Install certbox via snap (https://certbot.eff.org/instructions?ws=nginx&os=ubuntufocal)
+ *  

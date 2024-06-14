@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       5a6f3bc8-befd-4d0c-ba25-cc45e9ea11f2
+:END:
+#+title: Gin tasting
+
+A page to collect gins I've tasted over the years.
+
+Rating is my [[id:92A00B55-3CAE-4E37-8971-DA1A2184A54D][standard]] one.

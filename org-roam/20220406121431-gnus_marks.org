@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2F0CA78A-DB0A-4714-9F7B-31E2CC7917DF
+:END:
+#+title: Gnus marks
+
+[[id:436197ee-3978-474a-aa6d-373d0cfd2d67][Gnus]]
+
+For marks in the [[id:48D08A8E-FB55-46D2-8827-CAF9803B5A7A][summary buffer]], see Section 3.7.2 in Gnus manual
+
+u will mark ticked
+
+Shift-3 will set the process mark on an article
+
+M-u or d will unmark ticked
+
+M P R will set process marks according to a regular expression.
+
+gnus-summary-execute-command can run a random command on articles whose
+headers match regular expressions. If you use the Shift-3 command, you can
+mark articles with the "#" based on regular expressions in any header (or
+the whole body if you want)
+

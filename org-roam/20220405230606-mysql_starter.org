@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       93801d56-7db4-47cc-96db-1c020f9008e9
+:END:
+#+title: MySql starter
+#+filetags: :database:
+
+To access a database:
+
+#+begin_src
+mysql -h localhost -u ttrss -p ttrssdb
+#+end_src
+
+To list the tables in said database:
+
+#+begin_src 
+mysql> show tables;
+#+end_src
+
+To create a database as root, and a user to go with it:
+
+#+begin_src 
+mysql -u root -p
+mysql> CREATE DATABASE ttrssdb;
+mysql> GRANT ALL ON ttrssdb.* TO ttrss IDENTIFIED BY "ttrss";
+#+end_src
+
+Or:
+
+#+begin_src 
+mysql -u root -p
+mysql> CREATE DATABASE piwikdb;
+mysql> GRANT ALL ON piwikdb.* TO 'piwik'@'localhost' IDENTIFIED BY 'piwik';
+#+end_src
+
+To dump a database as root:
+
+#+begin_src 
+mysqldump -u root -p ttrssdb > ttrss.sql
+#+end_src
+
+And to import it back:
+
+#+begin_src 
+mysql -u root -p ttrssdb < ttrss.sql
+#+end_src

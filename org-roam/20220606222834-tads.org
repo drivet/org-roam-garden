@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       a5a27e2d-c5ea-41e8-9308-07ac33019c14
+:END:
+#+title: TADS
+
+A system for writing and running text adventures.
+
+Games using this system:
+
+ * World's Apart

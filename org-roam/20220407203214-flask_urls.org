@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       7fa8e8cb-9d50-4afa-9827-07bfd80001f3
+:END:
+#+title: FLask URLs
+
+Very simply, you can define a URL for your web app like this:
+
+#+begin_src 
+@app.route('/user/<username>')
+def show_user_profile(username):
+    # show the user profile for that user
+    return ’User %s’ % username
+#+end_src
+
+Or like this:
+
+#+begin_src 
+def show_user_profile(username):
+    # show the user profile for that user
+    return ’User %s’ % username
+app.add_url_rule('/user/<username>', 'show_user_profile', show_user_profile)
+#+end_src
+
+Note that the function name becomes the endpoint name.  Endpoints are a way
+to uniquely identify URLs for rules purposes.
+

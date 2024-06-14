@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       39ce030b-7dd0-4f63-abb2-9ef84fc3b131
+:END:
+#+title: Flask
+
+Web framework written in [[id:f457b77f-559b-4603-bb2e-d2e522922cd2][Python]]
+
+

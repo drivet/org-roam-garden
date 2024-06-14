@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       0b228ecf-49f5-4f3f-8732-95edc5e21b4e
+:END:
+#+title: Beer tasting
+
+My beer tasting page, where I collect information about various beers I've
+tried.
+
+My ratings system is my [[id:92A00B55-3CAE-4E37-8971-DA1A2184A54D][standard]] 4 star version.

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       575e37eb-0d5c-4448-b567-e8dc43bcd8b1
+:END:
+#+title: Constitutions
+
+These are axioms upon which law systems are built.  But, unlike real axioms,
+you can change it.
+
+In the US, you can amend the Constitution.  In Canada, you have the
+Notwithstanding clause.
+
+In the US, Prohibition was a constitutional amendment, as was its repeal.
+The two term limit for Presidents is a constitutional amendment.
+
+It makes me nervous that such things are apparently so malleable.

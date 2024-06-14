@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       AC860BD7-D23B-4948-8111-9ECC38B4B933
+:END:
+#+title: Emacs Keymaps
+
+You can think of a keymap in [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] as a collection of keys that are defined
+under a particular "namespace", being the keymap name.
+
+You can bind or "mount" the keymap as whole under a particular key (itself
+under it's own keymap, maybe just the global one), by binding the function
+as you would normally.

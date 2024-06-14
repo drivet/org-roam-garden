@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       17296124-AC25-4596-A694-DF0C6581A3CD
+:END:
+#+title: Gnus Topics
+
+[[id:436197ee-3978-474a-aa6d-373d0cfd2d67][Gnus]]
+
+Topics let you group your groups into a hierarchy.  See Group buffer
+
+T n for a new topic
+
+T m to move a group to a topic
+
+T r to rename a topic
+
+T DEL to delete an empty topic
+
+ESC TAB will "unindent" a top, i.e. move it one level up in the
+hierarchy. TAB will move it one level down.

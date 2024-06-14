@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       80A90CE0-C07D-4CE4-A882-5F0316774D0B
+:END:
+#+title: Gnus Headers
+
+[[id:436197ee-3978-474a-aa6d-373d0cfd2d67][Gnus]]
+
+W v (gnus-summary-verbose-headers) will toggle whether all the headers are
+on display.

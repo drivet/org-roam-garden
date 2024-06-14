@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       5934c12d-9346-4e41-92c1-b419b0e0843b
+:END:
+#+title: Canadian Whisky
+
+A style of whisky made in Canada, characterized by a muted, easy drinking
+taste.

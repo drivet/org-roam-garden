@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       749ABBDD-08FA-42AE-8898-07F72FBF040B
+:END:
+#+title: 2024-05-27
+
+* Thoughts of the day
+
+ * Warren Buffet is not a billionaire because he's frugal.  He's a
+   billionaire because he's good at investing.  I think sometimes the two
+   mindsets become conflated.
+
+ * I guess you can recreate a simple recipe book with org-roam, but why?
+   It's power is in the connections, so maybe do something personal, like
+   how the recipe connects back to a memory, or a recipe template, or a
+   cooking technique you learned.

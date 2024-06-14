@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       296E9CFB-967A-495D-B99A-EE62BCC72244
+:END:
+#+title: Unlinked
+
+A page for unlinked notes to link to.  At some point, all the notes linking
+to here should be indexed into the system somehow.

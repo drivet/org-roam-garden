@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       aaaefce4-768c-4609-ade9-4c22e093e7aa
+:END:
+#+title: Email
+#+hugo_front_matter_format: yaml
+
+Still useful even if it's old school.
+
+Web based:
+ * Gmail
+
+Text base:
+ * Mutt
+   
+[[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] based:
+ * [[id:436197ee-3978-474a-aa6d-373d0cfd2d67][Gnus]]

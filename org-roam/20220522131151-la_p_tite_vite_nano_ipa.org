@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       25e08a98-e195-49eb-b581-39331db77b22
+:END:
+#+title: La P'Tite Vite (Nano IPA)
+
+[[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]
+
+ * Brewed by [[id:a03bfaf0-d748-43ce-ab96-8df93f4948b3][Ras L'Bock]]
+ * Low alcohol (2.5%)
+ * Fruity, not overly bitter
+ * A bit bland, but good
+ * Not outstanding but would drink again

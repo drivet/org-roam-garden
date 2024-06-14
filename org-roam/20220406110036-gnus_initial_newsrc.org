@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       671889A9-41ED-4AE9-AC02-82CBF6D9622A
+:END:
+#+title: Gnus initial .newsrc
+
+[[id:436197ee-3978-474a-aa6d-373d0cfd2d67][Gnus]]
+
+Reading news involves managing a newsrc file. This file contains all the
+groups you are subscribed/unsubscribed to.
+
+Gnus doesn't create a big newsrc file. It will create a really small one
+with just a group or two.
+
+It can be confusing when all you see are just a few groups. I don't know
+where they all go. The docs say they're all killed, but a A k won't bring
+them up. I'm stumped.

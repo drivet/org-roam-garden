@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       d71ffb6c-8147-4f97-8044-1e71f5819926
+:END:
+#+title: Static Site Generator
+
+Static site generators are an old idea that seems to be making a come back
+with [[https://jamstack.org/][Jamstack]] and services like [[https://www.netlify.com/][Netlify]].
+
+In the past I've used [[https://github.com/thewml/website-meta-language][WML]] to crank out web pages, which dates back to the
+90's.
+
+Currently (2022-04-05) popular examples:
+
+ - [[https://www.11ty.dev/][Eleventy]]
+ - [[https://jekyllrb.com/][Jekyll]]

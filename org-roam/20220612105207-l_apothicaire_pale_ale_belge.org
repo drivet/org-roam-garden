@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1a1efc9a-40ae-474d-b6b0-af283c5a5fd1
+:END:
+#+title: L'Apothicaire Pale Ale Belge
+
+[[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]
+
+ * [[id:c2d8901a-20d2-4077-bb98-38f968ae0796][Brasserie L'Apothicaire]]
+ * Belgian Pale Ale, moderate alcohol (5.5%)
+ * Quite amber in colour, toasty, almost like a red ale
+ * Quite good, would drink again

@@ -1,0 +1,80 @@
+:PROPERTIES:
+:ID:       17dd76c7-3232-484c-9051-ae5ee4b9289d
+:END:
+#+title: DVD ripping and burning
+
+I have no idea how up to date this still is.  I don't really rip DVDs
+anymore.
+
+*Update*: I've started to use OGMRip and it's been okay so far.
+
+First things first, you'll want to add this line to your
+/etc/apt/sources.list:
+
+#+begin_src 
+deb http://www.debian-multimedia.org lenny main non-free
+#+end_src
+
+** Getting the Stuff Off the DVD
+
+I use dvdbackup to dump DVDs to disk.  If you were to install libdvdcss (not
+that I do this), it would also decrypt the DVD for you, with no extra
+options given on the command line.
+
+#+begin_src 
+dvdbackup -M -i /dev/hdc -o ~/dvds/my_dvd
+#+end_src
+
+The -M means backup the whole DVD.  The -o tells it where to put the files.
+The -i tells it where to get the DVD.
+
+** Encoding the Videos
+
+I use HandBrake to encode the videos once they're dumped to disk.
+Generally, Handbrake requires you to supply a title.  To figure out which
+title to encode, you'll need to peruse the DVD and make some judgement
+calls.  You can look over the whole DVD like this:
+
+#+begin_src 
+dvdbackup -I -i /dev/hdc
+#+end_src
+
+And play titles like this:
+
+#+begin_src 
+mplayer dvd://1 -dvd-device /dev/hdc
+#+end_src
+
+Once you have your title, you can use HandBrakeCLI:
+
+#+begin_src 
+HandBrakeCLI -b 2100 -t 2 -i ~/dvds/my_dvd/DISC01 -o ~/encoded_movies/my_dvd.avi
+#+end_src
+
+There are alot more options than this, just run the help:
+
+#+begin_src
+HandBrakeCLI --help
+#+end_src
+
+Another good combination:
+
+#+begin_src 
+HandBrakeCLI -e xvid -S 400 -E lame -t 1 -i ~/mydvds/D1 -o ~/mydvds/video.avi
+#+end_src
+
+** Burning the Files
+
+There a good web page on this topic:
+http://fy.chalmers.se/~appro/linux/DVD+RW/
+
+I just use growisofs:
+
+#+begin_src 
+growisofs -Z /dev/scd0 -R -J /more/files
+growisofs -M /dev/scd0 -R -J /more/files
+#+end_src
+
+It's -Z to burn an initial session, and -M to merge new data into the
+existing session.  The -R and -J options signal the use of Rock-Ridge and
+Joliet extensions.

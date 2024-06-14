@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f79e39b3-03a8-41f9-a58c-609c622dfaa0
+:END:
+#+title: Yasnippet index
+
+Yasnippet is a templating system for Emacs.  You type an abbreviation
+followed by an expansion key (usually TAB) and you get the expanded text.
+
+- [[https://github.com/joaotavora/yasnippet][Github]]
+- [[http://joaotavora.github.io/yasnippet/][Documentation]]
+
+Abbreviations are defined in snippet files, and are made available on a per
+major mode basis.
+
+[[id:288375f6-0022-4ae6-987b-78abb5a587b1][Yasnippet directory structure]]
+
+Read the documentation for how to write a snippet. You basically just create
+points in your file where the TAB key will bring you as you fill in the
+fields.

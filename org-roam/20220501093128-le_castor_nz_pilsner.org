@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       56ff82f8-2176-4d05-8410-c337b34b2d13
+:END:
+#+title: Le Castor NZ Pilsner
+
+[[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]
+
+ * [[id:3cbcdf3e-13f2-417d-8150-d7f528cc2e2e][Le Castor Brewing Company]]
+ * Hoppier than usual for a pilsner
+ * Moderate alcohol (5%)
+ * Bitter, but less citrus and more aftertaste
+ * Not that great

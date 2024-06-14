@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       5a94163e-b6a2-4cbb-9395-3383decfecd2
+:END:
+#+title: Le Nain De Jardin
+
+[[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]
+
+ * [[id:48de6144-956c-49dc-85be-db2c882490ec][Microbasserie Du Lac Saint Jean]]
+ * Amber Session Ale, Moderate alcohol (4%)
+ * Above average bitterness, but no real flavour beyond that
+ * Can't detect any fruity or toasty notes
+ * Good but not that refreshing, not my favorite

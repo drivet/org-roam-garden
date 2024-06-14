@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       ab622470-e599-4b7c-8fc3-a647cf9f4c72
+:END:
+#+title: Sentinelle Beer
+
+[[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]
+
+ * [[id:133223ff-42db-415f-8627-d1e55504c5ea][Dieu du Ciel]] Brewery
+ * Blonde Ale, moderate alcohol (5.1%)
+ * Slightly bitter, refreshing
+ * Like a standard lager
+ * Excellent beer, would be very good in the summer

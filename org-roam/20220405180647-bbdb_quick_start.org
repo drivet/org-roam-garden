@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9a70ede2-9aa5-4311-be79-f17c479a1bc9
+:END:
+#+title: BBDB quick start
+#+filetags: :emacs:
+
+** Big Brother Database (BBDB) Basics
+
+At the moment I use the [[http://savannah.nongnu.org/projects/bbdb/][Big Brother Database]] (BBDB) for [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] to manage my
+contacts.  This page is for remembering basic keystrokes.
+
+(Note that the above link is for BBDB v3 and the info here may be wrong)
+
+ * M-x bbdb to search bbdb.  Just press * or enter to get all records.
+ * M-x bbdb-create to create a new entry, or c to create a new entry while
+   on the bbdb result screen
+ * e to edit a field (depending on point location)
+ * d to delete a record or field (depending on point location)
+ * C-o to add a new field
+

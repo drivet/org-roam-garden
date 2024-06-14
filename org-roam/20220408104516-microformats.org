@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       fc419761-940f-4371-ba30-41ff61220302
+:END:
+#+title: Microformats
+
+Microformats are special CSS classes used to embed structured data into a
+HTML page.  Used heavily in the [[id:f9b01190-b396-4e6a-a912-83167d33968d][IndieWeb]].

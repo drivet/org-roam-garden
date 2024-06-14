@@ -1,0 +1,90 @@
+:PROPERTIES:
+:ID:       43ad2429-e55c-4faa-bade-7a0d867dcc9a
+:END:
+#+title: Gnus group levels
+
+[[id:436197ee-3978-474a-aa6d-373d0cfd2d67][Gnus]]
+
+Main information: http://www.gnus.org/manual/big-gnus.html#SEC24
+
+Conventional newsreaders have a notion of "subscribed" and "unsubscribed"
+groups.  The newsreader will typically query the server about subscribed
+groups and ignore the unsubscribed groups.  This is all done client side;
+the server has no notion of subscribed versus unsubscribed.
+
+Gnus, on the other hand, has a rather convoluted idea of "subscribed" and
+"unsubscribed", which is all tied up to it's notion of "group levels".  In a
+nutshell, here we go.
+
+Each group has a group level.  You are subscribed to groups with levels
+between 1 and gnus-level-subscribed.  You are unsubscribed to groups between
+gnus-level-subscribed + 1 and gnus-level-unsubscribed. A group is a zombie
+if its level is gnus-level-zombie and killed if its level is
+gnus-level-killed.  These variables all have default values which you can
+change. So here's a handy cheat sheet:
+
+ * default gnus-level-subscribed is 5
+ * default gnus-level-unsubscribed is 7
+ * default gnus-level-zombie is 8
+ * default gnus-level-killed is 9
+ * subscribed levels: (1 to gnus-level-subscribed)
+ * unsubscribed levels: (gnus-level-subscribed + 1 to gnus-level-unsubscribed)
+
+Or, to make it all concrete, the default setup is :
+
+ * subscribed levels: 1,2,3,4,5
+ * unsubscribed levels: 6,7
+ * zombie: 8
+ * killed: 9
+
+Now, why do we do all this?  Well, we can control various group operations
+by level.  For example:
+
+ * Hitting l (gnus-group-list-groups) in the group buffer will, by default, list all groups with unread messages that have levels below gnus-level-subscribed, i.e. all subscribed groups with unread messages.  The function can actually do more than that and in its most general form, can take a level below which to display and a boolean telling it whether groups with unread messages should be displayed.
+ * Hitting L (gnus-group-list-all-groups) in the group buffer will, by default, list all groups with levels below gnus-level-unsubscribed.
+
+Change the level of a group by hitting S l in the group buffer.
+
+Two more variables deserve mention, from the manual:
+
+#+begin_quote
+Two closely related variables are gnus-level-default-subscribed (default 3)
+and gnus-level-default-unsubscribed (default 6), which are the levels that
+new groups will be put on if they are (un)subscribed. These two variables
+should, of course, be inside the relevant valid ranges.
+#+end_quote
+
+Note that there is very little difference between subscribed and
+unsubscribed groups.  Gnus can still track article information for a group
+even it's unsubscribed.  The difference only comes into play when figuring
+which groups to display by default.  This brings us to the next point:
+
+ * *Activation* is the Gnus concept which encompasses the act of querying a
+   group for article information.  gnus-activate-level is the variable which
+   controls how Gnus queries groups; all groups with levels under
+   gnus-activate-level get ''activated'' (queried).
+
+The default value of gnus-activate-level is 6.  Note that 6, in the default
+setup, is one level of "unsubscribed".  So we have the following point:
+
+ * By default, Gnus tracks article information for (activates) subscribed
+   groups and unsubscribed groups with a level of 6 (i.e. all groups levels
+   under 6, the default value of gnus-activate-level).  Unsubscribed groups
+   with a level of 7 don't get queried.  So level 7 is, in a sense, "more
+   unsubscribed" than 6 since it doesn't get activated by default.
+
+You can make gnus act in a bit more conventional manner by setting
+gnus-activate-level to 5, so that unsubscribed groups don't get queried.
+Alternatively you can make sure your unsubscribed groups are always at
+level 7.  You can set gnus-level-default-unsubscribed to 7 to help with
+this.
+
+(As an aside, to speed things up on my own system, I have opted to put all
+my big archive mail groups on level 7 and to leave the rest of default
+variables values alone.  Hence they do not get activated.  This seemed like
+the least riskiest thing I could do)
+
+One more thing: gnus-group-list-inactive-groups (default t) controls whether
+inactive groups are listed or not.  In my experiments, however, if you have
+this set to nil, and if you run gnus-group-list-all-groups, the unsubscribed
+groups win over and will be displayed.

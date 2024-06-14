@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       8feaa469-2488-4ac9-8a2e-c7705a81c002
+:END:
+#+title: Microformats turn webpages into REST services
+
+Since a [[id:fc419761-940f-4371-ba30-41ff61220302][microformat]] parser can extract structured data from an arbitrary
+HTML page, one can say that microformats turn a website into a RESTful data
+service.  In others word, microformats allow webpages to double as RESTful
+data resources
+
+This notion used extensively in the [[id:f9b01190-b396-4e6a-a912-83167d33968d][IndieWeb]] to implement a kind of social
+network on top of the web itself.

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       412E3147-B84C-4C15-9954-5EB7F1DF48A2
+:END:
+#+title: Chipie (Archibald)
+
+[[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]
+
+ * Brewed by the [[id:29c29abc-abe6-4051-81a3-fd68be7bc6b9][Archibald]] brwery
+ * Red Pale Ale
+ * Moderate alcohol (5%)
+ * Bitter, toastiness
+ * Tasty, would drink again

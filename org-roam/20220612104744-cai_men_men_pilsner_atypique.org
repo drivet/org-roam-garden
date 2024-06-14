@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       f834bf5f-7fae-4e99-999f-f0c109226345
+:END:
+#+title: Cai Men Men (Pilsner Atypique)
+
+A [[id:87867d59-c2c7-481e-8589-e1408cdc7afc][pilsner]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tasted]] from [[id:26692c61-d2ae-44b9-bbed-40734b062d37][Brasserie Depareillee]]
+
+ * Alcohol: 5.1%
+ * Very bitter, like an IPA.  Too bitter in fact.
+ * 2 stars

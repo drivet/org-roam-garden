@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       E9DDE472-8D71-4547-992C-56D16AE6A5E5
+:END:
+#+title: Digital Garden
+
+Digital gardens are kind of in these days.  They are to be distinguished
+from a blog (i.e. the stream) in that the stuff you write about exist
+outside of time. In other words their time stamp isn't hugely important.
+
+The constracting metaphor that is often used here is between a garden and a
+stream.  The stream is like a blog, where things move in time.  The gadren
+is a series of plants that need tending.
+
+I wrote a [[https://desmondrivet.com/2020/05/01/wikis-and-blogs.html][blog entry]] about this.
+
+In the past I maintained a wiki based on [[id:0EC8EBA9-030B-4337-8019-3525049D6F79][MoinMoin]], which sort of filled the
+niche of what I'm trying to accomplish here.  It was bascially a personal
+knowledge base.
+
+I've recently started experimenting with [[id:5942bb24-580d-49b6-a941-28c172b4d7b5][org-roam]] for this kind of stuff,
+even if I'm not totally sold on the finicky zettelkaten aspect of it.
+
+** Text based garden
+
+I like the idea of maintaining this wiki/garden as I do my blog - in [[id:a2e09732-e1f9-4e01-a5fa-74092ae75cd5][text]],
+using a CM system like github to trigger publication.
+

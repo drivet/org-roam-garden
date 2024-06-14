@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       439ee847-fdd9-456e-a810-aacbb9e608f6
+:END:
+#+title: Farnham Lager
+
+A [[id:152fc423-6371-48f0-b5e6-01196da0f4e8][lager]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:f8fca691-9c76-4335-b5b4-6f8eed53024a][Farnham]].
+
+ * Alcohol: 4.8%
+ * Slightly bitter, refreshing, drinkable
+ * 3 star(s)
+ 

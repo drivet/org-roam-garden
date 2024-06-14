@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       06D6F631-9ED7-44EF-97D5-C06B309FED0D
+:END:
+#+title: I blog mostly about blogging
+
+[[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]
+
+When I last checked a large portion of my blog entries were about how I
+blog.
+
+I have heard it said that much of Luhmann's zettelkasten was about maintain
+the zettelkasten,
+
+There are certain kinds of programmers who enjoy writing software for other
+programmers the most.
+
+I'm sure this says something about my reasons for blogging, and about
+systems that feed themselves, though I'm not sure what.
+
+I guess I just like the challenge involves in setting up a blogging system.
+The mechanics are part of the pleasure of it.

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       3FB34887-A002-4DCF-9C33-FF047F920D36
+:END:
+#+title: Gnus moving mail
+
+[[id:436197ee-3978-474a-aa6d-373d0cfd2d67][Gnus]]
+
+B m will do it

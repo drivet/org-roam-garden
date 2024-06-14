@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       FD7E53AD-7F10-4175-898F-A20BB7921FF9
+:END:
+#+title: 2024-06-10
+
+ * I need to have projects, which is why trouble myself with weird emacs and
+   text based blogging and note taking systems.  It's not always that the
+   result is *better*, I just enjoy the process of building it.  Of course
+   the, you do often end up with a system that you have full control over,
+   so that's good.
+ * To be it another way, I enjoy building more than using.

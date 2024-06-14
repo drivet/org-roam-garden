@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6a552645-22a2-41bf-93e5-d8b71a16a3e7
+:END:
+#+title: L'Utopia Session NEIPA
+
+[[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]
+
+ * [[id:1a4c0c68-73e8-4a6f-99fb-20a15e2e4b6e][Les Insulaires Microbrasserie]]
+ * Moderate alcohol (4.5%)
+ * Light bitterness, fruity, not overpowering
+ * Good but not great

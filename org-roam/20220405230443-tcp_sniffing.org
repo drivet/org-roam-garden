@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       68ff5201-a52b-4719-83bf-9882c4591408
+:END:
+#+title: TCP sniffing
+
+Sniffing HTTP traffic:
+
+#+begin_src 
+tcpdump -n -i eth0 -s 0 -w output.txt src or dst port 80
+#+end_src

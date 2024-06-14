@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       43207c75-f7c5-4627-951f-53453a3daf07
+:END:
+#+title: Pale ale
+
+A type of blond beer that tends to be quite bitter, but not quite as bitter
+as an IPA.

@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       1215c7e0-b649-4d24-bbeb-b608dbc111b1
+:END:
+#+title: IAM concepts
+
+In [[id:1c4f174b-9327-4a88-b896-741934a48210][GCP]] we manage authorization and authentication via the IAM system.  This
+should work similarly for most cloud providers.
+
+* Model
+
+GCP has resources, like buckets, Pubsub subscription topics, BigQuery, etc.
+You can do various things with these resources, i.e. you can read items off
+a bucket or put items in a bucket.
+
+Some people, applications, etc. may need to do some things and not others.
+So we can manage that with IAM.
+
+ * *Permission*.  This is a "thing you can do", like read a file on a
+   bucket, etc.  You generally don't deal with these directly.  Instead, you
+   group these into roles.
+ * *Role*.  This is a collection of "things you can do", i.e. permissions.
+   You could have a "Bucket RW" role that lets you read and write items to a
+   bucket, but also an admin role that gives you permission to
+   read/write/delete.
+ * *Principal* or *Members*.  These are like "people", but they can also be
+   applications or machines.  In the past, I used to think of these as
+   "users", but the concept is a bit broader than that and includes things
+   like apps, etc.  A 

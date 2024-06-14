@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       35EC8663-3548-4E1F-9A94-AE8FB8D7B5E7
+:END:
+#+title: Food and drink
+
+My food and drink entry point.
+
+ * [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]

@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       fb9f395b-f556-4c5b-9be3-1c1c8b3108f0
+:END:
+#+title: Gnus srchiving and drafts
+
+[[id:436197ee-3978-474a-aa6d-373d0cfd2d67][Gnus]]
+
+First - gnus-directory defaults to ~/News
+
+Drafts - See section 5.7.
+
+ * Special group nndraft will hold your drafts. One file per message.
+ * can't appear to change the backend for this.
+ * nndrafts-directory controls where this directory is located. Defaults to
+   gnus-directory/drafts (i.e. ~/News/drafts)
+ * Enter draft group and type D e to continue editing message.
+   
+gnus-directory
+
+Most Gnus storage file and directory variables will be initialized from this
+variable, which defaults to the SAVEDIR environment variable, or `~/News/'
+if that variable isn't set. Note that Gnus is mostly loaded when the
+`~/.gnus.el' file is read. This means that other directory variables that
+are initialized from this variable won't be set properly if you set this
+variable in ~/.gnus.el'. Set this variable in .emacs' instead.
+
+message-directory
+
+ - defaults to ~/Mail
+
+message-auto-save-directory
+
+ - defaults to ~/Mail/drafts/
+
+FACES: to list all faces use : M x list-faces-display

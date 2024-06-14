@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       1c4f174b-9327-4a88-b896-741934a48210
+:END:
+#+title: GCP
+

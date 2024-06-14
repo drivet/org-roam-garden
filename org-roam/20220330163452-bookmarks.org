@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       4626559d-5f1f-4c30-978b-5c11c72d395a
+:END:
+#+title: Bookmarks
+
+What I want from my bookmarks:
+
+- always available on every device
+- easy to follow the bookmark
+- easy to add a bookmark
+- easy to see what the bookmark is about at a glance
+- (maybe) easy to delete bookmark
+
+Things I don't really care about
+
+- sharing.  My bookmarks are pretty much for me.
+
+Availability and ease of adding could be done with just a text file on
+[[id:074766bc-7479-4cba-a01a-5e96aa3e22e9][Dropbox]].  I could literally just use org-mode to manage my bookmarks.
+
+But it would be bit hard to follow links on a phone though (but maybe look
+at [[http://www.orgzly.com/][orgzly]]).  A plain text file also makes seeing info about the bookmark
+difficult.
+
+So we have the web page (app) solution, which solves all of it, except the
+easy deletion since I'm dealing with a [[id:d71ffb6c-8147-4f97-8044-1e71f5819926][static site generator]].
+
+Bookmarks are a bit special in my case because I would often like to see a
+list of them, more often then other kinds of [[id:f9b01190-b396-4e6a-a912-83167d33968d][indieweb]] posts. So I need a way
+pick them out of my feed.  Options:
+
+- keep them in a separate folder.  This may actually make sense for bookmarks.
+- use [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][emacs]] or some utility tool to pick them out of my feed

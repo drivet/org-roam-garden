@@ -1,0 +1,93 @@
+:PROPERTIES:
+:ID:       6a5cf4da-86a9-45e7-89d9-2b3e511ec2fd
+:END:
+#+title: Different approaches to the CMS
+
+** Wikis versus Blogs
+
+Some people regard blogs and wikis as two different kinds of software.  They
+point to differences:
+
+ * Wikis tend to be used for collaboration, the idea being that anyone can
+   edit the articles once the are created.  Blogs tend to be managed by one
+   user.
+ * Wikis tend to use a markup language to write the articles.  Blogs tend to
+   have built in WYSIWYG editors.
+ * Wikis are often used for documentation or notes.  Blogs are often used as
+   personal soapboxes.
+
+Of course, none of this is cut and dry.  Although wikis tend to be used for
+collaboration, most of them have configurations that can restrict editing to
+just one user.  Blogs often come with plugins that let you write your
+article in wiki-esque markup syntax.  And wikis can be used as personal
+soapboxes; why not?
+
+The fact is, there are many similarities between wikis and blogs:
+
+ * They both manage "articles", namely pages of text on a certain topic.
+ * They both make it easy to create new articles in real time.
+ * They often provide a mechanism for users to comment on the articles.
+
+There's a term for something which combines aspects of wikis and blogs: a
+[[http://en.wikipedia.org/wiki/Bliki][bliki]]
+
+So, I consider wikis and blogs to be slightly different manifestations of a
+more general idea which for lack of a better name I'm going to call
+"Lightweight Article Management Software".
+
+*** Another difference
+
+One key difference is the focus of the two pieces of software.  Blogs tend
+to focus on polished articles published on particular dates.  Wikis tend to
+focus of a pages that can be edited at will.  Although you can certainly
+edit articles with blogs, it's not the main use case.  It's not uncommon for
+people to subscribe to an RSS feed of changes to a wiki page.  It would be
+uncommon to do that for a blog entry.
+
+** Blackbox Interfaces versus Whitebox Views
+
+In terms of implementation, I used to think that one of the main dividing
+lines was whether the blogging software used a database to store the
+articles or whether it used flat files.  A good example of the former would
+be [[http://www.wordpress.org][Wordpress]].  Good examples of the latter would be [[http://blosxom.sourceforge.net/][Blosxom]] or [[http://moinmo.in][MoinMoin]].
+Taking a closer look at MoinMoin, however, convinced me that the dividing
+line was in the wrong place.
+
+The ''real'' dividing line is between systems which implement Blackbox
+Interfaces versus system which implement Whitebox Views (I'm making these
+terms up).  A blackbox interface system in one where the articles are stored
+in some kind of nebulous "blackbox".  The system ships with some canonical
+interfaces (usually web based, but I suppose some probably come with command
+line tools as well) for pulling out and editing the articles in the storage
+area, but it's not as if you can just go in and start hacking away at the
+articles without these interfaces.  At least, not ''easily''.
+
+Wordpress (and essentially any system that that stores their articles in a
+database) is a blackbox interface system.  I think that MoinMoin, despite
+storing articles in flat files, is a blackbox system because it's not
+obvious, looking at the data tree, how the system actually reads the
+articles.  You're not encouraged to fire up a shell session and start
+manipulating away with normal Unix command line tools.
+
+(Note that I'm just starting to use MoinMoin so my opinion here may change.)
+
+Blosxom is different; it's a Whitebox View system.  This means that you
+''start'' with articles on the file system, and the program's job is to
+''interpret'' that article tree as a categorized tree of blog articles.
+Then it displays them, in reverse chronological order, using the file's
+timestamp as the date of creation.  The basic idea is to try as much as
+possible to reuse well known idioms in filesystem management and move these
+into the blogosphere.  You try as much as you can to implement features by
+re-using features of the filesystem (or other well-known pieces of
+software).
+
+This sort of system encourages you to tinker with the filesystem; indeed, by
+default, that's the only way to create or edit a new blog entry in blosxom.
+Of course, nothing prevents you from bolting on a web interface for editing
+and creation new blog entries, but that's not considered the ''canonical''
+method of managing your blog.
+
+The problem with blosxom, unfortunately, is that it's butt-ugly.  I'm not
+talking about the default HTML (though that's ugly too), but rather the
+whole architecture.  What blosxom does have is a good idea.  Combine that
+with a program that is actually ''nice to look at'' and you have a winner.

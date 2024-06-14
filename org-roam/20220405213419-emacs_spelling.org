@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       fad2836e-107c-47cd-8d67-9acddcf29cf8
+:END:
+#+title: Emacs spelling
+
+Two spellcheckers for Linux: ispell and it's GNU replacement, aspell.
+Aspell seems to be the better of the two.
+
+flyspell is a mode which higlights badly spelled words in the fly.  You can
+turn it on manually by doing a M-x flyspell-mode or you can put this in your
+.emacs file:
+
+#+begin_src 
+;; for all text modes
+;; auto-fill mode means that lines are broken automatically when they
+;; become too long.
+;; flyspell-mode highlights badly spelled words on the fly
+(defun my-text-mode-hook ()
+  (auto-fill-mode t)
+  (flyspell-mode t)
+)
+(add-hook 'text-mode-hook 'my-text-mode-hook)
+
+(defun my-message-mode-hook ()
+  (auto-fill-mode 'nil)
+  (flyspell-mode t)
+)
+(add-hook 'message-mode-hook 'my-message-mode-hook)
+
+;; try to speed flyspell up a bit
+(setq flyspell-issue-message-flag nil)
+(setq flyspell-issue-welcome-flag nil)
+#+end_src
+
+Run this:
+
+#+begin_src 
+M-x flyspell-buffer
+#+end_src
+
+To re-run flyspell on the whole buffer if the markings are out of date.
+
+The key combo: M-$ (ispell-word) will give suggestions for the misspelled
+word.

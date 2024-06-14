@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       0ebd90f7-9118-4c0d-b5df-6370affae2f0
+:END:
+#+title: Flask contexts and locals
+
+[[id:39ce030b-7dd0-4f63-abb2-9ef84fc3b131][Flask]]
+
+Flask uses thread locals for its web objects.  So, for example, things like
+the current app, the request, etc. are accessed via a global variable that
+automatically proxies them - you're always accessing *your* application, in
+*your* thread.
+
+The global variables (context locals) are:
+
+ * _request_ctx_stack
+ * _app_ctx_stack
+ * current_app
+ * request
+ * session
+ * g

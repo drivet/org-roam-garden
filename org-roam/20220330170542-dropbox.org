@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       074766bc-7479-4cba-a01a-5e96aa3e22e9
+:END:
+#+title: Dropbox
+
+A useful service to synchronize files across devices.
+
+Open source alternative would be [[https://www.cis.upenn.edu/~bcpierce/unison/][Unison]] which I've used in the past for
+exactly the purpose I use Dropbox

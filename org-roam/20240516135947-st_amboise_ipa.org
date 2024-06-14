@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3734347E-FD91-4591-9A3B-8145CC01C52E
+:END:
+#+title: St. Ambroise IPA
+
+A [[id:FFEAECBC-C202-47C0-BAD7-4BC34161095B][IPA]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:8B5A0754-B60D-4A07-A0DA-B0BFC9BE2EE6][St. Ambroise]].
+
+ * Alcohol: 6.2
+ * Bitter, but not much else. No citrus, or floral.
+ * 2 star(s)
+   

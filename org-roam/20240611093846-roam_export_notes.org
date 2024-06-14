@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       4AAC7C68-C423-4739-ABD9-269456B4257A
+:END:
+#+title: Roam export notes
+
+Note on trying to export my [[id:5942bb24-580d-49b6-a941-28c172b4d7b5][org-roam]] notes.  It's [[id:ffcf64d8-7e8e-45b9-93f4-6f4d178ff621][hard]]. 
+
+ * I use [[id:0F0DCEA3-43C5-4396-AA23-8039242035F5][eleventy]] with [[id:b9c7e6ff-d14e-4d2d-92bc-414bc2b1577d][markdown]], with YAML front matter for my blog though I
+   suppose I don't need to use that for the roam site.
+   
+ * There are a few ways to convert org to markdown, but none of them handle
+   the front matter correctly.
+   
+ * The one exception appears to be ox-hugo, which outputs the front matter I
+   want, but it's hugo specific.  In particular, the id based org links are
+   converted to relref shortcodes (a hugo thing).
+   
+ * However, it's pretty trivial to convert the relref instances to the right
+   format with regular expressions.  For example, sed will do it fairly
+   easily.
+
+ * I would like to use Makefile to pick only the files that need exporting.
+   The problem is that Makefile will run the export command in a new command
+   each time.  You can do this with [[id:51176056-5601-4D64-9362-10F499F46877][batch emacs]] but...
+   
+ * The problem is the actual org id link conversion for each file you want
+   to export.  It requires a hash of id to file, which would usually be in
+   memory, but won't be if you're running each export in a new process.
+   Hence all the files are scanned EVERY time.  Very slow.
+
+ * THEREFORE, we have to figure out which files need exporting as part of
+   one big batch export command.  We have to bake the incremental build
+   functionality into the function itself.

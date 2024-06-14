@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       93a73327-829e-4676-98f3-b86277ab5cb5
+:END:
+#+title: Role (IAM)
+
+A role is a collection of permissions that allow you to interact in some
+way with a cloud resource.
+
+A [[id:452805d5-6c0b-4cb1-a8b5-cb1955adc50c][CSP]] will often have a bunch of canned roles for you to use, but you can
+generally make your own.

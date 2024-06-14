@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       2111d294-7f6b-40a0-8863-77cc21fd445a
+:END:
+#+title: Open graph metadata versus IndieWeb microformats
+
+Open Graph (OG) metadata is exactly that - metadata.  It doesn't necessarily
+appear in the post itself, just in the meta tags.
+
+For example, the open graph image, used to display when you post on
+Facebook, etc, can be any image, even if your article itself has no images.
+
+IndieWeb metadata, on the other hand, is embedded in the post, which can be
+problem.  You're really just tagging existing data in your post, not adding
+metadata after the fact.  The "featured" image (an IndieWeb concept) is
+denoted as such via a CSS class and it should appear in your post, unless
+you hide it with more CSS, which can certainly be done but feels weird.
+This happens sometimes when you try to embed h-cards.  I've sometimes hidden
+the HTML.
+
+** The Blurb
+
+You can embed image and description data into the metadata of the post and
+arrange for it to appear as the OG or Twitter attributes.  This allows your
+post to unfurl cleanly.
+
+But syndication is a different problem.  This is a _copy_ - for some
+definition of "copy" - of your post.  In the case of a small note, this is
+easy to do; just copy over the contents.  But in the case of an article what
+do you use?
+
+You could re-use the description, but this is likely to already be seen in
+the URL post you're sharing; Twitter and Facebook do their own unfurling
+here which will reveal it in the shared post.
+
+So, ideally, you need another piece of content to act as the "contents" of
+the copy.  This is the "blurb" in my website.  You could also call it a
+"summary" or whatever.  The point is that it is likely to be different from
+the description.

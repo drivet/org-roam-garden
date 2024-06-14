@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       80C41986-50F4-4E03-AFEC-C6AE164EA98D
+:END:
+#+title: Home
+
+This the top jumping off point for my [[id:E9DDE472-8D71-4547-992C-56D16AE6A5E5][digital garden]].  In theory, at least,
+any note can be reached from here.
+
+ * [[id:35EC8663-3548-4E1F-9A94-AE8FB8D7B5E7][Food and drink]]
+ * [[id:CAA54188-C8EF-4204-AB47-90A27514E2E8][Personal Information Management]]
+

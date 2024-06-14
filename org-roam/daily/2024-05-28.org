@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       697E9106-D1E1-4673-81D1-446039715BF7
+:END:
+#+title: 2024-05-28
+
+ * There's always a little rush when I make a trade on TD or Wealthsimple.
+   It's gambling rush I suppose.  Need to avoid getting addicted.
+   
+ * Vanguard makes it easy to hold global bond ETFs because...they use
+   currency hedging?  From what I can tell this is a relatively new thing,
+   and historically people have just bought home base bond funds.

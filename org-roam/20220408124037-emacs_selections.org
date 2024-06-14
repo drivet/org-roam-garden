@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5dd779f8-3d7d-4175-900a-2bd175283b0d
+:END:
+#+title: Emacs selections
+
+Selections in [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] are interesting, because while you can use the mouse and
+drag a selection, you can do somewhat more targeted and sophisticated
+operations as well.
+
+It's a tension between very low cognitive load (point-click-drag), but lots
+of hand movements, and high cognitive load (selecting a specific semantic
+region, so you have to recognize it) and small hand movements which in
+theory should be quicker.
+
+So, you can select (and therefore cut or copy) a paragraph by
+ * Recognizing you're in a paragraph
+ * Using C-up or M-{ to  [[id:bfce90eb-7dee-43af-b09c-2f4062964a69][move to the start of the paragraph.]]
+ * C-SPC to set the mark
+ * C-down or M-} to move to the end of the paragraph
+
+I'm not convinced that the mouseless way is faster on a desktop, but it's
+worth it on a laptop since the mouse is difficult to use.

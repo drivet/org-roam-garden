@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       FA31BDBE-5F87-4DEE-ABE2-D8AFD52F7D03
+:END:
+#+title: Org Mode
+
+Org Mode is a number of things:
+
+ * it's a [[id:a2e09732-e1f9-4e01-a5fa-74092ae75cd5][text format]] for outlining and lists somewhat similar to markdown
+ * it's an [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] mode and suite of functions to manipulate and manage that
+   format
+
+At first blush it may seem that org mode is not [[id:a8414195-5b63-44f3-a8de-dbddb6d2f1f3][software agnostic]] since it's
+heavily associated with Emacs, but I think on further reflection it is
+because it's text based.  Emacs is just the most sophiticated software to
+manage it but it's still easy to read and manupulate without Emacs.
+
+For example, there exists a [[https://github.com/mooz/org-js/][parser written in Javascript]] for org mode files,
+and [[https://pandoc.org][pandoc]] can handle it too.

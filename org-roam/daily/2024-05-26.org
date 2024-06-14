@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       f370487f-a464-4d7f-bac6-024f3f3c65a3
+:END:
+#+title: 2024-05-26
+
+  * This is my first note

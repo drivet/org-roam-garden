@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       B29C00B9-D882-4B6F-9909-F8A394A9F573
+:END:
+#+title: Emacs full text search
+
+I'm writing this with an eye to doing full text search in [[id:5942bb24-580d-49b6-a941-28c172b4d7b5][org-roam]], but I
+suppose this is kinda generic as well.
+
+I use [[id:500B5CD1-8C3C-4251-8F44-0EFB22A439C1][ivy]] with org-roam since that's what [[id:f4553ccf-5624-492c-9a55-85962ab15f98][emacs prelude]] seems to have set up
+by default, and I find it less instrusive than helm.
+
+Most fast approaches to doing a full text search involve outsources to an
+external program.  The ones I've seen to far are ag and ripgrep.
+
+In terms of integration with ivy, we have counsel-ag and cousel-rg.  You
+need to install ag and ripgrep respetively for these to work.
+

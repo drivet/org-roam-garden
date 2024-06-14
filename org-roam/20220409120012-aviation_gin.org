@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       18d421f9-00e8-456a-882c-ded6d1c7117a
+:END:
+#+title: Aviation american gin
+
+[[id:5a6f3bc8-befd-4d0c-ba25-cc45e9ea11f2][Gin tasting]]
+
+ * Ryan Reynolds gin
+ * Slightly sweet, herbal, not too piny
+ * Burny
+ * Similar to [[id:866507e4-5532-47a5-87bb-751a0b216dab][Botanist scottish gin]]

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       0a25753c-3ef0-408d-a618-6229b54d5028
+:END:
+#+title: Brise de Lac Pilsner (Archibald)
+
+A [[id:87867d59-c2c7-481e-8589-e1408cdc7afc][pilsner]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:29c29abc-abe6-4051-81a3-fd68be7bc6b9][Archibald]] brewery.
+
+ * Alcohol: 4.8%
+ * Refreshing, not overly bitter
+ * 3 stars

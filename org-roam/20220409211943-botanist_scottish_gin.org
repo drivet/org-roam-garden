@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       866507e4-5532-47a5-87bb-751a0b216dab
+:END:
+#+title: Botanist scottish gin
+
+[[id:5a6f3bc8-befd-4d0c-ba25-cc45e9ea11f2][Gin tasting]]
+
+ * From Islay
+ * Not very sweet
+ * Very herbal, not too piny
+ * Somewhat burny
+ * Similar to [[id:18d421f9-00e8-456a-882c-ded6d1c7117a][Aviation american gin]]

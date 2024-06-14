@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       BB1B85AD-643C-4749-8865-2CE5E7B6D449
+:END:
+#+title: Gnus threading
+
+[[id:436197ee-3978-474a-aa6d-373d0cfd2d67][Gnus]]
+
+T T will toggle threading
+
+T H collapses threads. T S expands them. Looking at an article will expand
+the tree at that point.
+
+T h and T s will expand thread except with the current subthread.

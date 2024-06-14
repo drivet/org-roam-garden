@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       f4553ccf-5624-492c-9a55-85962ab15f98
+:END:
+#+title: Emacs Prelude
+
+Emacs Prelude is an [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] distribution that aims to make the out of the box
+Emacs experience a bit more pleasant.
+
+Compared to something like Spacemacs or Doom, it's a lot lighter and doesn't
+try to fundamentally change how Emacs works.

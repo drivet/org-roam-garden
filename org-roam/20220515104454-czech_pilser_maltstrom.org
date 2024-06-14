@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       70a5ed23-a02e-460d-88ac-94f1eb252940
+:END:
+#+title: Czech Pilser (Maltstrom)
+
+A [[id:87867d59-c2c7-481e-8589-e1408cdc7afc][pilsner]] I tasted from [[id:1879a7ea-e582-4d21-8b8b-4a28e20e233a][Maltstrom Brewery]]
+
+ * Alcohol: 5%
+ * Bitter, hoppy, Refreshing, but a bit strong
+ * 3 stars

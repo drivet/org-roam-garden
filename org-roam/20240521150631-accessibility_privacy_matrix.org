@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       3C4BBDE1-7463-4EFA-B2CE-9CEC98982E86
+:END:
+#+title: Accessibility Privacy Matrix
+
+A matrix of information accessibility (in terms of device sharing) and
+privacy (in terms of who can see the data).
+
+** Not accessible and private
+
+This means you're just working on one computer.  Any software will do here,
+though text file based software is better for portability.  You can use
+[[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] or [[id:D9D40756-298A-42D4-B548-2D57263688E9][Obsidian]] here.
+
+** Accessible and private
+
+You want to access your data on multiple devices, like a laptop and cell
+phone, but you don't want ther people to see it (for example, phone
+numbers).
+
+This does not have to be web based, but CAN be, if it's a private account on
+a web application like Todoist or Roam Research.
+
+But you can also use can use text files here, and something like [[id:074766bc-7479-4cba-a01a-5e96aa3e22e9][Dropbox]] or
+Syncthing to share the files between devices.
+
+Examples: my BBDB contact data, my TODO list, email.
+
+** Public
+
+Public, in this case, means anyone can see it, and this implies
+accessibility - public and inaccesibility isn't really a thing.  You want
+this if, for example, you want to give some of your data to your friends,
+like a recipe or a book review.
+
+My blog is definitly public - it's meant for public consumption.  That's the
+whole point.
+
+You would also use this category if your data is nominally private, but if
+you actually don't mind it being public.  This would describe my digital
+garden.  The notes are "private" in that they are specific to me, but it's
+not like I *mind* people reading them and in some cases I *want* people to
+(like my recipes).
+
+This can be just a website, even with data that is nominally "accessible and
+private".  Org-roam, for example, should have a way of publishing the notes
+to a website.

@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       0e21a159-3385-4a9c-9408-33c653527137
+:END:
+#+title: Putting something on the web makes it accessible and public
+
+"Putting something on the web", in this context, means putting it on a
+website or on a web application, though there are other ways to interpret
+this.
+
+The accessible part is the main reason to put it on the web.  By putting
+something on the web you make it available across different devices and
+computers.
+
+The public part is what you get by default.  It's accessible, and if you
+don't take any extra steps, anyone can read it.  If you don't want this, you
+can lock it down and you can still get the accessibility without the public
+part.  This would make it more of a web application.
+
+Sometimes you want something to be accessible and you _don't care_ if it's
+public, in which case the public aspect is just a side effect.  My [[id:4626559d-5f1f-4c30-978b-5c11c72d395a][bookmarks]]
+would fall into that category.
+
+** Other ways to be accessible
+
+You can make data accessible without putting it on a web page.  You can, for
+example, put it in a [[id:074766bc-7479-4cba-a01a-5e96aa3e22e9][Dropbox]] instance, and it would be accessible without
+being public.  This can be an alternative to making it a web application.

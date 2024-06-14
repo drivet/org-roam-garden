@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5b3d1e3c-b627-48a6-a7aa-cf02b7b9523d
+:END:
+#+title: Text based lists in Emacs
+
+* [[id:b9c7e6ff-d14e-4d2d-92bc-414bc2b1577d][Markdown]]
+ * Unordered use -, +, *, ordered use <number>.
+ * They do not have to be indented (they can be on the first column),
+   because headings are different characters (#)
+
+* [[id:FA31BDBE-5F87-4DEE-ABE2-D8AFD52F7D03][Org-Mode]]
+ * Unordered use -, +, *, ordered use <number>.
+ * They must be indented, since the same characters are use for headers
+
+* [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] Keys
+ * Nicely consistent for both modes
+ * M-Ret will create a new item in both cases (in org-mode this works for
+   headers too)
+ * Just enter will continue the current list item, properly indented
+ * C-j will exit the list

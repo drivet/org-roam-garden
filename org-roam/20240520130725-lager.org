@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       152fc423-6371-48f0-b5e6-01196da0f4e8
+:END:
+#+title: lager
+
+A type of blond beer, refreshing.

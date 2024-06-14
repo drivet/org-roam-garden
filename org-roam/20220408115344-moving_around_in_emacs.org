@@ -1,0 +1,70 @@
+:PROPERTIES:
+:ID:       bfce90eb-7dee-43af-b09c-2f4062964a69
+:END:
+#+title: Moving around in Emacs
+
+Normally I use the arrow keys to move around [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]], but people keep saying I
+should try and learn the non-arrow keys here, so I need this information to
+keep reminding myself.
+
+Org and Markdown mode seems to have similar keybindings which is good, but a
+lot of these are just fundamental text actions.
+
+ * C-n/p - forward/back one line
+ * C-f/b - forward/back one character
+ * M-f/b - forward/back one word
+ * C-down/up (often M-}/{ as well) - forward/back paragraphs, but this gets
+   overridden depending mode.
+
+* Lines
+
+ * C-a/e - beginning/end of line
+
+* Buffer
+
+ * C-< - beginning of buffer
+ * C-> - end of buffer
+
+* Org and Markdown
+
+ * C-c C-n/C-p - go to next/previous heading, regardless of level.
+   Basically, this will cycle through all the headers without regard to
+   level.
+ * C-c C-f/C-b - go to next heading at same level, and will stop when it
+   runs out, even if more is available in another paragraph somewhere.
+
+** Paragraph/Block movement in Markdown
+
+Normally paragraphs are clusters of text surrounded by at least two
+newlines.
+
+Markdown defines it's own "markdown-forward-paragraph" function that is
+bound to C-down and M-}:
+
+ * C-down/up, M-}/{ - move by paragraph
+
+and redefines a paragraph to be anything in a markdown document surrounded
+by "space":
+
+ * paragraphs
+ * headers
+ * list items
+
+This is a bit at odds with regular text mode, which doesn't recognize list
+items for example; if the list item has no blank lines around it, then it
+won't be seen as a paragraph in text mode but it will in markdown mode.
+
+Markdown lets you move by block as well, with "block", which lets you skip
+over whole lists.
+
+ * C-M-}\{ - move forward/back by a block, which will skip over whole lists
+
+** Paragraph/element movement in Org-mode
+
+ * M-}\{ - moves forward and back by element, at the same level if possible
+
+In org mode, an element is a heading/paragraph/list.  So if we're on a
+heading, we'll go to the next heading at the same level.
+   
+You can combine these keys with the [[id:d712d6e6-e4c8-47a5-afb4-098a95d7b80d][mark]], in order to [[id:5dd779f8-3d7d-4175-900a-2bd175283b0d][select]] pieces of your
+buffer.

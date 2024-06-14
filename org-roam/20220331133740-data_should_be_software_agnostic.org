@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       a8414195-5b63-44f3-a8de-dbddb6d2f1f3
+:END:
+#+title: Data should be software agnostic
+
+Data should be able to be used by a variety of different pieces of software.
+This is why we should avoid proprietary data formats and esoteric databases.

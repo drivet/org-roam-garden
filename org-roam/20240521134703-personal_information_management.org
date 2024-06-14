@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       CAA54188-C8EF-4204-AB47-90A27514E2E8
+:END:
+#+title: Personal Information Management
+
+Personal Information Management is the science and practice of creating and
+maintaining information that is personal to you.
+
+Some of it is private, like phone numbers and addresses, and some of it can
+be public, like a page of notes on SSL certificate basics.
+
+Even if it's public though, it's *personal*.  This is not a node about PIM,
+this is *Desmond's* node about PIM.
+
+ * I strive to use [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] for PIM, though in the past I used other software
+   like Todoist.
+ * I use [[id:FA31BDBE-5F87-4DEE-ABE2-D8AFD52F7D03][org mode]] for my TODO Items.
+ * At the moment I'm using [[id:9a70ede2-9aa5-4311-be79-f17c479a1bc9][BBDB]] for contacts, which makes it accessible
+   between computers, but not really my phone.
+ * Trying to use [[id:5942bb24-580d-49b6-a941-28c172b4d7b5][org-roam]] for my notes ([[id:E9DDE472-8D71-4547-992C-56D16AE6A5E5][digital garden]]), but open to other
+   suggestions, line [[id:64D75E7F-C01E-440B-AF52-11C4E2BF6E28][denote]].

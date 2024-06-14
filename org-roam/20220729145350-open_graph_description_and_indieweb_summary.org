@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       3E6F066C-2CBC-4811-94E4-9EA26331CC6E
+:END:
+#+title: Open Graph Description and IndieWeb Summary
+
+I used Bridgy to syndicate my content to Twitter.  It prefers the following
+bits of content, in order:
+
+ * summary
+ * content
+ * name
+
+You can also choose to include the link or not.  I include the link for
+articles, but not for notes.  This matters because when you include the
+link, the destination site will unfurl that link and use the metadata tags.
+   
+When I'm posting a note via Bridgy, I want the whole content to be shared.
+When posting an article, I want a "description" to be shared, and it
+shouldn't be an excerpt of the post because that will get displayed in the
+URL card.
+
+So, for a post, the summary should be a separate piece of content.  I _also_
+don't want the summary to actually show up on my post.  So I put the summary
+as a "display: none" div.
+
+When sharing my articles, I also want the summary to be the Open Graph
+description, so I put that in the og:description metadata.
+
+Notes don't really have explicit summaries, but I could probably put a
+synthetic one like "Note from <date>".  Or just don't put anything at all.  
