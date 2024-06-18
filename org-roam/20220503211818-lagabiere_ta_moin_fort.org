@@ -3,8 +3,8 @@
 :END:
 #+title: Lagabiere Ta Moin Fort
 
-[[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]
+A session [[id:67dce812-c557-42d4-944a-c2e035db0e3d][IPA]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:11c6ac15-957c-4a48-9fa7-6789f513e3b8][Lagabiere]]
 
- * [[id:11c6ac15-957c-4a48-9fa7-6789f513e3b8][Lagabiere]]
- * Session IPA, 3.8%
- * Fruity, citrusy, not too bitter
+ * Alcohol: 3.8%
+ * Fruity, citrusy, not too bitter, very freshing, one of my favorites
+ * 4 star(s)
