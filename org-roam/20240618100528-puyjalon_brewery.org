@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       3EBBFB96-3E42-4104-894A-D0D685F6493D
+:ROAM_REFS: https://www.puyjalon.com/
+:END:
+#+title: Puyjalon Brewery
+
+A [[id:BD759C00-5598-4433-8F98-54A5712D203B][brewery in Quebec]].

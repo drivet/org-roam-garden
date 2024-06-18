@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       44D50E8F-9D61-4BBA-93A2-DBED547DFA7D
+:END:
+#+title: Breweries
+
+I drink a fair amount of beer, so I suppose it makes sens to keep a record
+of different brweries who's products I've tried.
+
+As of 2024, I live in MOntreal, Quebec, and Quebec has a big beer culture,
+so a lot of what I've tried is "local" in the sense that it's from Quebec.
+Still, I 've tried others too.
+
+* Quebec breweries
+
+I have a lot here, I have a [[id:BD759C00-5598-4433-8F98-54A5712D203B][whole other node]] for that.
+
+* Canadian breweries
+
+ * [[id:211d872b-617a-42a1-a0c8-e3d9133a711d][Mill St Brewery]]
+ * [[id:6560d13b-698d-42d0-a2cf-296d58448509][2 Crows Brewery]]
+
+* International breweries
+
+ * [[id:bb491787-ab4d-4558-a387-9c2c7f49de81][Pakt Beer Co]]
+ * [[id:ad44d12d-e569-418c-aa44-d75e3dda3bd1][Innis and Gunn]]
