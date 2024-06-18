@@ -4,3 +4,6 @@
 #+title: batch emacs
 
 Emacs can run in batch mode.
+
+ * You won't get your whole enviromnet here, so you have to require
+   everything you need in the script.
