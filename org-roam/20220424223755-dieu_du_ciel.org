@@ -3,4 +3,4 @@
 :END:
 #+title: Dieu du Ciel
 
-Brewery in Quebec, operates a bar in Le Plateau area, Montreal.
+[[id:BD759C00-5598-4433-8F98-54A5712D203B][Brewery in Quebec]], operates a bar in Le Plateau area, Montreal.
