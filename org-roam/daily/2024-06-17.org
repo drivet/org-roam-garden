@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       39213E5E-986E-4927-B1D9-0308BABB1616
 :END:
-#+title: 2024-06-17
+#+title: "2024-06-17"
 
  * I wonder if I'm geeky enough.  Or maybe if I'm too passive.
  * Do I want to matter?  Or am I just afraid of trying to matter, for fear

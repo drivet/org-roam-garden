@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       23A96D3E-B236-467C-87B6-0328862271F4
 :END:
-#+title: 2024-06-03
+#+title: "2024-06-03"
 
  * I like the Indieweb, not only because I own my own data but because I
    also am not locked into an application
