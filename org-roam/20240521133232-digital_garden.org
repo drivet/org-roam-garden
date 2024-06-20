@@ -27,8 +27,8 @@ using a CM system like github to trigger publication.
 
 ** Motivation
 
-I reaad a fair bit, but I forget a lot of what I read.  I learn a lot in my
-day ato day life, at my job, etc. but I have a tendency to forget what I
+I read a fair bit, but I forget a lot of what I read.  I learn a lot in my
+day to day life, at my job, etc. but I have a tendency to forget what I
 learn.  One wekness I have is that my memory isn't very good, especially
 when it's adhoc knoweldge.
 
