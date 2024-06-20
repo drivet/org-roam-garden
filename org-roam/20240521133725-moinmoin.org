@@ -3,4 +3,8 @@
 :END:
 #+title: MoinMoin
 
-Wiki software I've used in the past.  Kind of ugly.
+Wiki software I've used in the past.  UI is kinda ugly.
+
+They have a versioning scheme that seems to want to be git.  I do't like it.
+You can't really edit the text.  You might as well use a database if that's
+what you're going to do.
