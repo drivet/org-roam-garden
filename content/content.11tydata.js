@@ -3,14 +3,14 @@ const sqlite = require('better-sqlite3');
 const path = require('path');
 
 function getBacklinks(filepath) {
-    const db = new sqlite('./org-roam/.org-roam.db');
     const absfile = path.resolve(`./org-roam/${filepath}.org`);
-    const rows = db.prepare(`SELECT file, title FROM nodes WHERE id IN (SELECT DISTINCT l.source AS source FROM nodes n, links l WHERE n.file = '"${absfile}"' AND n.id = l.dest)`).all();
     const absroot = path.resolve('.');
+    const db = new sqlite('./org-roam/.org-roam.db');
+    const rows = db.prepare(`SELECT file, title FROM nodes WHERE id IN (SELECT DISTINCT l.source AS source FROM nodes n, links l WHERE n.file = '"${absfile}"' AND n.id = l.dest)`).all();
     const backlinks = rows.map(r => {
         const title = r.title.slice(1, -1);
         const file = r.file.slice(1,-5).replace(`${absroot}/org-roam/`, '');
-        return { file: file, title: title, preview: 'stuff' };
+        return { url: file, title: title };
     });
     db.close();
     return backlinks || [];
@@ -26,7 +26,8 @@ module.exports = {
         permalink: (data) => `${data.page.filePathStem.replace('/content/', '')}.html`,
         backlinks: (data) => {
             const currentFileSlug = data.page.filePathStem.replace('/content/', '');
-            return getBacklinks(currentFileSlug);
+            const backlinks = getBacklinks(currentFileSlug);
+            return backlinks;
         }
     }
 }

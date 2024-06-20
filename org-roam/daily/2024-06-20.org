@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       B512068F-5A16-400E-9AEF-7A601010DEA9
+:END:
+#+title: "2024-06-20"
+
+ * Idea: a runnable source block that finds the best rated beers on my beer
+   tasting page?
+ * Idea: a runnable source block that shows a map with all the breweries
+   I've tried?

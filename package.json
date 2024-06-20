@@ -4,7 +4,8 @@
   "description": "My mind garden in eleventy.",
   "scripts": {
     "prepare": "emacs -batch -l ./export.el",
-    "start": "npm run prepare && eleventy --serve --quiet",
+    "start": "npm run prepare && npm run dev",
+    "dev": "eleventy --serve --quiet",
     "compile": "npm run prepare && eleventy",
     "clean": "rm content/*.md; rm -rf content/daily"
   },
