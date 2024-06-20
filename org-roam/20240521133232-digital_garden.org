@@ -3,19 +3,19 @@
 :END:
 #+title: Digital Garden
 
-Digital gardens are kind of in these days.  They are to be distinguished
-from a blog (i.e. the stream) in that the stuff you write about exist
-outside of time. In other words their time stamp isn't hugely important.
+Digital gardens are kind of in these days (2024).  They are to be
+distinguished from a blog (i.e. the stream) in that the stuff you write
+about exist outside of time. In other words their time stamp isn't hugely
+important.
 
-The constracting metaphor that is often used here is between a garden and a
+The constrasting metaphor that is often used here is between a garden and a
 stream.  The stream is like a blog, where things move in time.  The gadren
-is a series of plants that need tending.
-
-I wrote a [[https://desmondrivet.com/2020/05/01/wikis-and-blogs.html][blog entry]] about this.
+is a series of plants that need tending.  I wrote a [[https://desmondrivet.com/2020/05/01/wikis-and-blogs.html][blog entry]] about this.
 
 In the past I maintained a wiki based on [[id:0EC8EBA9-030B-4337-8019-3525049D6F79][MoinMoin]], which sort of filled the
 niche of what I'm trying to accomplish here.  It was bascially a personal
-knowledge base.
+knowledge base.  It got hacked and I eventually stopped using it, partially
+because I wanted a purely text based one that I could edit with [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]].
 
 I've recently started experimenting with [[id:5942bb24-580d-49b6-a941-28c172b4d7b5][org-roam]] for this kind of stuff,
 even if I'm not totally sold on the finicky zettelkaten aspect of it.
@@ -25,3 +25,13 @@ even if I'm not totally sold on the finicky zettelkaten aspect of it.
 I like the idea of maintaining this wiki/garden as I do my blog - in [[id:a2e09732-e1f9-4e01-a5fa-74092ae75cd5][text]],
 using a CM system like github to trigger publication.
 
+** Motivation
+
+I reaad a fair bit, but I forget a lot of what I read.  I learn a lot in my
+day ato day life, at my job, etc. but I have a tendency to forget what I
+learn.  One wekness I have is that my memory isn't very good, especially
+when it's adhoc knoweldge.
+
+My hope is that a digital gaarden can help me in this regard.  Writing out a
+literature or permanent note for each book I read might help me rememeber
+what I got out of it.
