@@ -2,15 +2,24 @@
 :ID:       aaaefce4-768c-4609-ade9-4c22e093e7aa
 :END:
 #+title: Email
-#+hugo_front_matter_format: yaml
 
 Still useful even if it's old school.
 
 Web based:
  * Gmail
 
-Text base:
+Text based:
  * Mutt
    
 [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] based:
  * [[id:436197ee-3978-474a-aa6d-373d0cfd2d67][Gnus]]
+
+   
+** The decline of email
+
+Email isn't used as much nowadays (2024) given that most people will
+communicate via chat applications (WhatsApp, Signal) or social networking
+apps (Twitter).  Or via chat apps from social networks (Facebook Messanger).
+Or even simple cell phone texting.
+
+Still, email is good for people who don't have social media.  
