@@ -1,6 +1,20 @@
 const {titleCase} = require("title-case");
+const sqlite = require('better-sqlite3');
+const path = require('path');
 
-const sql = "select distinct l.source from nodes n, links l where n.file = 'filename' and n.id = l.dest";
+function getBacklinks(filepath) {
+    const db = new sqlite('./org-roam/.org-roam.db');
+    const absfile = path.resolve(`./org-roam/${filepath}.org`);
+    const rows = db.prepare(`SELECT file, title FROM nodes WHERE id IN (SELECT DISTINCT l.source AS source FROM nodes n, links l WHERE n.file = '"${absfile}"' AND n.id = l.dest)`).all();
+    const absroot = path.resolve('.');
+    const backlinks = rows.map(r => {
+        const title = r.title.slice(1, -1);
+        const file = r.file.slice(1,-5).replace(`${absroot}/org-roam/`, '');
+        return { file: file, title: title, preview: 'stuff' };
+    });
+    db.close();
+    return backlinks || [];
+}
 
 module.exports = {
     layout: "note.html",
@@ -11,10 +25,8 @@ module.exports = {
         },
         permalink: (data) => `${data.page.filePathStem.replace('/content/', '')}.html`,
         backlinks: (data) => {
-            const notes = data.collections.notes;
             const currentFileSlug = data.page.filePathStem.replace('/content/', '');
-            let backlinks = [];
-            return backlinks;
+            return getBacklinks(currentFileSlug);
         }
     }
 }
