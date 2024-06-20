@@ -1,5 +1,7 @@
 module.exports = function(eleventyConfig) {
-    
+    eleventyConfig.setBrowserSyncConfig(
+        require('./configs/browsersync.config')('_site')
+    );
     const markdownIt = require('markdown-it');
     const markdownItOptions = {
         html: true,

@@ -3,4 +3,8 @@
 :END:
 #+title: Notes
 
-This is my jumping off point to my notes.
+This is my jumping off point to my notes.  I have a number of "islands of
+knowledge" here.
+
+ * I'm an [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] user, and I've accumulated a number of nodes on that subject
+ * I'm attempting to maintain a [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][beer tasting]] page.
