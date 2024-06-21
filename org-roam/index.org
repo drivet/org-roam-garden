@@ -15,7 +15,8 @@ in mind.  If you're interested in more public content, or learning more
 [[https://desmondrivet.com/about][about me]], you may be more interested in my [[https://desmondrivet.com][website]], and my [[https://desmondrivet.com/posts/lifestream/][posts]] in
 particular.  
 
-I have a number of "islands of knowledge":
+I have a number of jumping off points::
 
  * I'm an [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] user, and I've accumulated a number of nodes on that subject
- * I'm attempting to maintain a [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][beer tasting]] page.
+ * I have an interest in [[id:CAA54188-C8EF-4204-AB47-90A27514E2E8][Personal Information Management]]
+ * I've staretd a [[id:35EC8663-3548-4E1F-9A94-AE8FB8D7B5E7][food and drink]] page.
