@@ -1,10 +1,21 @@
 :PROPERTIES:
 :ID:       371933f3-c469-4deb-adae-c6e002ebf14d
 :END:
-#+title: Notes
+#+title: Desmond's Digital Garden
 
-This is my jumping off point to my notes.  I have a number of "islands of
-knowledge" here.
+Welcome to my attempt at a [[https://maggieappleton.com/garden-history][digital garden]], a repository for notes, beer
+reviews, recipes, etc.  Think of it as a cross between a digital scrapbook
+and a personal wiki.
+
+[[https://maggieappleton.com/][Maggie Appleton]] probably has one of the nicest digital gardens I've seen.
+Well worth exploring.
+
+Though you are, of course, welcome to explore, I wrote them with only myself
+in mind.  If you're interested in more public content, or learning more
+[[https://desmondrivet.com/about][about me]], you may be more interested in my [[https://desmondrivet.com][website]], and my [[https://desmondrivet.com/posts/lifestream/][posts]] in
+particular.  
+
+I have a number of "islands of knowledge":
 
  * I'm an [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] user, and I've accumulated a number of nodes on that subject
  * I'm attempting to maintain a [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][beer tasting]] page.
