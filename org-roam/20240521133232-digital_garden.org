@@ -3,14 +3,19 @@
 :END:
 #+title: Digital Garden
 
-Digital gardens are kind of in these days (2024).  They are to be
-distinguished from a blog (i.e. the stream) in that the stuff you write
-about exist outside of time. In other words their time stamp isn't hugely
-important.
+Welcome to my attempt at a [[https://maggieappleton.com/garden-history][digital garden]], a repository for notes, reviews,
+recipes and whatever else strikes my fancy.  Think of it as a cross between
+a digital scrapbook and a personal wiki.  The term "garden" is supposed to
+be evocative of an actual, physical garden, with the attendant growing and
+watering and weeding that comes with it.  [[https://maggieappleton.com][Maggie Appleton]] wrote a really
+good [[https://maggieappleton.com/garden-history][article]] about it.
 
-The constrasting metaphor that is often used here is between a garden and a
-stream.  The stream is like a blog, where things move in time.  The gadren
-is a series of plants that need tending.  I wrote a [[https://desmondrivet.com/2020/05/01/wikis-and-blogs.html][blog entry]] about this.
+The garden metaphor is often contrasted with the stream metaphor, used to
+describe more traditional blogs which house timestamped, serialized content.
+I have [[https://desmondrivet.com/posts/lifestream][one of those]], too (housed on a [[https://desmondrivet.com][website]] where you can find out more
+[[https://desmondrivet.com/about][about me]] if you wish).  More information about the distinction between these
+different kinds of websites can be found in the [[https://desmondrivet.com/2020/05/01/wikis-and-blogs][article]] I wrote on the
+subject.
 
 In the past I maintained a wiki based on [[id:0EC8EBA9-030B-4337-8019-3525049D6F79][MoinMoin]], which sort of filled the
 niche of what I'm trying to accomplish here.  It was bascially a personal
@@ -29,9 +34,9 @@ using a CM system like github to trigger publication.
 
 I read a fair bit, but I forget a lot of what I read.  I learn a lot in my
 day to day life, at my job, etc. but I have a tendency to forget what I
-learn.  One wekness I have is that my memory isn't very good, especially
-when it's adhoc knoweldge.
+learn.  One weakness I have is that my memory isn't very good, especially
+when it's adhoc knowledge.
 
-My hope is that a digital gaarden can help me in this regard.  Writing out a
+My hope is that a digital garden can help me in this regard.  Writing out a
 literature or permanent note for each book I read might help me rememeber
 what I got out of it.

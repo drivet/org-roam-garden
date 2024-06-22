@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "description": "My mind garden in eleventy.",
   "scripts": {
-    "prepare": "emacs -batch -l ./export.el",
-    "start": "npm run prepare && npm run dev",
-    "dev": "eleventy --serve --quiet",
-    "compile": "npm run prepare && eleventy",
-    "clean": "rm content/*.md; rm -rf content/daily"
+      "prepare": "emacs -batch -l ./export.el",
+      "start": "npm run prepare && npm run dev",
+      "dev": "eleventy --serve --quiet",
+      "prepbuild": "npm run prepare && npm run build",
+      "build": "eleventy",
+      "clean": "rm content/*.md; rm -rf content/daily"
   },
   "repository": {
     "type": "git",

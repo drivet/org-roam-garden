@@ -1,22 +1,15 @@
 :PROPERTIES:
 :ID:       371933f3-c469-4deb-adae-c6e002ebf14d
 :END:
-#+title: Desmond's Digital Garden
+#+title: The Garden
 
-Welcome to my attempt at a [[https://maggieappleton.com/garden-history][digital garden]], a repository for notes, beer
-reviews, recipes, etc.  Think of it as a cross between a digital scrapbook
-and a personal wiki.
+Welcome to my [[id:E9DDE472-8D71-4547-992C-56D16AE6A5E5][digital garden]], a repository for notes, reviews, recipes and
+whatever else strikes my fancy.  Though you are, of course, welcome to
+explore (this site wouldn't be public otherwise), I wrote these notes with
+only myself in mind, so you may not get much use out of them.
 
-[[https://maggieappleton.com/][Maggie Appleton]] probably has one of the nicest digital gardens I've seen.
-Well worth exploring.
+I have a number of jumping off points:
 
-Though you are, of course, welcome to explore, I wrote them with only myself
-in mind.  If you're interested in more public content, or learning more
-[[https://desmondrivet.com/about][about me]], you may be more interested in my [[https://desmondrivet.com][website]], and my [[https://desmondrivet.com/posts/lifestream/][posts]] in
-particular.  
-
-I have a number of jumping off points::
-
- * I'm an [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] user, and I've accumulated a number of nodes on that subject
- * I have an interest in [[id:CAA54188-C8EF-4204-AB47-90A27514E2E8][Personal Information Management]]
- * I've staretd a [[id:35EC8663-3548-4E1F-9A94-AE8FB8D7B5E7][food and drink]] page.
+ * I'm an [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] user, and I've accumulated a number of notes on that subject
+ * I have an interest in [[id:CAA54188-C8EF-4204-AB47-90A27514E2E8][personal information management (pim)]]
+ * I like cooking and drinking, so I have a [[id:35EC8663-3548-4E1F-9A94-AE8FB8D7B5E7][food and drink]] page.
