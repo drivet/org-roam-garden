@@ -7,7 +7,7 @@
 
 (setq make-backup-files 'nil)
 (setq org-roam-directory (file-truename "~/org-roam-11ty/org-roam/"))
-(setq org-roam-database-connector 'sqlite3)
+(setq org-roam-database-connector 'sqlite)
 (setq org-roam-db-location (concat org-roam-directory ".org-roam.db"))
 
 (add-to-list 'safe-local-variable-values '(org-hugo-section . "daily"))
