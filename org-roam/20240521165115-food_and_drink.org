@@ -6,3 +6,4 @@
 My food and drink entry point.
 
  * [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]
+ * [[id:fea287bb-8e57-4669-be66-a1844f7cf70d][Whisky tasting]]
