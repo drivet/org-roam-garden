@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       b5a77bdc-dd0c-49b5-b9ba-dc018f17f190
+:ROAM_REFS: https://griendel.com/
+:END:
+#+title: Griendel
+
+A Quebec brewery
