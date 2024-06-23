@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       c1695786-a029-432d-970f-5521af0cceaf
+:END:
+#+title: Cloud authentication and authorization
+
+In [[id:1c4f174b-9327-4a88-b896-741934a48210][GCP]] we manage authorization and authentication via the (Identity Access
+and Management) IAM system.  This should work similarly for most cloud
+providers.
+
+* Model
+
+GCP has resources, like buckets, Pubsub subscription topics, BigQuery, etc.
+You can do various things with these resources, i.e. you can read items off
+a bucket or put items in a bucket.
+
+Some people, applications, etc. may need to do some things and not others.
+So we can manage that with IAM.
+
+ * *Permission*.  This is a "thing you can do", like read a file on a
+   bucket, etc.  You generally don't deal with these directly.  Instead, you
+   group these into roles.
+ * *Role*.  This is a collection of "things you can do" to or with a cloud
+   resource, i.e. permissions.  You could have a "Bucket RW" role that lets
+   you read and write items to a bucket, but also an admin role that gives
+   you permission to read/write/delete.  A [[id:452805d5-6c0b-4cb1-a8b5-cb1955adc50c][CSP]] will often have a bunch of
+   canned roles for you to use, but you can generally make your own.
+ * *Principal* or *Members* or *Accounts*.  These are like "people", but
+   they can also be applications or machines.  In the past, I used to think
+   of these as "users", but the concept is a bit broader than that and
+   includes things like apps, etc.
+
+* What is a Service Account?
+
+A *Service account* is a special type of [[id:51ee32c1-582c-45d2-8f3a-95b3996f6a12][principal]] (in the past we called
+these "users") that we use to access resources on behalf of a application.
+In the past, I used to call these "application users", but "service account"
+appears to be the new way of referring to this concept.
+
+When you want an application to interact with a bucket, for example, you
+generally have to:
+
+ * create a service account for that application.
+ * add [[id:93a73327-829e-4676-98f3-b86277ab5cb5][roles]] to that service account (not permissions).  Roles carry the
+   permission with them.

@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       51ee32c1-582c-45d2-8f3a-95b3996f6a12
-:END:
-#+title: Principal (IAM)
-
-Also called a member, or an account.  We used to think of these as "users".

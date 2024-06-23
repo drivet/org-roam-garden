@@ -3,7 +3,7 @@
 :END:
 #+title: Christianity and the Bible
 
-The Bible says a lot of things, and CHristians don't follow much of it (if
+The Bible says a lot of things, and Christians don't follow much of it (if
 they did, they'd go to jail).  A lot of Christianity is base on cherry
 picking bits from the Bible.
 
