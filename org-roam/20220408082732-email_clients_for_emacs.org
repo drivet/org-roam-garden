@@ -7,3 +7,6 @@
 
  * [[id:436197ee-3978-474a-aa6d-373d0cfd2d67][Gnus]]
  *[[id:45cb08e1-ef2b-4d02-beab-fb27dec238ab][ Mu4e]]
+
+You might think that email has little to do with text editiing but that's
+wrong.  Reading and writing email is very much a text base activity.

@@ -11,7 +11,7 @@ Emacs is less of a text editor and more of a text editing platform.  You
 can:
 
  * Use as a kind of IDE
- * Check your [[id:aaaefce4-768c-4609-ade9-4c22e093e7aa][email]]
+ * Check your [[id:33af9cb5-9bf4-42ab-a140-cbe4b1078525][email]]
  * [[id:FA31BDBE-5F87-4DEE-ABE2-D8AFD52F7D03][Organize TODO items]]
 
 * Why use it?
