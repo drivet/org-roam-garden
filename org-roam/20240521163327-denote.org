@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       64D75E7F-C01E-440B-AF52-11C4E2BF6E28
+:ROAM_REFS: https://protesilaos.com/emacs/denote
 :END:
 #+title: Denote
 
