@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dbab9b3a-3434-4500-a992-2a32b6a33d24
+:END:
+#+title: Mill Street Organic Lager
+
+A [[id:152fc423-6371-48f0-b5e6-01196da0f4e8][lager]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:211d872b-617a-42a1-a0c8-e3d9133a711d][Mill St Brewery]].
+
+ * Alcohol: 4.2%
+ * Mild, kinda bland, but still refreshing.
+ * 2 star(s)
+
