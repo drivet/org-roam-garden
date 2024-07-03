@@ -3,7 +3,7 @@
 :END:
 #+title: Milford NZ Pilsner (Gaspard)
 
-A [[id:87867d59-c2c7-481e-8589-e1408cdc7afc][pilsner]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:b036bb00-3136-4cdf-8508-5645eb9517fe][Gaspard brewery]].
+A pilsner I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:b036bb00-3136-4cdf-8508-5645eb9517fe][Gaspard brewery]].
 
  * Alcohol: 5%
  * Lightly bitter, citrusy, refreshing, delicious

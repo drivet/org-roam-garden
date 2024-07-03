@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       87867d59-c2c7-481e-8589-e1408cdc7afc
-:END:
-#+title: Pilsner (beer)
-
