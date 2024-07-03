@@ -3,7 +3,7 @@
 :END:
 #+title: Lager allermande 4 origine
 
-A [[id:152fc423-6371-48f0-b5e6-01196da0f4e8][lager]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tasted]] from [[id:00135666-90b0-4535-b04a-ca730269cc46][4 Origines]].
+A lager I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tasted]] from [[id:00135666-90b0-4535-b04a-ca730269cc46][4 Origines]].
 
  * Alcohol: 5.2%
  * Mild, not very bitter, light tasting, refreshing.

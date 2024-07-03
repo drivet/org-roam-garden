@@ -7,3 +7,22 @@ My beer tasting page, where I collect information about various beers I've
 tried.
 
 My ratings system is my [[id:92A00B55-3CAE-4E37-8971-DA1A2184A54D][standard]] 4 star version.
+
+There are dozens and dozens of different styles of beer but I find that the
+classification scheme isn't very useful to me since I tend to drink only a
+few different types.  I tend to avoid stouts and sours, for example.
+
+** Lagers, Pilsners, etc.
+
+These are supposed to be light tasting, blonde beers.  The hoppy flavour is
+meant to be fairly muted.
+
+Best rated
+ * [[id:e0d845c0-45fd-431d-b7ea-98ee47fbe608][Wunderbar (Vagabond)]]
+ * [[id:90dc0a94-af98-4ba0-af96-c1fad18a7329][Milford NZ Pilsner (Gaspard)]]
+ * [[id:0a25753c-3ef0-408d-a618-6229b54d5028][Brise de Lac Pilsner (Archibald)]]
+ * [[id:439ee847-fdd9-456e-a810-aacbb9e608f6][Farnham Lager]]
+ * [[id:bfec5dea-ed45-45b6-b2d4-69a27d858204][LTM Pilser Blond Lager]]
+ * [[id:223e3c08-06d4-4d92-858d-5f849ae23e4a][Lager allermande 4 origine]]
+ * [[id:70a5ed23-a02e-460d-88ac-94f1eb252940][Czech Pilser (Maltstrom)]]
+ * [[id:645bbaea-a7ab-4cfa-837b-274d284bdec3][Innis and Gunn Lager]]

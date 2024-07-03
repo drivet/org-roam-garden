@@ -3,7 +3,7 @@
 :END:
 #+title: Czech Pilser (Maltstrom)
 
-A [[id:87867d59-c2c7-481e-8589-e1408cdc7afc][pilsner]] I tasted from [[id:1879a7ea-e582-4d21-8b8b-4a28e20e233a][Maltstrom Brewery]]
+A [[id:87867d59-c2c7-481e-8589-e1408cdc7afc][pilsner]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tasted]] from [[id:1879a7ea-e582-4d21-8b8b-4a28e20e233a][Maltstrom Brewery]]
 
  * Alcohol: 5%
  * Bitter, hoppy, Refreshing, but a bit strong

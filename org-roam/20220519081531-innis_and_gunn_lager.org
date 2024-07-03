@@ -3,10 +3,9 @@
 :END:
 #+title: Innis and Gunn Lager
 
-A lager I tasted from Innis and Gunn
-
- * [[id:ad44d12d-e569-418c-aa44-d75e3dda3bd1][Innis and Gunn]]
- * Lager beer, moderate alcohol (4.6%)
- * Flavorful, not too bitter, but hard to describe what the flavor is
-   exactly.
- * Refreshing, would drink again
+A lager I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tasted]] from [[id:ad44d12d-e569-418c-aa44-d75e3dda3bd1][Innis and Gunn
+]]
+ * Alcohol (4.6%)
+ * Flavorful, refreshing, not too bitter, but hard to describe what the
+   flavor is exactly.
+ * 3 stars
