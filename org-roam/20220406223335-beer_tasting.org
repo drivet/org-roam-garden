@@ -38,7 +38,7 @@ meant to be fairly muted.
  * [[id:31a2145e-e6c8-47aa-ab7a-b181c9c3c012][Pakt beer India Session Lager]]
  * [[id:82927422-e496-4bdb-ae04-1a490c096aa5][Refresh Lager (2 Crows)]]
    
-** Pale ales, IPAs, English Bitters, Kolsch, etc.
+** Pale ales, Blond ales, English Bitters, Kolsch, etc.
 
 I'm including blond ales, IPAs, and American Pale Ales in this category.
 These tend to be golden or light brown in colour in colour.  They also tend
@@ -49,22 +49,33 @@ I'm also including Kolsch in this category because it is technically an ale,
 even if it has some characteristics of a lager.
 
 *** Best rated
-
  * [[id:24272f97-c23b-4aaf-92f2-513f1743e731][Voyageur des Brume (Dieu du Ciel)]]
  * [[id:f481b6b0-c5cf-48d3-9a28-de9219bedd15][Vanlife Pale Ale D'Apres Route (Vagabond)]]
  * [[id:ab622470-e599-4b7c-8fc3-a647cf9f4c72][Sentinelle Beer (Dieu du Ciel)]]
- * [[id:db157416-7a8e-4305-b6fb-113fc4aa781d][Lagabiere Ta Moin Fort]]
  * [[id:CC2E81BE-DC8B-4E1F-AB30-03D88395D625][Bitter (Alchimiste)]]
- * [[id:9e9239fa-7a05-42bc-a314-b16795d42c2a][Bubble Stash IPA (Hop Valley Brewing)]]
  * [[id:52e4db22-6a6d-4028-a396-9caa7aebce4e][Griffintown blonde ale]]
  * [[id:05bf5fdd-59e5-4545-b24d-4173da3cc8ca][Kolsch du Clocher (Griendel)]]
  * [[id:1a1efc9a-40ae-474d-b6b0-af283c5a5fd1][L'Apothicaire Pale Ale Belge]]
  * [[id:c9962c74-d505-4f2c-ae24-e07e606a02d2][La Ferme Blonde Miel]]
+ * [[id:3038d8eb-5745-41cd-86d8-d529ae41044c][Le Castor Ukraine Pale]]
+ * [[id:8eb7612d-2976-4805-a843-4c8dcfd2defe][Menaud Anglaise]]
+
+*** Worst rated
+ * [[id:5656784f-5dda-410c-9b64-532f6249c88f][LTM Pale Ale Americaine]]
+ * [[id:5a94163e-b6a2-4cbb-9395-3383decfecd2][Le Nain De Jardin]]
+
+** IPAs, APAs, etc.
+
+These tend to be hoppy and bitter.  Sometimes citrusy.  It's owrth putting
+this in its own category since it's a very distinct flavour even though they
+are still "pale ales".
+
+*** Best rated
+ * [[id:db157416-7a8e-4305-b6fb-113fc4aa781d][Lagabiere Ta Moin Fort]]
+ * [[id:9e9239fa-7a05-42bc-a314-b16795d42c2a][Bubble Stash IPA (Hop Valley Brewing)]]
  * [[id:6a552645-22a2-41bf-93e5-d8b71a16a3e7][L'Utopia Session NEIPA]]
  * [[id:25e08a98-e195-49eb-b581-39331db77b22][La P'Tite Vite (Nano IPA)]]
  * [[id:b511589e-a36c-40b9-87e4-0dda8d94541a][Le Castor Talus]]
- * [[id:3038d8eb-5745-41cd-86d8-d529ae41044c][Le Castor Ukraine Pale]]
- * [[id:8eb7612d-2976-4805-a843-4c8dcfd2defe][Menaud Anglaise]]
  * [[id:c24136f4-3f2f-4130-99a6-26bcf6bdd213][Nuit Blanche White IPA (Archibald)]]
 
 *** Worst rated
@@ -72,8 +83,6 @@ even if it has some characteristics of a lager.
  * [[id:1599ac20-7338-4b0a-a2df-93eb7d37b54a][Champ Libre Bebe Loup Session NEIPA]]
  * [[id:f8379a42-0484-44d7-b882-92f1c0846dbf][Cote Canale 4 Origines]]
  * [[id:62be8526-3b20-40a9-848f-ee67c9aaa57a][IPA Session Joos (MonsRegius)]]
- * [[id:5656784f-5dda-410c-9b64-532f6249c88f][LTM Pale Ale Americaine]]
- * [[id:5a94163e-b6a2-4cbb-9395-3383decfecd2][Le Nain De Jardin]]
  * [[id:3734347E-FD91-4591-9A3B-8145CC01C52E][St. Ambroise IPA]]
 
 ** Stouts and Porters
@@ -82,3 +91,17 @@ I don't like stouts or porters all that much, but I've tried a handful.
 
 *** Worst rated:
  * [[id:67170c97-5d7f-46dc-92a2-5379df2f94b9][Stout Blanc Coffee Blonde Ale]]
+ * [[id:ca495101-dbc8-404d-bd2a-a07f3939ebf6][Cobblestone Organic Stout (Mill St Brewery)]]
+ * [[id:af0a5848-90cb-4ad3-997f-bc57cdd0ec80][Birra Finelli Tiramisu Stout]]
+
+** Red ales
+
+Somewhere south of an amber ale, this is bright red, and often comes from
+Ireland.  Tends to be toasty.
+
+*** Best rated
+ * [[id:412E3147-B84C-4C15-9954-5EB7F1DF48A2][Chipie (Archibald)]]
+ * [[id:cd188d53-4ab0-4eea-bfd5-e64d284740ea][La Rouse Foutee (Shawbridge)]]
+ 
+*** Worst rated
+ * [[id:7F55CFA0-087C-49E5-B6D6-78A480919A4B][Bois Blanc Red Burgey]]
