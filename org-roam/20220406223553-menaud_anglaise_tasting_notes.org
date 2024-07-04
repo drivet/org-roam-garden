@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       8eb7612d-2976-4805-a843-4c8dcfd2defe
 :END:
-#+title: Menaud Anglaise tasting notes
+#+title: Menaud Anglaise
 
 [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]
 
@@ -10,4 +10,4 @@
  - More bitter than I thought it would be, not unpleasant but almost as
    bitter as an IPA
  - Toasty, malty
- - Not my favourite but still pretty good
+ - 3 stars
