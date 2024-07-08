@@ -50,7 +50,7 @@
             (with-current-buffer (find-file-noselect md-file)
               (goto-char (point-min))
               (message (format "[%d/%d] Fix %s" cnt num-files md-file))
-              (while (re-search-forward "{{< relref \"\\([a-zA-Z0-9_\\-]+\\)\\.md\" >}}" nil t)
+              (while (re-search-forward "{{< relref \"\\(\\(\\.\\./\\)*[a-zA-Z0-9_\\-]+\\)\\.md\" >}}" nil t)
                 (replace-match "\\1"))
               (save-buffer)
               (kill-buffer))

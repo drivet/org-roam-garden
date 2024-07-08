@@ -3,7 +3,7 @@
 :END:
 #+title: Doris Blonde (Le Naufrageur)
 
-A [[id:89e431d1-d759-4814-b591-57b4907b8633][blond]] beer I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tasted]] from [[id:a94cfa10-2645-4936-a97f-298645c668ce][La Naufrageur]]
+A blond beer I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tasted]] from [[id:a94cfa10-2645-4936-a97f-298645c668ce][La Naufrageur]]
 
  * Alcohol: 4%
  * Like a cross between a blond and a white, because of the addition of
