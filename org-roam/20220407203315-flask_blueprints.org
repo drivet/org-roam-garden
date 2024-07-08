@@ -3,6 +3,8 @@
 :END:
 #+title: Flask blueprints
 
+Part of my [[id:39ce030b-7dd0-4f63-abb2-9ef84fc3b131][Flask]] series.
+
 Blueprints seem to be a way to compartmentalize an app into logical pieces.
 It seems to be a way of subdividing an app into sub-apps.
 
