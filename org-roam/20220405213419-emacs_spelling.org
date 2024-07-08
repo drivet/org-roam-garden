@@ -6,9 +6,9 @@
 Two spellcheckers for Linux: ispell and it's GNU replacement, aspell.
 Aspell seems to be the better of the two.
 
-flyspell is a mode which higlights badly spelled words in the fly.  You can
-turn it on manually by doing a M-x flyspell-mode or you can put this in your
-.emacs file:
+flyspell is an [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] mode which higlights badly spelled words in the fly.
+You can turn it on manually by doing a M-x flyspell-mode or you can put this
+in your .emacs file:
 
 #+begin_src 
 ;; for all text modes

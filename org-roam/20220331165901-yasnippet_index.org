@@ -3,7 +3,7 @@
 :END:
 #+title: Yasnippet index
 
-Yasnippet is a templating system for Emacs.  You type an abbreviation
+Yasnippet is a templating system for [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]].  You type an abbreviation
 followed by an expansion key (usually TAB) and you get the expanded text.
 
 - [[https://github.com/joaotavora/yasnippet][Github]]

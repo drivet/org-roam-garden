@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       9C981DCC-32DD-4434-8DE5-D6937D1FB4AF
-:END:
-#+title: alcohol
-

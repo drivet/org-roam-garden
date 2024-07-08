@@ -3,6 +3,8 @@
 :END:
 #+title: "2024-05-28"
 
+Part of [[id:0AC9298C-1F59-4518-8E3B-00EE144A3AF4][daily notes]]
+
  * There's always a little rush when I make a trade on TD or Wealthsimple.
    It's gambling rush I suppose.  Need to avoid getting addicted.
    

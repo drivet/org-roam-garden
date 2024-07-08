@@ -3,4 +3,6 @@
 :END:
 #+title: "2024-05-26"
 
-  * This is my first note
+Part of [[id:0AC9298C-1F59-4518-8E3B-00EE144A3AF4][daily notes]]
+
+ * This is my first note, isn't it cute?

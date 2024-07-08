@@ -3,6 +3,8 @@
 :END:
 #+title: "2024-06-10"
 
+Part of [[id:0AC9298C-1F59-4518-8E3B-00EE144A3AF4][daily notes]]
+
  * I need to have projects, which is why trouble myself with weird emacs and
    text based blogging and note taking systems.  It's not always that the
    result is *better*, I just enjoy the process of building it.  Of course

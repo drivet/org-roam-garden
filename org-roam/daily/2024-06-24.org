@@ -3,4 +3,5 @@
 :END:
 #+title: "2024-06-24"
 
-* Visiting Toronto, Greektown.  Amazed at the lack of garbage.
+Part of [[id:0AC9298C-1F59-4518-8E3B-00EE144A3AF4][daily notes]]
+- Visiting Toronto, Greektown.  Amazed at the lack of garbage.

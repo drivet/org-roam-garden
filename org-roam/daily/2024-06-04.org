@@ -3,6 +3,8 @@
 :END:
 #+title: "2024-06-04"
 
+Part of [[id:0AC9298C-1F59-4518-8E3B-00EE144A3AF4][daily notes]]
+
  * The thing about youth is that you don't yet understand what's a bad idea
    and what isn't.  Also, in my day, the Internet was less of thing so it
    was harder to find out.  So you end up trying stuff that is sometimes

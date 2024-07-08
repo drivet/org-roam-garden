@@ -3,7 +3,7 @@
 :END:
 #+title: "2024-05-27"
 
-* Thoughts of the day
+Part of [[id:0AC9298C-1F59-4518-8E3B-00EE144A3AF4][daily notes]]
 
  * Warren Buffet is not a billionaire because he's frugal.  He's a
    billionaire because he's good at investing.  I think sometimes the two
