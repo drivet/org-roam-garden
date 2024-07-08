@@ -4,10 +4,8 @@
 #+title: Bogofilter basics
 #+filetags: :email:
 
-* Bogofilter Basics
-
-I use bogofilter with procmail to counteract spam.  There's a good web page
-here: http://pubpages.unh.edu/notes/bogofilter.html
+I use bogofilter with procmail to counteract [[id:aaaefce4-768c-4609-ade9-4c22e093e7aa][email]] spam.  There's a good web
+page here: http://pubpages.unh.edu/notes/bogofilter.html
 
 To use bogofilter effectively, you need two things:
 
