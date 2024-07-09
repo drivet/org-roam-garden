@@ -3,8 +3,8 @@
 :END:
 #+title: Open Graph Description and IndieWeb Summary
 
-I used Bridgy to syndicate my content to Twitter.  It prefers the following
-bits of content, in order:
+I used Bridgy to syndicate my [[id:f9b01190-b396-4e6a-a912-83167d33968d][IndieWeb]] content to Twitter.  It prefers the
+following bits of content, in order:
 
  * summary
  * content

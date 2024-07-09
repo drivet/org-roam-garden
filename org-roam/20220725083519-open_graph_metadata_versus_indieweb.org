@@ -9,7 +9,7 @@ appear in the post itself, just in the meta tags.
 For example, the open graph image, used to display when you post on
 Facebook, etc, can be any image, even if your article itself has no images.
 
-IndieWeb metadata, on the other hand, is embedded in the post, which can be
+[[id:f9b01190-b396-4e6a-a912-83167d33968d][IndieWeb]] metadata, on the other hand, is embedded in the post, which can be
 problem.  You're really just tagging existing data in your post, not adding
 metadata after the fact.  The "featured" image (an IndieWeb concept) is
 denoted as such via a CSS class and it should appear in your post, unless
