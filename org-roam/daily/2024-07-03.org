@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       DD24E819-FD0D-446A-9C37-A713D4CA4114
 :END:
-#+title: "2024-07-03"
+#+title: Daily note (2024-07-03)
 
 Part of [[id:0AC9298C-1F59-4518-8E3B-00EE144A3AF4][daily notes]]
 

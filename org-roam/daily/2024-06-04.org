@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       FB07CFF8-960D-4743-8F0F-81DD10C22D81
 :END:
-#+title: "2024-06-04"
+#+title: Daily note (2024-06-04)
 
 Part of [[id:0AC9298C-1F59-4518-8E3B-00EE144A3AF4][daily notes]]
 
