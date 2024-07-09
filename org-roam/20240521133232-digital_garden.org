@@ -3,12 +3,10 @@
 :END:
 #+title: Digital Garden
 
-Welcome to my attempt at a [[https://maggieappleton.com/garden-history][digital garden]], a repository for notes, reviews,
-recipes and whatever else strikes my fancy.  Think of it as a cross between
-a digital scrapbook and a personal wiki.  The term "garden" is supposed to
-be evocative of an actual, physical garden, with the attendant growing and
-watering and weeding that comes with it.  [[https://maggieappleton.com][Maggie Appleton]] wrote a really
-good [[https://maggieappleton.com/garden-history][article]] about it.
+Think of this digital garden as a cross between a digital scrapbook and a
+personal wiki.  The term "garden" is supposed to be evocative of an actual,
+physical garden, with the attendant growing and watering and weeding that
+comes with it.  [[https://maggieappleton.com][Maggie Appleton]] wrote a really good [[https://maggieappleton.com/garden-history][article]] about it.
 
 The garden metaphor is often contrasted with the stream metaphor, used to
 describe more traditional blogs which house timestamped, serialized content.

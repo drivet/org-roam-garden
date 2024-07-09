@@ -1,6 +1,6 @@
 ---
 title: "All Notes"
-author: ["Desmond RIvet"]
+author: ["Desmond Rivet"]
 draft: false
 layout: note.html
 permalink: "{{ page.filePathStem }}.html"

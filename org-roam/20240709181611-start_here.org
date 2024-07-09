@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       a091822b-376b-43d6-9e0d-3742b0ecd95c
+:END:
+#+title: Start here
+
+This [[id:E9DDE472-8D71-4547-992C-56D16AE6A5E5][digital garden]] has a number of "node communities" or "jumping off
+points":
+
+ * I have a smattering of [[id:0AC9298C-1F59-4518-8E3B-00EE144A3AF4][Daily notes]].  Look at the backlinks on that node
+   to find them all.
+ * I'm an [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] user, and I've accumulated a number of notes on that subject
+ * I have an interest in [[id:CAA54188-C8EF-4204-AB47-90A27514E2E8][personal information management (pim)]]
+ * I like cooking and drinking, so I have a [[id:35EC8663-3548-4E1F-9A94-AE8FB8D7B5E7][food and drink]] page.
