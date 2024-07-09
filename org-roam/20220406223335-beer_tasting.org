@@ -83,6 +83,7 @@ accurate assessment of its flavour profile.
  * [[id:25e08a98-e195-49eb-b581-39331db77b22][La P'Tite Vite (Nano IPA)]]
  * [[id:b511589e-a36c-40b9-87e4-0dda8d94541a][Le Castor Talus]]
  * [[id:c24136f4-3f2f-4130-99a6-26bcf6bdd213][Nuit Blanche White IPA (Archibald)]]
+ * [[id:5FE877D4-1C85-4BBB-A946-61689304710B][Griendel Fashion Victim NEIPA de seigle]]
 
 *** Worst rated
  * [[id:ea2f5854-20fc-4e8d-95f7-ddea0f4d1f35][Boreale Nano IPA Des Vallees]]

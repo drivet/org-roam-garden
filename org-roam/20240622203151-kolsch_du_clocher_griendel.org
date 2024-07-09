@@ -3,7 +3,7 @@
 :END:
 #+title: Kolsch du Clocher (Griendel)
 
-A [[id:180dbb2f-c747-4dbf-b072-2aa8fc727d33][Kolsch]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from Griendel.
+A Kolsch I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from Griendel.
 
  * Alcohol: 4.7%
  * Light, refreshing, but full bodied

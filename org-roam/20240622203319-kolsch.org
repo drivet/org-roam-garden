@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       180dbb2f-c747-4dbf-b072-2aa8fc727d33
-:END:
-#+title: Kolsch
-
-A type of beer, technically an ale, but with lager characteristics.
