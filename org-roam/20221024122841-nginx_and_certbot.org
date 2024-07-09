@@ -3,6 +3,8 @@
 :END:
 #+title: Nginx and certbot
 
+[[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]
+
 There are ways to do this in Docker, but it's also quite easy to do this
 directly on the host.
 
@@ -10,4 +12,3 @@ On Ubuntu:
 
  * Install nginx with apt-get
  * Install certbox via snap (https://certbot.eff.org/instructions?ws=nginx&os=ubuntufocal)
- *  

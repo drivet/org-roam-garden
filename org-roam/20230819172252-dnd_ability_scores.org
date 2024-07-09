@@ -3,11 +3,13 @@
 :END:
 #+title: dnd-ability-scores
 
+[[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]
+
 A DnD character has six ability scores:
 
-* Strength
-* Dexterity
-* Constitution
-* Intelligence
-* Wisdom
-* Charisma
+ * Strength
+ * Dexterity
+ * Constitution
+ * Intelligence
+ * Wisdom
+ * Charisma
