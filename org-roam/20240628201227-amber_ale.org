@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       f3246bc9-6ee5-4928-bae9-19018604b5cf
-:END:
-#+title: Amber Ale
-
-A type of beer, related to [[id:A429D54C-004D-4C18-A569-89C2F905D972][red beer, with toasty notes and light bitterness.]]
