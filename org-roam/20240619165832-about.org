@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       e08c2d6b-991b-4045-b1e4-2f3608d460a3
-:END:
-#+title: About
-
-I'm Desmond Rivet, a software developer from Montreal, Canada.  This is my
-attempt at a [[https://maggieappleton.com/garden-history][digital garden]], also know as a personal wiki.
-
-In addition to this garden, I maintain a [[https://desmondrivet.com][website]] and a [[https://desmondrivet.com/posts/lifestream/][blog]] as well.

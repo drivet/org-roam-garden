@@ -13,7 +13,7 @@ please read it".  The excerpt is really an internal concept, an extract of
 your post.  How it's used varies, but I use it for displaying posts in a
 list on my blog.
 
-A "summary" is a marked up bit of text for the IndieWeb.  It's a meta tag
+A "summary" is a marked up bit of text for the [[id:f9b01190-b396-4e6a-a912-83167d33968d][IndieWeb]].  It's a meta tag
 for the Open Graph (OG) Protocol, called the "description".  Like OG image
 versus the featured image, if you are coming from the IndieWeb you have the
 problem of having to embed data into your posts that is only used as
@@ -22,7 +22,7 @@ metadata, so you may have to hide it.
 In the past I called the "summary" the "blurb" in my blog.  I may change
 that.
 
-I also conflated "excerpt" and summary" but I think I need to fix that.
+I also conflated "excerpt" and "summary" but I think I need to fix that.
 
 It is possible to use the "summary" or "description" as your representative
 text in your posts lists on your blog.  I've been using the excerpt for
