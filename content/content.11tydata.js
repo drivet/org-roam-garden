@@ -17,7 +17,7 @@ function getBacklinks(filepath) {
 }
 
 module.exports = {
-    layout: "note.html",
+    layout: "default.html",
     type: "note",
     eleventyComputed: {
         title: data => {

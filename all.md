@@ -2,7 +2,7 @@
 title: "All Notes"
 author: ["Desmond Rivet"]
 draft: false
-layout: note.html
+layout: default.html
 permalink: "{{ page.filePathStem }}.html"
 ---
 
