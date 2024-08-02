@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       E13B6B54-975C-4856-AD20-5990B84FB2C2
+:END:
+#+title: Bois Blanc Demi Jour Stout
+
+A stout I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:78FD55CC-3D43-4A24-8832-2A55F9415B2B][Bois Blanc]].
+
+ * Alcohol: 4.8%
+ * Bitter and toasty
+ * 3 star(s)
+

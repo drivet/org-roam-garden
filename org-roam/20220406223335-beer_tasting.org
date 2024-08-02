@@ -27,6 +27,7 @@ more pronounced bitterness to them.  Nonetheless, the hops are not meant to
 be the main attraction.
 
 *** Best rated (best first)
+ * [[id:37744188-B2E5-46F0-84C7-127BC2FE2507][Archibald Matante Blond Ale]]
  * [[id:10ca6b20-a42b-402b-b004-e0690453bda2][Pilsner Urquell (Pilser Urquell Brewery)]]
  * [[id:e0d845c0-45fd-431d-b7ea-98ee47fbe608][Wunderbar (Vagabond)]]
  * [[id:90dc0a94-af98-4ba0-af96-c1fad18a7329][Milford NZ Pilsner (Gaspard)]]
@@ -98,9 +99,11 @@ accurate assessment of its flavour profile.
    
 ** Stouts and Porters
 
-I don't like stouts or porters all that much, but I've tried a handful, none
-of them great.
+I don't like stouts or porters all that much, but I've tried a handful.
 
+*** Best rated
+ * [[id:E13B6B54-975C-4856-AD20-5990B84FB2C2][Bois Blanc Demi Jour Stout]]
+   
 *** Worst rated:
  * [[id:67170c97-5d7f-46dc-92a2-5379df2f94b9][Stout Blanc Coffee Blonde Ale]]
  * [[id:ca495101-dbc8-404d-bd2a-a07f3939ebf6][Cobblestone Organic Stout (Mill St Brewery)]]

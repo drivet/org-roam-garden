@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       37744188-B2E5-46F0-84C7-127BC2FE2507
+:END:
+#+title: Archibald Matante Blond Ale
+
+A blond ale I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:29c29abc-abe6-4051-81a3-fd68be7bc6b9][Archibald]].
+
+ * Alcohol: 4.9%
+ * Light, crisp, refreshing, a bit sweet
+ * 3 star(s)
+
