@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dd6653a6-02b2-4fbe-bea6-04e9aebcc326
+:END:
+#+title: Saint Arnould Riviere Rouge Toasted Red Ale
+
+A red ale I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:1a1028a8-2381-4f37-8188-b41cfafcbdae][Saint Arnould]].
+
+ * Alcohol: 5.5%
+ * toasty, a bit more bitter than we like, but still good
+ * 3 star(s)
+
