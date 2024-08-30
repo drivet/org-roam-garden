@@ -117,6 +117,7 @@ Ireland.  Tends to be toasty.
 *** Best rated
  * [[id:412E3147-B84C-4C15-9954-5EB7F1DF48A2][Chipie (Archibald)]]
  * [[id:cd188d53-4ab0-4eea-bfd5-e64d284740ea][La Rouse Foutee (Shawbridge)]]
+ * [[id:dd6653a6-02b2-4fbe-bea6-04e9aebcc326][Saint Arnould Riviere Rouge Toasted Red Ale]]
  
 *** Worst rated
  * [[id:7F55CFA0-087C-49E5-B6D6-78A480919A4B][Bois Blanc Red Burgey]]
