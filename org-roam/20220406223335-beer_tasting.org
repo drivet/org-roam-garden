@@ -96,6 +96,7 @@ accurate assessment of its flavour profile.
  * [[id:3734347E-FD91-4591-9A3B-8145CC01C52E][St. Ambroise IPA]]
  * [[id:31a2145e-e6c8-47aa-ab7a-b181c9c3c012][Pakt beer India Session Lager]]
  * [[id:e854cb8a-ef35-4c69-b2fa-4a53924765a1][Bench Short Hills Hazy IPA]]
+ * [[id:84fb95a1-065a-4f24-aeef-5bcc0594fbbb][Petite Morale (Dieu de Ciel)]]
    
 ** Stouts and Porters
 
