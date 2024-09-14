@@ -41,6 +41,7 @@ be the main attraction.
  * [[id:52e4db22-6a6d-4028-a396-9caa7aebce4e][Griffintown blonde ale]]
  * [[id:05bf5fdd-59e5-4545-b24d-4173da3cc8ca][Kolsch du Clocher (Griendel)]]
  * [[id:b3c4f7b6-f820-4fa0-8f75-5dcc12dc3b88][Les Grands Bois St Caz Pilsner]]
+ * [[id:b7d63403-a1a1-49a5-b19f-d825190483e9][Wills Blonde Ale]]
    
 *** Worst rated (worst first)
  * [[id:f834bf5f-7fae-4e99-999f-f0c109226345][Cai Men Men (Pilsner Atypique)]]
