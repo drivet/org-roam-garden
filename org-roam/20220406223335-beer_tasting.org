@@ -99,12 +99,13 @@ accurate assessment of its flavour profile.
  * [[id:e854cb8a-ef35-4c69-b2fa-4a53924765a1][Bench Short Hills Hazy IPA]]
  * [[id:84fb95a1-065a-4f24-aeef-5bcc0594fbbb][Petite Morale (Dieu de Ciel)]]
    
-** Stouts and Porters
+** Stouts, Porters, Dark Lagers
 
 I don't like stouts or porters all that much, but I've tried a handful.
 
 *** Best rated
  * [[id:E13B6B54-975C-4856-AD20-5990B84FB2C2][Bois Blanc Demi Jour Stout]]
+ * [[id:31130a07-f62d-4c52-a13e-dd5e96a7faa7][Wills Dark Lager]]
    
 *** Worst rated:
  * [[id:67170c97-5d7f-46dc-92a2-5379df2f94b9][Stout Blanc Coffee Blonde Ale]]

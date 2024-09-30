@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2b524946-53d3-4fd8-baca-667d0853fa86
+:END:
+#+title: Exiftool notes
+
+** Adjust time stamps in bulk
+
+~exiftool "-AllDates+=1:12:28 14:54:32" -verbose *.jpg~
+
+[[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]
+
