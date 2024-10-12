@@ -42,6 +42,7 @@ be the main attraction.
  * [[id:05bf5fdd-59e5-4545-b24d-4173da3cc8ca][Kolsch du Clocher (Griendel)]]
  * [[id:b3c4f7b6-f820-4fa0-8f75-5dcc12dc3b88][Les Grands Bois St Caz Pilsner]]
  * [[id:b7d63403-a1a1-49a5-b19f-d825190483e9][Wills Blonde Ale]]
+ * [[id:84432bb5-3ce7-47bd-8079-21f0bcdf15fc][Classic Pilsner (Maltstrom)]]
    
 *** Worst rated (worst first)
  * [[id:f834bf5f-7fae-4e99-999f-f0c109226345][Cai Men Men (Pilsner Atypique)]]
@@ -57,6 +58,7 @@ tend to be more bitter.  These tend to be golden, amber or light brown in
 colour in colour.
 
 *** Best rated
+ * [[id:b140d1cc-9b18-4d07-829f-59ddfb06d1a0][Mr Smee Brown Ale (Griendel)]]
  * [[id:24272f97-c23b-4aaf-92f2-513f1743e731][Voyageur des Brume (Dieu du Ciel)]]
  * [[id:f481b6b0-c5cf-48d3-9a28-de9219bedd15][Vanlife Pale Ale D'Apres Route (Vagabond)]]
  * [[id:CC2E81BE-DC8B-4E1F-AB30-03D88395D625][Bitter (Alchimiste)]]
@@ -121,6 +123,7 @@ Ireland.  Tends to be toasty.
  * [[id:412E3147-B84C-4C15-9954-5EB7F1DF48A2][Chipie (Archibald)]]
  * [[id:cd188d53-4ab0-4eea-bfd5-e64d284740ea][La Rouse Foutee (Shawbridge)]]
  * [[id:dd6653a6-02b2-4fbe-bea6-04e9aebcc326][Saint Arnould Riviere Rouge Toasted Red Ale]]
+ * [[id:4b686406-db46-47f8-bd89-18cc98503e08][Quebec Marzen]]
  
 *** Worst rated
  * [[id:7F55CFA0-087C-49E5-B6D6-78A480919A4B][Bois Blanc Red Burgey]]

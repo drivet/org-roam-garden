@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b140d1cc-9b18-4d07-829f-59ddfb06d1a0
+:END:
+#+title: Mr Smee Brown Ale (Griendel)
+
+A brown ale I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:b5a77bdc-dd0c-49b5-b9ba-dc018f17f190][Griendel]].
+
+ * Alcohol: 4.6%
+ * Delicious, toasty, classic brown ale
+ * 4 star(s)
+

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       84432bb5-3ce7-47bd-8079-21f0bcdf15fc
+:END:
+#+title: Classic Pilsner (Maltstrom)
+
+A pilsner I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:1879a7ea-e582-4d21-8b8b-4a28e20e233a][Maltstrom]].
+
+ * Alcohol: 5%
+ * Light, refreshing, really a classic pilsner
+ * 3 star(s)
+
