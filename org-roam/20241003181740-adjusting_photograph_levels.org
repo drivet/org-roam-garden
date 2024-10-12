@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       0dd4eb14-dff8-45e9-96be-f623856756ab
+:END:
+#+title: Adjusting Photograph Levels
+
+Fairly good article:
+
+https://digital-photography-school.com/take-control-contrast-using-curves-levels-photoshop/
+
+The idea behind levels is that you arbitrarily make a function that maps
+input pixels to output pixels, by adding points on a curve that you can move
+around.
+
+Steeper curve means more contrast.  Moving the curve lower means values are
+mapped to darker values, higher means lighter.
+
+[[id:9f1a8982-7a7e-4918-a48d-278907e7f217][Photography]]

@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       0533a79f-2eda-48d3-8842-0e943edcd64c
+:END:
+#+title: Exposure Triangle
+
+Exposure is the amount of light that hits your sensor.
+
+Lots of good article.  Here's one:
+https://photographylife.com/what-is-exposure
+
+The exposure triangle are 3 settings that all interact to give you a
+"properly exposed" photo:
+
+ * Shutter speed
+ * Aperture
+ * ISO sensitivity
+
+What's properly exposed?  I guess it would be 
+
+According to this article:
+
+https://visualwilderness.com/fieldwork/reason-change-iso-in-photography
+
+You should just keep you ISO setting at the lowest and vary the other two
+settings.  The article says that you should only change your ISO when you're
+targeting a particular shutter speed.
+
+[[id:9f1a8982-7a7e-4918-a48d-278907e7f217][Photography]]
