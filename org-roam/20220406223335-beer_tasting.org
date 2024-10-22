@@ -58,6 +58,7 @@ tend to be more bitter.  These tend to be golden, amber or light brown in
 colour in colour.
 
 *** Best rated
+ * [[id:47a638da-f502-4677-af27-4118a824e46f][La Chasse (Puyjalon)]]
  * [[id:b140d1cc-9b18-4d07-829f-59ddfb06d1a0][Mr Smee Brown Ale (Griendel)]]
  * [[id:24272f97-c23b-4aaf-92f2-513f1743e731][Voyageur des Brume (Dieu du Ciel)]]
  * [[id:f481b6b0-c5cf-48d3-9a28-de9219bedd15][Vanlife Pale Ale D'Apres Route (Vagabond)]]
@@ -124,6 +125,7 @@ Ireland.  Tends to be toasty.
  * [[id:cd188d53-4ab0-4eea-bfd5-e64d284740ea][La Rouse Foutee (Shawbridge)]]
  * [[id:dd6653a6-02b2-4fbe-bea6-04e9aebcc326][Saint Arnould Riviere Rouge Toasted Red Ale]]
  * [[id:4b686406-db46-47f8-bd89-18cc98503e08][Quebec Marzen]]
+ * [[id:18d88a28-9e41-4d39-b10f-c1622d05feb1][60-Shilling (Albion)]]
  
 *** Worst rated
  * [[id:7F55CFA0-087C-49E5-B6D6-78A480919A4B][Bois Blanc Red Burgey]]
