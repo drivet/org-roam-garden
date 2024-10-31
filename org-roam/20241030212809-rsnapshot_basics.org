@@ -1,0 +1,88 @@
+:PROPERTIES:
+:ID:       e1981ce2-c5cb-4804-ad00-c918c3264e3c
+:END:
+#+title: Rsnapshot Basics
+
+[[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]
+
+Homepage: [[http://rsnapshot.org]]
+Howtos: [[http://rsnapshot.org/howto/]]
+
+I use rsnapshot to manage the backups of my main computer and my VPS. It's
+fairly easy to set up but there are some subtle points that catch me off
+guard whenever I look at the config file, so I thought I'd get my thoughts
+down now for posterity.
+
+Most of /etc/rsnapshot.conf is well commented and self explanatory, but one
+section used to confuse me quite a bit:
+
+#+BEGIN_EXAMPLE
+#########################################
+#           BACKUP INTERVALS            #
+# Must be unique and in ascending order #
+# i.e. hourly, daily, weekly, etc.      #
+#########################################
+# an "interval" in this context is a unit of time defined by the time
+# between the consecutive runs of rsnapshot (or the time between cron
+# runs).  The number is the number of backups to make with this time
+# interval.
+interval        daily   7
+interval        weekly  4
+interval        monthly 3
+#+END_EXAMPLE
+
+The first thing to note is that these config items, by themselves, do
+absolutely nothing. They do not control how often rsnapshot runs in any way,
+shape, or form. Instead, one usually controls rsnapshot by running it from a
+cronjob.
+
+The second thing to note is that the "daily", "weekly" and "monthly" labels
+are purely arbitrary from rsnapshot's perspective. Certainly, I tried to
+pick mnemonic names, but rsnapshot doesn't care what they are and I could
+have used labels like "aaa", "bbb", and "ccc" and everything would have
+worked perfectly fine.
+
+Basically, each interval line is supposed to represent a certain interval of
+time. Just how long that interval is depends on how often you run
+rsnapshot. When you run rsnapshot, you feed it one of these labels, like so:
+
+~rsnapshot daily~
+
+rsnapshot will look in its backup directory. If there's nothing there, it
+will copy the contents of the directories it's backing up into a directory
+called "daily.0". The next time you run rsnapshot with the daily label, it
+will see that there's a daily.0 backup already there, so it will move that
+to daily.1 and make a new daily.0 backup of it's source directories. Because
+we configured 7 intervals, it will do this until it reaches daily.6\. The
+end result is 7 snapshots of your source directories after it has run 7
+times, with daily.0 always being the most recent snapshot.
+
+One convention that _must_ be followed is that each interval line must
+represent an interval of time longer than the line before it. This is due to
+rsnapshot's behavior when you run, for example, the next line after "daily":
+
+~rsnapshot weekly~
+
+In this case we have 4 weekly intervals. When we run the weekly interval for
+the first time, we will get a weekly.0 directory, as you'd expect, but the
+contents are copied from daily.6\. In order for this behavior to make any
+sense, the weekly interval must be bigger than the daily interval. And so
+on, for every line.
+
+Finally, I've glossed over how we specify the directories we're backing
+up. This is easy:
+
+#+BEGIN_EXAMPLE
+##############################
+### BACKUP POINTS / SCRIPTS ###
+###############################
+
+# LOCALHOST
+backup  /home/          zinc/
+backup  /etc/           zinc/
+backup  root@something.org:/etc/     something.org/
+backup  root@something.org:/home/    something.org/</pre>
+#+END_EXAMPLE
+
+Each line here will create a separate folder under the appropriate daily.X
+folder. Note that the remote backup lines are run through SSH.
