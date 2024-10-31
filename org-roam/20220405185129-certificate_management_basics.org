@@ -8,8 +8,6 @@ bit of an ordeal, so I thought I'd document the procedure here.  There
 aren't that many steps, but unless you're familiar with certificates and
 what they're used for, you'll be flailing.
 
-** Basics
-
 I don't deal with cryptography everyday, so I constantly have to remind
 myself how the whole thing works.  Hence, this section.
 
@@ -17,7 +15,7 @@ Also, there's a bit of a gap between the general concepts and the concrete
 stuff like "How do I secure Apache using openssl?".  I've written
 [[id:37b2affd-0ff1-4683-b071-acf05eebdc5c][another page]] concerning the latter.
 
-*** Public Key Cryptography
+** Public Key Cryptography
 
 [[http://en.wikipedia.org/wiki/Public_key_cryptography][Public key cryptography]]
 
@@ -52,7 +50,7 @@ be reasonably sure that the possessor of user A's private key has signed the
 data, which is presumably user A himself, since he kept that private key
 safe and secure, right?  Right?)
 
-*** Digital Certificates (or Public Key Certificates)
+** Digital Certificates (or Public Key Certificates)
 
 [[http://en.wikipedia.org/wiki/Public_key_certificate][Public Key Certificate]]
 
@@ -74,7 +72,7 @@ certificate can be signed by yet another CA, or it can be self-signed, in
 which case it is called a ''root certificate''.  Root certificates are often
 distributed with web browsers.
 
-*** Certificate Signing Requests
+** Certificate Signing Requests
 
 Certificate Signing Requests (CSRs) are effectively unsigned certificates.
 The process of signing a CSR turns it into a legitimate certificate.  You
