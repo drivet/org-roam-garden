@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       2612ac99-0883-474f-82a0-c01b4423f005
+:END:
+#+title: Keyboard Notes
+
+Keyboard buying guide here:
+
+https://www.keychron.com/blogs/archived/keyboard-buying-guide
+
+Summary:
+
+ * Full size, 100%, 04 keys, num pad
+ * 96%, 100 keys, mostly like the 100% but more smooshed.
+ * 80%, TKL (Tenkeyless), 87 key, basically just missing the number pad
+ * 75%, compact TKL, 84 keys
+ * 70%, 84 keys
+ * 65%, 67 keys, no home cluster
+ * 60%, 61 keys
+
+I think that the 80% and 75% are the good ones for me.
+
+** Switches
+ * Red, linear, quiet
+ * Brown, tactile, bump
+ * Blue, clicky, loud
+
+[[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]
+
