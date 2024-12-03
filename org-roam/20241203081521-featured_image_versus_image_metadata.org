@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       cb227a6f-a085-44da-bef3-55c32e286f55
+:END:
+#+title: Featured image versus image metadata
+
+The IndieWeb wiki has an article on the featured photo here:
+
+https://indieweb.org/featured
+
+The issue with featured photo is that it's identified with a microformat.
+That means you need the photo to show up somewhere in your post for real.
+In this sense, it's not really metadatsa.
+
+OpenGraph, on the hand let's you define a literal metadata image, i.e. in
+your meta tags, that is shown when you unfurl your post URL.  The image
+doesn't have to appear anywjere in your posts.  It just *represents* your
+post.
+
+[[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]

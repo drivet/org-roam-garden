@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       38529e79-20d3-498d-badd-7a65a051e5da
+:END:
+#+title: Labels for external storage
+
+In Linux Mint you can just use the "Disks" utility.
+
+ * Choose the disk from the sidebar
+ * Click on the gears at the bottom
+ * Edit the label and save
+
+[[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]
+
