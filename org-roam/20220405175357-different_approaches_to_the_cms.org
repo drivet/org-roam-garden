@@ -3,7 +3,7 @@
 :END:
 #+title: Different approaches to the CMS
 
-[[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]
+[[id:073f104c-8e48-44a6-8f5f-81e5e89b4881][Blogging]]
 
 ** Wikis versus Blogs
 

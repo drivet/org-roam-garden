@@ -3,7 +3,7 @@
 :END:
 #+title: VNC basics
 
-[[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]
+[[id:9b39db1c-a987-4a6f-8d3b-4d0cc2596867][Linux Administration]]
 
 Not much to say here.  I wanted a way to access my desktop at work.  The way
 to do this is with x11vnc which will attach a VNC process to an existing X

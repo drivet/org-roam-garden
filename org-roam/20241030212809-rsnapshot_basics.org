@@ -3,7 +3,7 @@
 :END:
 #+title: Rsnapshot Basics
 
-[[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]
+[[id:9b39db1c-a987-4a6f-8d3b-4d0cc2596867][Linux Administration]]
 
 Homepage: [[http://rsnapshot.org]]
 Howtos: [[http://rsnapshot.org/howto/]]

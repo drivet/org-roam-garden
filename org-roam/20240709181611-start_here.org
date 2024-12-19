@@ -11,3 +11,8 @@ points":
  * I'm an [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] user, and I've accumulated a number of notes on that subject
  * I have an interest in [[id:CAA54188-C8EF-4204-AB47-90A27514E2E8][personal information management (pim)]]
  * I like cooking and drinking, so I have a [[id:35EC8663-3548-4E1F-9A94-AE8FB8D7B5E7][food and drink]] page.
+ * I run Linux at home and so I have a [[id:9b39db1c-a987-4a6f-8d3b-4d0cc2596867][Linux Administration]] page
+ * [[id:74fe4896-3281-4665-8051-556ce8eca8b5][Software Development]]
+ * [[id:073f104c-8e48-44a6-8f5f-81e5e89b4881][Blogging]]
+
+I also have a page for [[id:296E9CFB-967A-495D-B99A-EE62BCC72244][orphaned or unlinked]] notes as well.

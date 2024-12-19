@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       74fe4896-3281-4665-8051-556ce8eca8b5
+:END:
+#+title: Software Development
+
+My software development node.
+

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       1c4a9cc5-5c31-4d45-be60-abad6bde2a27
+:END:
+#+title: Daily note (2024-12-18)
+
+The hard part of using emacs and open source tools in general is mapping
+what you want to do onto the tools available.
+
+Knowing what you want to do is harder then you might think.  We often don't
+have a clear idea of what we want our workflow to be.
+
+The next hardest part is knowing what tools are actually available, and what
+they can do.
+
+Part of [[id:0AC9298C-1F59-4518-8E3B-00EE144A3AF4][daily notes]]
+

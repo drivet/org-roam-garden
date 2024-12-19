@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       a637fe15-a92d-4a3c-9ca5-e64d67bb3081
+:END:
+#+title: Working around udisk not mouting external drive
+
+[[id:9b39db1c-a987-4a6f-8d3b-4d0cc2596867][Linux Administration]]
+
+Linux Mint 22, at some point, would recognize my external USB drive, but
+would not mount it.
+
+The system is supposed to be using udisk.  It's supposed to recognize when
+the disk was connected and dynamically create the mount point in /media/dcr/
+
+Even though the device would appear in my Nemo window, I'd get a missing
+folder error, as if the system knew it was supposed to create the mount
+point, but refused to, and then complained when it wasn't there.
+
+Here's a way to get around it for now.
+
+First get the UUID of the unmounted disk.  I used the Disks application.
+It's 84405FA1405F98AE in my case.
+
+Then create a folder under /mount/dcr:
+#+begin_src
+cd /media/dcr
+mkdir backups03
+#+end_src
+
+Add this to /etc/fstab (tab after each column):
+
+#+begin_src 
+UUID=84405FA1405F98AE /media/backups03      ntfs    defaults        0       1    
+#+end_src

@@ -3,7 +3,7 @@
 :END:
 #+title: Constitutions
 
-[[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]
+[[id:80ded37b-3293-4ef3-b5a5-d9344d6ce8e1][Society]]
 
 These are axioms upon which law systems are built.  But, unlike real axioms,
 you can change it.
