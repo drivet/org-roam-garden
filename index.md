@@ -6,6 +6,9 @@ layout: default.html
 permalink: "{{ page.filePathStem }}.html"
 ---
 
+To skip right to browsing the garden, go to the [Start
+Page](/20240709181611-start_here)
+
 Welcome to [my](https://desmondrivet.com/about) [digital
 garden](/20240521133232-digital_garden), a repository for notes, reviews,
 recipes and whatever else strikes my fancy.  Though you are, of course,
