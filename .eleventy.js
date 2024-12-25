@@ -1,3 +1,5 @@
+const { createHash } = require("crypto");
+const fs = require("fs");
 const elasticlunr = require("elasticlunr");
 const dayjs = require('dayjs');
 const utc = require('dayjs/plugin/utc');
@@ -32,7 +34,15 @@ function searchNotesIdx(post, index) {
 function idxJson(index) {
     return index.toJSON();
 }
-  
+
+function cacheBustUrl(url, rootUrl, file) {
+  const buff = fs.readFileSync(file);
+  const hash = createHash('md5').update(buff).digest('hex');
+  const thisUrl = new URL(url, rootUrl);
+  thisUrl.searchParams.set('v', hash);
+  return thisUrl.pathname + thisUrl.search;
+}
+
 module.exports = function(eleventyConfig) {
     eleventyConfig.setBrowserSyncConfig(
         require('./configs/browsersync.config')('_site')
@@ -52,6 +62,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addFilter("searchNotesIdx", searchNotesIdx);
     eleventyConfig.addFilter("idxJson", idxJson);
     eleventyConfig.addFilter("dump", obj => JSON.stringify(obj));
+    eleventyConfig.addFilter('cachebust', cacheBustUrl);
 
     eleventyConfig.setLibrary('md', md);
     

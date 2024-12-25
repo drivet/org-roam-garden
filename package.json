@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "better-sqlite3": "^11.0.0",
+    "crypto": "^1.0.1",
     "dayjs": "^1.11.13",
     "elasticlunr": "^0.9.5"
   }
