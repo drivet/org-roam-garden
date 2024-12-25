@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       d160a312-ae98-4722-b43d-bc53caee25aa
 :END:
+#+date: [2024-07-11 08:07]
 #+title: Bench Brewery
 
 A brewery in Ontario, Canada

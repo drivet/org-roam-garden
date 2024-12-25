@@ -2,6 +2,7 @@
 :ID:       b036bb00-3136-4cdf-8508-5645eb9517fe
 :ROAM_REFS: https://brasseriegaspard.com/
 :END:
+#+date: [2024-06-22 09:58]
 #+title: Gaspard brewery
 
 A Quebec brewery located in Boucherville.

@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       b7d63403-a1a1-49a5-b19f-d825190483e9
 :END:
+#+date: [2024-09-14 12:06]
 #+title: Wills Blonde Ale
 
 A blonde ale I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from Wills.

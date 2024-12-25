@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       45cb08e1-ef2b-4d02-beab-fb27dec238ab
 :END:
+#+date: [2022-04-08 08:38]
 #+title: Mu4e
 
 [[id:aaaefce4-768c-4609-ade9-4c22e093e7aa][Email]] client for [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]].  Key feature is that it appears to have no

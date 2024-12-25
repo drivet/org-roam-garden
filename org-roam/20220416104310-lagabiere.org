@@ -2,6 +2,7 @@
 :ID:       11c6ac15-957c-4a48-9fa7-6789f513e3b8
 :ROAM_REFS: https://lagabiere.com/en/
 :END:
+#+date: [2022-04-16 10:43]
 #+title: Lagabiere
 
 [[id:BD759C00-5598-4433-8F98-54A5712D203B][Quebec Brewery]]

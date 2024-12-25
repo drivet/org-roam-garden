@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       688e1117-f7f4-48d7-9e5b-73e56214be25
 :END:
+#+date: [2022-05-11 16:16]
 #+title: Birra Finelli
 
 Italian style [[id:BD759C00-5598-4433-8F98-54A5712D203B][brewery in Quebec]]

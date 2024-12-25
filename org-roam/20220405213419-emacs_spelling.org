@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       fad2836e-107c-47cd-8d67-9acddcf29cf8
 :END:
+#+date: [2022-04-05 21:34]
 #+title: Emacs spelling
 
 Two spellcheckers for Linux: ispell and it's GNU replacement, aspell.

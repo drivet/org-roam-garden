@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       80ded37b-3293-4ef3-b5a5-d9344d6ce8e1
 :END:
+#+date: [2024-12-18 19:43]
 #+title: Society
 
 Not sure what else to call this page, but this will be the home for

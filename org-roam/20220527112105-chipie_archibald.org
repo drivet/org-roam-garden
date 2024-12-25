@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       412E3147-B84C-4C15-9954-5EB7F1DF48A2
 :END:
+#+date: [2022-05-27 11:21]
 #+title: Chipie (Archibald)
 
 [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]

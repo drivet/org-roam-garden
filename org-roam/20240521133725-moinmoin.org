@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       0EC8EBA9-030B-4337-8019-3525049D6F79
 :END:
+#+date: [2024-05-21 13:37]
 #+title: MoinMoin
 
 Wiki software I've used in the past.  UI is kinda ugly.

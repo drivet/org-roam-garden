@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       8c22b96e-8785-4208-9bae-83099830a163
 :END:
+#+date: nil
 #+title: Daily note (2024-08-11)
 
 Part of [[id:0AC9298C-1F59-4518-8E3B-00EE144A3AF4][daily notes]]

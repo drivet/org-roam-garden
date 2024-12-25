@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       31130a07-f62d-4c52-a13e-dd5e96a7faa7
 :END:
+#+date: [2024-09-30 15:51]
 #+title: Wills Dark Lager
 
 A dark lager I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from Wills.

@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       0b228ecf-49f5-4f3f-8732-95edc5e21b4e
 :END:
+#+date: [2022-04-06 22:33]
 #+title: Beer tasting
 
 My beer tasting page, where I collect information about various beers I've

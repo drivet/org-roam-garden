@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       0dd4eb14-dff8-45e9-96be-f623856756ab
 :END:
+#+date: [2024-10-03 18:17]
 #+title: Adjusting Photograph Levels
 
 Fairly good article:

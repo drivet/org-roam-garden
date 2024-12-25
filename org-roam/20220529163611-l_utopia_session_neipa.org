@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       6a552645-22a2-41bf-93e5-d8b71a16a3e7
 :END:
+#+date: [2022-05-29 16:36]
 #+title: L'Utopia Session NEIPA
 
 [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]

@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       CAA54188-C8EF-4204-AB47-90A27514E2E8
 :END:
+#+date: [2024-05-21 13:47]
 #+title: Personal Information Management
 
 Personal Information Management is the science and practice of creating and

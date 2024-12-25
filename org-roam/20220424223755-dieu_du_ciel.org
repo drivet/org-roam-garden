@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       133223ff-42db-415f-8627-d1e55504c5ea
 :END:
+#+date: [2022-04-24 22:37]
 #+title: Dieu du Ciel
 
 [[id:BD759C00-5598-4433-8F98-54A5712D203B][Brewery in Quebec]], operates a bar in Le Plateau area, Montreal.

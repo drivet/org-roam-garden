@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       A429D54C-004D-4C18-A569-89C2F905D972
 :END:
+#+date: [2024-05-16 14:09]
 #+title: Red beer
 

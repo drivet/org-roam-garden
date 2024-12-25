@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       c9962c74-d505-4f2c-ae24-e07e606a02d2
 :END:
+#+date: [2022-05-01 09:47]
 #+title: La Ferme Blonde Miel
 
 [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]

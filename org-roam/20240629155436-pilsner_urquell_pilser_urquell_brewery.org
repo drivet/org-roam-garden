@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       10ca6b20-a42b-402b-b004-e0690453bda2
 :END:
+#+date: [2024-06-29 15:54]
 #+title: Pilsner Urquell (Pilser Urquell Brewery)
 
 A pilsner I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:a34e6e82-fcca-4741-841d-9198befb78b8][Pilsner Urquell Brewery]].

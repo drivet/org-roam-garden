@@ -36,8 +36,8 @@ body {
     text-decoration: none;
 }
 
-nav a {
-    margin: 0 12px;
+nav a, form {
+    margin: 0 0 0 0.5em;
     font-size: 1.25em;
 }
 

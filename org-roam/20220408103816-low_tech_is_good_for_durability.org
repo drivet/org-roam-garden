@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       0dc88cd8-000a-4f60-91f5-e70ae0952a83
 :END:
+#+date: [2022-04-08 10:38]
 #+title: Low tech is good for durability
 
 Low tech solutions last longer, because they are less complicated.

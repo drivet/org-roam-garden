@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       48D08A8E-FB55-46D2-8827-CAF9803B5A7A
 :END:
+#+date: [2022-04-06 12:04]
 #+title: Gnus summary buffer
 
 [[id:436197ee-3978-474a-aa6d-373d0cfd2d67][Gnus]]

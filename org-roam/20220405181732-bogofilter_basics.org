@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       654b1afa-a2f9-4c45-967c-c68f0896b4ca
 :END:
+#+date: [2022-04-05 18:17]
 #+title: Bogofilter basics
 #+filetags: :email:
 

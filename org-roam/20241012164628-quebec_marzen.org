@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       4b686406-db46-47f8-bd89-18cc98503e08
 :END:
+#+date: [2024-10-12 16:46]
 #+title: Quebec Marzen
 
 A red lager I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:b812456f-fe38-4e65-b950-a85542de1821][La Cage]].

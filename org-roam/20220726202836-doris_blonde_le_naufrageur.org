@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       26af6ba6-9a92-41d7-abff-d6420f902627
 :END:
+#+date: [2022-07-26 20:28]
 #+title: Doris Blonde (Le Naufrageur)
 
 A blond beer I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tasted]] from [[id:a94cfa10-2645-4936-a97f-298645c668ce][La Naufrageur]]

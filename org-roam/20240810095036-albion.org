@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       73322D8E-3810-48C4-B6FA-FE968BB0FC14
 :END:
+#+date: [2024-08-10 09:50]
 #+title: Brasserie Albion
 
 A Quebec brewery (brasserie) located in Saint Melanie.

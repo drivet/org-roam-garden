@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       f8379a42-0484-44d7-b882-92f1c0846dbf
 :END:
+#+date: [2022-05-06 15:50]
 #+title: Cote Canale 4 Origines
 
 A session [[id:67dce812-c557-42d4-944a-c2e035db0e3d][IPA]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tasted]] from [[id:00135666-90b0-4535-b04a-ca730269cc46][4 Origines]]

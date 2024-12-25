@@ -1,0 +1,28 @@
+---
+title: Search results
+permalink: "/search.html"
+layout: "search-results.html"
+---
+{% raw %}
+<script id="searchResultsTemplate" type="text/x-mustache-template">
+  {{#hasResults}}
+  <p class="feed__header">Results for {{field}} in notes</p>
+  <ul class="content-list">
+    {{#results}}
+    <li>
+      {{#title}}
+      <h3><a href="{{id}}">{{title}}</a></h3>
+      {{/title}}
+      <a href="{{ id }}">{{ date  }}</a>
+      <p>{{{truncated}}}</p>
+    </li>
+    {{/results}}
+  </ul>
+  {{/hasResults}}
+
+  {{^hasResults}}
+  <p>No results found.</p>
+  {{/hasResults}}
+</script>
+{% endraw %}
+<div id="searchResults" />

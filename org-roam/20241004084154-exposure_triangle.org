@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       0533a79f-2eda-48d3-8842-0e943edcd64c
 :END:
+#+date: [2024-10-04 08:41]
 #+title: Exposure Triangle
 
 Exposure is the amount of light that hits your sensor.

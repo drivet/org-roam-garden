@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       69a2ce2a-7806-41a4-8d7d-a9480e02884a
 :END:
+#+date: [2022-04-12 09:53]
 #+title: Beefeater gin
 
 [[id:5a6f3bc8-befd-4d0c-ba25-cc45e9ea11f2][Gin tasting]]

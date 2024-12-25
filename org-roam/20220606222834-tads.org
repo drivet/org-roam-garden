@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       a5a27e2d-c5ea-41e8-9308-07ac33019c14
 :END:
+#+date: [2022-06-06 22:28]
 #+title: TADS
 
 A system for writing and running text adventures.

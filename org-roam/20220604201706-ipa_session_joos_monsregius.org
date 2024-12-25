@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       62be8526-3b20-40a9-848f-ee67c9aaa57a
 :END:
+#+date: [2022-06-04 20:17]
 #+title: IPA Session Joos (MonsRegius)
 
 A session [[id:67dce812-c557-42d4-944a-c2e035db0e3d][IPA]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:75f888d7-6075-4daf-9f3b-3af6a80bcce3][MonsRegius]] Brewery

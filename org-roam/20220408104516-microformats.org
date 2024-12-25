@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       fc419761-940f-4371-ba30-41ff61220302
 :END:
+#+date: [2022-04-08 10:45]
 #+title: Microformats
 
 Microformats are special CSS classes used to embed structured data into a

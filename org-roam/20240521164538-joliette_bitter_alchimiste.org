@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       CC2E81BE-DC8B-4E1F-AB30-03D88395D625
 :END:
+#+date: [2024-05-21 16:45]
 #+title: Bitter (Alchimiste)
 
 An English bitter I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:3E20D85D-4A65-4E87-8675-9CE97BC0F318][Alchimiste]].

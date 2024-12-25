@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       70d70d65-79bc-4920-ab40-d9778590a90c
 :END:
+#+date: [2022-04-11 19:27]
 #+title: Lot 40 Rye Whisky
 
 [[id:fea287bb-8e57-4669-be66-a1844f7cf70d][Whisky tasting]]

@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       aaaefce4-768c-4609-ade9-4c22e093e7aa
 :END:
+#+date: [2022-04-07 09:03]
 #+title: Email
 
 Still useful even if it's old school.

@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       6a5cf4da-86a9-45e7-89d9-2b3e511ec2fd
 :END:
+#+date: [2022-04-05 17:53]
 #+title: Different approaches to the CMS
 
 [[id:073f104c-8e48-44a6-8f5f-81e5e89b4881][Blogging]]

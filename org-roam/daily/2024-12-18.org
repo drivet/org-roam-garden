@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       1c4a9cc5-5c31-4d45-be60-abad6bde2a27
 :END:
+#+date: nil
 #+title: Daily note (2024-12-18)
 
 The hard part of using emacs and open source tools in general is mapping

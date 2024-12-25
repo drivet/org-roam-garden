@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       e1981ce2-c5cb-4804-ad00-c918c3264e3c
 :END:
+#+date: [2024-10-30 21:28]
 #+title: Rsnapshot Basics
 
 [[id:9b39db1c-a987-4a6f-8d3b-4d0cc2596867][Linux Administration]]

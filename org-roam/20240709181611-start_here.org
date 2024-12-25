@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       a091822b-376b-43d6-9e0d-3742b0ecd95c
 :END:
+#+date: [2024-07-09 18:16]
 #+title: Start here
 
 This [[id:E9DDE472-8D71-4547-992C-56D16AE6A5E5][digital garden]] has a number of "node communities" or "jumping off

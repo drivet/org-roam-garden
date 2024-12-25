@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       0AC9298C-1F59-4518-8E3B-00EE144A3AF4
 :END:
+#+date: [2024-07-08 13:39]
 #+title: Daily notes
 
 A stub node for keeping track of my daily notes.  Generally speaking any

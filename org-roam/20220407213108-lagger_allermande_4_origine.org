@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       223e3c08-06d4-4d92-858d-5f849ae23e4a
 :END:
+#+date: [2022-04-07 21:31]
 #+title: Lager allermande 4 origine
 
 A lager I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tasted]] from [[id:00135666-90b0-4535-b04a-ca730269cc46][4 Origines]].

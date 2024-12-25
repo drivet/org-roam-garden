@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       575e37eb-0d5c-4448-b567-e8dc43bcd8b1
 :END:
+#+date: [2022-05-04 20:47]
 #+title: Constitutions
 
 [[id:80ded37b-3293-4ef3-b5a5-d9344d6ce8e1][Society]]

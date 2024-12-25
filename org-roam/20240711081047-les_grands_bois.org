@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       e9f70366-ec50-4176-b63f-a52c92868ac8
 :END:
+#+date: [2024-07-11 08:10]
 #+title: Les Grands Bois
 
 A brewery in Quebec

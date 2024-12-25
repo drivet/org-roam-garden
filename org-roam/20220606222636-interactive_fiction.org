@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       e74eb569-4628-4d79-bed4-285396d68a3e
 :END:
+#+date: [2022-06-06 22:26]
 #+title: Interactive Fiction
 
 Also known as Text based adventure games.  I used to love these as a kid.

@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       7F55CFA0-087C-49E5-B6D6-78A480919A4B
 :END:
+#+date: [2024-05-16 14:08]
 #+title: Bois Blanc Red Burgey
 
 A [[id:A429D54C-004D-4C18-A569-89C2F905D972][Red]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:78FD55CC-3D43-4A24-8832-2A55F9415B2B][Bois Blanc]].

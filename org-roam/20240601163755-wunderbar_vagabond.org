@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       e0d845c0-45fd-431d-b7ea-98ee47fbe608
 :END:
+#+date: [2024-06-01 16:37]
 #+title: Wunderbar (Vagabond)
 
 A pilsner I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:10fef462-6985-4cb6-9567-f118eff8d583][Vagabond]].

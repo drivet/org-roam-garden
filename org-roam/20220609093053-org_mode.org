@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       FA31BDBE-5F87-4DEE-ABE2-D8AFD52F7D03
 :END:
+#+date: [2022-06-09 09:30]
 #+title: Org Mode
 
 Org Mode is a number of things:

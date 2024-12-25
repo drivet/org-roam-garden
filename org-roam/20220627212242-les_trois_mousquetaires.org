@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       ab4a5d98-ee59-4f21-af7c-82495ba095d2
 :END:
+#+date: [2022-06-27 21:22]
 #+title: Les Trois Mousquetaires
 
 [[id:BD759C00-5598-4433-8F98-54A5712D203B][Brewery from Quebec]]

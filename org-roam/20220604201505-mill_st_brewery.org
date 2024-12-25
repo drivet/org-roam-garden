@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       211d872b-617a-42a1-a0c8-e3d9133a711d
 :END:
+#+date: [2022-06-04 20:15]
 #+title: Mill St Brewery
 
 Brewery in Toronto, Ontario

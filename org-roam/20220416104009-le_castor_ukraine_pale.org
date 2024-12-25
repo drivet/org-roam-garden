@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       3038d8eb-5745-41cd-86d8-d529ae41044c
 :END:
+#+date: [2022-04-16 10:40]
 #+title: Le Castor Ukraine Pale
 
 [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]
