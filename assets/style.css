@@ -147,3 +147,16 @@ small {font-size: 0.75em;}
 .backlink:hover .backlink__preview {
     display: block;
 }
+
+.search-info {
+    font-size: 0.85em;
+}
+
+.search-result-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.search-result-item__header {
+    margin: 2em 0 0.3em 0;
+}

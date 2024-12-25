@@ -4,5 +4,4 @@
 #+date: [2024-10-04 08:39]
 #+title: Photography
 
-[[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]
-
+Main node for information about photography.
