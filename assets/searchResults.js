@@ -13,9 +13,7 @@
     const search = () => {
       const field = urlParams.get('searchField');
       const results = window.searchIndex.search(field);
-      console.log('dddd ' + results.length);
       const template =  document.getElementById(`searchResultsTemplate`).innerHTML;
-      console.log('aaaa ' + JSON.stringify(results[0]));
       const compiledResult = Mustache.render(template, {
         field,
         hasResults: results.length > 0,
