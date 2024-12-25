@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       B3F3980A-5D65-4E81-A050-6C73279EFFEF
 :END:
+#+date: [2022-04-06 11:59]
 #+title: Gnus subscription
 
 [[id:436197ee-3978-474a-aa6d-373d0cfd2d67][Gnus]]

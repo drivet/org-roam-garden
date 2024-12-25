@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       32b9a72d-27d7-43b9-9f02-b231005a708e
 :END:
+#+date: [2022-06-23 08:40]
 #+title: Flume Ale doree
 
 A blond beer (or maybe golden?) from [[id:c9d1a75d-b54b-4e2f-ac6f-72e54cf282f4][St Pancrace]]

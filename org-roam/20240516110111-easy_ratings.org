@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       92A00B55-3CAE-4E37-8971-DA1A2184A54D
 :END:
+#+date: [2024-05-16 11:01]
 #+title: Rating system
 
 I like the 4 star system.  It's easy to remember.

@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       67170c97-5d7f-46dc-92a2-5379df2f94b9
 :END:
+#+date: [2022-05-07 13:03]
 #+title: Stout Blanc Coffee Blonde Ale
 
 [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]

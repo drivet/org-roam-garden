@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       a94cfa10-2645-4936-a97f-298645c668ce
 :END:
+#+date: [2022-07-26 20:30]
 #+title: La Naufrageur
 
 [[id:BD759C00-5598-4433-8F98-54A5712D203B][Brewery]] in Gaspesie, Quebec

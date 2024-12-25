@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       d9a36121-e86b-4ba6-8f45-502314f7d21c
 :END:
+#+date: [2022-04-05 18:51]
 #+title: Certificate management basics
 
 Getting Apache to serve up authenticated/encrypted pages via SSL/TLS was a

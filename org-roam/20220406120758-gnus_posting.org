@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       2B62399B-6EE5-40A3-82AB-F8AD2AB594BB
 :END:
+#+date: [2022-04-06 12:07]
 #+title: Gnus posting
 
 [[id:436197ee-3978-474a-aa6d-373d0cfd2d67][Gnus]]

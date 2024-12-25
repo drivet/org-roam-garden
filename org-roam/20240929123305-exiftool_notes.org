@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       2b524946-53d3-4fd8-baca-667d0853fa86
 :END:
+#+date: [2024-09-29 12:33]
 #+title: Exiftool notes
 
 ** Adjust time stamps in bulk

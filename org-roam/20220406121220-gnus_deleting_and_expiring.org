@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       97C994D7-B1FB-4D50-9293-CC3740708791
 :END:
+#+date: [2022-04-06 12:12]
 #+title: Gnus deleting and expiring
 
 [[id:436197ee-3978-474a-aa6d-373d0cfd2d67][Gnus]]

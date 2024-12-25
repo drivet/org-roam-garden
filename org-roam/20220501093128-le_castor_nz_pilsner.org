@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       56ff82f8-2176-4d05-8410-c337b34b2d13
 :END:
+#+date: [2022-05-01 09:31]
 #+title: Le Castor NZ Pilsner
 
 [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]

@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       B29C00B9-D882-4B6F-9909-F8A394A9F573
 :END:
+#+date: [2024-05-22 14:21]
 #+title: Emacs full text search
 
 I'm writing this with an eye to doing full text search in [[id:5942bb24-580d-49b6-a941-28c172b4d7b5][org-roam]], but I

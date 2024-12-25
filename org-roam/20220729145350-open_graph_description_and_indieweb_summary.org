@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       3E6F066C-2CBC-4811-94E4-9EA26331CC6E
 :END:
+#+date: [2022-07-29 14:53]
 #+title: Open Graph Description and IndieWeb Summary
 
 I used Bridgy to syndicate my [[id:f9b01190-b396-4e6a-a912-83167d33968d][IndieWeb]] content to Twitter.  It prefers the

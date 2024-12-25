@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       9a70ede2-9aa5-4311-be79-f17c479a1bc9
 :END:
+#+date: [2022-04-05 18:06]
 #+title: BBDB quick start
 #+filetags: :emacs:
 

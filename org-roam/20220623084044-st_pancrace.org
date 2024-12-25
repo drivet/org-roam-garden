@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       c9d1a75d-b54b-4e2f-ac6f-72e54cf282f4
 :END:
+#+date: [2022-06-23 08:40]
 #+title: St Pancrace
 
 [[id:BD759C00-5598-4433-8F98-54A5712D203B][Brewery in Quebec]]

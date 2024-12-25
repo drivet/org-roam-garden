@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       f6376597-53fa-42a4-bfd2-6e4bcf9503bd
 :END:
+#+date: [2022-04-11 21:19]
 #+title: Gin mugo
 
 A gin from Quebec that I [[id:5a6f3bc8-befd-4d0c-ba25-cc45e9ea11f2][tasted]].

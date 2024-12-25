@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       aa5b29ac-2601-4292-b6f8-f6ffcdd45c4b
 :END:
+#+date: [2022-04-04 20:26]
 #+title: Laphroaig 10 year tasting notes
 
 [[id:F54E58D6-5674-459B-9310-88BA1377E598][Scotch tasting]]

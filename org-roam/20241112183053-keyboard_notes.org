@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       2612ac99-0883-474f-82a0-c01b4423f005
 :END:
+#+date: [2024-11-12 18:30]
 #+title: Keyboard Notes
 
 Keyboard buying guide here:
@@ -23,6 +24,4 @@ I think that the 80% and 75% are the good ones for me.
  * Red, linear, quiet
  * Brown, tactile, bump
  * Blue, clicky, loud
-
-[[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]
 

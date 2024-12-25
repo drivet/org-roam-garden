@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       671889A9-41ED-4AE9-AC02-82CBF6D9622A
 :END:
+#+date: [2022-04-06 11:00]
 #+title: Gnus initial .newsrc
 
 [[id:436197ee-3978-474a-aa6d-373d0cfd2d67][Gnus]]

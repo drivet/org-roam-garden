@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       93801d56-7db4-47cc-96db-1c020f9008e9
 :END:
+#+date: [2022-04-05 23:06]
 #+title: MySql starter
 #+filetags: :database:
 

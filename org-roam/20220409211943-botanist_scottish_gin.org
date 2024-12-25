@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       866507e4-5532-47a5-87bb-751a0b216dab
 :END:
+#+date: [2022-04-09 21:19]
 #+title: Botanist scottish gin
 
 [[id:5a6f3bc8-befd-4d0c-ba25-cc45e9ea11f2][Gin tasting]]

@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       45fe87b2-b7cd-4e93-be0e-443ddb93a3dc
 :END:
+#+date: [2022-04-07 20:33]
 #+title: Flask blueprints
 
 Part of my [[id:39ce030b-7dd0-4f63-abb2-9ef84fc3b131][Flask]] series.

@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "My mind garden in eleventy.",
   "scripts": {
-      "prepare": "emacs -batch -l ./export.el",
-      "start": "npm run prepare && npm run dev",
-      "dev": "eleventy --serve --quiet",
-      "prepbuild": "npm run prepare && npm run build",
-      "build": "eleventy",
-      "clean": "rm content/*.md; rm -rf content/daily"
+    "prepare": "emacs -batch -l ./export.el",
+    "start": "npm run prepare && npm run dev",
+    "dev": "eleventy --serve --quiet",
+    "prepbuild": "npm run prepare && npm run build",
+    "build": "eleventy",
+    "clean": "rm content/*.md; rm -rf content/daily"
   },
   "repository": {
     "type": "git",
@@ -26,6 +26,8 @@
     "title-case": "^3.0.3"
   },
   "dependencies": {
-    "better-sqlite3": "^11.0.0"
+    "better-sqlite3": "^11.0.0",
+    "dayjs": "^1.11.13",
+    "elasticlunr": "^0.9.5"
   }
 }

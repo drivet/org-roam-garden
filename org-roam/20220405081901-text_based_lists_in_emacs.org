@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       5b3d1e3c-b627-48a6-a7aa-cf02b7b9523d
 :END:
+#+date: [2022-04-05 08:19]
 #+title: Text based lists in Emacs
 
 * [[id:b9c7e6ff-d14e-4d2d-92bc-414bc2b1577d][Markdown]]

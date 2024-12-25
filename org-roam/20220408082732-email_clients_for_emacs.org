@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       33af9cb5-9bf4-42ab-a140-cbe4b1078525
 :END:
+#+date: [2022-04-08 08:27]
 #+title: Email clients for emacs
 
 [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] has several clients for [[id:aaaefce4-768c-4609-ade9-4c22e093e7aa][email]]

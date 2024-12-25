@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       8feaa469-2488-4ac9-8a2e-c7705a81c002
 :END:
+#+date: [2022-04-05 17:35]
 #+title: Microformats turn webpages into REST services
 
 Since a [[id:fc419761-940f-4371-ba30-41ff61220302][microformat]] parser can extract structured data from an arbitrary

@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       5656784f-5dda-410c-9b64-532f6249c88f
 :END:
+#+date: [2022-06-27 21:24]
 #+title: LTM Pale Ale Americaine
 
 [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]

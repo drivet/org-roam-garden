@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       18d88a28-9e41-4d39-b10f-c1622d05feb1
 :END:
+#+date: [2024-10-22 08:16]
 #+title: 60-Shilling (Albion)
 
 A session scottish I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:73322D8E-3810-48C4-B6FA-FE968BB0FC14][Albion]].

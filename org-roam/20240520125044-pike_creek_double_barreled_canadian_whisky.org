@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       a82d7f14-e976-4844-8c44-e01f327e5faa
 :END:
+#+date: [2024-05-20 12:50]
 #+title: Pike Creek Double Barreled Canadian Whisky 
 
 A [[id:5934c12d-9346-4e41-92c1-b419b0e0843b][Canadian Whisky]] I [[id:fea287bb-8e57-4669-be66-a1844f7cf70d][tasted]].

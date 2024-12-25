@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       1599ac20-7338-4b0a-a2df-93eb7d37b54a
 :END:
+#+date: [2022-04-16 22:06]
 #+title: Champ Libre Bebe Loup Session NEIPA
 
 A session [[id:8ab758c7-d000-44cb-84d1-61e8315fc3bf][NEIPA]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tasted]] from [[id:cabce1be-5597-47ab-afb6-742def29343f][Champ Libre]]

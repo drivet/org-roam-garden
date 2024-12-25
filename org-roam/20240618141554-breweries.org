@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       44D50E8F-9D61-4BBA-93A2-DBED547DFA7D
 :END:
+#+date: [2024-06-18 14:15]
 #+title: Breweries
 
 I drink a fair amount of beer, so I suppose it makes sens to keep a record

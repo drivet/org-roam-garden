@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       ca495101-dbc8-404d-bd2a-a07f3939ebf6
 :END:
+#+date: [2022-06-04 20:11]
 #+title: Cobblestone Organic Stout (Mill St Brewery)
 
 A [[id:3e894f07-7186-4cf8-a454-acbb1ce13c4b][stout]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tasted]] from [[id:211d872b-617a-42a1-a0c8-e3d9133a711d][Mill St Brewery]]

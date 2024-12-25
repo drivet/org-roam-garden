@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       BD759C00-5598-4433-8F98-54A5712D203B
 :END:
+#+date: [2022-05-27 13:44]
 #+title: Breweries in Quebec
 
 Quebec has quite a large brewing culture.  Lots of breweries here, and I

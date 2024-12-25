@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       4626559d-5f1f-4c30-978b-5c11c72d395a
 :END:
+#+date: [2022-03-30 16:34]
 #+title: Bookmarks
 
 What I want from my bookmarks:

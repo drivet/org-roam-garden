@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       47a638da-f502-4677-af27-4118a824e46f
 :END:
+#+date: [2024-10-22 08:12]
 #+title: La Chasse (Puyjalon)
 
 A darn brown I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:3EBBFB96-3E42-4104-894A-D0D685F6493D][Puyjalon]].

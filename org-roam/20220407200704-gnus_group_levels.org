@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       43ad2429-e55c-4faa-bade-7a0d867dcc9a
 :END:
+#+date: [2022-04-07 20:07]
 #+title: Gnus group levels
 
 [[id:436197ee-3978-474a-aa6d-373d0cfd2d67][Gnus]]

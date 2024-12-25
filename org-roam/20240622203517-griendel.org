@@ -2,6 +2,7 @@
 :ID:       b5a77bdc-dd0c-49b5-b9ba-dc018f17f190
 :ROAM_REFS: https://griendel.com/
 :END:
+#+date: [2024-06-22 20:35]
 #+title: Griendel
 
 A [[id:BD759C00-5598-4433-8F98-54A5712D203B][Quebec brewery]]

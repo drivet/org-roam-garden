@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       2111d294-7f6b-40a0-8863-77cc21fd445a
 :END:
+#+date: [2022-07-25 08:35]
 #+title: Open graph metadata versus IndieWeb microformats
 
 Open Graph (OG) metadata is exactly that - metadata.  It doesn't necessarily

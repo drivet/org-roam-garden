@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       6BAEB484-4187-4E8D-BC5E-47248CFA803F
 :END:
+#+date: [2022-04-05 09:05]
 #+title: I have decided to care
 
 [[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]

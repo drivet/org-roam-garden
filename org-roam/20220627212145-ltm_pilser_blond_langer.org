@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       bfec5dea-ed45-45b6-b2d4-69a27d858204
 :END:
+#+date: [2022-06-27 21:21]
 #+title: LTM Pilser Blond Lager
 
 [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]

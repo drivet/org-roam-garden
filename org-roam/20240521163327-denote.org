@@ -2,6 +2,7 @@
 :ID:       64D75E7F-C01E-440B-AF52-11C4E2BF6E28
 :ROAM_REFS: https://protesilaos.com/emacs/denote
 :END:
+#+date: [2024-05-21 16:33]
 #+title: Denote
 
 A note taking system for emacs that appears to put most of the data into the

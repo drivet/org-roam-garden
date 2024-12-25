@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       3cbcdf3e-13f2-417d-8150-d7f528cc2e2e
 :END:
+#+date: [2022-04-23 23:10]
 #+title: Le Castor Brewing Company
 
 [[id:BD759C00-5598-4433-8F98-54A5712D203B][Brewery in Quebec]]

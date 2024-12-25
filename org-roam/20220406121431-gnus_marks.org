@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       2F0CA78A-DB0A-4714-9F7B-31E2CC7917DF
 :END:
+#+date: [2022-04-06 12:14]
 #+title: Gnus marks
 
 [[id:436197ee-3978-474a-aa6d-373d0cfd2d67][Gnus]]

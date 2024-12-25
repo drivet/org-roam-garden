@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       b9c1d0c2-ffb5-4994-a5c2-e4ccda18d615
 :END:
+#+date: [2022-05-07 13:03]
 #+title: Oshlag Brewery
 
 [[id:BD759C00-5598-4433-8F98-54A5712D203B][Brewery in Quebec]]

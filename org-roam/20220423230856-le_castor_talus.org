@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       b511589e-a36c-40b9-87e4-0dda8d94541a
 :END:
+#+date: [2022-04-23 23:08]
 #+title: Le Castor Talus
 
 [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]

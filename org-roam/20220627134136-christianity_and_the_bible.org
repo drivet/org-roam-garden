@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       701D2448-34FA-44F6-9701-4F0CF3369397
 :END:
+#+date: [2022-06-27 13:41]
 #+title: Christianity and the Bible
 
 [[id:701D2448-34FA-44F6-9701-4F0CF3369397][Christianity and the Bible]]

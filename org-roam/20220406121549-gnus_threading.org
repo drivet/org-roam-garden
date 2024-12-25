@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       BB1B85AD-643C-4749-8865-2CE5E7B6D449
 :END:
+#+date: [2022-04-06 12:15]
 #+title: Gnus threading
 
 [[id:436197ee-3978-474a-aa6d-373d0cfd2d67][Gnus]]

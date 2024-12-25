@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       AC860BD7-D23B-4948-8111-9ECC38B4B933
 :END:
+#+date: [2024-05-28 13:46]
 #+title: Emacs Keymaps
 
 You can think of a keymap in [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] as a collection of keys that are defined

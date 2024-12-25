@@ -1,0 +1,10 @@
+---
+permalink: "/lunridx.json"
+---
+
+{% assign idx = '' | searchNotesInit %}
+{% for note in collections.notes %}
+{% assign dummy = note | searchNotesIdx: idx %}
+{% endfor %}
+
+{{ idx | dump }}

@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       a637fe15-a92d-4a3c-9ca5-e64d67bb3081
 :END:
+#+date: [2024-12-17 16:59]
 #+title: Working around udisk not mouting external drive
 
 [[id:9b39db1c-a987-4a6f-8d3b-4d0cc2596867][Linux Administration]]
