@@ -16,7 +16,7 @@ body {
     flex-direction: column;
     min-height: 100vh;
 
-    margin: 0 24px;
+    margin: 0 0.7em;
 }
 
 @media only screen and (max-width: 468px) {
@@ -38,7 +38,6 @@ body {
 
 nav a, form {
     margin: 0 0 0 0.5em;
-    font-size: 1.25em;
 }
 
 main {
@@ -159,4 +158,8 @@ small {font-size: 0.75em;}
 
 .search-result-item__header {
     margin: 2em 0 0.3em 0;
+}
+
+#searchField {
+    width: 10em;
 }
