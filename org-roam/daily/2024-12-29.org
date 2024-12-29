@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       befb3c5f-5494-4bae-9056-5c4b194fbfb6
+:END:
+#+date: [2024-12-29 Sun 13:04]
+#+title: Daily note (2024-12-29)
+
+ * Reading [[id:2c7c0b6d-cfdc-4a22-be7b-f8026ccc84a5][Atomic Habits]] and the yo-yo effect, wherein you complete a goal
+   and then stagnate really resonated with me.
+ * "You do not rise to the level of your goals.  You fall to the level of
+   your training,"
+
+Part of [[id:0AC9298C-1F59-4518-8E3B-00EE144A3AF4][daily notes]]

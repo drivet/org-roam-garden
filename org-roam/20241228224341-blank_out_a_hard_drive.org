@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       ae5e0cf6-f5bf-4ee1-bc99-635bd7912d5c
+:END:
+#+date: [2024-12-28 Sat 22:43]
+#+title: Blank out a hard drive
+
+I use shred to wipe out a hard drive before selling it:
+
+#+begin_src  
+sudo shred -vfz /dev/sda
+#+end_src
+
+[[id:9b39db1c-a987-4a6f-8d3b-4d0cc2596867][Linux Administration]]

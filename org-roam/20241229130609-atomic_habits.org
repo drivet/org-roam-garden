@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       2c7c0b6d-cfdc-4a22-be7b-f8026ccc84a5
+:END:
+#+date: [2024-12-29 Sun 13:06]
+#+title: Atomic Habits
+
+TODO: make this into a reference.
+
+ * Basically, focus on the process, or the direction, not the destination.
+ * You do not rise to the level of your goals, you fall to the level of your
+   systems.
+
+
+[[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]
+
