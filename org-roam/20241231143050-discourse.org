@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       e82eb567-6785-45b0-91b3-61ea2ecbe7fa
+:ROAM_REFS: https://www.discourse.org/
+:END:
+#+date: [2024-12-31 Tue 14:30]
+#+title: Discourse
+
+Basically open source discussion boards that you can host yourself or sign
+up for.
+
+[[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]
+

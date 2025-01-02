@@ -8,5 +8,9 @@
    and then stagnate really resonated with me.
  * "You do not rise to the level of your goals.  You fall to the level of
    your training,"
+ * I think Lisp is associated with AI because of it blurs the lines between
+   data and code.  It's the idea that a Lisp program isn't set in stone but
+   is in theory a self-modifying entity, changing itself as it runs.  To be
+   fair, I've never actually seen a Lisp like this.
 
 Part of [[id:0AC9298C-1F59-4518-8E3B-00EE144A3AF4][daily notes]]
