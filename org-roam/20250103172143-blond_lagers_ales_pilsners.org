@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       955adb37-99eb-4cef-929d-698d9fcb8b6d
+:END:
+#+date: [2025-01-03 Fri 17:21]
+#+title: Blond lagers, ales, pilsners, etc.
+
+Another name for this category might be "summer beers" or "thirst quenching"
+beers.  These are supposed to be light tasting, blonde, easy to drink beers.
+The hoppy flavour is meant to be fairly muted but some of the ales do have a
+more pronounced bitterness to them.  Nonetheless, the hops are not meant to
+be the main attraction.
+
+*** Best rated (best first)
+ * [[id:37744188-B2E5-46F0-84C7-127BC2FE2507][Archibald Matante Blond Ale]]
+ * [[id:10ca6b20-a42b-402b-b004-e0690453bda2][Pilsner Urquell (Pilser Urquell Brewery)]]
+ * [[id:e0d845c0-45fd-431d-b7ea-98ee47fbe608][Wunderbar (Vagabond)]]
+ * [[id:90dc0a94-af98-4ba0-af96-c1fad18a7329][Milford NZ Pilsner (Gaspard)]]
+ * [[id:ab622470-e599-4b7c-8fc3-a647cf9f4c72][Sentinelle Beer (Dieu du Ciel)]]
+ * [[id:0a25753c-3ef0-408d-a618-6229b54d5028][Brise de Lac Pilsner (Archibald)]]
+ * [[id:439ee847-fdd9-456e-a810-aacbb9e608f6][Farnham Lager]]
+ * [[id:bfec5dea-ed45-45b6-b2d4-69a27d858204][LTM Pilser Blond Lager]]
+ * [[id:223e3c08-06d4-4d92-858d-5f849ae23e4a][Lager allermande 4 origine]]
+ * [[id:70a5ed23-a02e-460d-88ac-94f1eb252940][Czech Pilser (Maltstrom)]]
+ * [[id:645bbaea-a7ab-4cfa-837b-274d284bdec3][Innis and Gunn Lager]]
+ * [[id:52e4db22-6a6d-4028-a396-9caa7aebce4e][Griffintown blonde ale]]
+ * [[id:05bf5fdd-59e5-4545-b24d-4173da3cc8ca][Kolsch du Clocher (Griendel)]]
+ * [[id:b3c4f7b6-f820-4fa0-8f75-5dcc12dc3b88][Les Grands Bois St Caz Pilsner]]
+ * [[id:b7d63403-a1a1-49a5-b19f-d825190483e9][Wills Blonde Ale]]
+ * [[id:84432bb5-3ce7-47bd-8079-21f0bcdf15fc][Classic Pilsner (Maltstrom)]]
+   
+*** Worst rated (worst first)
+
+ * [[id:4f0ddd0f-5bf4-457b-afa8-77cb39d75ff9][Blonde (Alchimiste)]]
+ * [[id:f834bf5f-7fae-4e99-999f-f0c109226345][Cai Men Men (Pilsner Atypique)]]
+ * [[id:56ff82f8-2176-4d05-8410-c337b34b2d13][Le Castor NZ Pilsner]]
+ * [[id:dbab9b3a-3434-4500-a992-2a32b6a33d24][Mill Street Organic Lager]]
+ * [[id:82927422-e496-4bdb-ae04-1a490c096aa5][Refresh Lager (2 Crows)]]
+ * [[id:22E5B527-A4AF-4592-8174-32ED31ADF007][4 Origines Original Lager]]
+   
+[[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]
+

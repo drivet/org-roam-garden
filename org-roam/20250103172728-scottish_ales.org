@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       9a70704c-417a-4f86-aa8f-bfec29d51e19
+:END:
+#+date: [2025-01-03 Fri 17:27]
+#+title: Scottish ales
+
+Darker than an amber but lighter than a stout, these tend to be reddish in
+colour like Irish Ale, but sweeter.
+
+Does this deserve its own category?  I'm not sure, as I tend to avoid these
+because they tend to be higher proof.
+
+*** Best rated
+ * [[id:0a74a2fc-edce-4e6e-bd3b-fe54997941c9][Ecossaise (Alchimiste)]]

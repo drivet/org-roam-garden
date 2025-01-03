@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       9d43b8e2-613f-47d0-a5d4-275a1ee8962e
+:END:
+#+date: [2025-01-03 Fri 17:22]
+#+title: Pale ales, Enlish bitters, etc.
+
+The hops tends to be a bit more pronounced in this category, and so these
+tend to be more bitter.  These tend to be golden, amber or light brown in
+colour in colour.
+
+*** Best rated
+ * [[id:47a638da-f502-4677-af27-4118a824e46f][La Chasse (Puyjalon)]]
+ * [[id:b140d1cc-9b18-4d07-829f-59ddfb06d1a0][Mr Smee Brown Ale (Griendel)]]
+ * [[id:24272f97-c23b-4aaf-92f2-513f1743e731][Voyageur des Brume (Dieu du Ciel)]]
+ * [[id:f481b6b0-c5cf-48d3-9a28-de9219bedd15][Vanlife Pale Ale D'Apres Route (Vagabond)]]
+ * [[id:CC2E81BE-DC8B-4E1F-AB30-03D88395D625][Bitter (Alchimiste)]]
+ * [[id:1a1efc9a-40ae-474d-b6b0-af283c5a5fd1][L'Apothicaire Pale Ale Belge]]
+ * [[id:c9962c74-d505-4f2c-ae24-e07e606a02d2][La Ferme Blonde Miel]]
+ * [[id:3038d8eb-5745-41cd-86d8-d529ae41044c][Le Castor Ukraine Pale]]
+ * [[id:8eb7612d-2976-4805-a843-4c8dcfd2defe][Menaud Anglaise]]
+
+*** Worst rated
+ * [[id:5656784f-5dda-410c-9b64-532f6249c88f][LTM Pale Ale Americaine]]
+ * [[id:5a94163e-b6a2-4cbb-9395-3383decfecd2][Le Nain De Jardin]]

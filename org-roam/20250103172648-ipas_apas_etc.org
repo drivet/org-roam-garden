@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       ebe255e9-6553-4ebd-82a4-88e203e4c456
+:END:
+#+date: [2025-01-03 Fri 17:26]
+#+title: IPAs, APAs, etc.
+
+These tend to be hoppy and bitter.  Sometimes citrusy.  Though technically
+pale ales, it's worth putting these in their own category since they tend to
+be much more assertive with the hops (sometimes bitter, sometimes floral,
+sometimes citrusy).
+
+You sometimes get the occasional lager in here, like if someone made an IPL.
+It's in this category, rather than pale ale or blonde because it's a more
+accurate assessment of its flavour profile.
+
+*** Best rated
+ * [[id:db157416-7a8e-4305-b6fb-113fc4aa781d][Lagabiere Ta Moin Fort]]
+ * [[id:9e9239fa-7a05-42bc-a314-b16795d42c2a][Bubble Stash IPA (Hop Valley Brewing)]]
+ * [[id:6a552645-22a2-41bf-93e5-d8b71a16a3e7][L'Utopia Session NEIPA]]
+ * [[id:25e08a98-e195-49eb-b581-39331db77b22][La P'Tite Vite (Nano IPA)]]
+ * [[id:b511589e-a36c-40b9-87e4-0dda8d94541a][Le Castor Talus]]
+ * [[id:c24136f4-3f2f-4130-99a6-26bcf6bdd213][Nuit Blanche White IPA (Archibald)]]
+ * [[id:5FE877D4-1C85-4BBB-A946-61689304710B][Griendel Fashion Victim NEIPA de seigle]]
+
+*** Worst rated
+ * [[id:ea2f5854-20fc-4e8d-95f7-ddea0f4d1f35][Boreale Nano IPA Des Vallees]]
+ * [[id:1599ac20-7338-4b0a-a2df-93eb7d37b54a][Champ Libre Bebe Loup Session NEIPA]]
+ * [[id:f8379a42-0484-44d7-b882-92f1c0846dbf][Cote Canale 4 Origines]]
+ * [[id:62be8526-3b20-40a9-848f-ee67c9aaa57a][IPA Session Joos (MonsRegius)]]
+ * [[id:3734347E-FD91-4591-9A3B-8145CC01C52E][St. Ambroise IPA]]
+ * [[id:31a2145e-e6c8-47aa-ab7a-b181c9c3c012][Pakt beer India Session Lager]]
+ * [[id:e854cb8a-ef35-4c69-b2fa-4a53924765a1][Bench Short Hills Hazy IPA]]
+ * [[id:84fb95a1-065a-4f24-aeef-5bcc0594fbbb][Petite Morale (Dieu de Ciel)]]
+   
