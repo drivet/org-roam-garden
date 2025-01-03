@@ -9,7 +9,7 @@ tried.
 
 My ratings system is my [[id:92A00B55-3CAE-4E37-8971-DA1A2184A54D][standard]] 4 star version.
 
-Beer is broadly divided into lagers and ales; agers are "bottom fermented"
+Beer is broadly divided into lagers and ales; lagers are "bottom fermented"
 or "cold fermented" while ales are "top fermented" or "warm fermented".
 Ales are a much older style while lagers are a relatively recent invention.
 
@@ -46,6 +46,8 @@ be the main attraction.
  * [[id:84432bb5-3ce7-47bd-8079-21f0bcdf15fc][Classic Pilsner (Maltstrom)]]
    
 *** Worst rated (worst first)
+
+ * [[id:4f0ddd0f-5bf4-457b-afa8-77cb39d75ff9][Blonde (Alchimiste)]]
  * [[id:f834bf5f-7fae-4e99-999f-f0c109226345][Cai Men Men (Pilsner Atypique)]]
  * [[id:56ff82f8-2176-4d05-8410-c337b34b2d13][Le Castor NZ Pilsner]]
  * [[id:dbab9b3a-3434-4500-a992-2a32b6a33d24][Mill Street Organic Lager]]
@@ -130,3 +132,14 @@ Ireland.  Tends to be toasty.
  
 *** Worst rated
  * [[id:7F55CFA0-087C-49E5-B6D6-78A480919A4B][Bois Blanc Red Burgey]]
+
+** Scottish ales
+
+Darker than an amber but lighter than a stout, these tend to be reddish in
+colour like Irish Ale, but sweeter.
+
+Does this deserve its own category?  I'm not sure, as I tend to avoid these
+because they tend to be higher proof.
+
+*** Best rated
+ * [[id:0a74a2fc-edce-4e6e-bd3b-fe54997941c9][Ecossaise (Alchimiste)]]
