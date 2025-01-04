@@ -1,0 +1,81 @@
+:PROPERTIES:
+:ID:       bf6384d2-326f-49e6-ac5f-3a41c722f7e7
+:END:
+#+date: [2025-01-03 Fri 20:12]
+#+title: Org protocol, roam and bookmarklets
+
+Briefly, this is how capturing bookmarks from a web browser works with [[id:4e639dc7-567a-408b-9ec1-c3f958958952][org
+roam]]
+
+Say your web browser is on the URL you want to bookmark.  First you write a
+bookmarklet that looks like this:
+
+#+begin_src 
+javascript:location.href =
+    'org-protocol://roam-ref?template=r&ref='
+    + encodeURIComponent(location.href)
+    + '&title='
+    + encodeURIComponent(document.title)
+    + '&body='
+    + encodeURIComponent(window.getSelection())
+#+end_src
+
+This tells the browser to navigate to a URL with a protocol that looks like
+org-protocol, hence the setting of the location.href in the javascript.
+
+(This will replace the contents of the page you're trying to bookmark with
+an org-protocol "page".  How can we avoid that?  Maybe launch a new window
+for the org-protocol URL?)
+
+The usual way to process these types of specialized protocols is to hand off
+the URL to a specialized app.  For example, magnet URLs could be handed off
+to [[https://transmissionbt.com/][transmission]].
+
+This usually requires some desktop configuration desktop configuration.  On
+Linux, for example, this involves using a XDG compliant Desktop environment
+and creating a desktop file.  In our case we want org-protocol to be handled
+by emacsclient.  From the [[https://orgmode.org/worg/org-contrib/org-protocol.html][org-protocol entry on worg]]:
+
+#+begin_quote
+Create an org-protocol.desktop file either in ~/.local/share/applications/
+to set-up emacsclient as the org-protocol handler for the current user or in
+/usr/share/applications to set-up a system-wide configuration:
+#+end_quote
+
+#+begin_src
+[Desktop Entry]
+Name=org-protocol
+Comment=Intercept calls from emacsclient to trigger custom actions
+Categories=Other;
+Keywords=org-protocol;
+Icon=emacs
+Type=Application
+Exec=emacsclient -- %u
+Terminal=false
+StartupWMClass=Emacs
+MimeType=x-scheme-handler/org-protocol;
+#+end_src
+
+#+begin_quote
+Update the cache database of MIME types handled by desktop files via:
+#+end_quote
+
+~update-desktop-database ~/.local/share/applications/~
+
+(How do you do this on a system that using a non-XDG window manager?  I have
+no idea)
+
+Using org-protocol requires using a sub-protocol in the first part of the
+URL.  The one used here is roam-ref, which will automatically insert a
+ROAM_REFS variable into the PROPERTIES of the new node it creates.  The URL
+allows you to pick a template by letter, like one normally does with
+org-capture, but if you just choose 'r' you'll get the default template
+defined in ~org-roam-capture-ref-templates~.  In my case I like adding a
+create date, so my template looks like this:
+
+#+begin_src
+(setq org-roam-capture-ref-templates
+      '(("r" "ref" plain "%?" :target
+         (file+head "${slug}.org" "#+date: %U\n#+title: ${title}")
+         :unnarrowed t)))
+#+end_src
