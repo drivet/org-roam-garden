@@ -10,17 +10,48 @@ TODO: make this into a reference.
  * You do not rise to the level of your goals, you fall to the level of your
    systems.
  * Pointing and calling as a way to explicitly name habits, good or bad.
- * 1st law of behaviour change: make it obvious, can schedule a time and a
+ * 1st law of behaviour change: *make it obvious*, can schedule a time and a
    place.  Or you can stack the habit on another habit if that habit is
    consistent.
- * Environment matters.  Make the cues of good habits obvious in your
-   environment.
- * Easier to build new habits in a new environment.
+   * Environment matters.  Make the cues of good habits obvious in your
+     environment.
+   * Easier to build new habits in a new environment.
  * The secret to self-control is to not be in tempting situations in the
    first place.
  * Habits are modern day solution to ancient desires (Facebook isn't about
    likes, it's about social acceptance).
  * Create a motivation ritual by doing something you enjoy immediately
    before a difficult habit.
+ * 3rd law of bahaviour change is *make it easy*.
+   * Practice not planning
+   * Number of repetitions is more important than length of time (which is
+     possibly why my Spanish is still really bad, despite the DuoLingo)
+   * We naturally to the option that requires the least effort
+   * Create environment where the right thing is the easy thing (unplug TV
+     when you don't want to watch it, sprinkle books around your house so
+     you can read without effort
+   * Small habits (decisions) shape your day.
+   * Two minute rule: when you start a new habit it should take less than
+     two minutes, and you should ritualize the start of it (i.e. putting on
+     exercise clothes to work out).  Start by just reading a single page a
+     day if you want to be a good reader.
+   * Inversion: make bad habits difficult
+   * Use commitment devices, which lock in your future behaviour (Victor
+     Hugo told his maid to hide all his clothes so he couldn't go out, only
+     write)
+   * Automating habits is the best way (automatic savings plan)
+ * 4th law of behaviour change: *make it satisfying*
+   * Make it immediately satisfying, since this is how our brains work.
+   * Use habit tracking, maybe by marking an X on a calendar each time you
+     exercise.
+   * Don't break the chain.  Keep your streak alive.
+     * Desmond: As an aside, not sure how effective this is at learning
+       Spanish on DuoLingo.
+   * Be very careful of letting the number become the goal.
+   * Inversion: make bad habit unsatisfying.
+   * Use an accountability to shame you into keeping you on track.
+   * Use a habit contract, signed by people you know, to add a social cost
+     to breaking the habit.
+   * Knowing that someone is watching you can motivate.
 
 [[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]

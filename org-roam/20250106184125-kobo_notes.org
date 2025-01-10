@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       14af38d8-f11e-4483-9c09-e1e02ff1122d
+:END:
+#+date: [2025-01-06 Mon 18:41]
+#+title: Kobo notes
+
+General notes on my Kobo:
+
+ * You can long tap a word and then move the makers to highlight a piece of
+   text
+ * You can tap the top right corner of the page to book mark it.
+ * See the highlights and bookmarks by tapping the centre and tapping the
+   note icon on the bottom right
+
+[[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]
+
