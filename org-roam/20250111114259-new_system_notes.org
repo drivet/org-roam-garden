@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       8f28c626-3ecc-4ebb-af55-c70292681b8c
+:END:
+#+date: [2025-01-11 Sat 11:42]
+#+title: New system notes
+
+[[id:9b39db1c-a987-4a6f-8d3b-4d0cc2596867][Linux Administration]]
+
+Notes for when I install a new Linux system.
+
+Don't bother creating partitions for boot or home.  One partition for root
+is fine especially with SSDs.
+   
+Install the following packages:
+ * Spotify (go to https://www.spotify.com/us/download/linux/)
+ * Emacs
+ * Signal ([[https://signal.org/download/#][download]] from signal website. follow instructions)
+ * [[id:8c446971-340b-40c4-be3a-eee7e9049a28][Syncthing]] (install it from [[https://apt.syncthing.net/][their repository]])
+ * [[id:074766bc-7479-4cba-a01a-5e96aa3e22e9][Dropbox]] (install it from [[https://www.dropbox.com/install-linux][this page]], using the Ubuntu deb file)
+   * xNeed to install gir1-gtk for the newer Dropbox packages to work
+
+Install these on Desktop only:
+ * Digikam from [[id:f5a3e676-3c4b-4bb3-8a99-b10c9d77b195][flatpak]] since it seems to be more up to date
+ * Gimp
+ * rsnapshot
+
+[[id:be1bbffe-c05b-4c99-8bbe-00b0f35cf5ac][Set up SSH keys]] so that I can log into my remote VPS.
+
+Start the following services when you start (using Startup Applications on
+Linux Mint):
+
+ * Syncthing
+ * Dropbox (done automatically when you install the deb file)
+ * Emacs server (/usr/bin/emacs --daemon)

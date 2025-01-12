@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       8c446971-340b-40c4-be3a-eee7e9049a28
+:ROAM_REFS: https://syncthing.net/
+:END:
+#+date: [2025-01-11 Sat 12:51]
+#+title: Syncthing notes
+
+[[id:9b39db1c-a987-4a6f-8d3b-4d0cc2596867][Linux Administration]]
+
+Install Syncthing from [[https://apt.syncthing.net/][their repository]].
+
+** Adding a new device to a Syncthing cluster
+
+Say you have N devices all sharing data with each other with Syncthing.  How
+do you bring the next device (L) into the fold?
+
+ * On L, set up a remote device to one of the devices in the cluster (call
+   it R) **with the Introducer flag set**.  I think any device will do here,
+   but I guess you could just designate one of them as the "hub" device.
+ * On R, you should get a notification that L is trying to connect.  Say
+   yes.
+ * Also on R, go into the folders you want to share and make sure to share
+   them with the new device L.
+ * Eventually the devices that are connected to R already will be added to L
+   though the remote R introducer.
