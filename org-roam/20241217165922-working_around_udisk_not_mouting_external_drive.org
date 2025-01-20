@@ -30,5 +30,5 @@ mkdir backups03
 Add this to /etc/fstab (tab after each column):
 
 #+begin_src 
-UUID=84405FA1405F98AE /media/backups03      ntfs    defaults        0       1    
+UUID=84405FA1405F98AE /media/dcr/backups03      ntfs    defaults        0       1    
 #+end_src

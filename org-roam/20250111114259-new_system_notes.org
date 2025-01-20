@@ -17,7 +17,7 @@ Install the following packages:
  * Signal ([[https://signal.org/download/#][download]] from signal website. follow instructions)
  * [[id:8c446971-340b-40c4-be3a-eee7e9049a28][Syncthing]] (install it from [[https://apt.syncthing.net/][their repository]])
  * [[id:074766bc-7479-4cba-a01a-5e96aa3e22e9][Dropbox]] (install it from [[https://www.dropbox.com/install-linux][this page]], using the Ubuntu deb file)
-   * xNeed to install gir1-gtk for the newer Dropbox packages to work
+   * Need to install gir1-gtk for the newer Dropbox packages to work
 
 Install these on Desktop only:
  * Digikam from [[id:f5a3e676-3c4b-4bb3-8a99-b10c9d77b195][flatpak]] since it seems to be more up to date
