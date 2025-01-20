@@ -4,25 +4,30 @@
 #+date: [2024-12-29 Sun 13:06]
 #+title: Atomic Habits
 
-TODO: make this into a reference.
-
  * Basically, focus on the process, or the direction, not the destination.
  * You do not rise to the level of your goals, you fall to the level of your
    systems.
  * Pointing and calling as a way to explicitly name habits, good or bad.
- * 1st law of behaviour change: *make it obvious*, can schedule a time and a
-   place.  Or you can stack the habit on another habit if that habit is
-   consistent.
+ * 1st law of behaviour change: *make it obvious*
+   * Can schedule a time and a place.  Or you can *stack the habit* on
+     another habit if that habit is consistent.
    * Environment matters.  Make the cues of good habits obvious in your
      environment.
    * Easier to build new habits in a new environment.
- * The secret to self-control is to not be in tempting situations in the
-   first place.
- * Habits are modern day solution to ancient desires (Facebook isn't about
-   likes, it's about social acceptance).
- * Create a motivation ritual by doing something you enjoy immediately
-   before a difficult habit.
- * 3rd law of bahaviour change is *make it easy*.
+   * The secret to self-control is to not be in tempting situations in the
+     first place.
+ * 2nd law of behaviour change: *make it attractive*
+   * Habits are dopamine driven
+   * Anticipating a reward causes the dopamine spike, not the getting of it.
+   * Try temptation bundling.  Combine a needed task with a wanted task.
+   * We emulate habits of family, friends, the powerful.
+   * Join a culture where the normal behaviour is your desired behaviour.
+     You'll want to do the right thing just to fit in.
+   * Habits are modern day solution to ancient desires (Facebook isn't about
+     likes, it's about social acceptance).
+   * Create a motivation ritual by doing something you enjoy immediately
+     before a difficult habit.   
+ * 3rd law of behaviour change is *make it easy*.
    * Practice not planning
    * Number of repetitions is more important than length of time (which is
      possibly why my Spanish is still really bad, despite the DuoLingo)
@@ -53,5 +58,3 @@ TODO: make this into a reference.
    * Use a habit contract, signed by people you know, to add a social cost
      to breaking the habit.
    * Knowing that someone is watching you can motivate.
-
-[[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]

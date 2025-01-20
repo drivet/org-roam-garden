@@ -7,3 +7,44 @@
 A rudimentary roam replication in [[id:FA31BDBE-5F87-4DEE-ABE2-D8AFD52F7D03][org mode]] and [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]].
 
 Used for implementing general note taking and Zettelkestan.
+
+https://blog.jethro.dev/posts/introducing_org_roam/
+https://blog.jethro.dev/posts/capturing_inbox/
+https://blog.jethro.dev/posts/processing_inbox/
+https://blog.jethro.dev/posts/zettelkasten_with_org/
+https://blog.jethro.dev/posts/introducing_org_roam/
+
+** How to take smart notes with org mode:
+https://blog.jethro.dev/posts/how_to_take_smart_notes_org/
+
+Good quote here:
+
+#+begin_quote
+The primary purpose of note-taking should not be for storing ideas, but for
+developing them. When we take notes, we should ask: “In what context do I
+want to see this note again?”
+#+end_quote
+
+ * Fleeting notes (random thoughts) are taken on the daily notes
+ * 
+
+** How I take notes with org-roam   
+https://jethrokuan.github.io/org-roam-guide/
+
+Uses slip boxes:
+
+ * reference
+ * main
+ * articles (not really interested in this)
+
+He also uses an inbox, which I guess could just be my [[id:c1c6678a-b2cc-4b5c-96cd-5edc22666ab0][GTD]] inbox.
+
+Reference notes have a ROAM_REF key, which comes in two flavours:
+
+ * [cite:key] for books
+ * the URL for websites
+
+I am unclear what cite:key is supposed to mean, but this may have something
+to do with org-ref.
+
+Everything has draft tag until they don't.

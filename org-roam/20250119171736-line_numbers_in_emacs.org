@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       65bfb66d-b197-4dcd-b7c3-68bef4e0ddd7
+:END:
+#+date: [2025-01-19 Sun 17:17]
+#+title: Line numbers in Emacs
+
+You can get line numbers in [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] several ways.
+
+In the past this was accomplished with linum-mode.  In recent versions of
+emacs, we have nlinum-mode, which is used by [[id:f4553ccf-5624-492c-9a55-85962ab15f98][Emacs Prelude]].  I think the
+latter is supposed to be faster.
+
+Most recently, emacs has this built in with display-line-number-mode, which
+should probably be the go version moving forward.

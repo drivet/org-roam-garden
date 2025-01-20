@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c1c6678a-b2cc-4b5c-96cd-5edc22666ab0
+:END:
+#+date: [2025-01-12 Sun 17:33]
+#+title: GTD
+
+GTD stand for Getting Things Done.  It's a famous productivity system that
+I'm been using on and off again for years.
+
+[[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]
+

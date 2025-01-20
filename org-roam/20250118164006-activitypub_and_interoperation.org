@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       7e89ef7c-864c-4187-950a-f540d444e044
+:END:
+#+date: [2025-01-18 Sat 16:40]
+#+title: ActivityPub and Interoperation
+
+ActivityPub is supposed to allow content from one users activity feed to
+show up in another
+
+I can see roughly what this means for Mastodon instances.  You toot and then
+you push those toots to other servers.
+
+It's easy to imagine when we're dealing with the same applications.  But
+what about different applications?  What about Mastodon and [[https://join-lemmy.org/][Lemmy]] (a Reddit
+clone)?
+
+A good article about it is here:
+
+https://vijayprema.com/using-lemmy-from-my-existing-mastodon/
+
+Basically you can
+
+ * Post to Lemmy by posting to Mastodon and @ mention the group you want to
+   post to.  First line becomes the title of the post
+ * Reply to a Lemmy post: Get the direct link to the Lemmy post/comment
+   using its "rainbow Fediverse" link button in Lemmy, paste it into your
+   logged in Mastodon instance search bar, and then press Reply and post
+   your reply.
+
+** BookWyrm
+
+I'm not sure how this would work with Bookwyrm.  According to some sources,
+you can follow Bookwyrm users from your Mastodon instance and you'll see
+their updates in your feed.  More than that I don't know.  And I have a hard
+time visualizing this in reverse: following mastodon users in your bookwyrn
+account.
+
+
+[[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]
+
