@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       41030673-ce20-4b49-ad4c-6967db65c066
+:ROAM_REFS: https://www.w3.org/TR/activitypub/
+:END:
+#+date: [2025-01-21 Tue 20:54]
+#+title: ActivityPub
+
+Users are actors and actors have inboxes (messages to read) and outboxes
+(messages to send)
+
+#+begin_quote
+ * You can POST to someone's inbox to send them a message (server-to-server
+   / federation only... this is federation!)
+ * You can GET from your inbox to read your latest messages
+   (client-to-server; this is like reading your social network stream)
+ * You can POST to your outbox to send messages to the world
+   (client-to-server)
+ * You can GET from someone's outbox to see what messages they've posted (or
+   at least the ones you're authorized to see). (client-to-server and/or
+   server-to-server)
+#+end_quote
+
+Actors post activities to their outbox, or sometimes objects, like a note,
+but that just gets wrapped up in a Create, for example.  This is done via
+client to server interactions.  A client will POST to the actor's outbox,
+discoverable via their profile.
+
+The federation part of Activity happens via server to server interactions.
+Activities get posted to actors' inboxes.
+
+#+begin_quote
+Delivery is usually triggered by, for example:
+
+ * an Activity being created in an actor's outbox with their Followers Collection as the recipient.
+ * an Activity being created in an actor's outbox with directly addressed recipients.
+ * an Activity being created in an actors's outbox with user-curated collections as recipients.
+ * an Activity being created in an actor's outbox or inbox which references another object.
+#+end_quote
+
+Also you can read about the different Objects and Activities here:
+https://www.w3.org/ns/activitystreams

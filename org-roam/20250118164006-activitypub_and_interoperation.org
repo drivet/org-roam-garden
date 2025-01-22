@@ -4,7 +4,7 @@
 #+date: [2025-01-18 Sat 16:40]
 #+title: ActivityPub and Interoperation
 
-ActivityPub is supposed to allow content from one users activity feed to
+[[id:41030673-ce20-4b49-ad4c-6967db65c066][ActivityPub]] is supposed to allow content from one users activity feed to
 show up in another
 
 I can see roughly what this means for Mastodon instances.  You toot and then
@@ -29,12 +29,22 @@ Basically you can
 
 ** BookWyrm
 
-I'm not sure how this would work with Bookwyrm.  According to some sources,
-you can follow Bookwyrm users from your Mastodon instance and you'll see
-their updates in your feed.  More than that I don't know.  And I have a hard
-time visualizing this in reverse: following mastodon users in your bookwyrn
-account.
+See here:
 
+https://docs.joinbookwyrm.com/activitypub.html
+
+According to some sources, you can follow Bookwyrm users from your Mastodon
+instance and you'll see their updates in your feed.  This appears to be
+because BookWyrm convert their custom object types into standard ones when
+send updates to non-bookwyrm instances.
+
+Shows how Bookwyrm maps to ActivityPub:
+https://docs.joinbookwyrm.com/activitypub.html
+
+** Mastodon
+
+Describes how Mastodon concepts map onto ActivityPub concepts:
+https://docs.joinmastodon.org/spec/activitypub/
 
 [[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]
 
