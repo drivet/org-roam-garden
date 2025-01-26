@@ -41,6 +41,9 @@ send updates to non-bookwyrm instances.
 Shows how Bookwyrm maps to ActivityPub:
 https://docs.joinbookwyrm.com/activitypub.html
 
+Bookwyrn uses special Object types that get converted to standard ones when
+they go out.
+
 ** Mastodon
 
 Describes how Mastodon concepts map onto ActivityPub concepts:
