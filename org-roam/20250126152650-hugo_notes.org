@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       07022b8a-cfe2-4b37-8e78-0844d3f57a5c
+:END:
+#+date: [2025-01-26 Sun 15:26]
+#+title: Hugo notes
+
+[[https://gohugo.io/][Hugo]] is a static site generator written in Go.
+
+Your entire site becomes a Go module, from what I can tell.

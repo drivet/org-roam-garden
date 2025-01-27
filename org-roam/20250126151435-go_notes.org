@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       2e9a8432-0079-4155-b60c-d1a8ce60c292
+:END:
+#+date: [2025-01-26 Sun 15:14]
+#+title: Go notes
+
+Started learning Go, and it seems like a good compromise between something
+like C and something like Java or Python.
+
+** Go Modules
+
+You have to enable go module tracking in your own module:
+
+~go mod init your_module_name_here~
+
+This ends up creating a go.mode and go.sum, used to keep track of your
+current module, and the modules you use.
+
+You can update the ~go.mod~ file by running:
+
+~go mod tidy~
+
+which will add/delete the module list based your source code.
