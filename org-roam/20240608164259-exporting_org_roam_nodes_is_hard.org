@@ -12,4 +12,8 @@ Using something like orgjs doesn't work well because it doesn't handle
 PROPERTIES.  And I don't know how it handles front-matter.  It'll read the
 "#+title" but what about "#+filetags"?
 
-Maybe I need to revisit the native org-mode exporters methods here?
+Maybe I need to revisit the native org-mode exporters methods here?  For
+example, the [[id:1052934f-2104-4317-8d23-eb9e3f106a2d][ox-hugo exporter]] actually does handle the org-roam ids.  It
+will convert the org files to Hugo flavoured markdown, and if you want to
+use eleventy you have to convert the relref shortcodes.
+

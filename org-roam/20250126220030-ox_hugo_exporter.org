@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       1052934f-2104-4317-8d23-eb9e3f106a2d
+:END:
+#+date: [2025-01-26 Sun 22:00]
+#+title: Ox-hugo Exporter
+
+An [[id:FA31BDBE-5F87-4DEE-ABE2-D8AFD52F7D03][org-mode]] exporter that I use to convert and [[id:4e639dc7-567a-408b-9ec1-c3f958958952][org-roam]] note cache into a
+collection of Markdown files that can be made part of a [[id:07022b8a-cfe2-4b37-8e78-0844d3f57a5c][Hugo]] site or, with
+some massaging, and [[id:0F0DCEA3-43C5-4396-AA23-8039242035F5][eleventy]] site.
+
+One issue with using this exporter, indeed with any org exporter, is that it
+doesn't really deal with a project.  You convert individual files.  So, for
+example, when you're converting an org file to markdown, there's no notion
+of preserving that path of the file in the output.
