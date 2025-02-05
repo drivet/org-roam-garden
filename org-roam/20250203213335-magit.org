@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f490185a-0009-4fd2-98dd-6a5c593cd89a
+:END:
+#+date: [2025-02-03 Mon 21:33]
+#+title: Magit
+
+A Git porcelain in [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]].
+
+ * https://scripter.co/creating-a-patch-file-using-magit/
+ * https://www.howardism.org/Technical/Emacs/magit-squashing.html
+

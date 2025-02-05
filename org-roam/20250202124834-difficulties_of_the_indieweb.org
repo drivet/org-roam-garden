@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       2de8f172-0d92-45b5-91e7-cbc8f72a43c1
+:END:
+#+date: [2025-02-02 Sun 12:48]
+#+title: Difficulties of the IndieWeb
+
+The [[id:f9b01190-b396-4e6a-a912-83167d33968d][IndieWeb]] is clunky. Social media is slick. And the key is to embrace the
+clunky. See [[id:7accc4ba-7080-43d7-9cc1-7baf55c7a122][The Daily Stoic]]. And how it's your reaction to things that matter.
+The Obstacle is the way.

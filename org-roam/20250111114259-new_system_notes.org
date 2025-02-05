@@ -6,7 +6,8 @@
 
 [[id:9b39db1c-a987-4a6f-8d3b-4d0cc2596867][Linux Administration]]
 
-Notes for when I install a new Linux system.
+Notes for when I install a new Linux system (instructions here may be Mint
+specific)
 
 Don't bother creating partitions for boot or home.  One partition for root
 is fine especially with SSDs.
@@ -18,6 +19,9 @@ Install the following packages:
  * [[id:8c446971-340b-40c4-be3a-eee7e9049a28][Syncthing]] (install it from [[https://apt.syncthing.net/][their repository]])
  * [[id:074766bc-7479-4cba-a01a-5e96aa3e22e9][Dropbox]] (install it from [[https://www.dropbox.com/install-linux][this page]], using the Ubuntu deb file)
    * Need to install gir1-gtk for the newer Dropbox packages to work
+ * Docker (look at https://docs.docker.com/engine/install/ubuntu/)
+   * And set up so that we can [[https://stackoverflow.com/questions/48957195/how-to-fix-docker-got-permission-denied-issue][run docker as non-root]] (bottom line is to add
+     your user to the docker group, creating it if it's not there)
 
 Install these on Desktop only:
  * Digikam from [[id:f5a3e676-3c4b-4bb3-8a99-b10c9d77b195][flatpak]] since it seems to be more up to date

@@ -7,6 +7,14 @@
 Started learning Go, and it seems like a good compromise between something
 like C and something like Java or Python.
 
+This article is useful for installing Go:
+
+https://scripter.co/installing-go-toolchain/?utm_source=atom_feed
+
+Or you can look at the official Go instructions:
+
+https://scripter.co/installing-go-toolchain/?utm_source=atom_feed
+
 ** Go Modules
 
 You have to enable go module tracking in your own module:
