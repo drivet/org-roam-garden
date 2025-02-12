@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       1fefcf17-8851-477e-89b1-ab0f3f436900
+:END:
+#+date: [2025-02-11 Tue 17:44]
+#+title: Dired
+
+An [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] mode for manipulating directories and files.
+
+C-x d to start it, will show a listing of the directory
+contents. ~dired-listing-switches~ to configure the initial listing.
+
+** Visiting/Viewing Files
+
+ * RET to go and visit the file
+ * v to view the file (can press q to quit the buffer, a bit like a stack)
+ * C-o to open file in another buffer but don't focus it.
+
+** Marking
+
+Basic mark is m, and u to unmark, with a U to unmark everything like a
+reset.
+
+You can mark a subset of files like:
+
+ * ~* .~ means to mark by extension
+ * ~* /~ to mark directories
+ * ~* *~ to mark executables
+
+You use t to invert the marks, so I guess you could use it to select all
+non-directories by doing a ~* / t~

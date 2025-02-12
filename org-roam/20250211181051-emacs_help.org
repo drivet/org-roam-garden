@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       6eaa8143-2f99-48c9-849e-175bf45e3144
+:END:
+#+date: [2025-02-11 Tue 18:10]
+#+title: Emacs help
+
+[[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] has an online help system.
+
+I've installed [[https://github.com/Wilfred/helpful][helpful]] to make it better.
+
+C-h b will display the keybindings available.  Good with [[id:1fefcf17-8851-477e-89b1-ab0f3f436900][Dired]] since it
+doesn't really show what you can do in an obvious way
