@@ -16,7 +16,7 @@ jobs:
         username: ${{ secrets.SSH_USER }}
         key: ${{ secrets.SSH_KEY }}
         script: |
-          cd org-roam-11ty
+          cd org-roam-garden
           git fetch origin
           git reset --hard origin/main
           sh ./deploy.sh
