@@ -2,7 +2,7 @@
 :ID:       2e9a8432-0079-4155-b60c-d1a8ce60c292
 :END:
 #+date: [2025-01-26 Sun 15:14]
-#+title: Go notes
+#+title: Go
 
 Started learning Go, and it seems like a good compromise between something
 like C and something like Java or Python.
@@ -10,6 +10,13 @@ like C and something like Java or Python.
 This article is useful for installing Go:
 
 https://scripter.co/installing-go-toolchain/?utm_source=atom_feed
+
+ * Download go from the [[https://go.dev/doc/install][download page]] and install in /usr/local.
+ * add path to ~/.profile (if you're using bash):
+
+#+begin_src
+export PATH=$PATH:/usr/local/go/bin  
+#+end_src
 
 Or you can look at the official Go instructions:
 

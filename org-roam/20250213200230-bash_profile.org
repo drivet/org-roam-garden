@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       f2f54284-3de2-496a-945c-6515d6f7f2f8
+:END:
+#+date: [2025-02-13 Thu 20:02]
+#+title: Bash profile
+
+I always have trouble remembering which file to modify when we need to update
+a path or something for Bash.
+
+See here:
+
+https://askubuntu.com/questions/121073/why-bash-profile-is-not-getting-sourced-when-opening-a-terminal
+
+Best answer:
+
+#+begin_quote
+~/.bash_profile is only sourced by bash when started in login mode. That is
+typically when you log in at the console (Ctrl+Alt+F1..F6), connect via ssh,
+or use sudo -i or su - to run commands as another user.
+
+When you log in graphically, ~/.profile will be specifically sourced by the
+script that launches gnome-session (or whichever desktop environment you're
+using). So ~/.bash_profile is not sourced at all when you log in
+graphically.
+
+When you open a terminal, the terminal starts bash in (non-login)
+interactive mode, which means it will source ~/.bashrc.
+
+The right place for you to put these environment variables is in ~/.profile,
+and the effect should be apparent next time you log in.
+
+Sourcing ~/.bash_profile from ~/.bashrc is the wrong solution. It's supposed
+to be the other way around; ~/.bash_profile should source ~/.bashrc.
+
+See DotFiles for a more thorough explanation, including some history of why
+it is like it is.
+
+(On a side note, when installing openjdk via apt, symlinks should be set up
+by the package, so that you don't really need to set JAVA_HOME or change
+PATH)
+#+end_quote
+
+[[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]
+
