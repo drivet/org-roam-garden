@@ -6,12 +6,12 @@
 (require 'org-roam-dailies)
 
 (setq make-backup-files 'nil)
-(setq org-roam-directory (file-truename "~/org-roam-11ty/org-roam/"))
+(setq org-roam-directory (file-truename "~/org-roam-garden/org-roam/"))
 (setq org-roam-database-connector 'sqlite)
 (setq org-roam-db-location (concat org-roam-directory ".org-roam.db"))
 
 (add-to-list 'safe-local-variable-values '(org-hugo-section . "daily"))
-(setq org-hugo-base-dir "~/org-roam-11ty/")
+(setq org-hugo-base-dir "~/org-roam-garden/")
 (setq org-hugo-section ".")
 (setq org-hugo-front-matter-format "yaml")
 
@@ -26,8 +26,8 @@
 (defun doexport ()
   (org-roam-update-org-id-locations)
   (org-roam-db-sync)
-  (let* ((indir (expand-file-name "~/org-roam-11ty/org-roam"))
-         (outdir (expand-file-name "~/org-roam-11ty/content"))
+  (let* ((indir (expand-file-name "~/org-roam-garden/org-roam"))
+         (outdir (expand-file-name "~/org-roam-garden/content"))
          (search-path (file-name-as-directory indir))
          (org-files (directory-files-recursively search-path "\.org$"))
          (org-export-pair
