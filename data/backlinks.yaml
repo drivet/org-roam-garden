@@ -1,1231 +1,1231 @@
-/home/dcr/org-roam-garden/org-roam/_index: []
-/home/dcr/org-roam-garden/org-roam/20220330163452-bookmarks:
-    - file: /home/dcr/org-roam-garden/org-roam/20220331134816-putting_something_on_the_web_makes_it_accessible_and_public
+_index: []
+20220330163452-bookmarks:
+    - file: 20220331134816-putting_something_on_the_web_makes_it_accessible_and_public
       title: Putting something on the web makes it accessible and public
-/home/dcr/org-roam-garden/org-roam/20220330170542-dropbox:
-    - file: /home/dcr/org-roam-garden/org-roam/20220331134816-putting_something_on_the_web_makes_it_accessible_and_public
+20220330170542-dropbox:
+    - file: 20220331134816-putting_something_on_the_web_makes_it_accessible_and_public
       title: Putting something on the web makes it accessible and public
-    - file: /home/dcr/org-roam-garden/org-roam/20240521150631-accessibility_privacy_matrix
+    - file: 20240521150631-accessibility_privacy_matrix
       title: Accessibility Privacy Matrix
-    - file: /home/dcr/org-roam-garden/org-roam/20220330163452-bookmarks
+    - file: 20220330163452-bookmarks
       title: Bookmarks
-    - file: /home/dcr/org-roam-garden/org-roam/20250111114259-new_system_notes
+    - file: 20250111114259-new_system_notes
       title: New system notes
-/home/dcr/org-roam-garden/org-roam/20220330170935-static_site_generator:
-    - file: /home/dcr/org-roam-garden/org-roam/20220330163452-bookmarks
+20220330170935-static_site_generator:
+    - file: 20220330163452-bookmarks
       title: Bookmarks
-/home/dcr/org-roam-garden/org-roam/20220330171607-indieweb:
-    - file: /home/dcr/org-roam-garden/org-roam/20220725083519-open_graph_metadata_versus_indieweb
+20220330171607-indieweb:
+    - file: 20220725083519-open_graph_metadata_versus_indieweb
       title: Open graph metadata versus IndieWeb microformats
-    - file: /home/dcr/org-roam-garden/org-roam/20250202124834-difficulties_of_the_indieweb
+    - file: 20250202124834-difficulties_of_the_indieweb
       title: Difficulties of the IndieWeb
-    - file: /home/dcr/org-roam-garden/org-roam/20220729145350-open_graph_description_and_indieweb_summary
+    - file: 20220729145350-open_graph_description_and_indieweb_summary
       title: Open Graph Description and IndieWeb Summary
-    - file: /home/dcr/org-roam-garden/org-roam/20220330163452-bookmarks
+    - file: 20220330163452-bookmarks
       title: Bookmarks
-    - file: /home/dcr/org-roam-garden/org-roam/20220405173506-microformats_turn_webpages_into_rest_services
+    - file: 20220405173506-microformats_turn_webpages_into_rest_services
       title: Microformats turn webpages into REST services
-    - file: /home/dcr/org-roam-garden/org-roam/20220725084901-post_summaries_versus_excerpts
+    - file: 20220725084901-post_summaries_versus_excerpts
       title: Post summaries versus excerpts
-    - file: /home/dcr/org-roam-garden/org-roam/20220408104516-microformats
+    - file: 20220408104516-microformats
       title: Microformats
-/home/dcr/org-roam-garden/org-roam/20220330211231-emacs:
-    - file: /home/dcr/org-roam-garden/org-roam/20250211174414-dired
+20220330211231-emacs:
+    - file: 20250211174414-dired
       title: Dired
-    - file: /home/dcr/org-roam-garden/org-roam/20220405211245-emacs_filling
+    - file: 20220405211245-emacs_filling
       title: Emacs filling
-    - file: /home/dcr/org-roam-garden/org-roam/20220408082732-email_clients_for_emacs
+    - file: 20220408082732-email_clients_for_emacs
       title: Email clients for emacs
-    - file: /home/dcr/org-roam-garden/org-roam/20240521150631-accessibility_privacy_matrix
+    - file: 20240521150631-accessibility_privacy_matrix
       title: Accessibility Privacy Matrix
-    - file: /home/dcr/org-roam-garden/org-roam/20220407100752-company
+    - file: 20220407100752-company
       title: Company-mode
-    - file: /home/dcr/org-roam-garden/org-roam/20220407085905-gnus
+    - file: 20220407085905-gnus
       title: Gnus
-    - file: /home/dcr/org-roam-garden/org-roam/20220408083823-mu4e
+    - file: 20220408083823-mu4e
       title: Mu4e
-    - file: /home/dcr/org-roam-garden/org-roam/20220330163452-bookmarks
+    - file: 20220330163452-bookmarks
       title: Bookmarks
-    - file: /home/dcr/org-roam-garden/org-roam/20250103201501-org_roam
+    - file: 20250103201501-org_roam
       title: Org Roam
-    - file: /home/dcr/org-roam-garden/org-roam/20240522133544-ivy_counsel_swiper
+    - file: 20240522133544-ivy_counsel_swiper
       title: Ivy, Counsel, Swiper
-    - file: /home/dcr/org-roam-garden/org-roam/20220405213753-why_org_roam
+    - file: 20220405213753-why_org_roam
       title: Why org-roam?
-    - file: /home/dcr/org-roam-garden/org-roam/20240527090609-systems_which_feed_themselves
+    - file: 20240527090609-systems_which_feed_themselves
       title: Systems which feed themselves
-    - file: /home/dcr/org-roam-garden/org-roam/20220405081901-text_based_lists_in_emacs
+    - file: 20220405081901-text_based_lists_in_emacs
       title: Text based lists in Emacs
-    - file: /home/dcr/org-roam-garden/org-roam/20220408124037-emacs_selections
+    - file: 20220408124037-emacs_selections
       title: Emacs selections
-    - file: /home/dcr/org-roam-garden/org-roam/20220405211947-emacs_autoloading
+    - file: 20220405211947-emacs_autoloading
       title: Emacs autoloading
-    - file: /home/dcr/org-roam-garden/org-roam/20250119171736-line_numbers_in_emacs
+    - file: 20250119171736-line_numbers_in_emacs
       title: Line numbers in Emacs
-    - file: /home/dcr/org-roam-garden/org-roam/20250211181051-emacs_help
+    - file: 20250211181051-emacs_help
       title: Emacs help
-    - file: /home/dcr/org-roam-garden/org-roam/20220405180647-bbdb_quick_start
+    - file: 20220405180647-bbdb_quick_start
       title: BBDB quick start
-    - file: /home/dcr/org-roam-garden/org-roam/20240528134643-emacs_keymaps
+    - file: 20240528134643-emacs_keymaps
       title: Emacs Keymaps
-    - file: /home/dcr/org-roam-garden/org-roam/20240514095718-emacs_general_strategy
+    - file: 20240514095718-emacs_general_strategy
       title: Emacs General Strategy
-    - file: /home/dcr/org-roam-garden/org-roam/20240521134703-personal_information_management
+    - file: 20240521134703-personal_information_management
       title: Personal Information Management
-    - file: /home/dcr/org-roam-garden/org-roam/20240521154150-obsidian
+    - file: 20240521154150-obsidian
       title: Obsidian
-    - file: /home/dcr/org-roam-garden/org-roam/20240521133232-digital_garden
+    - file: 20240521133232-digital_garden
       title: Digital Garden
-    - file: /home/dcr/org-roam-garden/org-roam/20220609093053-org_mode
+    - file: 20220609093053-org_mode
       title: Org Mode
-    - file: /home/dcr/org-roam-garden/org-roam/_index
+    - file: _index
       title: Start here
-    - file: /home/dcr/org-roam-garden/org-roam/20220407090333-email
+    - file: 20220407090333-email
       title: Email
-    - file: /home/dcr/org-roam-garden/org-roam/20220408115344-moving_around_in_emacs
+    - file: 20220408115344-moving_around_in_emacs
       title: Moving around in Emacs
-    - file: /home/dcr/org-roam-garden/org-roam/20220408123339-emacs_mark
+    - file: 20220408123339-emacs_mark
       title: Emacs mark
-    - file: /home/dcr/org-roam-garden/org-roam/20240528223217-indenting_regions
+    - file: 20240528223217-indenting_regions
       title: Indenting regions
-    - file: /home/dcr/org-roam-garden/org-roam/20220407100846-emacs_prelude
+    - file: 20220407100846-emacs_prelude
       title: Emacs Prelude
-    - file: /home/dcr/org-roam-garden/org-roam/20250203213335-magit
+    - file: 20250203213335-magit
       title: Magit
-    - file: /home/dcr/org-roam-garden/org-roam/20220331165901-yasnippet_index
+    - file: 20220331165901-yasnippet_index
       title: Yasnippet index
-    - file: /home/dcr/org-roam-garden/org-roam/20220405213419-emacs_spelling
+    - file: 20220405213419-emacs_spelling
       title: Emacs spelling
-/home/dcr/org-roam-garden/org-roam/20220331133254-plain_text_is_durable_and_software_agnostic:
-    - file: /home/dcr/org-roam-garden/org-roam/20220408103816-low_tech_is_good_for_durability
+20220331133254-plain_text_is_durable_and_software_agnostic:
+    - file: 20220408103816-low_tech_is_good_for_durability
       title: Low tech is good for durability
-    - file: /home/dcr/org-roam-garden/org-roam/20220405213753-why_org_roam
+    - file: 20220405213753-why_org_roam
       title: Why org-roam?
-    - file: /home/dcr/org-roam-garden/org-roam/20240521154150-obsidian
+    - file: 20240521154150-obsidian
       title: Obsidian
-    - file: /home/dcr/org-roam-garden/org-roam/20240521133232-digital_garden
+    - file: 20240521133232-digital_garden
       title: Digital Garden
-    - file: /home/dcr/org-roam-garden/org-roam/20220609093053-org_mode
+    - file: 20220609093053-org_mode
       title: Org Mode
-    - file: /home/dcr/org-roam-garden/org-roam/20220330211231-emacs
+    - file: 20220330211231-emacs
       title: Emacs
-    - file: /home/dcr/org-roam-garden/org-roam/20220330171607-indieweb
+    - file: 20220330171607-indieweb
       title: IndieWeb
-/home/dcr/org-roam-garden/org-roam/20220331133740-data_should_be_software_agnostic:
-    - file: /home/dcr/org-roam-garden/org-roam/20220609093053-org_mode
+20220331133740-data_should_be_software_agnostic:
+    - file: 20220609093053-org_mode
       title: Org Mode
-    - file: /home/dcr/org-roam-garden/org-roam/20220331133254-plain_text_is_durable_and_software_agnostic
+    - file: 20220331133254-plain_text_is_durable_and_software_agnostic
       title: Plain text is durable and software agnostic
-/home/dcr/org-roam-garden/org-roam/20220331134816-putting_something_on_the_web_makes_it_accessible_and_public: []
-/home/dcr/org-roam-garden/org-roam/20220331165548-yasnippet_directory_structure:
-    - file: /home/dcr/org-roam-garden/org-roam/20220331165901-yasnippet_index
+20220331134816-putting_something_on_the_web_makes_it_accessible_and_public: []
+20220331165548-yasnippet_directory_structure:
+    - file: 20220331165901-yasnippet_index
       title: Yasnippet index
-/home/dcr/org-roam-garden/org-roam/20220331165901-yasnippet_index: []
-/home/dcr/org-roam-garden/org-roam/20220404202611-laphroaig_10_year_tasting_notes: []
-/home/dcr/org-roam-garden/org-roam/20220405081901-text_based_lists_in_emacs: []
-/home/dcr/org-roam-garden/org-roam/20220405090557-i_have_decided_to_care: []
-/home/dcr/org-roam-garden/org-roam/20220405093827-scotch_tasting:
-    - file: /home/dcr/org-roam-garden/org-roam/20240521165115-food_and_drink
+20220331165901-yasnippet_index: []
+20220404202611-laphroaig_10_year_tasting_notes: []
+20220405081901-text_based_lists_in_emacs: []
+20220405090557-i_have_decided_to_care: []
+20220405093827-scotch_tasting:
+    - file: 20240521165115-food_and_drink
       title: Food and drink
-    - file: /home/dcr/org-roam-garden/org-roam/20220404202611-laphroaig_10_year_tasting_notes
+    - file: 20220404202611-laphroaig_10_year_tasting_notes
       title: Laphroaig 10 year tasting notes
-    - file: /home/dcr/org-roam-garden/org-roam/20220406224359-bowmore_12_year_old_scotch
+    - file: 20220406224359-bowmore_12_year_old_scotch
       title: Bowmore 12 year old scotch
-    - file: /home/dcr/org-roam-garden/org-roam/20220411192811-whisky_tasting
+    - file: 20220411192811-whisky_tasting
       title: Whisky tasting
-/home/dcr/org-roam-garden/org-roam/20220405173506-microformats_turn_webpages_into_rest_services: []
-/home/dcr/org-roam-garden/org-roam/20220405175357-different_approaches_to_the_cms: []
-/home/dcr/org-roam-garden/org-roam/20220405180647-bbdb_quick_start:
-    - file: /home/dcr/org-roam-garden/org-roam/20240521134703-personal_information_management
+20220405173506-microformats_turn_webpages_into_rest_services: []
+20220405175357-different_approaches_to_the_cms: []
+20220405180647-bbdb_quick_start:
+    - file: 20240521134703-personal_information_management
       title: Personal Information Management
-/home/dcr/org-roam-garden/org-roam/20220405181732-bogofilter_basics: []
-/home/dcr/org-roam-garden/org-roam/20220405185129-certificate_management_basics:
-    - file: /home/dcr/org-roam-garden/org-roam/20220405185721-certificate_management_with_openssl
+20220405181732-bogofilter_basics: []
+20220405185129-certificate_management_basics:
+    - file: 20220405185721-certificate_management_with_openssl
       title: Certificate management with OpenSSL
-/home/dcr/org-roam-garden/org-roam/20220405185721-certificate_management_with_openssl:
-    - file: /home/dcr/org-roam-garden/org-roam/20220405185129-certificate_management_basics
+20220405185721-certificate_management_with_openssl:
+    - file: 20220405185129-certificate_management_basics
       title: Certificate management basics
-/home/dcr/org-roam-garden/org-roam/20220405205356-dvd_ripping_and_burning: []
-/home/dcr/org-roam-garden/org-roam/20220405210456-email_setup: []
-/home/dcr/org-roam-garden/org-roam/20220405211245-emacs_filling: []
-/home/dcr/org-roam-garden/org-roam/20220405211947-emacs_autoloading: []
-/home/dcr/org-roam-garden/org-roam/20220405213419-emacs_spelling: []
-/home/dcr/org-roam-garden/org-roam/20220405213753-why_org_roam:
-    - file: /home/dcr/org-roam-garden/org-roam/20240611093846-roam_export_notes
+20220405205356-dvd_ripping_and_burning: []
+20220405210456-email_setup: []
+20220405211245-emacs_filling: []
+20220405211947-emacs_autoloading: []
+20220405213419-emacs_spelling: []
+20220405213753-why_org_roam:
+    - file: 20240611093846-roam_export_notes
       title: Roam export notes
-    - file: /home/dcr/org-roam-garden/org-roam/20240522142154-emacs_full_text_search
+    - file: 20240522142154-emacs_full_text_search
       title: Emacs full text search
-    - file: /home/dcr/org-roam-garden/org-roam/20240521134703-personal_information_management
+    - file: 20240521134703-personal_information_management
       title: Personal Information Management
-    - file: /home/dcr/org-roam-garden/org-roam/20240521154150-obsidian
+    - file: 20240521154150-obsidian
       title: Obsidian
-    - file: /home/dcr/org-roam-garden/org-roam/20240521133232-digital_garden
+    - file: 20240521133232-digital_garden
       title: Digital Garden
-/home/dcr/org-roam-garden/org-roam/20220405230218-vnc_basics: []
-/home/dcr/org-roam-garden/org-roam/20220405230443-tcp_sniffing: []
-/home/dcr/org-roam-garden/org-roam/20220405230606-mysql_starter: []
-/home/dcr/org-roam-garden/org-roam/20220406110036-gnus_initial_newsrc: []
-/home/dcr/org-roam-garden/org-roam/20220406110210-gnus_group_buffer: []
-/home/dcr/org-roam-garden/org-roam/20220406115931-gnus_subscription: []
-/home/dcr/org-roam-garden/org-roam/20220406120418-gnus_summary_buffer:
-    - file: /home/dcr/org-roam-garden/org-roam/20220406120758-gnus_posting
+20220405230218-vnc_basics: []
+20220405230443-tcp_sniffing: []
+20220405230606-mysql_starter: []
+20220406110036-gnus_initial_newsrc: []
+20220406110210-gnus_group_buffer: []
+20220406115931-gnus_subscription: []
+20220406120418-gnus_summary_buffer:
+    - file: 20220406120758-gnus_posting
       title: Gnus posting
-    - file: /home/dcr/org-roam-garden/org-roam/20220406121431-gnus_marks
+    - file: 20220406121431-gnus_marks
       title: Gnus marks
-    - file: /home/dcr/org-roam-garden/org-roam/20220406110210-gnus_group_buffer
+    - file: 20220406110210-gnus_group_buffer
       title: Gnus group buffer
-/home/dcr/org-roam-garden/org-roam/20220406120758-gnus_posting: []
-/home/dcr/org-roam-garden/org-roam/20220406120858-gnus_topics: []
-/home/dcr/org-roam-garden/org-roam/20220406121129-gnus_headers: []
-/home/dcr/org-roam-garden/org-roam/20220406121220-gnus_deleting_and_expiring: []
-/home/dcr/org-roam-garden/org-roam/20220406121431-gnus_marks: []
-/home/dcr/org-roam-garden/org-roam/20220406121549-gnus_threading: []
-/home/dcr/org-roam-garden/org-roam/20220406121634-gnus_moving_mail: []
-/home/dcr/org-roam-garden/org-roam/20220406121702-gnus_rss_feeds: []
-/home/dcr/org-roam-garden/org-roam/20220406223318-lagabiere-lagarousse: []
-/home/dcr/org-roam-garden/org-roam/20220406223335-beer_tasting:
-    - file: /home/dcr/org-roam-garden/org-roam/20240622203151-kolsch_du_clocher_griendel
+20220406120758-gnus_posting: []
+20220406120858-gnus_topics: []
+20220406121129-gnus_headers: []
+20220406121220-gnus_deleting_and_expiring: []
+20220406121431-gnus_marks: []
+20220406121549-gnus_threading: []
+20220406121634-gnus_moving_mail: []
+20220406121702-gnus_rss_feeds: []
+20220406223318-lagabiere-lagarousse: []
+20220406223335-beer_tasting:
+    - file: 20240622203151-kolsch_du_clocher_griendel
       title: Kolsch du Clocher (Griendel)
-    - file: /home/dcr/org-roam-garden/org-roam/20220519201843-brise_de_lac_pilsner_archibald
+    - file: 20220519201843-brise_de_lac_pilsner_archibald
       title: Brise de Lac Pilsner (Archibald)
-    - file: /home/dcr/org-roam-garden/org-roam/20250103093910-ecossaise_alchimiste
+    - file: 20250103093910-ecossaise_alchimiste
       title: Ecossaise (Alchimiste)
-    - file: /home/dcr/org-roam-garden/org-roam/20240629155436-pilsner_urquell_pilser_urquell_brewery
+    - file: 20240629155436-pilsner_urquell_pilser_urquell_brewery
       title: Pilsner Urquell (Pilser Urquell Brewery)
-    - file: /home/dcr/org-roam-garden/org-roam/20220416220612-champ_libre_bebe_loup
+    - file: 20220416220612-champ_libre_bebe_loup
       title: Champ Libre Bebe Loup Session NEIPA
-    - file: /home/dcr/org-roam-garden/org-roam/20241022081614-60_shilling_albion
+    - file: 20241022081614-60_shilling_albion
       title: 60-Shilling (Albion)
-    - file: /home/dcr/org-roam-garden/org-roam/20220612105207-l_apothicaire_pale_ale_belge
+    - file: 20220612105207-l_apothicaire_pale_ale_belge
       title: L'Apothicaire Pale Ale Belge
-    - file: /home/dcr/org-roam-garden/org-roam/20220407213108-lagger_allermande_4_origine
+    - file: 20220407213108-lagger_allermande_4_origine
       title: Lager allermande 4 origine
-    - file: /home/dcr/org-roam-garden/org-roam/20240715094156-4_origines_original_lager
+    - file: 20240715094156-4_origines_original_lager
       title: 4 Origines Original Lager
-    - file: /home/dcr/org-roam-garden/org-roam/20240628201135-voyageur_des_brume_dieu_du_ciel
+    - file: 20240628201135-voyageur_des_brume_dieu_du_ciel
       title: Voyageur des Brume (Dieu du Ciel)
-    - file: /home/dcr/org-roam-garden/org-roam/20220522131151-la_p_tite_vite_nano_ipa
+    - file: 20220522131151-la_p_tite_vite_nano_ipa
       title: La P'Tite Vite (Nano IPA)
-    - file: /home/dcr/org-roam-garden/org-roam/20220726202836-doris_blonde_le_naufrageur
+    - file: 20220726202836-doris_blonde_le_naufrageur
       title: Doris Blonde (Le Naufrageur)
-    - file: /home/dcr/org-roam-garden/org-roam/20240520130145-apriknot_4_origines
+    - file: 20240520130145-apriknot_4_origines
       title: Apriknot (4 Origines)
-    - file: /home/dcr/org-roam-garden/org-roam/20220416104009-le_castor_ukraine_pale
+    - file: 20220416104009-le_castor_ukraine_pale
       title: Le Castor Ukraine Pale
-    - file: /home/dcr/org-roam-garden/org-roam/20240930155130-wills_dark_lager
+    - file: 20240930155130-wills_dark_lager
       title: Wills Dark Lager
-    - file: /home/dcr/org-roam-garden/org-roam/20220419085155-pakt_beer_india_session_lager
+    - file: 20220419085155-pakt_beer_india_session_lager
       title: Pakt beer India Session Lager
-    - file: /home/dcr/org-roam-garden/org-roam/20240521165115-food_and_drink
+    - file: 20240521165115-food_and_drink
       title: Food and drink
-    - file: /home/dcr/org-roam-garden/org-roam/20240802092057-wildeye_czech_pilsner
+    - file: 20240802092057-wildeye_czech_pilsner
       title: Wildeye Czech Pilsner
-    - file: /home/dcr/org-roam-garden/org-roam/20240516135947-st_amboise_ipa
+    - file: 20240516135947-st_amboise_ipa
       title: St. Ambroise IPA
-    - file: /home/dcr/org-roam-garden/org-roam/20240801131519-archibald_matante_blond_ale
+    - file: 20240801131519-archibald_matante_blond_ale
       title: Archibald Matante Blond Ale
-    - file: /home/dcr/org-roam-garden/org-roam/20220527112105-chipie_archibald
+    - file: 20220527112105-chipie_archibald
       title: Chipie (Archibald)
-    - file: /home/dcr/org-roam-garden/org-roam/20240528221723-farnham_lager
+    - file: 20240528221723-farnham_lager
       title: Farnham Lager
-    - file: /home/dcr/org-roam-garden/org-roam/20241022081240-la_chasse_puyjalon
+    - file: 20241022081240-la_chasse_puyjalon
       title: La Chasse (Puyjalon)
-    - file: /home/dcr/org-roam-garden/org-roam/20241012164628-quebec_marzen
+    - file: 20241012164628-quebec_marzen
       title: Quebec Marzen
-    - file: /home/dcr/org-roam-garden/org-roam/20250102193517-blonde_alchimiste
+    - file: 20250102193517-blonde_alchimiste
       title: Blonde (Alchimiste)
-    - file: /home/dcr/org-roam-garden/org-roam/20240528222200-griffintown_blonde_ale
+    - file: 20240528222200-griffintown_blonde_ale
       title: Griffintown blonde ale
-    - file: /home/dcr/org-roam-garden/org-roam/20250206200203-pale_ale_americaine_dunham
+    - file: 20250206200203-pale_ale_americaine_dunham
       title: Pale Ale Americaine (Dunham)
-    - file: /home/dcr/org-roam-garden/org-roam/20220627212449-ltm_pale_ale_americaine
+    - file: 20220627212449-ltm_pale_ale_americaine
       title: LTM Pale Ale Americaine
-    - file: /home/dcr/org-roam-garden/org-roam/20220501093128-le_castor_nz_pilsner
+    - file: 20220501093128-le_castor_nz_pilsner
       title: Le Castor NZ Pilsner
-    - file: /home/dcr/org-roam-garden/org-roam/20240709074658-griendel_fashion_victim_neipa_de_seigle
+    - file: 20240709074658-griendel_fashion_victim_neipa_de_seigle
       title: Griendel Fashion Victim NEIPA de seigle
-    - file: /home/dcr/org-roam-garden/org-roam/20220513082517-le_nain_de_jardin
+    - file: 20220513082517-le_nain_de_jardin
       title: Le Nain De Jardin
-    - file: /home/dcr/org-roam-garden/org-roam/20220604201706-ipa_session_joos_monsregius
+    - file: 20220604201706-ipa_session_joos_monsregius
       title: IPA Session Joos (MonsRegius)
-    - file: /home/dcr/org-roam-garden/org-roam/20220519081531-innis_and_gunn_lager
+    - file: 20220519081531-innis_and_gunn_lager
       title: Innis and Gunn Lager
-    - file: /home/dcr/org-roam-garden/org-roam/20220507130328-stout_blanc_coffee_blonde_ale
+    - file: 20220507130328-stout_blanc_coffee_blonde_ale
       title: Stout Blanc Coffee Blonde Ale
-    - file: /home/dcr/org-roam-garden/org-roam/20220529163611-l_utopia_session_neipa
+    - file: 20220529163611-l_utopia_session_neipa
       title: L'Utopia Session NEIPA
-    - file: /home/dcr/org-roam-garden/org-roam/20220515104454-czech_pilser_maltstrom
+    - file: 20220515104454-czech_pilser_maltstrom
       title: Czech Pilser (Maltstrom)
-    - file: /home/dcr/org-roam-garden/org-roam/20240516140804-bois_blanc_red_burgey
+    - file: 20240516140804-bois_blanc_red_burgey
       title: Bois Blanc Red Burgey
-    - file: /home/dcr/org-roam-garden/org-roam/20220514143655-refresh_lager_2_crows
+    - file: 20220514143655-refresh_lager_2_crows
       title: Refresh Lager (2 Crows)
-    - file: /home/dcr/org-roam-garden/org-roam/20241012164157-classic_pilsner_maltstrom
+    - file: 20241012164157-classic_pilsner_maltstrom
       title: Classic Pilsner (Maltstrom)
-    - file: /home/dcr/org-roam-garden/org-roam/20240901164421-petite_morale_dieu_de_ciel
+    - file: 20240901164421-petite_morale_dieu_de_ciel
       title: Petite Morale (Dieu de Ciel)
-    - file: /home/dcr/org-roam-garden/org-roam/20220406223553-menaud_anglaise_tasting_notes
+    - file: 20220406223553-menaud_anglaise_tasting_notes
       title: Menaud Anglaise
-    - file: /home/dcr/org-roam-garden/org-roam/20240622095545-milford_nz_pilsner_gaspard
+    - file: 20240622095545-milford_nz_pilsner_gaspard
       title: Milford NZ Pilsner (Gaspard)
-    - file: /home/dcr/org-roam-garden/org-roam/20250119214142-les_jardins_albion
+    - file: 20250119214142-les_jardins_albion
       title: Les Jardins (Albion)
-    - file: /home/dcr/org-roam-garden/org-roam/20240625095528-bubble_stash_ipa_hop_valley_brewing
+    - file: 20240625095528-bubble_stash_ipa_hop_valley_brewing
       title: Bubble Stash IPA (Hop Valley Brewing)
-    - file: /home/dcr/org-roam-garden/org-roam/20240618100340-fausse_passe_puyjalon
+    - file: 20240618100340-fausse_passe_puyjalon
       title: Fausse Passe (Puyjalon)
-    - file: /home/dcr/org-roam-garden/org-roam/20240810094619-albion_brasseries_albion
+    - file: 20240810094619-albion_brasseries_albion
       title: Albion (Brasseries Albion)
-    - file: /home/dcr/org-roam-garden/org-roam/20240521164538-joliette_bitter_alchimiste
+    - file: 20240521164538-joliette_bitter_alchimiste
       title: Bitter (Alchimiste)
-    - file: /home/dcr/org-roam-garden/org-roam/20240801131248-bois_blanc_demi_jour_stout
+    - file: 20240801131248-bois_blanc_demi_jour_stout
       title: Bois Blanc Demi Jour Stout
-    - file: /home/dcr/org-roam-garden/org-roam/20220424223601-sentinelle_beer_dieu_du_ciel
+    - file: 20220424223601-sentinelle_beer_dieu_du_ciel
       title: Sentinelle Beer (Dieu du Ciel)
-    - file: /home/dcr/org-roam-garden/org-roam/20220511161511-birra_finelli_tiramisu_stout
+    - file: 20220511161511-birra_finelli_tiramisu_stout
       title: Birra Finelli Tiramisu Stout
-    - file: /home/dcr/org-roam-garden/org-roam/20241012164335-mr_smee_brown_ale_griendel
+    - file: 20241012164335-mr_smee_brown_ale_griendel
       title: Mr Smee Brown Ale (Griendel)
-    - file: /home/dcr/org-roam-garden/org-roam/20220406223318-lagabiere-lagarousse
+    - file: 20220406223318-lagabiere-lagarousse
       title: LagaRousse (Lagabiere)
-    - file: /home/dcr/org-roam-garden/org-roam/20240711080943-les_grands_bois_st_caz_pilsner
+    - file: 20240711080943-les_grands_bois_st_caz_pilsner
       title: Les Grands Bois St Caz Pilsner
-    - file: /home/dcr/org-roam-garden/org-roam/20220423230856-le_castor_talus
+    - file: 20220423230856-le_castor_talus
       title: Le Castor Talus
-    - file: /home/dcr/org-roam-garden/org-roam/20240914120633-wills_blonde_ale
+    - file: 20240914120633-wills_blonde_ale
       title: Wills Blonde Ale
-    - file: /home/dcr/org-roam-garden/org-roam/20220627212145-ltm_pilser_blond_langer
+    - file: 20220627212145-ltm_pilser_blond_langer
       title: LTM Pilser Blond Lager
-    - file: /home/dcr/org-roam-garden/org-roam/20220623083722-nuit_blanche_white_ipa_archibald
+    - file: 20220623083722-nuit_blanche_white_ipa_archibald
       title: Nuit Blanche White IPA (Archibald)
-    - file: /home/dcr/org-roam-garden/org-roam/20220501094754-la_ferme_blonde_miel
+    - file: 20220501094754-la_ferme_blonde_miel
       title: La Ferme Blonde Miel
-    - file: /home/dcr/org-roam-garden/org-roam/20220604201118-cobblestone_organic_stout_mill_st_brewery
+    - file: 20220604201118-cobblestone_organic_stout_mill_st_brewery
       title: Cobblestone Organic Stout (Mill St Brewery)
-    - file: /home/dcr/org-roam-garden/org-roam/20240625094725-la_rouse_foutee_shawbridge
+    - file: 20240625094725-la_rouse_foutee_shawbridge
       title: La Rouse Foutee (Shawbridge)
-    - file: /home/dcr/org-roam-garden/org-roam/20220503211818-lagabiere_ta_moin_fort
+    - file: 20220503211818-lagabiere_ta_moin_fort
       title: Lagabiere Ta Moin Fort
-    - file: /home/dcr/org-roam-garden/org-roam/20240625095003-mill_street_organic_lager
+    - file: 20240625095003-mill_street_organic_lager
       title: Mill Street Organic Lager
-    - file: /home/dcr/org-roam-garden/org-roam/20240830172430-saint_arnould_riviere_rouge_toasted_red_ale
+    - file: 20240830172430-saint_arnould_riviere_rouge_toasted_red_ale
       title: Saint Arnould Riviere Rouge Toasted Red Ale
-    - file: /home/dcr/org-roam-garden/org-roam/20240601163755-wunderbar_vagabond
+    - file: 20240601163755-wunderbar_vagabond
       title: Wunderbar (Vagabond)
-    - file: /home/dcr/org-roam-garden/org-roam/20240711080630-bench_hazy_ipa
+    - file: 20240711080630-bench_hazy_ipa
       title: Bench Short Hills Hazy IPA
-    - file: /home/dcr/org-roam-garden/org-roam/20220503214242-boreale_nano_ipa_des_vallees
+    - file: 20220503214242-boreale_nano_ipa_des_vallees
       title: Boreale Nano IPA Des Vallees
-    - file: /home/dcr/org-roam-garden/org-roam/20250112175557-pale_ale_alchimiste
+    - file: 20250112175557-pale_ale_alchimiste
       title: Pale ale (Alchimiste)
-    - file: /home/dcr/org-roam-garden/org-roam/20240511172752-vanlife_pale_ale_d_apres_route_vagabond
+    - file: 20240511172752-vanlife_pale_ale_d_apres_route_vagabond
       title: Vanlife Pale Ale D'Apres Route (Vagabond)
-    - file: /home/dcr/org-roam-garden/org-roam/20220612104744-cai_men_men_pilsner_atypique
+    - file: 20220612104744-cai_men_men_pilsner_atypique
       title: Cai Men Men (Pilsner Atypique)
-    - file: /home/dcr/org-roam-garden/org-roam/20220506155031-cote_canale_4_origines
+    - file: 20220506155031-cote_canale_4_origines
       title: Cote Canale 4 Origines
-/home/dcr/org-roam-garden/org-roam/20220406223553-menaud_anglaise_tasting_notes:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172249-pale_ales_enlish_bitters
+20220406223553-menaud_anglaise_tasting_notes:
+    - file: 20250103172249-pale_ales_enlish_bitters
       title: Pale ales, Enlish bitters, etc.
-/home/dcr/org-roam-garden/org-roam/20220406224359-bowmore_12_year_old_scotch: []
-/home/dcr/org-roam-garden/org-roam/20220407085905-gnus:
-    - file: /home/dcr/org-roam-garden/org-roam/20220406121702-gnus_rss_feeds
+20220406224359-bowmore_12_year_old_scotch: []
+20220407085905-gnus:
+    - file: 20220406121702-gnus_rss_feeds
       title: Gnus RSS feeds
-    - file: /home/dcr/org-roam-garden/org-roam/20220406120858-gnus_topics
+    - file: 20220406120858-gnus_topics
       title: Gnus Topics
-    - file: /home/dcr/org-roam-garden/org-roam/20220406120758-gnus_posting
+    - file: 20220406120758-gnus_posting
       title: Gnus posting
-    - file: /home/dcr/org-roam-garden/org-roam/20220406121431-gnus_marks
+    - file: 20220406121431-gnus_marks
       title: Gnus marks
-    - file: /home/dcr/org-roam-garden/org-roam/20220408082732-email_clients_for_emacs
+    - file: 20220408082732-email_clients_for_emacs
       title: Email clients for emacs
-    - file: /home/dcr/org-roam-garden/org-roam/20220406121634-gnus_moving_mail
+    - file: 20220406121634-gnus_moving_mail
       title: Gnus moving mail
-    - file: /home/dcr/org-roam-garden/org-roam/20220407085905-gnus
+    - file: 20220407085905-gnus
       title: Gnus
-    - file: /home/dcr/org-roam-garden/org-roam/20220407200704-gnus_group_levels
+    - file: 20220407200704-gnus_group_levels
       title: Gnus group levels
-    - file: /home/dcr/org-roam-garden/org-roam/20220406110210-gnus_group_buffer
+    - file: 20220406110210-gnus_group_buffer
       title: Gnus group buffer
-    - file: /home/dcr/org-roam-garden/org-roam/20220406120418-gnus_summary_buffer
+    - file: 20220406120418-gnus_summary_buffer
       title: Gnus summary buffer
-    - file: /home/dcr/org-roam-garden/org-roam/20220406110036-gnus_initial_newsrc
+    - file: 20220406110036-gnus_initial_newsrc
       title: Gnus initial .newsrc
-    - file: /home/dcr/org-roam-garden/org-roam/20220406121129-gnus_headers
+    - file: 20220406121129-gnus_headers
       title: Gnus Headers
-    - file: /home/dcr/org-roam-garden/org-roam/20220406121220-gnus_deleting_and_expiring
+    - file: 20220406121220-gnus_deleting_and_expiring
       title: Gnus deleting and expiring
-    - file: /home/dcr/org-roam-garden/org-roam/20220406115931-gnus_subscription
+    - file: 20220406115931-gnus_subscription
       title: Gnus subscription
-    - file: /home/dcr/org-roam-garden/org-roam/20220406121549-gnus_threading
+    - file: 20220406121549-gnus_threading
       title: Gnus threading
-    - file: /home/dcr/org-roam-garden/org-roam/20220407090333-email
+    - file: 20220407090333-email
       title: Email
-    - file: /home/dcr/org-roam-garden/org-roam/20220407201307-gnus_archiving_and_drafts
+    - file: 20220407201307-gnus_archiving_and_drafts
       title: Gnus archiving and drafts
-/home/dcr/org-roam-garden/org-roam/20220407090333-email:
-    - file: /home/dcr/org-roam-garden/org-roam/20220408082732-email_clients_for_emacs
+20220407090333-email:
+    - file: 20220408082732-email_clients_for_emacs
       title: Email clients for emacs
-    - file: /home/dcr/org-roam-garden/org-roam/20220408083823-mu4e
+    - file: 20220408083823-mu4e
       title: Mu4e
-    - file: /home/dcr/org-roam-garden/org-roam/20220405181732-bogofilter_basics
+    - file: 20220405181732-bogofilter_basics
       title: Bogofilter basics
-    - file: /home/dcr/org-roam-garden/org-roam/20220405210456-email_setup
+    - file: 20220405210456-email_setup
       title: Email setup
-/home/dcr/org-roam-garden/org-roam/20220407100752-company: []
-/home/dcr/org-roam-garden/org-roam/20220407100846-emacs_prelude:
-    - file: /home/dcr/org-roam-garden/org-roam/20220407100752-company
+20220407100752-company: []
+20220407100846-emacs_prelude:
+    - file: 20220407100752-company
       title: Company-mode
-    - file: /home/dcr/org-roam-garden/org-roam/20250119171736-line_numbers_in_emacs
+    - file: 20250119171736-line_numbers_in_emacs
       title: Line numbers in Emacs
-    - file: /home/dcr/org-roam-garden/org-roam/20240522142154-emacs_full_text_search
+    - file: 20240522142154-emacs_full_text_search
       title: Emacs full text search
-/home/dcr/org-roam-garden/org-roam/20220407200704-gnus_group_levels: []
-/home/dcr/org-roam-garden/org-roam/20220407201307-gnus_archiving_and_drafts: []
-/home/dcr/org-roam-garden/org-roam/20220407201646-flask:
-    - file: /home/dcr/org-roam-garden/org-roam/20220407213656-flask_contexts_and_locals
+20220407200704-gnus_group_levels: []
+20220407201307-gnus_archiving_and_drafts: []
+20220407201646-flask:
+    - file: 20220407213656-flask_contexts_and_locals
       title: Flask contexts and locals
-    - file: /home/dcr/org-roam-garden/org-roam/20220407203315-flask_blueprints
+    - file: 20220407203315-flask_blueprints
       title: Flask blueprints
-    - file: /home/dcr/org-roam-garden/org-roam/20220407203214-flask_urls
+    - file: 20220407203214-flask_urls
       title: Flask URLs
-/home/dcr/org-roam-garden/org-roam/20220407201705-python:
-    - file: /home/dcr/org-roam-garden/org-roam/20220407201646-flask
+20220407201705-python:
+    - file: 20220407201646-flask
       title: Flask
-/home/dcr/org-roam-garden/org-roam/20220407203214-flask_urls: []
-/home/dcr/org-roam-garden/org-roam/20220407203315-flask_blueprints: []
-/home/dcr/org-roam-garden/org-roam/20220407213108-lagger_allermande_4_origine:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172143-blond_lagers_ales_pilsners
+20220407203214-flask_urls: []
+20220407203315-flask_blueprints: []
+20220407213108-lagger_allermande_4_origine:
+    - file: 20250103172143-blond_lagers_ales_pilsners
       title: Blond lagers, ales, pilsners, etc.
-/home/dcr/org-roam-garden/org-roam/20220407213656-flask_contexts_and_locals: []
-/home/dcr/org-roam-garden/org-roam/20220408082732-email_clients_for_emacs:
-    - file: /home/dcr/org-roam-garden/org-roam/20220407085905-gnus
+20220407213656-flask_contexts_and_locals: []
+20220408082732-email_clients_for_emacs:
+    - file: 20220407085905-gnus
       title: Gnus
-    - file: /home/dcr/org-roam-garden/org-roam/20220330211231-emacs
+    - file: 20220330211231-emacs
       title: Emacs
-/home/dcr/org-roam-garden/org-roam/20220408083823-mu4e:
-    - file: /home/dcr/org-roam-garden/org-roam/20220408082732-email_clients_for_emacs
+20220408083823-mu4e:
+    - file: 20220408082732-email_clients_for_emacs
       title: Email clients for emacs
-/home/dcr/org-roam-garden/org-roam/20220408103816-low_tech_is_good_for_durability: []
-/home/dcr/org-roam-garden/org-roam/20220408104516-microformats:
-    - file: /home/dcr/org-roam-garden/org-roam/20220405173506-microformats_turn_webpages_into_rest_services
+20220408103816-low_tech_is_good_for_durability: []
+20220408104516-microformats:
+    - file: 20220405173506-microformats_turn_webpages_into_rest_services
       title: Microformats turn webpages into REST services
-    - file: /home/dcr/org-roam-garden/org-roam/20220330171607-indieweb
+    - file: 20220330171607-indieweb
       title: IndieWeb
-/home/dcr/org-roam-garden/org-roam/20220408115344-moving_around_in_emacs:
-    - file: /home/dcr/org-roam-garden/org-roam/20220408124037-emacs_selections
+20220408115344-moving_around_in_emacs:
+    - file: 20220408124037-emacs_selections
       title: Emacs selections
-/home/dcr/org-roam-garden/org-roam/20220408123339-emacs_mark:
-    - file: /home/dcr/org-roam-garden/org-roam/20220408115344-moving_around_in_emacs
+20220408123339-emacs_mark:
+    - file: 20220408115344-moving_around_in_emacs
       title: Moving around in Emacs
-/home/dcr/org-roam-garden/org-roam/20220408124037-emacs_selections:
-    - file: /home/dcr/org-roam-garden/org-roam/20220408115344-moving_around_in_emacs
+20220408124037-emacs_selections:
+    - file: 20220408115344-moving_around_in_emacs
       title: Moving around in Emacs
-/home/dcr/org-roam-garden/org-roam/20220409120012-aviation_gin:
-    - file: /home/dcr/org-roam-garden/org-roam/20220409211943-botanist_scottish_gin
+20220409120012-aviation_gin:
+    - file: 20220409211943-botanist_scottish_gin
       title: Botanist scottish gin
-/home/dcr/org-roam-garden/org-roam/20220409120023-gin_tasting:
-    - file: /home/dcr/org-roam-garden/org-roam/20220409120012-aviation_gin
+20220409120023-gin_tasting:
+    - file: 20220409120012-aviation_gin
       title: Aviation american gin
-    - file: /home/dcr/org-roam-garden/org-roam/20240521165115-food_and_drink
+    - file: 20240521165115-food_and_drink
       title: Food and drink
-    - file: /home/dcr/org-roam-garden/org-roam/20220412095357-beefeater_gin
+    - file: 20220412095357-beefeater_gin
       title: Beefeater gin
-    - file: /home/dcr/org-roam-garden/org-roam/20220409211943-botanist_scottish_gin
+    - file: 20220409211943-botanist_scottish_gin
       title: Botanist scottish gin
-    - file: /home/dcr/org-roam-garden/org-roam/20220412174403-seventh_heaven_dry_gin
+    - file: 20220412174403-seventh_heaven_dry_gin
       title: Seventh Heaven dry gin
-    - file: /home/dcr/org-roam-garden/org-roam/20220411211922-gin_mugo
+    - file: 20220411211922-gin_mugo
       title: Gin mugo
-/home/dcr/org-roam-garden/org-roam/20220409211943-botanist_scottish_gin:
-    - file: /home/dcr/org-roam-garden/org-roam/20220409120012-aviation_gin
+20220409211943-botanist_scottish_gin:
+    - file: 20220409120012-aviation_gin
       title: Aviation american gin
-    - file: /home/dcr/org-roam-garden/org-roam/20220412095357-beefeater_gin
+    - file: 20220412095357-beefeater_gin
       title: Beefeater gin
-/home/dcr/org-roam-garden/org-roam/20220410125345-markdown:
-    - file: /home/dcr/org-roam-garden/org-roam/20240611093846-roam_export_notes
+20220410125345-markdown:
+    - file: 20240611093846-roam_export_notes
       title: Roam export notes
-    - file: /home/dcr/org-roam-garden/org-roam/20220405081901-text_based_lists_in_emacs
+    - file: 20220405081901-text_based_lists_in_emacs
       title: Text based lists in Emacs
-/home/dcr/org-roam-garden/org-roam/20220411192749-lot_40_rye_whisky: []
-/home/dcr/org-roam-garden/org-roam/20220411192811-whisky_tasting:
-    - file: /home/dcr/org-roam-garden/org-roam/20240521165115-food_and_drink
+20220411192749-lot_40_rye_whisky: []
+20220411192811-whisky_tasting:
+    - file: 20240521165115-food_and_drink
       title: Food and drink
-    - file: /home/dcr/org-roam-garden/org-roam/20220411192749-lot_40_rye_whisky
+    - file: 20220411192749-lot_40_rye_whisky
       title: Lot 40 Rye Whisky
-    - file: /home/dcr/org-roam-garden/org-roam/20240520125044-pike_creek_double_barreled_canadian_whisky
+    - file: 20240520125044-pike_creek_double_barreled_canadian_whisky
       title: Pike Creek Double Barreled Canadian Whisky
-    - file: /home/dcr/org-roam-garden/org-roam/20250102200301-lot_40_100_rye_whisky
+    - file: 20250102200301-lot_40_100_rye_whisky
       title: Lot 40 100% Rye Whisky
-    - file: /home/dcr/org-roam-garden/org-roam/20220411193109-signal_hill_canadian_whisky
+    - file: 20220411193109-signal_hill_canadian_whisky
       title: Signal Hill Canadian Whisky
-/home/dcr/org-roam-garden/org-roam/20220411193109-signal_hill_canadian_whisky: []
-/home/dcr/org-roam-garden/org-roam/20220411211922-gin_mugo: []
-/home/dcr/org-roam-garden/org-roam/20220412095357-beefeater_gin: []
-/home/dcr/org-roam-garden/org-roam/20220412174403-seventh_heaven_dry_gin: []
-/home/dcr/org-roam-garden/org-roam/20220416104009-le_castor_ukraine_pale:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172249-pale_ales_enlish_bitters
+20220411193109-signal_hill_canadian_whisky: []
+20220411211922-gin_mugo: []
+20220412095357-beefeater_gin: []
+20220412174403-seventh_heaven_dry_gin: []
+20220416104009-le_castor_ukraine_pale:
+    - file: 20250103172249-pale_ales_enlish_bitters
       title: Pale ales, Enlish bitters, etc.
-/home/dcr/org-roam-garden/org-roam/20220416104310-lagabiere:
-    - file: /home/dcr/org-roam-garden/org-roam/20220406223318-lagabiere-lagarousse
+20220416104310-lagabiere:
+    - file: 20220406223318-lagabiere-lagarousse
       title: LagaRousse (Lagabiere)
-    - file: /home/dcr/org-roam-garden/org-roam/20220503211818-lagabiere_ta_moin_fort
+    - file: 20220503211818-lagabiere_ta_moin_fort
       title: Lagabiere Ta Moin Fort
-/home/dcr/org-roam-garden/org-roam/20220416220612-champ_libre_bebe_loup:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172648-ipas_apas_etc
+20220416220612-champ_libre_bebe_loup:
+    - file: 20250103172648-ipas_apas_etc
       title: IPAs, APAs, etc.
-/home/dcr/org-roam-garden/org-roam/20220416220637-champ_libre:
-    - file: /home/dcr/org-roam-garden/org-roam/20220416220612-champ_libre_bebe_loup
+20220416220637-champ_libre:
+    - file: 20220416220612-champ_libre_bebe_loup
       title: Champ Libre Bebe Loup Session NEIPA
-/home/dcr/org-roam-garden/org-roam/20220419085155-pakt_beer_india_session_lager:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172648-ipas_apas_etc
+20220419085155-pakt_beer_india_session_lager:
+    - file: 20250103172648-ipas_apas_etc
       title: IPAs, APAs, etc.
-/home/dcr/org-roam-garden/org-roam/20220419085259-pakt_beer_co:
-    - file: /home/dcr/org-roam-garden/org-roam/20220419085155-pakt_beer_india_session_lager
+20220419085259-pakt_beer_co:
+    - file: 20220419085155-pakt_beer_india_session_lager
       title: Pakt beer India Session Lager
-    - file: /home/dcr/org-roam-garden/org-roam/20240618141554-breweries
+    - file: 20240618141554-breweries
       title: Breweries
-/home/dcr/org-roam-garden/org-roam/20220420123039-gcp:
-    - file: /home/dcr/org-roam-garden/org-roam/20220420130943-cloud_service_provider
+20220420123039-gcp:
+    - file: 20220420130943-cloud_service_provider
       title: Cloud Service Provider
-    - file: /home/dcr/org-roam-garden/org-roam/20240623143038-cloud_authentication_and_authorization
+    - file: 20240623143038-cloud_authentication_and_authorization
       title: Cloud authentication and authorization
-/home/dcr/org-roam-garden/org-roam/20220420130943-cloud_service_provider:
-    - file: /home/dcr/org-roam-garden/org-roam/20240623143038-cloud_authentication_and_authorization
+20220420130943-cloud_service_provider:
+    - file: 20240623143038-cloud_authentication_and_authorization
       title: Cloud authentication and authorization
-/home/dcr/org-roam-garden/org-roam/20220423230856-le_castor_talus:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172648-ipas_apas_etc
+20220423230856-le_castor_talus:
+    - file: 20250103172648-ipas_apas_etc
       title: IPAs, APAs, etc.
-/home/dcr/org-roam-garden/org-roam/20220423231055-le_castor_brewing_company:
-    - file: /home/dcr/org-roam-garden/org-roam/20220416104009-le_castor_ukraine_pale
+20220423231055-le_castor_brewing_company:
+    - file: 20220416104009-le_castor_ukraine_pale
       title: Le Castor Ukraine Pale
-    - file: /home/dcr/org-roam-garden/org-roam/20220501093128-le_castor_nz_pilsner
+    - file: 20220501093128-le_castor_nz_pilsner
       title: Le Castor NZ Pilsner
-    - file: /home/dcr/org-roam-garden/org-roam/20220423230856-le_castor_talus
+    - file: 20220423230856-le_castor_talus
       title: Le Castor Talus
-/home/dcr/org-roam-garden/org-roam/20220424223601-sentinelle_beer_dieu_du_ciel:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172143-blond_lagers_ales_pilsners
+20220424223601-sentinelle_beer_dieu_du_ciel:
+    - file: 20250103172143-blond_lagers_ales_pilsners
       title: Blond lagers, ales, pilsners, etc.
-/home/dcr/org-roam-garden/org-roam/20220424223755-dieu_du_ciel:
-    - file: /home/dcr/org-roam-garden/org-roam/20240628201135-voyageur_des_brume_dieu_du_ciel
+20220424223755-dieu_du_ciel:
+    - file: 20240628201135-voyageur_des_brume_dieu_du_ciel
       title: Voyageur des Brume (Dieu du Ciel)
-    - file: /home/dcr/org-roam-garden/org-roam/20240901164421-petite_morale_dieu_de_ciel
+    - file: 20240901164421-petite_morale_dieu_de_ciel
       title: Petite Morale (Dieu de Ciel)
-    - file: /home/dcr/org-roam-garden/org-roam/20220424223601-sentinelle_beer_dieu_du_ciel
+    - file: 20220424223601-sentinelle_beer_dieu_du_ciel
       title: Sentinelle Beer (Dieu du Ciel)
-/home/dcr/org-roam-garden/org-roam/20220501093128-le_castor_nz_pilsner:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172143-blond_lagers_ales_pilsners
+20220501093128-le_castor_nz_pilsner:
+    - file: 20250103172143-blond_lagers_ales_pilsners
       title: Blond lagers, ales, pilsners, etc.
-/home/dcr/org-roam-garden/org-roam/20220501094754-la_ferme_blonde_miel:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172249-pale_ales_enlish_bitters
+20220501094754-la_ferme_blonde_miel:
+    - file: 20250103172249-pale_ales_enlish_bitters
       title: Pale ales, Enlish bitters, etc.
-/home/dcr/org-roam-garden/org-roam/20220501094827-la_ferme_brasserie_rurale:
-    - file: /home/dcr/org-roam-garden/org-roam/20220501094754-la_ferme_blonde_miel
+20220501094827-la_ferme_brasserie_rurale:
+    - file: 20220501094754-la_ferme_blonde_miel
       title: La Ferme Blonde Miel
-/home/dcr/org-roam-garden/org-roam/20220503211818-lagabiere_ta_moin_fort:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172648-ipas_apas_etc
+20220503211818-lagabiere_ta_moin_fort:
+    - file: 20250103172648-ipas_apas_etc
       title: IPAs, APAs, etc.
-/home/dcr/org-roam-garden/org-roam/20220503213219-menaud:
-    - file: /home/dcr/org-roam-garden/org-roam/20220406223553-menaud_anglaise_tasting_notes
+20220503213219-menaud:
+    - file: 20220406223553-menaud_anglaise_tasting_notes
       title: Menaud Anglaise
-/home/dcr/org-roam-garden/org-roam/20220503214242-boreale_nano_ipa_des_vallees:
-    - file: /home/dcr/org-roam-garden/org-roam/20220503214242-boreale_nano_ipa_des_vallees
+20220503214242-boreale_nano_ipa_des_vallees:
+    - file: 20220503214242-boreale_nano_ipa_des_vallees
       title: Boreale Nano IPA Des Vallees
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172648-ipas_apas_etc
+    - file: 20250103172648-ipas_apas_etc
       title: IPAs, APAs, etc.
-/home/dcr/org-roam-garden/org-roam/20220504204756-constitutions: []
-/home/dcr/org-roam-garden/org-roam/20220506155031-cote_canale_4_origines:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172648-ipas_apas_etc
+20220504204756-constitutions: []
+20220506155031-cote_canale_4_origines:
+    - file: 20250103172648-ipas_apas_etc
       title: IPAs, APAs, etc.
-/home/dcr/org-roam-garden/org-roam/20220507130328-stout_blanc_coffee_blonde_ale:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172553-stouts_porters_dark_lagers_etc
+20220507130328-stout_blanc_coffee_blonde_ale:
+    - file: 20250103172553-stouts_porters_dark_lagers_etc
       title: Stouts, Porters, Dark lagers, etc.
-/home/dcr/org-roam-garden/org-roam/20220507130353-oshlag_brewery:
-    - file: /home/dcr/org-roam-garden/org-roam/20220507130328-stout_blanc_coffee_blonde_ale
+20220507130353-oshlag_brewery:
+    - file: 20220507130328-stout_blanc_coffee_blonde_ale
       title: Stout Blanc Coffee Blonde Ale
-/home/dcr/org-roam-garden/org-roam/20220511161511-birra_finelli_tiramisu_stout:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172553-stouts_porters_dark_lagers_etc
+20220511161511-birra_finelli_tiramisu_stout:
+    - file: 20250103172553-stouts_porters_dark_lagers_etc
       title: Stouts, Porters, Dark lagers, etc.
-/home/dcr/org-roam-garden/org-roam/20220511161633-birra_finelli:
-    - file: /home/dcr/org-roam-garden/org-roam/20220511161511-birra_finelli_tiramisu_stout
+20220511161633-birra_finelli:
+    - file: 20220511161511-birra_finelli_tiramisu_stout
       title: Birra Finelli Tiramisu Stout
-/home/dcr/org-roam-garden/org-roam/20220513082517-le_nain_de_jardin:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172249-pale_ales_enlish_bitters
+20220513082517-le_nain_de_jardin:
+    - file: 20250103172249-pale_ales_enlish_bitters
       title: Pale ales, Enlish bitters, etc.
-/home/dcr/org-roam-garden/org-roam/20220513082544-microbasserie_du_lac_saint_jean:
-    - file: /home/dcr/org-roam-garden/org-roam/20220513082517-le_nain_de_jardin
+20220513082544-microbasserie_du_lac_saint_jean:
+    - file: 20220513082517-le_nain_de_jardin
       title: Le Nain De Jardin
-/home/dcr/org-roam-garden/org-roam/20220514143655-refresh_lager_2_crows:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172143-blond_lagers_ales_pilsners
+20220514143655-refresh_lager_2_crows:
+    - file: 20250103172143-blond_lagers_ales_pilsners
       title: Blond lagers, ales, pilsners, etc.
-/home/dcr/org-roam-garden/org-roam/20220514143749-2_crows_brewery:
-    - file: /home/dcr/org-roam-garden/org-roam/20240618141554-breweries
+20220514143749-2_crows_brewery:
+    - file: 20240618141554-breweries
       title: Breweries
-    - file: /home/dcr/org-roam-garden/org-roam/20220514143655-refresh_lager_2_crows
+    - file: 20220514143655-refresh_lager_2_crows
       title: Refresh Lager (2 Crows)
-/home/dcr/org-roam-garden/org-roam/20220515104454-czech_pilser_maltstrom:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172143-blond_lagers_ales_pilsners
+20220515104454-czech_pilser_maltstrom:
+    - file: 20250103172143-blond_lagers_ales_pilsners
       title: Blond lagers, ales, pilsners, etc.
-/home/dcr/org-roam-garden/org-roam/20220515104540-maltstrom_brewery:
-    - file: /home/dcr/org-roam-garden/org-roam/20220515104454-czech_pilser_maltstrom
+20220515104540-maltstrom_brewery:
+    - file: 20220515104454-czech_pilser_maltstrom
       title: Czech Pilser (Maltstrom)
-    - file: /home/dcr/org-roam-garden/org-roam/20241012164157-classic_pilsner_maltstrom
+    - file: 20241012164157-classic_pilsner_maltstrom
       title: Classic Pilsner (Maltstrom)
-/home/dcr/org-roam-garden/org-roam/20220519081531-innis_and_gunn_lager:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172143-blond_lagers_ales_pilsners
+20220519081531-innis_and_gunn_lager:
+    - file: 20250103172143-blond_lagers_ales_pilsners
       title: Blond lagers, ales, pilsners, etc.
-/home/dcr/org-roam-garden/org-roam/20220519081604-innis_and_gunn:
-    - file: /home/dcr/org-roam-garden/org-roam/20240618141554-breweries
+20220519081604-innis_and_gunn:
+    - file: 20240618141554-breweries
       title: Breweries
-    - file: /home/dcr/org-roam-garden/org-roam/20220519081531-innis_and_gunn_lager
+    - file: 20220519081531-innis_and_gunn_lager
       title: Innis and Gunn Lager
-/home/dcr/org-roam-garden/org-roam/20220519201843-brise_de_lac_pilsner_archibald:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172143-blond_lagers_ales_pilsners
+20220519201843-brise_de_lac_pilsner_archibald:
+    - file: 20250103172143-blond_lagers_ales_pilsners
       title: Blond lagers, ales, pilsners, etc.
-/home/dcr/org-roam-garden/org-roam/20220519202154-archibald:
-    - file: /home/dcr/org-roam-garden/org-roam/20220519201843-brise_de_lac_pilsner_archibald
+20220519202154-archibald:
+    - file: 20220519201843-brise_de_lac_pilsner_archibald
       title: Brise de Lac Pilsner (Archibald)
-    - file: /home/dcr/org-roam-garden/org-roam/20240801131519-archibald_matante_blond_ale
+    - file: 20240801131519-archibald_matante_blond_ale
       title: Archibald Matante Blond Ale
-    - file: /home/dcr/org-roam-garden/org-roam/20220527112105-chipie_archibald
+    - file: 20220527112105-chipie_archibald
       title: Chipie (Archibald)
-    - file: /home/dcr/org-roam-garden/org-roam/20220623083722-nuit_blanche_white_ipa_archibald
+    - file: 20220623083722-nuit_blanche_white_ipa_archibald
       title: Nuit Blanche White IPA (Archibald)
-/home/dcr/org-roam-garden/org-roam/20220522131151-la_p_tite_vite_nano_ipa:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172648-ipas_apas_etc
+20220522131151-la_p_tite_vite_nano_ipa:
+    - file: 20250103172648-ipas_apas_etc
       title: IPAs, APAs, etc.
-/home/dcr/org-roam-garden/org-roam/20220522131309-ras_l_bock:
-    - file: /home/dcr/org-roam-garden/org-roam/20220522131151-la_p_tite_vite_nano_ipa
+20220522131309-ras_l_bock:
+    - file: 20220522131151-la_p_tite_vite_nano_ipa
       title: La P'Tite Vite (Nano IPA)
-/home/dcr/org-roam-garden/org-roam/20220522131342-folle_mesure_session_ipa: []
-/home/dcr/org-roam-garden/org-roam/20220522131408-siboire:
-    - file: /home/dcr/org-roam-garden/org-roam/20220522131342-folle_mesure_session_ipa
+20220522131342-folle_mesure_session_ipa: []
+20220522131408-siboire:
+    - file: 20220522131342-folle_mesure_session_ipa
       title: Folle Mesure (Session IPA)
-/home/dcr/org-roam-garden/org-roam/20220527112105-chipie_archibald:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172342-red_ales_lagers
+20220527112105-chipie_archibald:
+    - file: 20250103172342-red_ales_lagers
       title: Red ales, lagers, etc
-/home/dcr/org-roam-garden/org-roam/20220527134452-breweries_in_quebec:
-    - file: /home/dcr/org-roam-garden/org-roam/20240520130557-4_origines
+20220527134452-breweries_in_quebec:
+    - file: 20240520130557-4_origines
       title: 4 Origines
-    - file: /home/dcr/org-roam-garden/org-roam/20220522131408-siboire
+    - file: 20220522131408-siboire
       title: Siboire
-    - file: /home/dcr/org-roam-garden/org-roam/20240528222427-brasseur_de_montreal
+    - file: 20240528222427-brasseur_de_montreal
       title: Brasseur de Montreal
-    - file: /home/dcr/org-roam-garden/org-roam/20240511173050-vagabond_brewery
+    - file: 20240511173050-vagabond_brewery
       title: Vagabond Brewery
-    - file: /home/dcr/org-roam-garden/org-roam/20220416104310-lagabiere
+    - file: 20220416104310-lagabiere
       title: Lagabiere
-    - file: /home/dcr/org-roam-garden/org-roam/20220424223755-dieu_du_ciel
+    - file: 20220424223755-dieu_du_ciel
       title: Dieu du Ciel
-    - file: /home/dcr/org-roam-garden/org-roam/20220515104540-maltstrom_brewery
+    - file: 20220515104540-maltstrom_brewery
       title: Maltstrom Brewery
-    - file: /home/dcr/org-roam-garden/org-roam/20220612104857-brasserie_depareillee
+    - file: 20220612104857-brasserie_depareillee
       title: Brasserie Depareillee
-    - file: /home/dcr/org-roam-garden/org-roam/20220519202154-archibald
+    - file: 20220519202154-archibald
       title: Archibald
-    - file: /home/dcr/org-roam-garden/org-roam/20240521164750-alchimiste
+    - file: 20240521164750-alchimiste
       title: Alchimiste
-    - file: /home/dcr/org-roam-garden/org-roam/20240618100528-puyjalon_brewery
+    - file: 20240618100528-puyjalon_brewery
       title: Puyjalon Brewery
-    - file: /home/dcr/org-roam-garden/org-roam/20220423231055-le_castor_brewing_company
+    - file: 20220423231055-le_castor_brewing_company
       title: Le Castor Brewing Company
-    - file: /home/dcr/org-roam-garden/org-roam/20240618141554-breweries
+    - file: 20240618141554-breweries
       title: Breweries
-    - file: /home/dcr/org-roam-garden/org-roam/20220513082544-microbasserie_du_lac_saint_jean
+    - file: 20220513082544-microbasserie_du_lac_saint_jean
       title: Microbasserie Du Lac Saint Jean
-    - file: /home/dcr/org-roam-garden/org-roam/20220511161633-birra_finelli
+    - file: 20220511161633-birra_finelli
       title: Birra Finelli
-    - file: /home/dcr/org-roam-garden/org-roam/20220604201730-monsregius
+    - file: 20220604201730-monsregius
       title: MonsRegius
-    - file: /home/dcr/org-roam-garden/org-roam/20240516140947-bois_blanc
+    - file: 20240516140947-bois_blanc
       title: Bois Blanc
-    - file: /home/dcr/org-roam-garden/org-roam/20240625094822-shawbridge
+    - file: 20240625094822-shawbridge
       title: Shawbridge
-    - file: /home/dcr/org-roam-garden/org-roam/20220527134740-boreale
+    - file: 20220527134740-boreale
       title: Boreale
-    - file: /home/dcr/org-roam-garden/org-roam/20220522131309-ras_l_bock
+    - file: 20220522131309-ras_l_bock
       title: Ras L'Bock
-    - file: /home/dcr/org-roam-garden/org-roam/20220726203045-la_naufrageur
+    - file: 20220726203045-la_naufrageur
       title: La Naufrageur
-    - file: /home/dcr/org-roam-garden/org-roam/20220627212242-les_trois_mousquetaires
+    - file: 20220627212242-les_trois_mousquetaires
       title: Les Trois Mousquetaires
-    - file: /home/dcr/org-roam-garden/org-roam/20240622203517-griendel
+    - file: 20240622203517-griendel
       title: Griendel
-    - file: /home/dcr/org-roam-garden/org-roam/20220507130353-oshlag_brewery
+    - file: 20220507130353-oshlag_brewery
       title: Oshlag Brewery
-    - file: /home/dcr/org-roam-garden/org-roam/20220612105529-brasserie_l_apothicaire
+    - file: 20220612105529-brasserie_l_apothicaire
       title: Brasserie L'Apothicaire
-    - file: /home/dcr/org-roam-garden/org-roam/20220503213219-menaud
+    - file: 20220503213219-menaud
       title: Menaud
-    - file: /home/dcr/org-roam-garden/org-roam/20220623084044-st_pancrace
+    - file: 20220623084044-st_pancrace
       title: St Pancrace
-    - file: /home/dcr/org-roam-garden/org-roam/20220416220637-champ_libre
+    - file: 20220416220637-champ_libre
       title: Champ Libre
-    - file: /home/dcr/org-roam-garden/org-roam/20220501094827-la_ferme_brasserie_rurale
+    - file: 20220501094827-la_ferme_brasserie_rurale
       title: La Ferme Brasserie Rurale
-    - file: /home/dcr/org-roam-garden/org-roam/20240528221916-farnham
+    - file: 20240528221916-farnham
       title: Farnham
-/home/dcr/org-roam-garden/org-roam/20220527134740-boreale:
-    - file: /home/dcr/org-roam-garden/org-roam/20220503214242-boreale_nano_ipa_des_vallees
+20220527134740-boreale:
+    - file: 20220503214242-boreale_nano_ipa_des_vallees
       title: Boreale Nano IPA Des Vallees
-/home/dcr/org-roam-garden/org-roam/20220529163611-l_utopia_session_neipa:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172648-ipas_apas_etc
+20220529163611-l_utopia_session_neipa:
+    - file: 20250103172648-ipas_apas_etc
       title: IPAs, APAs, etc.
-/home/dcr/org-roam-garden/org-roam/20220529163652-les_insulaires_microbrasserie:
-    - file: /home/dcr/org-roam-garden/org-roam/20220529163611-l_utopia_session_neipa
+20220529163652-les_insulaires_microbrasserie:
+    - file: 20220529163611-l_utopia_session_neipa
       title: L'Utopia Session NEIPA
-/home/dcr/org-roam-garden/org-roam/20220604201118-cobblestone_organic_stout_mill_st_brewery:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172553-stouts_porters_dark_lagers_etc
+20220604201118-cobblestone_organic_stout_mill_st_brewery:
+    - file: 20250103172553-stouts_porters_dark_lagers_etc
       title: Stouts, Porters, Dark lagers, etc.
-/home/dcr/org-roam-garden/org-roam/20220604201505-mill_st_brewery:
-    - file: /home/dcr/org-roam-garden/org-roam/20240618141554-breweries
+20220604201505-mill_st_brewery:
+    - file: 20240618141554-breweries
       title: Breweries
-    - file: /home/dcr/org-roam-garden/org-roam/20220604201118-cobblestone_organic_stout_mill_st_brewery
+    - file: 20220604201118-cobblestone_organic_stout_mill_st_brewery
       title: Cobblestone Organic Stout (Mill St Brewery)
-    - file: /home/dcr/org-roam-garden/org-roam/20240625095003-mill_street_organic_lager
+    - file: 20240625095003-mill_street_organic_lager
       title: Mill Street Organic Lager
-/home/dcr/org-roam-garden/org-roam/20220604201706-ipa_session_joos_monsregius:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172648-ipas_apas_etc
+20220604201706-ipa_session_joos_monsregius:
+    - file: 20250103172648-ipas_apas_etc
       title: IPAs, APAs, etc.
-/home/dcr/org-roam-garden/org-roam/20220604201730-monsregius:
-    - file: /home/dcr/org-roam-garden/org-roam/20220604201706-ipa_session_joos_monsregius
+20220604201730-monsregius:
+    - file: 20220604201706-ipa_session_joos_monsregius
       title: IPA Session Joos (MonsRegius)
-/home/dcr/org-roam-garden/org-roam/20220606222636-interactive_fiction: []
-/home/dcr/org-roam-garden/org-roam/20220606222834-tads:
-    - file: /home/dcr/org-roam-garden/org-roam/20220606222636-interactive_fiction
+20220606222636-interactive_fiction: []
+20220606222834-tads:
+    - file: 20220606222636-interactive_fiction
       title: Interactive Fiction
-/home/dcr/org-roam-garden/org-roam/20220609093053-org_mode:
-    - file: /home/dcr/org-roam-garden/org-roam/20250126220030-ox_hugo_exporter
+20220609093053-org_mode:
+    - file: 20250126220030-ox_hugo_exporter
       title: Ox-hugo Exporter
-    - file: /home/dcr/org-roam-garden/org-roam/20250103201501-org_roam
+    - file: 20250103201501-org_roam
       title: Org Roam
-    - file: /home/dcr/org-roam-garden/org-roam/20220405213753-why_org_roam
+    - file: 20220405213753-why_org_roam
       title: Why org-roam?
-    - file: /home/dcr/org-roam-garden/org-roam/20220405081901-text_based_lists_in_emacs
+    - file: 20220405081901-text_based_lists_in_emacs
       title: Text based lists in Emacs
-    - file: /home/dcr/org-roam-garden/org-roam/20240521134703-personal_information_management
+    - file: 20240521134703-personal_information_management
       title: Personal Information Management
-    - file: /home/dcr/org-roam-garden/org-roam/20220330211231-emacs
+    - file: 20220330211231-emacs
       title: Emacs
-/home/dcr/org-roam-garden/org-roam/20220612104744-cai_men_men_pilsner_atypique:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172143-blond_lagers_ales_pilsners
+20220612104744-cai_men_men_pilsner_atypique:
+    - file: 20250103172143-blond_lagers_ales_pilsners
       title: Blond lagers, ales, pilsners, etc.
-/home/dcr/org-roam-garden/org-roam/20220612104857-brasserie_depareillee:
-    - file: /home/dcr/org-roam-garden/org-roam/20220612104744-cai_men_men_pilsner_atypique
+20220612104857-brasserie_depareillee:
+    - file: 20220612104744-cai_men_men_pilsner_atypique
       title: Cai Men Men (Pilsner Atypique)
-/home/dcr/org-roam-garden/org-roam/20220612105207-l_apothicaire_pale_ale_belge:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172249-pale_ales_enlish_bitters
+20220612105207-l_apothicaire_pale_ale_belge:
+    - file: 20250103172249-pale_ales_enlish_bitters
       title: Pale ales, Enlish bitters, etc.
-/home/dcr/org-roam-garden/org-roam/20220612105529-brasserie_l_apothicaire:
-    - file: /home/dcr/org-roam-garden/org-roam/20220612105207-l_apothicaire_pale_ale_belge
+20220612105529-brasserie_l_apothicaire:
+    - file: 20220612105207-l_apothicaire_pale_ale_belge
       title: L'Apothicaire Pale Ale Belge
-/home/dcr/org-roam-garden/org-roam/20220623083722-nuit_blanche_white_ipa_archibald:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172648-ipas_apas_etc
+20220623083722-nuit_blanche_white_ipa_archibald:
+    - file: 20250103172648-ipas_apas_etc
       title: IPAs, APAs, etc.
-/home/dcr/org-roam-garden/org-roam/20220623084007-flume_ale_doree: []
-/home/dcr/org-roam-garden/org-roam/20220623084044-st_pancrace:
-    - file: /home/dcr/org-roam-garden/org-roam/20220623084007-flume_ale_doree
+20220623084007-flume_ale_doree: []
+20220623084044-st_pancrace:
+    - file: 20220623084007-flume_ale_doree
       title: Flume Ale doree
-/home/dcr/org-roam-garden/org-roam/20220627134136-christianity_and_the_bible:
-    - file: /home/dcr/org-roam-garden/org-roam/20220627134136-christianity_and_the_bible
+20220627134136-christianity_and_the_bible:
+    - file: 20220627134136-christianity_and_the_bible
       title: Christianity and the Bible
-/home/dcr/org-roam-garden/org-roam/20220627212145-ltm_pilser_blond_langer:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172143-blond_lagers_ales_pilsners
+20220627212145-ltm_pilser_blond_langer:
+    - file: 20250103172143-blond_lagers_ales_pilsners
       title: Blond lagers, ales, pilsners, etc.
-/home/dcr/org-roam-garden/org-roam/20220627212242-les_trois_mousquetaires:
-    - file: /home/dcr/org-roam-garden/org-roam/20220627212449-ltm_pale_ale_americaine
+20220627212242-les_trois_mousquetaires:
+    - file: 20220627212449-ltm_pale_ale_americaine
       title: LTM Pale Ale Americaine
-    - file: /home/dcr/org-roam-garden/org-roam/20220627212145-ltm_pilser_blond_langer
+    - file: 20220627212145-ltm_pilser_blond_langer
       title: LTM Pilser Blond Lager
-/home/dcr/org-roam-garden/org-roam/20220627212449-ltm_pale_ale_americaine:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172249-pale_ales_enlish_bitters
+20220627212449-ltm_pale_ale_americaine:
+    - file: 20250103172249-pale_ales_enlish_bitters
       title: Pale ales, Enlish bitters, etc.
-/home/dcr/org-roam-garden/org-roam/20220725083519-open_graph_metadata_versus_indieweb: []
-/home/dcr/org-roam-garden/org-roam/20220725084901-post_summaries_versus_excerpts: []
-/home/dcr/org-roam-garden/org-roam/20220726202836-doris_blonde_le_naufrageur: []
-/home/dcr/org-roam-garden/org-roam/20220726203045-la_naufrageur:
-    - file: /home/dcr/org-roam-garden/org-roam/20220726202836-doris_blonde_le_naufrageur
+20220725083519-open_graph_metadata_versus_indieweb: []
+20220725084901-post_summaries_versus_excerpts: []
+20220726202836-doris_blonde_le_naufrageur: []
+20220726203045-la_naufrageur:
+    - file: 20220726202836-doris_blonde_le_naufrageur
       title: Doris Blonde (Le Naufrageur)
-/home/dcr/org-roam-garden/org-roam/20220729145350-open_graph_description_and_indieweb_summary: []
-/home/dcr/org-roam-garden/org-roam/20221024122841-nginx_and_certbot: []
-/home/dcr/org-roam-garden/org-roam/20230819172252-dnd_ability_scores: []
-/home/dcr/org-roam-garden/org-roam/20240511172752-vanlife_pale_ale_d_apres_route_vagabond:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172249-pale_ales_enlish_bitters
+20220729145350-open_graph_description_and_indieweb_summary: []
+20221024122841-nginx_and_certbot: []
+20230819172252-dnd_ability_scores: []
+20240511172752-vanlife_pale_ale_d_apres_route_vagabond:
+    - file: 20250103172249-pale_ales_enlish_bitters
       title: Pale ales, Enlish bitters, etc.
-/home/dcr/org-roam-garden/org-roam/20240511173050-vagabond_brewery:
-    - file: /home/dcr/org-roam-garden/org-roam/20240601163755-wunderbar_vagabond
+20240511173050-vagabond_brewery:
+    - file: 20240601163755-wunderbar_vagabond
       title: Wunderbar (Vagabond)
-    - file: /home/dcr/org-roam-garden/org-roam/20240511172752-vanlife_pale_ale_d_apres_route_vagabond
+    - file: 20240511172752-vanlife_pale_ale_d_apres_route_vagabond
       title: Vanlife Pale Ale D'Apres Route (Vagabond)
-/home/dcr/org-roam-garden/org-roam/20240513090157-stout_beer:
-    - file: /home/dcr/org-roam-garden/org-roam/20220511161511-birra_finelli_tiramisu_stout
+20240513090157-stout_beer:
+    - file: 20220511161511-birra_finelli_tiramisu_stout
       title: Birra Finelli Tiramisu Stout
-    - file: /home/dcr/org-roam-garden/org-roam/20220604201118-cobblestone_organic_stout_mill_st_brewery
+    - file: 20220604201118-cobblestone_organic_stout_mill_st_brewery
       title: Cobblestone Organic Stout (Mill St Brewery)
-/home/dcr/org-roam-garden/org-roam/20240514095718-emacs_general_strategy: []
-/home/dcr/org-roam-garden/org-roam/20240516110111-easy_ratings:
-    - file: /home/dcr/org-roam-garden/org-roam/20220406223335-beer_tasting
+20240514095718-emacs_general_strategy: []
+20240516110111-easy_ratings:
+    - file: 20220406223335-beer_tasting
       title: Beer tasting
-    - file: /home/dcr/org-roam-garden/org-roam/20220409120023-gin_tasting
+    - file: 20220409120023-gin_tasting
       title: Gin tasting
-/home/dcr/org-roam-garden/org-roam/20240516135947-st_amboise_ipa:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172648-ipas_apas_etc
+20240516135947-st_amboise_ipa:
+    - file: 20250103172648-ipas_apas_etc
       title: IPAs, APAs, etc.
-/home/dcr/org-roam-garden/org-roam/20240516140157-ipa:
-    - file: /home/dcr/org-roam-garden/org-roam/20240516135947-st_amboise_ipa
+20240516140157-ipa:
+    - file: 20240516135947-st_amboise_ipa
       title: St. Ambroise IPA
-/home/dcr/org-roam-garden/org-roam/20240516140248-st_ambroise:
-    - file: /home/dcr/org-roam-garden/org-roam/20240516135947-st_amboise_ipa
+20240516140248-st_ambroise:
+    - file: 20240516135947-st_amboise_ipa
       title: St. Ambroise IPA
-/home/dcr/org-roam-garden/org-roam/20240516140804-bois_blanc_red_burgey:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172342-red_ales_lagers
+20240516140804-bois_blanc_red_burgey:
+    - file: 20250103172342-red_ales_lagers
       title: Red ales, lagers, etc
-/home/dcr/org-roam-garden/org-roam/20240516140913-red_beer:
-    - file: /home/dcr/org-roam-garden/org-roam/20240516140804-bois_blanc_red_burgey
+20240516140913-red_beer:
+    - file: 20240516140804-bois_blanc_red_burgey
       title: Bois Blanc Red Burgey
-    - file: /home/dcr/org-roam-garden/org-roam/20220406223318-lagabiere-lagarousse
+    - file: 20220406223318-lagabiere-lagarousse
       title: LagaRousse (Lagabiere)
-    - file: /home/dcr/org-roam-garden/org-roam/20240625094725-la_rouse_foutee_shawbridge
+    - file: 20240625094725-la_rouse_foutee_shawbridge
       title: La Rouse Foutee (Shawbridge)
-/home/dcr/org-roam-garden/org-roam/20240516140947-bois_blanc:
-    - file: /home/dcr/org-roam-garden/org-roam/20240516140804-bois_blanc_red_burgey
+20240516140947-bois_blanc:
+    - file: 20240516140804-bois_blanc_red_burgey
       title: Bois Blanc Red Burgey
-    - file: /home/dcr/org-roam-garden/org-roam/20240801131248-bois_blanc_demi_jour_stout
+    - file: 20240801131248-bois_blanc_demi_jour_stout
       title: Bois Blanc Demi Jour Stout
-/home/dcr/org-roam-garden/org-roam/20240518113501-neipa:
-    - file: /home/dcr/org-roam-garden/org-roam/20220416220612-champ_libre_bebe_loup
+20240518113501-neipa:
+    - file: 20220416220612-champ_libre_bebe_loup
       title: Champ Libre Bebe Loup Session NEIPA
-/home/dcr/org-roam-garden/org-roam/20240518123554-ipa:
-    - file: /home/dcr/org-roam-garden/org-roam/20220604201706-ipa_session_joos_monsregius
+20240518123554-ipa:
+    - file: 20220604201706-ipa_session_joos_monsregius
       title: IPA Session Joos (MonsRegius)
-    - file: /home/dcr/org-roam-garden/org-roam/20240625095528-bubble_stash_ipa_hop_valley_brewing
+    - file: 20240625095528-bubble_stash_ipa_hop_valley_brewing
       title: Bubble Stash IPA (Hop Valley Brewing)
-    - file: /home/dcr/org-roam-garden/org-roam/20220503211818-lagabiere_ta_moin_fort
+    - file: 20220503211818-lagabiere_ta_moin_fort
       title: Lagabiere Ta Moin Fort
-    - file: /home/dcr/org-roam-garden/org-roam/20220506155031-cote_canale_4_origines
+    - file: 20220506155031-cote_canale_4_origines
       title: Cote Canale 4 Origines
-/home/dcr/org-roam-garden/org-roam/20240520125044-pike_creek_double_barreled_canadian_whisky: []
-/home/dcr/org-roam-garden/org-roam/20240520125702-canadian_whisky:
-    - file: /home/dcr/org-roam-garden/org-roam/20240520125044-pike_creek_double_barreled_canadian_whisky
+20240520125044-pike_creek_double_barreled_canadian_whisky: []
+20240520125702-canadian_whisky:
+    - file: 20240520125044-pike_creek_double_barreled_canadian_whisky
       title: Pike Creek Double Barreled Canadian Whisky
-    - file: /home/dcr/org-roam-garden/org-roam/20250102200301-lot_40_100_rye_whisky
+    - file: 20250102200301-lot_40_100_rye_whisky
       title: Lot 40 100% Rye Whisky
-    - file: /home/dcr/org-roam-garden/org-roam/20220411193109-signal_hill_canadian_whisky
+    - file: 20220411193109-signal_hill_canadian_whisky
       title: Signal Hill Canadian Whisky
-/home/dcr/org-roam-garden/org-roam/20240520130145-apriknot_4_origines: []
-/home/dcr/org-roam-garden/org-roam/20240520130345-pale_ale:
-    - file: /home/dcr/org-roam-garden/org-roam/20240520130145-apriknot_4_origines
+20240520130145-apriknot_4_origines: []
+20240520130345-pale_ale:
+    - file: 20240520130145-apriknot_4_origines
       title: Apriknot (4 Origines)
-/home/dcr/org-roam-garden/org-roam/20240520130557-4_origines:
-    - file: /home/dcr/org-roam-garden/org-roam/20220407213108-lagger_allermande_4_origine
+20240520130557-4_origines:
+    - file: 20220407213108-lagger_allermande_4_origine
       title: Lager allermande 4 origine
-    - file: /home/dcr/org-roam-garden/org-roam/20240520130145-apriknot_4_origines
+    - file: 20240520130145-apriknot_4_origines
       title: Apriknot (4 Origines)
-    - file: /home/dcr/org-roam-garden/org-roam/20220506155031-cote_canale_4_origines
+    - file: 20220506155031-cote_canale_4_origines
       title: Cote Canale 4 Origines
-/home/dcr/org-roam-garden/org-roam/20240521093625-i_blog_mostly_about_blogging: []
-/home/dcr/org-roam-garden/org-roam/20240521104004-unlinked:
-    - file: /home/dcr/org-roam-garden/org-roam/20250106184125-kobo_notes
+20240521093625-i_blog_mostly_about_blogging: []
+20240521104004-unlinked:
+    - file: 20250106184125-kobo_notes
       title: Kobo notes
-    - file: /home/dcr/org-roam-garden/org-roam/20220405090557-i_have_decided_to_care
+    - file: 20220405090557-i_have_decided_to_care
       title: I have decided to care
-    - file: /home/dcr/org-roam-garden/org-roam/20250118164006-activitypub_and_interoperation
+    - file: 20250118164006-activitypub_and_interoperation
       title: ActivityPub and Interoperation
-    - file: /home/dcr/org-roam-garden/org-roam/_index
+    - file: _index
       title: Start here
-    - file: /home/dcr/org-roam-garden/org-roam/20250112173346-gtd
+    - file: 20250112173346-gtd
       title: GTD
-    - file: /home/dcr/org-roam-garden/org-roam/20230819172252-dnd_ability_scores
+    - file: 20230819172252-dnd_ability_scores
       title: dnd-ability-scores
-    - file: /home/dcr/org-roam-garden/org-roam/20241231143050-discourse
+    - file: 20241231143050-discourse
       title: Discourse
-    - file: /home/dcr/org-roam-garden/org-roam/20250213200230-bash_profile
+    - file: 20250213200230-bash_profile
       title: Bash profile
-/home/dcr/org-roam-garden/org-roam/20240521133232-digital_garden:
-    - file: /home/dcr/org-roam-garden/org-roam/20240521134703-personal_information_management
+20240521133232-digital_garden:
+    - file: 20240521134703-personal_information_management
       title: Personal Information Management
-    - file: /home/dcr/org-roam-garden/org-roam/20240521154150-obsidian
+    - file: 20240521154150-obsidian
       title: Obsidian
-    - file: /home/dcr/org-roam-garden/org-roam/_index
+    - file: _index
       title: Start here
-/home/dcr/org-roam-garden/org-roam/20240521133725-moinmoin:
-    - file: /home/dcr/org-roam-garden/org-roam/20240521133232-digital_garden
+20240521133725-moinmoin:
+    - file: 20240521133232-digital_garden
       title: Digital Garden
-/home/dcr/org-roam-garden/org-roam/20240521134703-personal_information_management:
-    - file: /home/dcr/org-roam-garden/org-roam/20240521154150-obsidian
+20240521134703-personal_information_management:
+    - file: 20240521154150-obsidian
       title: Obsidian
-    - file: /home/dcr/org-roam-garden/org-roam/_index
+    - file: _index
       title: Start here
-/home/dcr/org-roam-garden/org-roam/20240521150631-accessibility_privacy_matrix: []
-/home/dcr/org-roam-garden/org-roam/20240521154150-obsidian:
-    - file: /home/dcr/org-roam-garden/org-roam/20240521150631-accessibility_privacy_matrix
+20240521150631-accessibility_privacy_matrix: []
+20240521154150-obsidian:
+    - file: 20240521150631-accessibility_privacy_matrix
       title: Accessibility Privacy Matrix
-/home/dcr/org-roam-garden/org-roam/20240521163327-denote:
-    - file: /home/dcr/org-roam-garden/org-roam/20240521134703-personal_information_management
+20240521163327-denote:
+    - file: 20240521134703-personal_information_management
       title: Personal Information Management
-/home/dcr/org-roam-garden/org-roam/20240521164538-joliette_bitter_alchimiste:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172249-pale_ales_enlish_bitters
+20240521164538-joliette_bitter_alchimiste:
+    - file: 20250103172249-pale_ales_enlish_bitters
       title: Pale ales, Enlish bitters, etc.
-/home/dcr/org-roam-garden/org-roam/20240521164750-alchimiste:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103093910-ecossaise_alchimiste
+20240521164750-alchimiste:
+    - file: 20250103093910-ecossaise_alchimiste
       title: Ecossaise (Alchimiste)
-    - file: /home/dcr/org-roam-garden/org-roam/20250102193517-blonde_alchimiste
+    - file: 20250102193517-blonde_alchimiste
       title: Blonde (Alchimiste)
-    - file: /home/dcr/org-roam-garden/org-roam/20240521164538-joliette_bitter_alchimiste
+    - file: 20240521164538-joliette_bitter_alchimiste
       title: Bitter (Alchimiste)
-/home/dcr/org-roam-garden/org-roam/20240521165115-food_and_drink:
-    - file: /home/dcr/org-roam-garden/org-roam/_index
+20240521165115-food_and_drink:
+    - file: _index
       title: Start here
-/home/dcr/org-roam-garden/org-roam/20240522133544-ivy_counsel_swiper:
-    - file: /home/dcr/org-roam-garden/org-roam/20240522142154-emacs_full_text_search
+20240522133544-ivy_counsel_swiper:
+    - file: 20240522142154-emacs_full_text_search
       title: Emacs full text search
-/home/dcr/org-roam-garden/org-roam/20240522142154-emacs_full_text_search: []
-/home/dcr/org-roam-garden/org-roam/20240527090609-systems_which_feed_themselves: []
-/home/dcr/org-roam-garden/org-roam/20240528134643-emacs_keymaps: []
-/home/dcr/org-roam-garden/org-roam/20240528221723-farnham_lager:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172143-blond_lagers_ales_pilsners
+20240522142154-emacs_full_text_search: []
+20240527090609-systems_which_feed_themselves: []
+20240528134643-emacs_keymaps: []
+20240528221723-farnham_lager:
+    - file: 20250103172143-blond_lagers_ales_pilsners
       title: Blond lagers, ales, pilsners, etc.
-/home/dcr/org-roam-garden/org-roam/20240528221916-farnham:
-    - file: /home/dcr/org-roam-garden/org-roam/20240528221723-farnham_lager
+20240528221916-farnham:
+    - file: 20240528221723-farnham_lager
       title: Farnham Lager
-/home/dcr/org-roam-garden/org-roam/20240528222200-griffintown_blonde_ale:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172143-blond_lagers_ales_pilsners
+20240528222200-griffintown_blonde_ale:
+    - file: 20250103172143-blond_lagers_ales_pilsners
       title: Blond lagers, ales, pilsners, etc.
-/home/dcr/org-roam-garden/org-roam/20240528222427-brasseur_de_montreal:
-    - file: /home/dcr/org-roam-garden/org-roam/20240528222200-griffintown_blonde_ale
+20240528222427-brasseur_de_montreal:
+    - file: 20240528222200-griffintown_blonde_ale
       title: Griffintown blonde ale
-/home/dcr/org-roam-garden/org-roam/20240528223217-indenting_regions: []
-/home/dcr/org-roam-garden/org-roam/20240601163755-wunderbar_vagabond:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172143-blond_lagers_ales_pilsners
+20240528223217-indenting_regions: []
+20240601163755-wunderbar_vagabond:
+    - file: 20250103172143-blond_lagers_ales_pilsners
       title: Blond lagers, ales, pilsners, etc.
-/home/dcr/org-roam-garden/org-roam/20240608164259-exporting_org_roam_nodes_is_hard:
-    - file: /home/dcr/org-roam-garden/org-roam/20240611093846-roam_export_notes
+20240608164259-exporting_org_roam_nodes_is_hard:
+    - file: 20240611093846-roam_export_notes
       title: Roam export notes
-/home/dcr/org-roam-garden/org-roam/20240611093846-roam_export_notes: []
-/home/dcr/org-roam-garden/org-roam/20240611094132-eleventy:
-    - file: /home/dcr/org-roam-garden/org-roam/20250126220030-ox_hugo_exporter
+20240611093846-roam_export_notes: []
+20240611094132-eleventy:
+    - file: 20250126220030-ox_hugo_exporter
       title: Ox-hugo Exporter
-    - file: /home/dcr/org-roam-garden/org-roam/20240611093846-roam_export_notes
+    - file: 20240611093846-roam_export_notes
       title: Roam export notes
-/home/dcr/org-roam-garden/org-roam/20240611095206-batch_emacs:
-    - file: /home/dcr/org-roam-garden/org-roam/20240611093846-roam_export_notes
+20240611095206-batch_emacs:
+    - file: 20240611093846-roam_export_notes
       title: Roam export notes
-/home/dcr/org-roam-garden/org-roam/20240618100340-fausse_passe_puyjalon: []
-/home/dcr/org-roam-garden/org-roam/20240618100528-puyjalon_brewery:
-    - file: /home/dcr/org-roam-garden/org-roam/20241022081240-la_chasse_puyjalon
+20240618100340-fausse_passe_puyjalon: []
+20240618100528-puyjalon_brewery:
+    - file: 20241022081240-la_chasse_puyjalon
       title: La Chasse (Puyjalon)
-    - file: /home/dcr/org-roam-garden/org-roam/20240618100340-fausse_passe_puyjalon
+    - file: 20240618100340-fausse_passe_puyjalon
       title: Fausse Passe (Puyjalon)
-/home/dcr/org-roam-garden/org-roam/20240618141554-breweries: []
-/home/dcr/org-roam-garden/org-roam/20240622095545-milford_nz_pilsner_gaspard:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172143-blond_lagers_ales_pilsners
+20240618141554-breweries: []
+20240622095545-milford_nz_pilsner_gaspard:
+    - file: 20250103172143-blond_lagers_ales_pilsners
       title: Blond lagers, ales, pilsners, etc.
-/home/dcr/org-roam-garden/org-roam/20240622095800-gaspard_brewery:
-    - file: /home/dcr/org-roam-garden/org-roam/20240622095545-milford_nz_pilsner_gaspard
+20240622095800-gaspard_brewery:
+    - file: 20240622095545-milford_nz_pilsner_gaspard
       title: Milford NZ Pilsner (Gaspard)
-/home/dcr/org-roam-garden/org-roam/20240622203151-kolsch_du_clocher_griendel:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172143-blond_lagers_ales_pilsners
+20240622203151-kolsch_du_clocher_griendel:
+    - file: 20250103172143-blond_lagers_ales_pilsners
       title: Blond lagers, ales, pilsners, etc.
-/home/dcr/org-roam-garden/org-roam/20240622203517-griendel:
-    - file: /home/dcr/org-roam-garden/org-roam/20240709074658-griendel_fashion_victim_neipa_de_seigle
+20240622203517-griendel:
+    - file: 20240709074658-griendel_fashion_victim_neipa_de_seigle
       title: Griendel Fashion Victim NEIPA de seigle
-    - file: /home/dcr/org-roam-garden/org-roam/20241012164335-mr_smee_brown_ale_griendel
+    - file: 20241012164335-mr_smee_brown_ale_griendel
       title: Mr Smee Brown Ale (Griendel)
-/home/dcr/org-roam-garden/org-roam/20240623143038-cloud_authentication_and_authorization: []
-/home/dcr/org-roam-garden/org-roam/20240625094725-la_rouse_foutee_shawbridge:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172342-red_ales_lagers
+20240623143038-cloud_authentication_and_authorization: []
+20240625094725-la_rouse_foutee_shawbridge:
+    - file: 20250103172342-red_ales_lagers
       title: Red ales, lagers, etc
-/home/dcr/org-roam-garden/org-roam/20240625094822-shawbridge:
-    - file: /home/dcr/org-roam-garden/org-roam/20240625094725-la_rouse_foutee_shawbridge
+20240625094822-shawbridge:
+    - file: 20240625094725-la_rouse_foutee_shawbridge
       title: La Rouse Foutee (Shawbridge)
-/home/dcr/org-roam-garden/org-roam/20240625095003-mill_street_organic_lager:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172143-blond_lagers_ales_pilsners
+20240625095003-mill_street_organic_lager:
+    - file: 20250103172143-blond_lagers_ales_pilsners
       title: Blond lagers, ales, pilsners, etc.
-/home/dcr/org-roam-garden/org-roam/20240625095528-bubble_stash_ipa_hop_valley_brewing:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172648-ipas_apas_etc
+20240625095528-bubble_stash_ipa_hop_valley_brewing:
+    - file: 20250103172648-ipas_apas_etc
       title: IPAs, APAs, etc.
-/home/dcr/org-roam-garden/org-roam/20240625095703-hop_valley_breweing_co:
-    - file: /home/dcr/org-roam-garden/org-roam/20240625095528-bubble_stash_ipa_hop_valley_brewing
+20240625095703-hop_valley_breweing_co:
+    - file: 20240625095528-bubble_stash_ipa_hop_valley_brewing
       title: Bubble Stash IPA (Hop Valley Brewing)
-/home/dcr/org-roam-garden/org-roam/20240628201135-voyageur_des_brume_dieu_du_ciel:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172249-pale_ales_enlish_bitters
+20240628201135-voyageur_des_brume_dieu_du_ciel:
+    - file: 20250103172249-pale_ales_enlish_bitters
       title: Pale ales, Enlish bitters, etc.
-/home/dcr/org-roam-garden/org-roam/20240629155436-pilsner_urquell_pilser_urquell_brewery:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172143-blond_lagers_ales_pilsners
+20240629155436-pilsner_urquell_pilser_urquell_brewery:
+    - file: 20250103172143-blond_lagers_ales_pilsners
       title: Blond lagers, ales, pilsners, etc.
-/home/dcr/org-roam-garden/org-roam/20240629155623-pilsner_urquell_brewery:
-    - file: /home/dcr/org-roam-garden/org-roam/20240629155436-pilsner_urquell_pilser_urquell_brewery
+20240629155623-pilsner_urquell_brewery:
+    - file: 20240629155436-pilsner_urquell_pilser_urquell_brewery
       title: Pilsner Urquell (Pilser Urquell Brewery)
-/home/dcr/org-roam-garden/org-roam/20240708133912-daily_notes:
-    - file: /home/dcr/org-roam-garden/org-roam/daily/2024-12-18
+20240708133912-daily_notes:
+    - file: ily/2024-12-18
       title: Daily note (2024-12-18)
-    - file: /home/dcr/org-roam-garden/org-roam/daily/2024-06-03
+    - file: ily/2024-06-03
       title: Daily note (2024-06-03)
-    - file: /home/dcr/org-roam-garden/org-roam/daily/2024-07-08
+    - file: ily/2024-07-08
       title: Daily note (2024-07-08)
-    - file: /home/dcr/org-roam-garden/org-roam/daily/2024-06-17
+    - file: ily/2024-06-17
       title: Daily note (2024-06-17)
-    - file: /home/dcr/org-roam-garden/org-roam/daily/2024-05-28
+    - file: ily/2024-05-28
       title: Daily note (2024-05-28)
-    - file: /home/dcr/org-roam-garden/org-roam/daily/2024-05-27
+    - file: ily/2024-05-27
       title: Daily note (2024-05-27)
-    - file: /home/dcr/org-roam-garden/org-roam/daily/2024-08-01
+    - file: ily/2024-08-01
       title: Daily note (2024-08-01)
-    - file: /home/dcr/org-roam-garden/org-roam/daily/2024-08-11
+    - file: ily/2024-08-11
       title: Daily note (2024-08-11)
-    - file: /home/dcr/org-roam-garden/org-roam/daily/2024-06-20
+    - file: ily/2024-06-20
       title: Daily note (2024-06-20)
-    - file: /home/dcr/org-roam-garden/org-roam/daily/2024-07-03
+    - file: ily/2024-07-03
       title: Daily note (2024-07-03)
-    - file: /home/dcr/org-roam-garden/org-roam/daily/2024-06-04
+    - file: ily/2024-06-04
       title: Daily note (2024-06-04)
-    - file: /home/dcr/org-roam-garden/org-roam/daily/2024-06-10
+    - file: ily/2024-06-10
       title: Daily note (2024-06-10)
-    - file: /home/dcr/org-roam-garden/org-roam/_index
+    - file: _index
       title: Start here
-    - file: /home/dcr/org-roam-garden/org-roam/daily/2024-06-24
+    - file: ily/2024-06-24
       title: Daily note (2024-06-24)
-    - file: /home/dcr/org-roam-garden/org-roam/daily/2024-12-29
+    - file: ily/2024-12-29
       title: Daily note (2024-12-29)
-    - file: /home/dcr/org-roam-garden/org-roam/daily/2024-12-19
+    - file: ily/2024-12-19
       title: Daily note (2024-12-19)
-    - file: /home/dcr/org-roam-garden/org-roam/daily/2024-05-26
+    - file: ily/2024-05-26
       title: Daily note (2024-05-26)
-/home/dcr/org-roam-garden/org-roam/20240709074658-griendel_fashion_victim_neipa_de_seigle:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172648-ipas_apas_etc
+20240709074658-griendel_fashion_victim_neipa_de_seigle:
+    - file: 20250103172648-ipas_apas_etc
       title: IPAs, APAs, etc.
-/home/dcr/org-roam-garden/org-roam/20240711080630-bench_hazy_ipa:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172648-ipas_apas_etc
+20240711080630-bench_hazy_ipa:
+    - file: 20250103172648-ipas_apas_etc
       title: IPAs, APAs, etc.
-/home/dcr/org-roam-garden/org-roam/20240711080747-bench_brewery: []
-/home/dcr/org-roam-garden/org-roam/20240711080943-les_grands_bois_st_caz_pilsner:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172143-blond_lagers_ales_pilsners
+20240711080747-bench_brewery: []
+20240711080943-les_grands_bois_st_caz_pilsner:
+    - file: 20250103172143-blond_lagers_ales_pilsners
       title: Blond lagers, ales, pilsners, etc.
-/home/dcr/org-roam-garden/org-roam/20240711081047-les_grands_bois:
-    - file: /home/dcr/org-roam-garden/org-roam/20240711080943-les_grands_bois_st_caz_pilsner
+20240711081047-les_grands_bois:
+    - file: 20240711080943-les_grands_bois_st_caz_pilsner
       title: Les Grands Bois St Caz Pilsner
-/home/dcr/org-roam-garden/org-roam/20240715094156-4_origines_original_lager:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172143-blond_lagers_ales_pilsners
+20240715094156-4_origines_original_lager:
+    - file: 20250103172143-blond_lagers_ales_pilsners
       title: Blond lagers, ales, pilsners, etc.
-/home/dcr/org-roam-garden/org-roam/20240801131248-bois_blanc_demi_jour_stout:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172553-stouts_porters_dark_lagers_etc
+20240801131248-bois_blanc_demi_jour_stout:
+    - file: 20250103172553-stouts_porters_dark_lagers_etc
       title: Stouts, Porters, Dark lagers, etc.
-/home/dcr/org-roam-garden/org-roam/20240801131519-archibald_matante_blond_ale:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172143-blond_lagers_ales_pilsners
+20240801131519-archibald_matante_blond_ale:
+    - file: 20250103172143-blond_lagers_ales_pilsners
       title: Blond lagers, ales, pilsners, etc.
-/home/dcr/org-roam-garden/org-roam/20240802092057-wildeye_czech_pilsner: []
-/home/dcr/org-roam-garden/org-roam/20240802092200-wildeye:
-    - file: /home/dcr/org-roam-garden/org-roam/20240802092057-wildeye_czech_pilsner
+20240802092057-wildeye_czech_pilsner: []
+20240802092200-wildeye:
+    - file: 20240802092057-wildeye_czech_pilsner
       title: Wildeye Czech Pilsner
-/home/dcr/org-roam-garden/org-roam/20240810094619-albion_brasseries_albion: []
-/home/dcr/org-roam-garden/org-roam/20240810095036-albion:
-    - file: /home/dcr/org-roam-garden/org-roam/20241022081614-60_shilling_albion
+20240810094619-albion_brasseries_albion: []
+20240810095036-albion:
+    - file: 20241022081614-60_shilling_albion
       title: 60-Shilling (Albion)
-    - file: /home/dcr/org-roam-garden/org-roam/20250119214142-les_jardins_albion
+    - file: 20250119214142-les_jardins_albion
       title: Les Jardins (Albion)
-/home/dcr/org-roam-garden/org-roam/20240830172430-saint_arnould_riviere_rouge_toasted_red_ale:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172342-red_ales_lagers
+20240830172430-saint_arnould_riviere_rouge_toasted_red_ale:
+    - file: 20250103172342-red_ales_lagers
       title: Red ales, lagers, etc
-/home/dcr/org-roam-garden/org-roam/20240830172624-saint_arnould:
-    - file: /home/dcr/org-roam-garden/org-roam/20240830172430-saint_arnould_riviere_rouge_toasted_red_ale
+20240830172624-saint_arnould:
+    - file: 20240830172430-saint_arnould_riviere_rouge_toasted_red_ale
       title: Saint Arnould Riviere Rouge Toasted Red Ale
-/home/dcr/org-roam-garden/org-roam/20240901164421-petite_morale_dieu_de_ciel:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172648-ipas_apas_etc
+20240901164421-petite_morale_dieu_de_ciel:
+    - file: 20250103172648-ipas_apas_etc
       title: IPAs, APAs, etc.
-/home/dcr/org-roam-garden/org-roam/20240914120633-wills_blonde_ale:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172143-blond_lagers_ales_pilsners
+20240914120633-wills_blonde_ale:
+    - file: 20250103172143-blond_lagers_ales_pilsners
       title: Blond lagers, ales, pilsners, etc.
-/home/dcr/org-roam-garden/org-roam/20240929123305-exiftool_notes: []
-/home/dcr/org-roam-garden/org-roam/20240930155130-wills_dark_lager:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172553-stouts_porters_dark_lagers_etc
+20240929123305-exiftool_notes: []
+20240930155130-wills_dark_lager:
+    - file: 20250103172553-stouts_porters_dark_lagers_etc
       title: Stouts, Porters, Dark lagers, etc.
-/home/dcr/org-roam-garden/org-roam/20241003181740-adjusting_photograph_levels: []
-/home/dcr/org-roam-garden/org-roam/20241003204833-hue_saturation_lightness: []
-/home/dcr/org-roam-garden/org-roam/20241004083943-photography:
-    - file: /home/dcr/org-roam-garden/org-roam/20241004084154-exposure_triangle
+20241003181740-adjusting_photograph_levels: []
+20241003204833-hue_saturation_lightness: []
+20241004083943-photography:
+    - file: 20241004084154-exposure_triangle
       title: Exposure Triangle
-    - file: /home/dcr/org-roam-garden/org-roam/20241003181740-adjusting_photograph_levels
+    - file: 20241003181740-adjusting_photograph_levels
       title: Adjusting Photograph Levels
-    - file: /home/dcr/org-roam-garden/org-roam/20240929123305-exiftool_notes
+    - file: 20240929123305-exiftool_notes
       title: Exiftool notes
-    - file: /home/dcr/org-roam-garden/org-roam/20241003204833-hue_saturation_lightness
+    - file: 20241003204833-hue_saturation_lightness
       title: Hue, Saturation, Lightness
-/home/dcr/org-roam-garden/org-roam/20241004084154-exposure_triangle: []
-/home/dcr/org-roam-garden/org-roam/20241012164157-classic_pilsner_maltstrom:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172143-blond_lagers_ales_pilsners
+20241004084154-exposure_triangle: []
+20241012164157-classic_pilsner_maltstrom:
+    - file: 20250103172143-blond_lagers_ales_pilsners
       title: Blond lagers, ales, pilsners, etc.
-/home/dcr/org-roam-garden/org-roam/20241012164335-mr_smee_brown_ale_griendel:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172249-pale_ales_enlish_bitters
+20241012164335-mr_smee_brown_ale_griendel:
+    - file: 20250103172249-pale_ales_enlish_bitters
       title: Pale ales, Enlish bitters, etc.
-/home/dcr/org-roam-garden/org-roam/20241012164628-quebec_marzen:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172342-red_ales_lagers
+20241012164628-quebec_marzen:
+    - file: 20250103172342-red_ales_lagers
       title: Red ales, lagers, etc
-/home/dcr/org-roam-garden/org-roam/20241012164802-la_cage:
-    - file: /home/dcr/org-roam-garden/org-roam/20241012164628-quebec_marzen
+20241012164802-la_cage:
+    - file: 20241012164628-quebec_marzen
       title: Quebec Marzen
-/home/dcr/org-roam-garden/org-roam/20241022081240-la_chasse_puyjalon:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172249-pale_ales_enlish_bitters
+20241022081240-la_chasse_puyjalon:
+    - file: 20250103172249-pale_ales_enlish_bitters
       title: Pale ales, Enlish bitters, etc.
-/home/dcr/org-roam-garden/org-roam/20241022081614-60_shilling_albion:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172342-red_ales_lagers
+20241022081614-60_shilling_albion:
+    - file: 20250103172342-red_ales_lagers
       title: Red ales, lagers, etc
-/home/dcr/org-roam-garden/org-roam/20241030212809-rsnapshot_basics: []
-/home/dcr/org-roam-garden/org-roam/20241031083624-ssh_without_passwords:
-    - file: /home/dcr/org-roam-garden/org-roam/20250111114259-new_system_notes
+20241030212809-rsnapshot_basics: []
+20241031083624-ssh_without_passwords:
+    - file: 20250111114259-new_system_notes
       title: New system notes
-/home/dcr/org-roam-garden/org-roam/20241031223500-seahorse_ssh_password_and_keys: []
-/home/dcr/org-roam-garden/org-roam/20241112183053-keyboard_notes: []
-/home/dcr/org-roam-garden/org-roam/20241125083452-labels_for_external_storage: []
-/home/dcr/org-roam-garden/org-roam/20241203081521-featured_image_versus_image_metadata: []
-/home/dcr/org-roam-garden/org-roam/20241217165922-working_around_udisk_not_mouting_external_drive: []
-/home/dcr/org-roam-garden/org-roam/20241218192220-linux_administration:
-    - file: /home/dcr/org-roam-garden/org-roam/20220405205356-dvd_ripping_and_burning
+20241031223500-seahorse_ssh_password_and_keys: []
+20241112183053-keyboard_notes: []
+20241125083452-labels_for_external_storage: []
+20241203081521-featured_image_versus_image_metadata: []
+20241217165922-working_around_udisk_not_mouting_external_drive: []
+20241218192220-linux_administration:
+    - file: 20220405205356-dvd_ripping_and_burning
       title: DVD ripping and burning
-    - file: /home/dcr/org-roam-garden/org-roam/20241031223500-seahorse_ssh_password_and_keys
+    - file: 20241031223500-seahorse_ssh_password_and_keys
       title: Seahorse SSH Password and Keys
-    - file: /home/dcr/org-roam-garden/org-roam/20241125083452-labels_for_external_storage
+    - file: 20241125083452-labels_for_external_storage
       title: Labels for external storage
-    - file: /home/dcr/org-roam-garden/org-roam/20220405230443-tcp_sniffing
+    - file: 20220405230443-tcp_sniffing
       title: TCP sniffing
-    - file: /home/dcr/org-roam-garden/org-roam/20220405230218-vnc_basics
+    - file: 20220405230218-vnc_basics
       title: VNC basics
-    - file: /home/dcr/org-roam-garden/org-roam/20250111125143-syncthing_notes
+    - file: 20250111125143-syncthing_notes
       title: Syncthing notes
-    - file: /home/dcr/org-roam-garden/org-roam/20250111114259-new_system_notes
+    - file: 20250111114259-new_system_notes
       title: New system notes
-    - file: /home/dcr/org-roam-garden/org-roam/_index
+    - file: _index
       title: Start here
-    - file: /home/dcr/org-roam-garden/org-roam/20241217165922-working_around_udisk_not_mouting_external_drive
+    - file: 20241217165922-working_around_udisk_not_mouting_external_drive
       title: Working around udisk not mouting external drive
-    - file: /home/dcr/org-roam-garden/org-roam/20241228224341-blank_out_a_hard_drive
+    - file: 20241228224341-blank_out_a_hard_drive
       title: Blank out a hard drive
-    - file: /home/dcr/org-roam-garden/org-roam/20241031083624-ssh_without_passwords
+    - file: 20241031083624-ssh_without_passwords
       title: SSH Without Passwords
-    - file: /home/dcr/org-roam-garden/org-roam/20221024122841-nginx_and_certbot
+    - file: 20221024122841-nginx_and_certbot
       title: Nginx and certbot
-    - file: /home/dcr/org-roam-garden/org-roam/20241030212809-rsnapshot_basics
+    - file: 20241030212809-rsnapshot_basics
       title: Rsnapshot Basics
-    - file: /home/dcr/org-roam-garden/org-roam/20250111114747-flatpak
+    - file: 20250111114747-flatpak
       title: Flatpak notes
-/home/dcr/org-roam-garden/org-roam/20241218192728-software_development:
-    - file: /home/dcr/org-roam-garden/org-roam/20241218193917-blogging
+20241218192728-software_development:
+    - file: 20241218193917-blogging
       title: Blogging
-    - file: /home/dcr/org-roam-garden/org-roam/20220405230606-mysql_starter
+    - file: 20220405230606-mysql_starter
       title: MySql starter
-    - file: /home/dcr/org-roam-garden/org-roam/_index
+    - file: _index
       title: Start here
-/home/dcr/org-roam-garden/org-roam/20241218193917-blogging:
-    - file: /home/dcr/org-roam-garden/org-roam/20240521093625-i_blog_mostly_about_blogging
+20241218193917-blogging:
+    - file: 20240521093625-i_blog_mostly_about_blogging
       title: I blog mostly about blogging
-    - file: /home/dcr/org-roam-garden/org-roam/20220405175357-different_approaches_to_the_cms
+    - file: 20220405175357-different_approaches_to_the_cms
       title: Different approaches to the CMS
-    - file: /home/dcr/org-roam-garden/org-roam/20220725084901-post_summaries_versus_excerpts
+    - file: 20220725084901-post_summaries_versus_excerpts
       title: Post summaries versus excerpts
-    - file: /home/dcr/org-roam-garden/org-roam/_index
+    - file: _index
       title: Start here
-    - file: /home/dcr/org-roam-garden/org-roam/20241203081521-featured_image_versus_image_metadata
+    - file: 20241203081521-featured_image_versus_image_metadata
       title: Featured image versus image metadata
-/home/dcr/org-roam-garden/org-roam/20241218194323-society:
-    - file: /home/dcr/org-roam-garden/org-roam/20220504204756-constitutions
+20241218194323-society:
+    - file: 20220504204756-constitutions
       title: Constitutions
-/home/dcr/org-roam-garden/org-roam/20241224151525-roasted_brussels_sprouts: []
-/home/dcr/org-roam-garden/org-roam/20241228224341-blank_out_a_hard_drive: []
-/home/dcr/org-roam-garden/org-roam/20241231143050-discourse: []
-/home/dcr/org-roam-garden/org-roam/20250102193517-blonde_alchimiste:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172143-blond_lagers_ales_pilsners
+20241224151525-roasted_brussels_sprouts: []
+20241228224341-blank_out_a_hard_drive: []
+20241231143050-discourse: []
+20250102193517-blonde_alchimiste:
+    - file: 20250103172143-blond_lagers_ales_pilsners
       title: Blond lagers, ales, pilsners, etc.
-/home/dcr/org-roam-garden/org-roam/20250102200301-lot_40_100_rye_whisky: []
-/home/dcr/org-roam-garden/org-roam/20250103093910-ecossaise_alchimiste:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172728-scottish_ales
+20250102200301-lot_40_100_rye_whisky: []
+20250103093910-ecossaise_alchimiste:
+    - file: 20250103172728-scottish_ales
       title: Scottish ales
-/home/dcr/org-roam-garden/org-roam/20250103172143-blond_lagers_ales_pilsners:
-    - file: /home/dcr/org-roam-garden/org-roam/20220406223335-beer_tasting
+20250103172143-blond_lagers_ales_pilsners:
+    - file: 20220406223335-beer_tasting
       title: Beer tasting
-/home/dcr/org-roam-garden/org-roam/20250103172249-pale_ales_enlish_bitters:
-    - file: /home/dcr/org-roam-garden/org-roam/20220406223335-beer_tasting
+20250103172249-pale_ales_enlish_bitters:
+    - file: 20220406223335-beer_tasting
       title: Beer tasting
-/home/dcr/org-roam-garden/org-roam/20250103172342-red_ales_lagers:
-    - file: /home/dcr/org-roam-garden/org-roam/20220406223335-beer_tasting
+20250103172342-red_ales_lagers:
+    - file: 20220406223335-beer_tasting
       title: Beer tasting
-/home/dcr/org-roam-garden/org-roam/20250103172553-stouts_porters_dark_lagers_etc:
-    - file: /home/dcr/org-roam-garden/org-roam/20220406223335-beer_tasting
+20250103172553-stouts_porters_dark_lagers_etc:
+    - file: 20220406223335-beer_tasting
       title: Beer tasting
-/home/dcr/org-roam-garden/org-roam/20250103172648-ipas_apas_etc:
-    - file: /home/dcr/org-roam-garden/org-roam/20220406223335-beer_tasting
+20250103172648-ipas_apas_etc:
+    - file: 20220406223335-beer_tasting
       title: Beer tasting
-/home/dcr/org-roam-garden/org-roam/20250103172728-scottish_ales:
-    - file: /home/dcr/org-roam-garden/org-roam/20220406223335-beer_tasting
+20250103172728-scottish_ales:
+    - file: 20220406223335-beer_tasting
       title: Beer tasting
-/home/dcr/org-roam-garden/org-roam/20250103201208-org_protocol_roam_and_bookmarklets: []
-/home/dcr/org-roam-garden/org-roam/20250103201501-org_roam:
-    - file: /home/dcr/org-roam-garden/org-roam/20250126220030-ox_hugo_exporter
+20250103201208-org_protocol_roam_and_bookmarklets: []
+20250103201501-org_roam:
+    - file: 20250126220030-ox_hugo_exporter
       title: Ox-hugo Exporter
-    - file: /home/dcr/org-roam-garden/org-roam/_index
+    - file: _index
       title: Start here
-    - file: /home/dcr/org-roam-garden/org-roam/20250103201208-org_protocol_roam_and_bookmarklets
+    - file: 20250103201208-org_protocol_roam_and_bookmarklets
       title: Org protocol, roam and bookmarklets
-/home/dcr/org-roam-garden/org-roam/20250106184125-kobo_notes: []
-/home/dcr/org-roam-garden/org-roam/20250111114259-new_system_notes: []
-/home/dcr/org-roam-garden/org-roam/20250111114747-flatpak:
-    - file: /home/dcr/org-roam-garden/org-roam/20250111114259-new_system_notes
+20250106184125-kobo_notes: []
+20250111114259-new_system_notes: []
+20250111114747-flatpak:
+    - file: 20250111114259-new_system_notes
       title: New system notes
-/home/dcr/org-roam-garden/org-roam/20250111125143-syncthing_notes:
-    - file: /home/dcr/org-roam-garden/org-roam/20250111114259-new_system_notes
+20250111125143-syncthing_notes:
+    - file: 20250111114259-new_system_notes
       title: New system notes
-/home/dcr/org-roam-garden/org-roam/20250112173346-gtd:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103201501-org_roam
+20250112173346-gtd:
+    - file: 20250103201501-org_roam
       title: Org Roam
-/home/dcr/org-roam-garden/org-roam/20250112175557-pale_ale_alchimiste:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172249-pale_ales_enlish_bitters
+20250112175557-pale_ale_alchimiste:
+    - file: 20250103172249-pale_ales_enlish_bitters
       title: Pale ales, Enlish bitters, etc.
-/home/dcr/org-roam-garden/org-roam/20250118164006-activitypub_and_interoperation: []
-/home/dcr/org-roam-garden/org-roam/20250119171736-line_numbers_in_emacs: []
-/home/dcr/org-roam-garden/org-roam/20250119214142-les_jardins_albion:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172143-blond_lagers_ales_pilsners
+20250118164006-activitypub_and_interoperation: []
+20250119171736-line_numbers_in_emacs: []
+20250119214142-les_jardins_albion:
+    - file: 20250103172143-blond_lagers_ales_pilsners
       title: Blond lagers, ales, pilsners, etc.
-/home/dcr/org-roam-garden/org-roam/20250126151435-go:
-    - file: /home/dcr/org-roam-garden/org-roam/20241218192728-software_development
+20250126151435-go:
+    - file: 20241218192728-software_development
       title: Software Development
-/home/dcr/org-roam-garden/org-roam/20250126152650-hugo:
-    - file: /home/dcr/org-roam-garden/org-roam/20250126220030-ox_hugo_exporter
+20250126152650-hugo:
+    - file: 20250126220030-ox_hugo_exporter
       title: Ox-hugo Exporter
-    - file: /home/dcr/org-roam-garden/org-roam/_index
+    - file: _index
       title: Start here
-/home/dcr/org-roam-garden/org-roam/20250126220030-ox_hugo_exporter:
-    - file: /home/dcr/org-roam-garden/org-roam/20240608164259-exporting_org_roam_nodes_is_hard
+20250126220030-ox_hugo_exporter:
+    - file: 20240608164259-exporting_org_roam_nodes_is_hard
       title: Exporting org roam nodes is hard
-/home/dcr/org-roam-garden/org-roam/20250202124834-difficulties_of_the_indieweb: []
-/home/dcr/org-roam-garden/org-roam/20250203213335-magit: []
-/home/dcr/org-roam-garden/org-roam/20250206200203-pale_ale_americaine_dunham:
-    - file: /home/dcr/org-roam-garden/org-roam/20250103172249-pale_ales_enlish_bitters
+20250202124834-difficulties_of_the_indieweb: []
+20250203213335-magit: []
+20250206200203-pale_ale_americaine_dunham:
+    - file: 20250103172249-pale_ales_enlish_bitters
       title: Pale ales, Enlish bitters, etc.
-/home/dcr/org-roam-garden/org-roam/20250211174414-dired:
-    - file: /home/dcr/org-roam-garden/org-roam/20250211181051-emacs_help
+20250211174414-dired:
+    - file: 20250211181051-emacs_help
       title: Emacs help
-/home/dcr/org-roam-garden/org-roam/20250211181051-emacs_help: []
-/home/dcr/org-roam-garden/org-roam/20250213200230-bash_profile: []
-/home/dcr/org-roam-garden/org-roam/daily/2024-05-26: []
-/home/dcr/org-roam-garden/org-roam/daily/2024-05-27: []
-/home/dcr/org-roam-garden/org-roam/daily/2024-05-28: []
-/home/dcr/org-roam-garden/org-roam/daily/2024-06-03: []
-/home/dcr/org-roam-garden/org-roam/daily/2024-06-04: []
-/home/dcr/org-roam-garden/org-roam/daily/2024-06-10: []
-/home/dcr/org-roam-garden/org-roam/daily/2024-06-17: []
-/home/dcr/org-roam-garden/org-roam/daily/2024-06-20: []
-/home/dcr/org-roam-garden/org-roam/daily/2024-06-24: []
-/home/dcr/org-roam-garden/org-roam/daily/2024-07-03: []
-/home/dcr/org-roam-garden/org-roam/daily/2024-07-08: []
-/home/dcr/org-roam-garden/org-roam/daily/2024-08-01: []
-/home/dcr/org-roam-garden/org-roam/daily/2024-08-11: []
-/home/dcr/org-roam-garden/org-roam/daily/2024-12-18: []
-/home/dcr/org-roam-garden/org-roam/daily/2024-12-19: []
-/home/dcr/org-roam-garden/org-roam/daily/2024-12-29: []
-/home/dcr/org-roam-garden/org-roam/reference/20241229130609-atomic_habits:
-    - file: /home/dcr/org-roam-garden/org-roam/daily/2024-12-29
+20250211181051-emacs_help: []
+20250213200230-bash_profile: []
+ference/20241229130609-atomic_habits:
+    - file: ily/2024-12-29
       title: Daily note (2024-12-29)
-/home/dcr/org-roam-garden/org-roam/reference/20250119101117-the_daily_stoic:
-    - file: /home/dcr/org-roam-garden/org-roam/20250202124834-difficulties_of_the_indieweb
+ference/20250119101117-the_daily_stoic:
+    - file: 20250202124834-difficulties_of_the_indieweb
       title: Difficulties of the IndieWeb
-/home/dcr/org-roam-garden/org-roam/reference/20250121205430-activitypub:
-    - file: /home/dcr/org-roam-garden/org-roam/20250118164006-activitypub_and_interoperation
+ference/20250121205430-activitypub:
+    - file: 20250118164006-activitypub_and_interoperation
       title: ActivityPub and Interoperation
+ily/2024-05-26: []
+ily/2024-05-27: []
+ily/2024-05-28: []
+ily/2024-06-03: []
+ily/2024-06-04: []
+ily/2024-06-10: []
+ily/2024-06-17: []
+ily/2024-06-20: []
+ily/2024-06-24: []
+ily/2024-07-03: []
+ily/2024-07-08: []
+ily/2024-08-01: []
+ily/2024-08-11: []
+ily/2024-12-18: []
+ily/2024-12-19: []
+ily/2024-12-29: []
