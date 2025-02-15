@@ -5,12 +5,13 @@ import (
 	"log"
 	"os"
 	"fmt"
+	"strings"
 	_ "modernc.org/sqlite"
 	"gopkg.in/yaml.v3"
 )
 
 const OrgRoamDb = "./org-roam/.org-roam.db"
-const OrgRoamRoot = "/home/dcr/org-roam-garden/org-roam"
+const OrgRoamRoot = "/home/dcr/org-roam-garden/org-roam/"
 const BacklinkOutputDir = "/home/dcr/org-roam-garden/data"
 const BacklinksFile = "backlinks.yaml"
 
@@ -29,14 +30,16 @@ func saveBacklinks(db *sql.DB, file string, file2bl map[string][]Backlink) {
 	for row.Next() {
 		b := Backlink{}
 		err := row.Scan(&b.File, &b.Title)
-		b.File = b.File[1:(len(b.File)-5)]
-		b.Title = b.Title[1:(len(b.Title)-1)]
 		if err != nil {
 			log.Fatal(err)
 		}
+		b.File = b.File[1:(len(b.File)-5)]
+		b.File = strings.TrimLeft(b.File, OrgRoamRoot)
+		b.Title = b.Title[1:(len(b.Title)-1)]
 		backlinks = append(backlinks, b)
 	}
 	file = file[1:(len(file)-5)]
+	file = strings.TrimLeft(file, OrgRoamRoot)
 	file2bl[file] = backlinks
 }
 
