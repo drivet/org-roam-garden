@@ -12,13 +12,14 @@ import (
 const OrgRoamDb = "./org-roam/.org-roam.db"
 const OrgRoamRoot = "/home/dcr/org-roam-garden/org-roam"
 const BacklinkOutputDir = "/home/dcr/org-roam-garden/data"
+const BacklinksFile = "backlinks.yaml"
 
 type Backlink struct {
     File string
     Title string
 }
 
-func getBacklinks(db *sql.DB, file string) []Backlink {
+func saveBacklinks(db *sql.DB, file string, file2bl map[string][]Backlink) {
 	row, err := db.Query("SELECT file, title FROM nodes WHERE id IN (SELECT DISTINCT l.source AS source FROM nodes n, links l WHERE n.file = ? AND n.id = l.dest)", file)
 	if err != nil {
 		log.Fatal(err)
@@ -28,12 +29,15 @@ func getBacklinks(db *sql.DB, file string) []Backlink {
 	for row.Next() {
 		b := Backlink{}
 		err := row.Scan(&b.File, &b.Title)
+		b.File = b.File[1:(len(b.File)-5)]
+		b.Title = b.Title[1:(len(b.Title)-1)]
 		if err != nil {
 			log.Fatal(err)
 		}
 		backlinks = append(backlinks, b)
 	}
-	return backlinks
+	file = file[1:(len(file)-5)]
+	file2bl[file] = backlinks
 }
 
 func main() {
@@ -53,7 +57,7 @@ func main() {
 		if err != nil {
 			log.Fatal(err)
 		}
-		file2bl[file] = getBacklinks(db, file)
+		saveBacklinks(db, file, file2bl)
 	}
 	
 	blout, err := yaml.Marshal(file2bl)
@@ -61,7 +65,7 @@ func main() {
 		log.Fatal(err)
 	}
 	os.MkdirAll(BacklinkOutputDir, 0777)
-	f, err := os.OpenFile(fmt.Sprintf("%s/%s", BacklinkOutputDir, "backlinks.yaml"), os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	f, err := os.Create(fmt.Sprintf("%s/%s", BacklinkOutputDir, BacklinksFile))
 	if err != nil {
 		log.Fatal(err)
 	}
