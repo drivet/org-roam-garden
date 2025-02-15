@@ -7,7 +7,8 @@
 
 (setq make-backup-files 'nil)
 (setq org-roam-directory (file-truename "~/org-roam-garden/org-roam/"))
-(setq org-roam-database-connector 'sqlite)
+(if (version< emacs-version "29")
+    (setq org-roam-database-connector 'sqlite))
 (setq org-roam-db-location (concat org-roam-directory ".org-roam.db"))
 
 (add-to-list 'safe-local-variable-values '(org-hugo-section . "daily"))
