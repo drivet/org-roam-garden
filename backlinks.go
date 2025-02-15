@@ -20,6 +20,15 @@ type Backlink struct {
     Title string
 }
 
+func stripQuotes(str string) string {
+	return str[1:(len(str)-1)]
+}
+
+// strips quotes plus the .org at the end, the trims the abs root
+func cleanFile(str string) string {
+	return strings.TrimLeft(str[1:(len(str)-5)], OrgRoamRoot)
+}
+
 func saveBacklinks(db *sql.DB, file string, file2bl map[string][]Backlink) {
 	row, err := db.Query("SELECT file, title FROM nodes WHERE id IN (SELECT DISTINCT l.source AS source FROM nodes n, links l WHERE n.file = ? AND n.id = l.dest)", file)
 	if err != nil {
@@ -33,13 +42,11 @@ func saveBacklinks(db *sql.DB, file string, file2bl map[string][]Backlink) {
 		if err != nil {
 			log.Fatal(err)
 		}
-		b.File = b.File[1:(len(b.File)-5)]
-		b.File = strings.TrimLeft(b.File, OrgRoamRoot)
-		b.Title = b.Title[1:(len(b.Title)-1)]
+		b.File = cleanFile(b.File)
+		b.Title = stripQuotes(b.Title)
 		backlinks = append(backlinks, b)
 	}
-	file = file[1:(len(file)-5)]
-	file = strings.TrimLeft(file, OrgRoamRoot)
+	file = cleanFile(file)
 	file2bl[file] = backlinks
 }
 
