@@ -7,6 +7,7 @@
 
 (setq make-backup-files 'nil)
 (setq org-roam-directory (file-truename "~/org-roam-garden/org-roam/"))
+;; we apparently don't need to set a connector in Emacs 29 and above
 (if (version< emacs-version "29")
     (setq org-roam-database-connector 'sqlite))
 (setq org-roam-db-location (concat org-roam-directory ".org-roam.db"))

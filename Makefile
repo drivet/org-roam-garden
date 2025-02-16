@@ -9,3 +9,6 @@ clean:
 
 veryclean: clean
 	rm -rf public/*
+
+serve:
+	hugo server -D
