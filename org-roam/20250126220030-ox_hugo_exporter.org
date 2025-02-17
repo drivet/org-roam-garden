@@ -12,3 +12,8 @@ One issue with using this exporter, indeed with any org exporter, is that it
 doesn't really deal with a project.  You convert individual files.  So, for
 example, when you're converting an org file to markdown, there's no notion
 of preserving that path of the file in the output.
+
+** Sections
+
+With ox-hugo you specify the section that the post is going under, with
+~org-hugo-section~
