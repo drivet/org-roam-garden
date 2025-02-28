@@ -1,28 +1,12 @@
 {{ $cleanPermalink := substr .RelPermalink 1 -5 }}
-{{ $backlinks := dict }}
-{{ with resources.Get "data/backlinks.yaml" }}
-  {{ with . | transform.Unmarshal }}
-    {{ $backlinks = index . $cleanPermalink }}
-  {{ end }}
-{{ else }}
-  {{ errorf "Unable to get global resource %q" "data/backlinks.yaml" }}
-{{ end }}
 <html>
   <head>
     {{ partial "head.html" . }}
   </head>
   <body>
     <header>
-      <nav>
-        <img src="/images/me.jpg" alt="" width="36">
-        <a href="/">Garden</a>
-        <a href="https://desmondrivet.com/posts/">Posts</a>
-        <form action="/search.html" method="get">
-          <input type="search" placeholder="Search..." id="searchField" name="searchField"/>
-        </form>
-      </nav>
+      {{ partial "nav.html" . }}
     </header>
-    
     <main>
       <article class="h-entry">
         <h1>{{ .Title }}</h1>

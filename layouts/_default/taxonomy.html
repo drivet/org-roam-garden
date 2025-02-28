@@ -3,6 +3,9 @@
     {{ partial "head.html" . }}
   </head>
   <body>
+    <header>
+       {{ partial "nav.html" . }}
+    </header>
     <main>
       <h1>{{ .Title }}</h1>
       {{ .Content }}
