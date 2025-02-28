@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       3a1caf2c-7854-4cf0-bb11-bb7806618c36
+:END:
+#+date: [2025-02-18 Tue 20:20]
+#+title: Recipes
+
+[[id:35EC8663-3548-4E1F-9A94-AE8FB8D7B5E7][Food and drink]]
+
+Recipes homepage

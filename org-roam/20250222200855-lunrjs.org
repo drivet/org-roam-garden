@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       ea4a6f86-3a40-44ed-8857-60bad7bbe941
+:END:
+#+date: [2025-02-22 Sat 20:08]
+#+title: Lunrjs
+
+Lunrjs is a [[id:de508103-e007-4aa0-8bfc-a290428f543f][Javascript]] based full text search library.
+
+When you use in a static site context, it's meant to run in the browser.
+
+It can operate in two modes:
+
+ * with a straightforward json file on your content.  This json file isn't
+   an index or really processed - the library itself will create the index
+   from the file.
+ * with a prebuilt index, created from the aforementioned json file
+
+
+The index file tends to be bigger and hence takes longer to download.  But
+you at least save the indexing time on the client.  It's hard to really know
+if the extra size is worth it.
+
+The first way is definitely simpler because the json is really just a
+particular way of outputting your content.  It's almost analogous to an RSS
+or a Atom feed.

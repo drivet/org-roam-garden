@@ -6,4 +6,9 @@
 
 My software development node.
 
- * [[id:2e9a8432-0079-4155-b60c-d1a8ce60c292][Go notes]]
+Languages:
+
+ * [[id:2e9a8432-0079-4155-b60c-d1a8ce60c292][Go]]
+ * [[id:de508103-e007-4aa0-8bfc-a290428f543f][Javascript]]
+
+   

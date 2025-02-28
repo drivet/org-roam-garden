@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       63192b32-27d9-4911-b0f3-e1cb7e748bba
+:ROAM_REFS: https://cloudcannon.com/blog/the-ultimate-guide-to-hugo-sections/
+:END:
+#+date: [2025-02-25 Tue 21:19]
+#+title: Hugo sections
+
+[[id:07022b8a-cfe2-4b37-8e78-0844d3f57a5c][Hugo]]
+
+Sections are top level folders, or any folder with a ~_index.md~.  You can
+nest sections by putting a sub-folder with a ~_index.md~ file.
+
+Why ~_index.md~ and not ~index.md~? What's the different between the two?
+When you tuck an ~_index.md~ file under a folder, it becomes a branch
+bundle - I think this is just another name for a section..  Each md file
+underneath gets their own URL.  When you use an ~index.md~ file on the other
+hand, the folder becomes a leaf bundle - any files under the folder,
+including md files, become resources associated with the page, without their
+own URLs.
+
+In addition, an ~_index.md~ will become a list page, using alist template
+and all the md files underneath will be available to the page through a
+loop.  An index.md is just a regular page, with no access to the md files
+underneath, using the single template.

@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       ce1ba56e-2e9f-43b1-bf1e-5d2daca8c26d
+:END:
+#+date: [2025-02-20 Thu 20:15]
+#+title: Org Mode Images
+
+[[id:FA31BDBE-5F87-4DEE-ABE2-D8AFD52F7D03][Org Mode]]
+
+Org mode handles local images and not remote images out of the box, but if
+you set up [[https://github.com/gaoDean/org-remoteimg][org-remoteimg]] then org mode can handle remote images as well.
+
+If you so use org-remoteimg, set this:
+
+~(setq org-display-remote-inline-images 'cache)~
+
+(TODO: figure out where it keeps the cache)
+
+Some docs:
+
+https://orgmode.org/manual/Images.html
+
+One major function I can find is ~org-toggle-inline-images~ (C-c C-x C-v).
+With org-remoteimg this works with remote images as well.
+
+Relevant variable: ~org-image-actual-width~.  Set this to nil and you can do
+something like this in your org doc:
+
+#+ATTR_HTML: :width 300px
+
+or 
+
+#+ATTR_ORG: :width 300px
+
+And the image will be set to that width.  But the latter will have no effect
+when exporting to HTML so maybe best to use the first one.

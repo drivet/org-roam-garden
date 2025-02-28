@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       de508103-e007-4aa0-8bfc-a290428f543f
+:END:
+#+date: [2025-02-22 Sat 20:09]
+#+title: Javascript
+
+[[id:74fe4896-3281-4665-8051-556ce8eca8b5][Software Development]]
+
+A programming language, originally used in the browser, now used in server
+applications via node
+
