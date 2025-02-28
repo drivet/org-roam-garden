@@ -12,16 +12,13 @@
   function search() {
     const field = urlParams.get('searchField');
     const results = window.lunrIndex.search(field);
-    results.forEach(function(r) {
-      r.doc = window.pagesIndex[r.ref];
-    });
     const template =  document.getElementById(`searchResultsTemplate`).innerHTML;
     
     const compiledResult = Mustache.render(template, {
       field,
       hasResults: results.length > 0,
       results: results.map(r => ({
-        uri: r.doc.uri,
+        uri: r.uri,
         title: r.doc.title,
         truncated: summarize(r.doc.content)
       }))
@@ -33,20 +30,15 @@
   
   fetch(`/index.json`).then((response) =>
     response.json().then((index) => {
-      console.log(index);
-      pagesIndex = index;
       lunrIndex = lunr(function() {
-        this.field("title", { boost: 10 });
-        this.field("tags", { boost: 5 });
-        this.field("content");
-        this.field("uri");
-        this.ref("idx");
-        pagesIndex.forEach(function (page, idx) {
-          page.idx = idx;
-          this.add(page);
-        }, this);
+        this.addField("title");
+        this.addField("tags");
+        this.addField("content");
+        this.setRef("uri");
       });
-      
+      index.forEach(function (page) {
+        lunrIndex.addDoc(page);
+      });
       search();
     })
   );
