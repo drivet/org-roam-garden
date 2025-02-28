@@ -1,8 +1,0 @@
-baseURL = "https://garden.desmondrivet.com/"
-languageCode = "en-us"
-title = "Desmond's Digital Garden"
-description = "Desmond's attempt at a digital garden"
-uglyURLs = true
-disableKinds = ["sitemap", "RSS"]
-[Taxonomies]
-  tags = "tags"

@@ -4,3 +4,4 @@ content/**/*.md
 org-roam/.org-roam.db
 public/*
 .hugo_build.lock
+resources/*

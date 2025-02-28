@@ -27,16 +27,14 @@
       <article class="h-entry">
         <h1>{{ .Title }}</h1>
         <div>
-          {{.Content}}
+          Here is a full list ({{ .Site.RegularPages  | len }}) of every note in my garden.
+          <ul>
+            {{ range .Site.Pages }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+            {{ end }}
+          </ul>  
         </div>
       </article>
-      <hr />
-      <p>Backlinks</p>
-      <ul>
-        {{ range $backlinks }}
-        <li><a href="/{{.file}}.html">{{.title}}</a></li>
-        {{ end }}
-      </ul>
     </main>
   </body>
 </html>      
