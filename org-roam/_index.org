@@ -3,7 +3,8 @@
 :END:
 #+date: [2024-07-09 18:16]
 #+title: Start here
-
+#+hugo_custom_front_matter: :layout single
+ 
 Welcome to [[https://desmondrivet.com/about][my]] [[id:E9DDE472-8D71-4547-992C-56D16AE6A5E5][digital garden]], a repository for notes, reviews, recipes and
 whatever else strikes my fancy.  Though you are, of course, welcome to
 explore (this site wouldn't be public otherwise), I wrote these notes with
