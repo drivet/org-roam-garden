@@ -1,0 +1,24 @@
+---
+title: Search results
+layout: search
+---
+<script id="searchResultsTemplate" type="text/x-mustache-template">
+  {{#hasResults}}
+  <p>Results for {{field}} in notes</p>
+  <ul class="search-result-list">
+    {{#results}}
+    <li class="search-result-item">
+      {{#title}}
+      <h3 class="search-result-item__header"><a href="{{uri}}">{{title}}</a></h3>
+      {{/title}}
+      <p>{{{truncated}}}</p>
+    </li>
+    {{/results}}
+  </ul>
+  {{/hasResults}}
+
+  {{^hasResults}}
+  <p>No results found.</p>
+  {{/hasResults}}
+</script>
+<div id="searchResults" />
