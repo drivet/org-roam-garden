@@ -1,7 +1,7 @@
 markdown:
 	emacs -batch -l ./export.el
 
-backlinks: markdown
+backlinks:
 	go run backlinks.go
 
 clean:
@@ -12,3 +12,12 @@ veryclean: clean
 
 serve:
 	hugo server -D
+
+build:
+	hugo build
+
+all:
+	make markdown && make backlinks && make build
+
+allserve:
+	make markdown && make backlinks && make serve

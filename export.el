@@ -12,8 +12,6 @@
     (setq org-roam-database-connector 'sqlite))
 (setq org-roam-db-location (concat org-roam-directory ".org-roam.db"))
 
-(add-to-list 'safe-local-variable-values '(org-hugo-section . "daily"))
-(add-to-list 'safe-local-variable-values '(org-hugo-section . "reference"))
 (setq org-hugo-base-dir "~/org-roam-garden/")
 (setq org-hugo-section ".")
 (setq org-hugo-front-matter-format "yaml")
