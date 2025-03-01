@@ -1,0 +1,21 @@
+{{ $cleanPermalink := substr .RelPermalink 1 -5 }}
+{{ $backlinks := dict }}
+{{ with resources.Get "data/backlinks.yaml" }}
+  {{ with . | transform.Unmarshal }}
+    {{ $backlinks = index . $cleanPermalink }}
+  {{ end }}
+{{ else }}
+  {{ errorf "Unable to get global resource %q" "data/backlinks.yaml" }}
+{{ end }}
+<html>
+<hr />
+{{ with $backlinks  }}
+  <p>Backlinks</p>
+  <ul>
+    {{ range $backlinks }}
+    <li><a href="/{{.file}}.html">{{.title}}</a></li>
+    {{ end }}
+  </ul>
+{{ else }}
+  <p>No backlinks</p>
+{{ end }}
