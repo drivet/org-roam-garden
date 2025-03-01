@@ -17,11 +17,13 @@
     const compiledResult = Mustache.render(template, {
       field,
       hasResults: results.length > 0,
-      results: results.map(r => ({
-        uri: r.uri,
-        title: r.doc.title,
-        truncated: summarize(r.doc.content)
-      }))
+      results: results.map(function(r) {
+        return {
+          uri: r.doc.uri,
+          title: r.doc.title,
+          truncated: summarize(r.doc.content)
+        };
+      })
     });
     
     const resEl = document.getElementById("searchResults");

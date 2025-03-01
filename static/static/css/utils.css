@@ -98,3 +98,23 @@
 .center {
   text-align: center;
 }
+
+.two-column {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.two-column__col {
+  width: 100%;
+  padding: 0 1em;
+}
+
+@media (min-width: 768px) {
+  .two-column__col1 {
+    width:50%;
+  }
+
+  .two-column__col2 {
+    width:50%;
+  }
+}

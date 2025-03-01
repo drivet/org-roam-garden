@@ -7,9 +7,7 @@
 {{ else }}
   {{ errorf "Unable to get global resource %q" "data/backlinks.yaml" }}
 {{ end }}
-<html>
-<hr />
-<section class="backlinks">
+<section class="backlinks two-column__col two-column__col2">
 {{ with $backlinks  }}
   <p class="backlinks__title">Backlinks</p>
   <ul class="backlinks-list">
@@ -20,4 +18,4 @@
 {{ else }}
   <p>No backlinks</p>
 {{ end }}
- </section>
+</section>
