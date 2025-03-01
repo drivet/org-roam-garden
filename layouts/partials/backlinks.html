@@ -9,13 +9,15 @@
 {{ end }}
 <html>
 <hr />
+<section class="backlinks">
 {{ with $backlinks  }}
-  <p>Backlinks</p>
-  <ul>
+  <p class="backlinks__title">Backlinks</p>
+  <ul class="backlinks-list">
     {{ range $backlinks }}
-    <li><a href="/{{.file}}.html">{{.title}}</a></li>
+    <li class="backlinks-list__item"><a class="backlinks-list__link" href="/{{.file}}.html">{{.title}}</a></li>
     {{ end }}
   </ul>
 {{ else }}
   <p>No backlinks</p>
 {{ end }}
+ </section>

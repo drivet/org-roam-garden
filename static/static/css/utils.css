@@ -1,0 +1,100 @@
+.row {
+  display: flex;
+  align-items: center;
+  gap: 0.3em;
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.row-inline {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3em;
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.row--wrap {
+  flex-wrap: wrap;
+}
+
+.row--spacious {
+  gap: 1em;
+}
+
+.row--extra-spacious {
+  gap: 1.5em;
+}
+
+.row--comfy {
+  gap: 0.4em;
+}
+
+.row--center {
+  justify-content: center;
+}
+
+
+.row__item--right {
+  margin-left: auto;
+}
+
+.content-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.content-list__item:first-child {
+  padding-top: 0;
+  border-top: 0;
+}
+
+.content-list__item {
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+}
+
+.content-list__item--separator {
+  border-top: 1px solid var(--lightest-color);
+}
+
+.content-list__item--compact {
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+}
+
+.content-list__item--spacious {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+.content {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.dont-break-out {
+  /* These are technically the same, but use both */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  
+  -ms-word-break: break-all;
+  /* This is the dangerous one in WebKit, as it breaks things wherever */
+  word-break: break-all;
+  /* Instead use this non-standard one: */
+  word-break: break-word;
+  
+  /* Adds a hyphen where the word breaks, if supported (No Blink) */
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+
+  hyphens: auto;
+}
+
+.center {
+  text-align: center;
+}

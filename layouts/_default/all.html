@@ -12,9 +12,13 @@
         <h1>{{ .Title }}</h1>
         <div>
           Here is a full list ({{ .Site.RegularPages  | len }}) of every note in my garden.
-          <ul>
+          <ul class="all-links-list">
             {{ range .Site.Pages }}
-            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+            <li class="all-links-list__item">
+              <a class="all-links-list__link"href="{{ .RelPermalink }}">
+                {{ .Title }}
+              </a>
+            </li>
             {{ end }}
           </ul>  
         </div>
