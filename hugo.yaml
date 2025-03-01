@@ -12,3 +12,5 @@ outputs:
   home:
   - HTML
   - JSON
+params:
+  author: "Desmond Rivet"
