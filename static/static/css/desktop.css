@@ -1,8 +1,6 @@
 @media only screen and (min-width : 1024px) {
   :root {
     --width: 800px; 
-    --navwidth: 900px;
-    --side-padding: 1em;
   }
   
   h1 {
@@ -29,7 +27,7 @@
     font-size: 0.58625em;
   }
   
-  .navbar {
-    --width: var(--navwidth);
+  .backlinks {
+    border-top: 0;
   }
 }

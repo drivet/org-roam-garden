@@ -1,5 +1,4 @@
 :root {
-  --side-padding: 0.66em;
   --font-size: 16px;
   --font-size-smaller: 14px;
   --font-size-smallest: 10px;
@@ -11,7 +10,7 @@ body {
   font-size: var(--font-size);
   background-color: var(--background-color);
   color: var(--color);
-  margin: 0.3em;
+  margin: 0;
   padding: 0;
   line-height: 1.7;
 }
@@ -40,10 +39,21 @@ h6 {
   font-size: 0.5em;
 }
 
+.main-header {
+  border-bottom: 1px solid var(--lightest-color);
+  padding: 0.5em;
+}
+
+.main-footer {
+  border-top: 1px solid var(--lightest-color);
+  padding: 0.5em;
+}
+
 .navbar {
   max-width: 100%;
   display: flex;
   align-items: center;
+ 
 }
 
 .navbar__item {
@@ -63,6 +73,10 @@ h6 {
 
 #searchField {
   width: 10em;
+}
+
+.backlinks {
+  border-top: 1px solid var(--lightest-color);
 }
 
 .backlinks__title {

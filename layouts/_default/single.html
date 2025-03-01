@@ -3,7 +3,7 @@
     {{ partial "head.html" . }}
   </head>
   <body>
-    <header>
+    <header class= "main-header">
       {{ partial "nav.html" . }}
     </header>
     <main class="two-column">
@@ -15,6 +15,8 @@
       </article>
       {{ partial "backlinks.html" . }}
     </main>
-    <footer>Copyright 2025 by {{ .Site.Param "author" }}</footer>
+    <footer class="main-footer">
+      Copyright 2025 by {{ .Site.Param "author" }}
+    </footer>
   </body>
 </html>      
