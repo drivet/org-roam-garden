@@ -1,0 +1,82 @@
+:root {
+  --side-padding: 0.66em;
+  --font-size: 16px;
+  --font-size-smaller: 14px;
+  --font-size-smallest: 10px;
+  --font-size-bigger: 18px;
+}
+
+body {
+  font-family: Inter, sans-serif;
+  font-size: var(--font-size);
+  background-color: var(--background-color);
+  color: var(--color);
+  margin: 0.3em;
+  padding: 0;
+  line-height: 1.7;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+h2 {
+  font-size: 1.125em;
+}
+
+h3 {
+  font-size: 0.8775em;
+}
+
+h4 {
+  font-size: 0.75em;
+}
+
+h5 {
+  font-size: 0.6225em;
+}
+
+h6 {
+  font-size: 0.5em;
+}
+
+.navbar {
+  max-width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.navbar__item {
+  color: var(--colour);
+  text-decoration: none;
+  margin: 0 0.3em 0 0;
+}
+
+.search-result-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.search-result__item-header {
+  margin: 2em 0 0.3em 0;
+}
+
+#searchField {
+  width: 10em;
+}
+
+.backlinks__title {
+  margin-bottom: 0;
+}
+
+.backlinks-list {
+  list-style-type: none;
+  padding-left: 0;
+  margin-top: 0.5em;
+}
+
+.all-links-list {
+  list-style-type: none;
+  padding-left: 0;
+  margin-top: 0.5em;
+}

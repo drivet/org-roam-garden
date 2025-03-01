@@ -1,0 +1,9 @@
+@media only screen and (min-width : 768px) {
+  :root {
+    --width: 750px;
+  }
+
+  .navbar {
+    margin: 0 auto;
+  }
+}
