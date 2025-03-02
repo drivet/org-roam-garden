@@ -7,14 +7,17 @@
     <script type="text/javascript" src="/static/js/searchResults.js"></script>
   </head>
   <body>
-    <header class="page-header">
+    <header class="main-header">
       {{ partial "nav.html" . }}
     </header>
-    <main>
+    <main class="main-content">
       <article>
         <h1>{{ .Title }}</h1>
         {{.Content}}
       </article>
     </main>
+    <footer class="main-footer center">
+      Copyright 2025 by {{ .Site.Param "author" }}
+    </footer>
   </body>
 </html>

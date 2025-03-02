@@ -9,9 +9,9 @@ layout: search
     {{#results}}
     <li class="search-result__item">
       {{#title}}
-      <h3 class="search-result__item-header"><a href="{{uri}}">{{title}}</a></h3>
+      <a class="search-result__item-header" href="{{uri}}">{{title}}</a>
       {{/title}}
-      <p>{{{truncated}}}</p>
+      <div>{{{truncated}}}</div>
     </li>
     {{/results}}
   </ul>

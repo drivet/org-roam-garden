@@ -6,8 +6,8 @@
     <header class= "main-header">
       {{ partial "nav.html" . }}
     </header>
-    <main class="two-column">
-      <article class="h-entry two-column__col two-column__col1">
+    <main class="two-column main-content">
+      <article class="h-entry two-column__col two-column__col1 main-content__col1">
         <h1>{{ .Title }}</h1>
         <div>
           {{.Content}}
@@ -15,7 +15,7 @@
       </article>
       {{ partial "backlinks.html" . }}
     </main>
-    <footer class="main-footer">
+    <footer class="main-footer center">
       Copyright 2025 by {{ .Site.Param "author" }}
     </footer>
   </body>
