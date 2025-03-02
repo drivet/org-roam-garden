@@ -12,7 +12,6 @@ Maybe useful links:
 
  * https://scripter.co/hugo-modules-getting-started/
 
-<<<<<<< Updated upstream
 ** Sections
 
 https://gohugo.io/content-management/sections/
@@ -25,10 +24,9 @@ a branch bundle. Section templates receive one or more page collections in
 context.
 
 Top level directories without an _index.md are also sections.
-=======
+
 ** Static versus Assets
 
 Use the static folder for files that are copied to output folder as-is
 without any processing.
 
->>>>>>> Stashed changes
