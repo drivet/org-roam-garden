@@ -11,4 +11,4 @@ Your entire site becomes a Go module, from what I can tell.
 Maybe useful links:
 
  * https://scripter.co/hugo-modules-getting-started/
-   
+
