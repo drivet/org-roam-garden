@@ -4,10 +4,10 @@
     {{ partial "head.html" . }}
   </head>
   <body>
-    <header>
+    <header class= "main-header">
       {{ partial "nav.html" . }}
     </header>
-    <main>
+    <main class="main-content">
       <article class="h-entry">
         <h1>{{ .Title }}</h1>
         <div>
@@ -24,5 +24,8 @@
         </div>
       </article>
     </main>
+    <footer class="main-footer center">
+      Copyright 2025 by {{ .Site.Param "author" }}
+    </footer>
   </body>
 </html>      
