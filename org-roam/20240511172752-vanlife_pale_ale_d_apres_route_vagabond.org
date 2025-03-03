@@ -2,6 +2,7 @@
 :ID:       f481b6b0-c5cf-48d3-9a28-de9219bedd15
 :END:
 #+date: [2024-05-11 17:27]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Vanlife Pale Ale D'Apres Route (Vagabond)
 
 A blond ale I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tasted]] from [[id:10fef462-6985-4cb6-9567-f118eff8d583][Vagabond]]

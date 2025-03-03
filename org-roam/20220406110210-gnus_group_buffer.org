@@ -2,6 +2,7 @@
 :ID:       4744515D-6042-4071-B32B-BB837FC25741
 :END:
 #+date: [2022-04-06 11:02]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Gnus group buffer
 
 [[id:436197ee-3978-474a-aa6d-373d0cfd2d67][Gnus]]

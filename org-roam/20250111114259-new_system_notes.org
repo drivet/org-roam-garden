@@ -2,6 +2,7 @@
 :ID:       8f28c626-3ecc-4ebb-af55-c70292681b8c
 :END:
 #+date: [2025-01-11 Sat 11:42]
+#+hugo_lastmod: 2025-02-04 19:38:12 -0500
 #+title: New system notes
 
 [[id:9b39db1c-a987-4a6f-8d3b-4d0cc2596867][Linux Administration]]

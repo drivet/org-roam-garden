@@ -2,6 +2,7 @@
 :ID:       2b1d02d1-ca0f-425a-a539-52485cc5adc4
 :END:
 #+date: [2022-04-05 21:12]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Emacs filling
 
 Filling, in [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]], means to format a paragrah so that it only takes up a

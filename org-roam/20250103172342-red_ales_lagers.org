@@ -2,6 +2,7 @@
 :ID:       48628120-0934-4297-a064-5d03b62847db
 :END:
 #+date: [2025-01-03 Fri 17:23]
+#+hugo_lastmod: 2025-01-03 17:29:39 -0500
 #+title: Red ales, lagers, etc
 
 Somewhere south of an amber ale, this is bright red, and often comes from

@@ -2,6 +2,7 @@
 :ID:       26692c61-d2ae-44b9-bbed-40734b062d37
 :END:
 #+date: [2022-06-12 10:48]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Brasserie Depareillee
 
 [[id:BD759C00-5598-4433-8F98-54A5712D203B][Brewery]] in Yamachiche, Quebec

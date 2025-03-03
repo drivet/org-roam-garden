@@ -2,6 +2,7 @@
 :ID:       c1695786-a029-432d-970f-5521af0cceaf
 :END:
 #+date: [2024-06-23 14:30]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Cloud authentication and authorization
 
 In [[id:1c4f174b-9327-4a88-b896-741934a48210][GCP]] we manage authorization and authentication via the (Identity Access

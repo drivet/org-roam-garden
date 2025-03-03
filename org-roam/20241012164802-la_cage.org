@@ -2,6 +2,7 @@
 :ID:       b812456f-fe38-4e65-b950-a85542de1821
 :END:
 #+date: [2024-10-12 16:48]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: La Cage
 
 Quebec brewery associated with La Cage Sports bars

@@ -2,6 +2,7 @@
 :ID:       c22ed9d5-3a0e-4774-a00a-86caf856d93d
 :END:
 #+date: [2024-08-02 09:22]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Wildeye
 
 A brewery from Vancouver B.C.

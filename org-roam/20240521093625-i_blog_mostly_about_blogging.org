@@ -2,6 +2,7 @@
 :ID:       06D6F631-9ED7-44EF-97D5-C06B309FED0D
 :END:
 #+date: [2024-05-21 09:36]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: I blog mostly about blogging
 
 [[id:073f104c-8e48-44a6-8f5f-81e5e89b4881][Blogging]]

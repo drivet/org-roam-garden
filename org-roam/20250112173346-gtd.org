@@ -2,6 +2,7 @@
 :ID:       c1c6678a-b2cc-4b5c-96cd-5edc22666ab0
 :END:
 #+date: [2025-01-12 Sun 17:33]
+#+hugo_lastmod: 2025-01-19 21:49:46 -0500
 #+title: GTD
 
 GTD stand for Getting Things Done.  It's a famous productivity system that

@@ -2,6 +2,7 @@
 :ID:       2de8f172-0d92-45b5-91e7-cbc8f72a43c1
 :END:
 #+date: [2025-02-02 Sun 12:48]
+#+hugo_lastmod: 2025-02-04 19:38:12 -0500
 #+title: Difficulties of the IndieWeb
 
 The [[id:f9b01190-b396-4e6a-a912-83167d33968d][IndieWeb]] is clunky. Social media is slick. And the key is to embrace the

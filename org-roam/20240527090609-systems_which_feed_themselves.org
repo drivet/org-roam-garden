@@ -2,6 +2,7 @@
 :ID:       5abc267c-09ec-491d-b116-f84000574d6a
 :END:
 #+date: [2024-05-27 09:06]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Systems which feed themselves
 
 A system which feeds itself is a system which contains, within it, the tools

@@ -2,6 +2,7 @@
 :ID:       90dc0a94-af98-4ba0-af96-c1fad18a7329
 :END:
 #+date: [2024-06-22 09:55]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Milford NZ Pilsner (Gaspard)
 
 A pilsner I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:b036bb00-3136-4cdf-8508-5645eb9517fe][Gaspard brewery]].

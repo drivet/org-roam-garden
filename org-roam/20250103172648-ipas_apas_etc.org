@@ -2,6 +2,7 @@
 :ID:       ebe255e9-6553-4ebd-82a4-88e203e4c456
 :END:
 #+date: [2025-01-03 Fri 17:26]
+#+hugo_lastmod: 2025-01-03 17:29:39 -0500
 #+title: IPAs, APAs, etc.
 
 These tend to be hoppy and bitter.  Sometimes citrusy.  Though technically

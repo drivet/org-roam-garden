@@ -2,6 +2,7 @@
 :ID:       f5a3e676-3c4b-4bb3-8a99-b10c9d77b195
 :END:
 #+date: [2025-01-11 Sat 11:47]
+#+hugo_lastmod: 2025-01-11 20:40:55 -0500
 #+title: Flatpak notes
 
 [[id:9b39db1c-a987-4a6f-8d3b-4d0cc2596867][Linux Administration]]

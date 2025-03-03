@@ -3,6 +3,7 @@
 :END:
 #+hugo_front_matter_format: yaml
 #+date: [2024-06-08 16:42]
+#+hugo_lastmod: 2025-01-28 08:37:27 -0500
 #+title: Exporting org roam nodes is hard
 
 Using something like Pandoc doesn't work very well because it doesn't handle

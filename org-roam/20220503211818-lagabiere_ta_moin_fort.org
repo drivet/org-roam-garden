@@ -2,6 +2,7 @@
 :ID:       db157416-7a8e-4305-b6fb-113fc4aa781d
 :END:
 #+date: [2022-05-03 21:18]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Lagabiere Ta Moin Fort
 
 A session [[id:67dce812-c557-42d4-944a-c2e035db0e3d][IPA]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:11c6ac15-957c-4a48-9fa7-6789f513e3b8][Lagabiere]]

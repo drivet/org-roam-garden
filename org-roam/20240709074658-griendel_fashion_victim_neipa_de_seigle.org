@@ -2,6 +2,7 @@
 :ID:       5FE877D4-1C85-4BBB-A946-61689304710B
 :END:
 #+date: [2024-07-09 07:46]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Griendel Fashion Victim NEIPA de seigle
 
 A NEIPA I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:b5a77bdc-dd0c-49b5-b9ba-dc018f17f190][Griendel]].

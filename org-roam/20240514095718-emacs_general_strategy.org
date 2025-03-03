@@ -2,6 +2,7 @@
 :ID:       AFAF00F9-1B92-4749-B5C5-E648D384F8B4
 :END:
 #+date: [2024-05-14 09:57]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Emacs General Strategy
 
 I think I've been looking for whole, integrated systems for becoming

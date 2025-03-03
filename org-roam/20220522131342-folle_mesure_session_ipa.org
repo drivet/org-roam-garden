@@ -2,6 +2,7 @@
 :ID:       6cb99d98-22e0-4282-ae51-2bdfd9cb6cd6
 :END:
 #+date: [2022-05-22 13:13]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Folle Mesure (Session IPA)
 
 A beer I tasted from [[id:01c4c4de-eaf7-4b75-9fbd-0627bdadeac1][Siboire]]

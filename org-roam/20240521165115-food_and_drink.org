@@ -2,6 +2,7 @@
 :ID:       35EC8663-3548-4E1F-9A94-AE8FB8D7B5E7
 :END:
 #+date: [2024-05-21 16:51]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Food and drink
 
 My food and drink portal.

@@ -2,6 +2,7 @@
 :ID:       dad2a764-621e-4659-995a-8e18bd50eb31
 :END:
 #+date: [2022-05-01 09:48]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: La Ferme Brasserie Rurale
 
 [[id:BD759C00-5598-4433-8F98-54A5712D203B][Breweries in Quebec]]

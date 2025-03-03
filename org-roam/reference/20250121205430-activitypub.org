@@ -3,6 +3,7 @@
 :ROAM_REFS: https://www.w3.org/TR/activitypub/
 :END:
 #+date: [2025-01-21 Tue 20:54]
+#+hugo_lastmod: 2025-01-22 08:34:21 -0500
 #+title: ActivityPub
 
 Users are actors and actors have inboxes (messages to read) and outboxes

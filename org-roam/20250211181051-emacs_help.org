@@ -2,6 +2,7 @@
 :ID:       6eaa8143-2f99-48c9-849e-175bf45e3144
 :END:
 #+date: [2025-02-11 Tue 18:10]
+#+hugo_lastmod: 2025-02-11 20:24:50 -0500
 #+title: Emacs help
 
 [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] has an online help system.

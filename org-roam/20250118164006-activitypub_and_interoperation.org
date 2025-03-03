@@ -2,6 +2,7 @@
 :ID:       7e89ef7c-864c-4187-950a-f540d444e044
 :END:
 #+date: [2025-01-18 Sat 16:40]
+#+hugo_lastmod: 2025-01-26 12:20:21 -0500
 #+title: ActivityPub and Interoperation
 
 [[id:41030673-ce20-4b49-ad4c-6967db65c066][ActivityPub]] is supposed to allow content from one users activity feed to

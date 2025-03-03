@@ -2,6 +2,7 @@
 :ID:       7accc4ba-7080-43d7-9cc1-7baf55c7a122
 :END:
 #+date: [2025-01-19 Sun 10:11]
+#+hugo_lastmod: 2025-01-19 21:49:46 -0500
 #+title: The Daily Stoic
 
 According to Ryan Holiday, Stoicism is about focusing your effort on what's

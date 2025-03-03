@@ -2,6 +2,7 @@
 :ID:       5942bb24-580d-49b6-a941-28c172b4d7b5
 :END:
 #+date: [2022-04-05 21:37]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Why org-roam?
 
 Why org-roam and not something like Roam Research?

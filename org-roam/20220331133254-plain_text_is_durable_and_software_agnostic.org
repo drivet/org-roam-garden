@@ -2,6 +2,7 @@
 :ID:       a2e09732-e1f9-4e01-a5fa-74092ae75cd5
 :END:
 #+date: [2022-03-31 13:32]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Plain text is durable and software agnostic
 
 One of the reasons I like writing my blog entries in plain text is that

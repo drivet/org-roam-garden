@@ -2,6 +2,7 @@
 :ID:       ad44d12d-e569-418c-aa44-d75e3dda3bd1
 :END:
 #+date: [2022-05-19 08:16]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Innis and Gunn
 
 Brewery in Scotland

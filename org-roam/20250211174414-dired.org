@@ -2,6 +2,7 @@
 :ID:       1fefcf17-8851-477e-89b1-ab0f3f436900
 :END:
 #+date: [2025-02-11 Tue 17:44]
+#+hugo_lastmod: 2025-02-11 20:24:50 -0500
 #+title: Dired
 
 An [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] mode for manipulating directories and files.

@@ -2,6 +2,7 @@
 :ID:       0ebd90f7-9118-4c0d-b5df-6370affae2f0
 :END:
 #+date: [2022-04-07 21:36]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Flask contexts and locals
 
 [[id:39ce030b-7dd0-4f63-abb2-9ef84fc3b131][Flask]]

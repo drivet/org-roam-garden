@@ -2,6 +2,7 @@
 :ID:       d712d6e6-e4c8-47a5-afb4-098a95d7b80d
 :END:
 #+date: [2022-04-08 12:33]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Emacs mark
 
 [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]]

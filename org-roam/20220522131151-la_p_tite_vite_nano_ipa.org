@@ -2,6 +2,7 @@
 :ID:       25e08a98-e195-49eb-b581-39331db77b22
 :END:
 #+date: [2022-05-22 13:11]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: La P'Tite Vite (Nano IPA)
 
 [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]

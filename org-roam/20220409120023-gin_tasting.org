@@ -2,6 +2,7 @@
 :ID:       5a6f3bc8-befd-4d0c-ba25-cc45e9ea11f2
 :END:
 #+date: [2022-04-09 12:00]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Gin tasting
 
 A page to collect gins I've tasted over the years.

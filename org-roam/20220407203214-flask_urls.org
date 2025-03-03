@@ -2,6 +2,7 @@
 :ID:       7fa8e8cb-9d50-4afa-9827-07bfd80001f3
 :END:
 #+date: [2022-04-07 20:32]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Flask URLs
 
 Part of [[id:39ce030b-7dd0-4f63-abb2-9ef84fc3b131][Flask]] series.

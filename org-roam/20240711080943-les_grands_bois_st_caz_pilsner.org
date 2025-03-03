@@ -2,6 +2,7 @@
 :ID:       b3c4f7b6-f820-4fa0-8f75-5dcc12dc3b88
 :END:
 #+date: [2024-07-11 08:09]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Les Grands Bois St Caz Pilsner
 
 A pilsner I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:e9f70366-ec50-4176-b63f-a52c92868ac8][Les Grands Bois]].

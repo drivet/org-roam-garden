@@ -2,6 +2,7 @@
 :ID:       1052934f-2104-4317-8d23-eb9e3f106a2d
 :END:
 #+date: [2025-01-26 Sun 22:00]
+#+hugo_lastmod: 2025-01-28 08:37:27 -0500
 #+title: Ox-hugo Exporter
 
 An [[id:FA31BDBE-5F87-4DEE-ABE2-D8AFD52F7D03][org-mode]] exporter that I use to convert and [[id:4e639dc7-567a-408b-9ec1-c3f958958952][org-roam]] note cache into a

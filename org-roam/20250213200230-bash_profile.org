@@ -2,6 +2,7 @@
 :ID:       f2f54284-3de2-496a-945c-6515d6f7f2f8
 :END:
 #+date: [2025-02-13 Thu 20:02]
+#+hugo_lastmod: 2025-02-13 20:18:48 -0500
 #+title: Bash profile
 
 I always have trouble remembering which file to modify when we need to update

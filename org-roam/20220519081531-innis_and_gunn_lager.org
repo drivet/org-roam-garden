@@ -2,6 +2,7 @@
 :ID:       645bbaea-a7ab-4cfa-837b-274d284bdec3
 :END:
 #+date: [2022-05-19 08:15]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Innis and Gunn Lager
 
 A lager I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tasted]] from [[id:ad44d12d-e569-418c-aa44-d75e3dda3bd1][Innis and Gunn

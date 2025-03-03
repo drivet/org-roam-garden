@@ -2,6 +2,7 @@
 :ID:       AD990C5A-66C5-4336-A270-1E3B31E8B859
 :END:
 #+date: [2022-05-27 13:47]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Boreale
 
 A [[id:BD759C00-5598-4433-8F98-54A5712D203B][brewery in Quebec]]

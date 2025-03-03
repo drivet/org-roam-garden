@@ -2,6 +2,7 @@
 :ID:       2e9a8432-0079-4155-b60c-d1a8ce60c292
 :END:
 #+date: [2025-01-26 Sun 15:14]
+#+hugo_lastmod: 2025-02-13 20:18:48 -0500
 #+title: Go
 
 Started learning Go, and it seems like a good compromise between something

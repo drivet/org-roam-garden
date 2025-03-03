@@ -2,6 +2,7 @@
 :ID:       fb9f395b-f556-4c5b-9be3-1c1c8b3108f0
 :END:
 #+date: [2022-04-07 20:13]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Gnus archiving and drafts
 
 [[id:436197ee-3978-474a-aa6d-373d0cfd2d67][Gnus]]
