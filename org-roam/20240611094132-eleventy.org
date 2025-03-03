@@ -2,6 +2,7 @@
 :ID:       0F0DCEA3-43C5-4396-AA23-8039242035F5
 :END:
 #+date: [2024-06-11 09:41]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Eleventy
 
 A static site generator I use for my [[https://desmondrivet.com][blog]].

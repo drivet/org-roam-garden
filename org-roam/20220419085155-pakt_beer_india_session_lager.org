@@ -2,6 +2,7 @@
 :ID:       31a2145e-e6c8-47aa-ab7a-b181c9c3c012
 :END:
 #+date: [2022-04-19 08:51]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Pakt beer India Session Lager
 
 [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]

@@ -2,6 +2,7 @@
 :ID:       439ee847-fdd9-456e-a810-aacbb9e608f6
 :END:
 #+date: [2024-05-28 22:17]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Farnham Lager
 
 A lager I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:f8fca691-9c76-4335-b5b4-6f8eed53024a][Farnham]].

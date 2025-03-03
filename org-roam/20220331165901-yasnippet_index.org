@@ -2,6 +2,7 @@
 :ID:       f79e39b3-03a8-41f9-a58c-609c622dfaa0
 :END:
 #+date: [2022-03-31 16:59]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Yasnippet index
 
 Yasnippet is a templating system for [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]].  You type an abbreviation

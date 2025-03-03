@@ -2,6 +2,7 @@
 :ID:       E9DDE472-8D71-4547-992C-56D16AE6A5E5
 :END:
 #+date: [2024-05-21 13:32]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Digital Garden
 
 Think of this digital garden as a cross between a digital scrapbook and a

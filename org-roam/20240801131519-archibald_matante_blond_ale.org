@@ -2,6 +2,7 @@
 :ID:       37744188-B2E5-46F0-84C7-127BC2FE2507
 :END:
 #+date: [2024-08-01 13:15]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Archibald Matante Blond Ale
 
 A blond ale I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:29c29abc-abe6-4051-81a3-fd68be7bc6b9][Archibald]].

@@ -2,6 +2,7 @@
 :ID:       436197ee-3978-474a-aa6d-373d0cfd2d67
 :END:
 #+date: [2022-04-07 08:59]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Gnus
 
 A newsreader and [[id:33af9cb5-9bf4-42ab-a140-cbe4b1078525][email client for Emacs]]

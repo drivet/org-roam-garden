@@ -2,6 +2,7 @@
 :ID:       05bf5fdd-59e5-4545-b24d-4173da3cc8ca
 :END:
 #+date: [2024-06-22 20:31]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Kolsch du Clocher (Griendel)
 
 A Kolsch I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from Griendel.

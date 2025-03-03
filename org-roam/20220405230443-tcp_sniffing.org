@@ -2,6 +2,7 @@
 :ID:       68ff5201-a52b-4719-83bf-9882c4591408
 :END:
 #+date: [2022-04-05 23:04]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: TCP sniffing
 
 [[id:9b39db1c-a987-4a6f-8d3b-4d0cc2596867][Linux Administration]]

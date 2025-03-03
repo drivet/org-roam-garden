@@ -2,6 +2,7 @@
 :ID:       7cdfd34a-d47c-4a2a-b23c-819bef545dc1
 :END:
 #+date: [2022-04-05 23:02]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: VNC basics
 
 [[id:9b39db1c-a987-4a6f-8d3b-4d0cc2596867][Linux Administration]]

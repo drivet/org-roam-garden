@@ -2,6 +2,7 @@
 :ID:       9d43b8e2-613f-47d0-a5d4-275a1ee8962e
 :END:
 #+date: [2025-01-03 Fri 17:22]
+#+hugo_lastmod: 2025-02-06 20:06:13 -0500
 #+title: Pale ales, Enlish bitters, etc.
 
 The hops tends to be a bit more pronounced in this category, and so these

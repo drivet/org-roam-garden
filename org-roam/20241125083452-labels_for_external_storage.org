@@ -2,6 +2,7 @@
 :ID:       38529e79-20d3-498d-badd-7a65a051e5da
 :END:
 #+date: [2024-11-25 08:34]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Labels for external storage
 
 [[id:9b39db1c-a987-4a6f-8d3b-4d0cc2596867][Linux Administration]]

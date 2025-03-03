@@ -2,6 +2,7 @@
 :ID:       52e4db22-6a6d-4028-a396-9caa7aebce4e
 :END:
 #+date: [2024-05-28 22:22]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Griffintown blonde ale
 
 A blond ale I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:0bfccb99-19a0-4ac5-bc3c-661ac3b8dd1b][Brasseur de Montreal]].

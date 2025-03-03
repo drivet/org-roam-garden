@@ -2,6 +2,7 @@
 :ID:       4e639dc7-567a-408b-9ec1-c3f958958952
 :END:
 #+date: [2025-01-03 Fri 20:15]
+#+hugo_lastmod: 2025-01-19 21:49:46 -0500
 #+title: Org Roam
 
 A rudimentary roam replication in [[id:FA31BDBE-5F87-4DEE-ABE2-D8AFD52F7D03][org mode]] and [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]].

@@ -2,6 +2,7 @@
 :ID:       c2f05b96-a1a5-4930-a0d0-be0aca1bfb8d
 :END:
 #+date: [2022-04-06 22:43]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Bowmore 12 year old scotch
 
 [[id:F54E58D6-5674-459B-9310-88BA1377E598][Scotch tasting]]

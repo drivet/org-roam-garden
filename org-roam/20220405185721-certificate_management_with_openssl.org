@@ -2,6 +2,7 @@
 :ID:       37b2affd-0ff1-4683-b071-acf05eebdc5c
 :END:
 #+date: [2022-04-05 18:57]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Certificate management with OpenSSL
 
 Knowing [[id:d9a36121-e86b-4ba6-8f45-502314f7d21c][certificate management basics]] is one thing; translating that into

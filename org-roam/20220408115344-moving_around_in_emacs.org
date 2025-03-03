@@ -2,6 +2,7 @@
 :ID:       bfce90eb-7dee-43af-b09c-2f4062964a69
 :END:
 #+date: [2022-04-08 11:53]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Moving around in Emacs
 
 Normally I use the arrow keys to move around [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]], but people keep saying I

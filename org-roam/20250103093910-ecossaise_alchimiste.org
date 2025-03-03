@@ -2,6 +2,7 @@
 :ID:       0a74a2fc-edce-4e6e-bd3b-fe54997941c9
 :END:
 #+date: [2025-01-03 Fri 09:39]
+#+hugo_lastmod: 2025-01-03 17:05:23 -0500
 #+title: Ecossaise (Alchimiste)
 
 A scottish ale I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:3E20D85D-4A65-4E87-8675-9CE97BC0F318][Alchimiste]].

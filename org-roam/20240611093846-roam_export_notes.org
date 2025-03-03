@@ -2,6 +2,7 @@
 :ID:       4AAC7C68-C423-4739-ABD9-269456B4257A
 :END:
 #+date: [2024-06-11 09:38]
+#+hugo_lastmod: 2025-01-10 08:20:33 -0500
 #+title: Roam export notes
 
 Note on trying to export my [[id:5942bb24-580d-49b6-a941-28c172b4d7b5][org-roam]] notes.  It's [[id:ffcf64d8-7e8e-45b9-93f4-6f4d178ff621][hard]]. 

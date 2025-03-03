@@ -2,6 +2,7 @@
 :ID:       82927422-e496-4bdb-ae04-1a490c096aa5
 :END:
 #+date: [2022-05-14 14:36]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Refresh Lager (2 Crows)
 
 [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]

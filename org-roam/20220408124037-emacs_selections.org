@@ -2,6 +2,7 @@
 :ID:       5dd779f8-3d7d-4175-900a-2bd175283b0d
 :END:
 #+date: [2022-04-08 12:40]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Emacs selections
 
 Selections in [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] are interesting, because while you can use the mouse and

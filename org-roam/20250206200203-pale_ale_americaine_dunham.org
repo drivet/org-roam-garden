@@ -2,6 +2,7 @@
 :ID:       532077b0-fa08-40b0-913e-26955af41305
 :END:
 #+date: [2025-02-06 Thu 20:02]
+#+hugo_lastmod: 2025-02-06 20:06:13 -0500
 #+title: Pale Ale Americaine (Dunham)
 
 A APA I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from Dunham.

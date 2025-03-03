@@ -2,6 +2,7 @@
 :ID:       eb8ac625-09f2-4846-a703-7318c9c93888
 :END:
 #+date: [2025-01-12 Sun 17:55]
+#+hugo_lastmod: 2025-01-19 21:49:46 -0500
 #+title: Pale ale (Alchimiste)
 
 A Pale Ale I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from Alchimiste.

@@ -2,6 +2,7 @@
 :ID:       fea287bb-8e57-4669-be66-a1844f7cf70d
 :END:
 #+date: [2022-04-11 19:28]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Whisky tasting
 
 Distinguished from [[id:F54E58D6-5674-459B-9310-88BA1377E598][Scotch tasting]], this is mostly about Canadian whiskies.

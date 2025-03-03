@@ -2,6 +2,7 @@
 :ID:       3e894f07-7186-4cf8-a454-acbb1ce13c4b
 :END:
 #+date: [2024-05-13 09:01]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Stout (beer)
 
 A type of beer, characterized by a dark, almost black colour.

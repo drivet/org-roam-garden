@@ -2,6 +2,7 @@
 :ID:       bf6384d2-326f-49e6-ac5f-3a41c722f7e7
 :END:
 #+date: [2025-01-03 Fri 20:12]
+#+hugo_lastmod: 2025-01-03 20:52:27 -0500
 #+title: Org protocol, roam and bookmarklets
 
 Briefly, this is how capturing bookmarks from a web browser works with [[id:4e639dc7-567a-408b-9ec1-c3f958958952][org

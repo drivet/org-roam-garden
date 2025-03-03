@@ -2,6 +2,7 @@
 :ID:       70a5ed23-a02e-460d-88ac-94f1eb252940
 :END:
 #+date: [2022-05-15 10:44]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Czech Pilser (Maltstrom)
 
 A pilsner I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tasted]] from [[id:1879a7ea-e582-4d21-8b8b-4a28e20e233a][Maltstrom Brewery]]

@@ -2,6 +2,7 @@
 :ID:       73312190-31ab-4aa4-996e-b555252c3d1c
 :END:
 #+date: [2024-10-03 20:48]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Hue, Saturation, Lightness
 
 If your image is washed out (maybe it was a bright day), you can make it

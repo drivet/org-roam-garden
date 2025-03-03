@@ -874,8 +874,6 @@ _index: []
     - file: 20240521164538-joliette_bitter_alchimiste
       title: Bitter (Alchimiste)
 20240521165115-food_and_drink:
-    - file: 20250218202000-recipes
-      title: Recipes
     - file: _index
       title: Start here
 20240522133544-ivy_counsel_swiper:
@@ -1206,10 +1204,6 @@ _index: []
       title: Emacs help
 20250211181051-emacs_help: []
 20250213200230-bash_profile: []
-20250218201507-lebkuchen: []
-20250218202000-recipes:
-    - file: 20250218201507-lebkuchen
-      title: Lebkuchen
 ference/20241229130609-atomic_habits:
     - file: ily/2024-12-29
       title: Daily note (2024-12-29)

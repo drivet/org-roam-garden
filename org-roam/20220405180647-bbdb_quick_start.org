@@ -2,6 +2,7 @@
 :ID:       9a70ede2-9aa5-4311-be79-f17c479a1bc9
 :END:
 #+date: [2022-04-05 18:06]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: BBDB quick start
 #+filetags: :emacs:
 

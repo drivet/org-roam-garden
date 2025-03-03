@@ -3,15 +3,18 @@
     {{ partial "head.html" . }}
   </head>
   <body>
-    <header>
+    <header class= "main-header">
        {{ partial "nav.html" . }}
     </header>
-    <main>
+    <main class="main-content">
       <h1>{{ .Title }}</h1>
       {{ .Content }}
       {{ range .Pages }}
       <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
       {{ end }}
-    </main> 
+    </main>
+    <footer class="main-footer center">
+      Copyright 2025 by {{ .Site.Param "author" }}
+    </footer> 
   </body>
 </html> 

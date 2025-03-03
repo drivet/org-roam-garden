@@ -2,6 +2,7 @@
 :ID:       0b228ecf-49f5-4f3f-8732-95edc5e21b4e
 :END:
 #+date: [2022-04-06 22:33]
+#+hugo_lastmod: 2025-01-03 17:29:39 -0500
 #+title: Beer tasting
 
 My beer tasting page, where I collect information about various beers I've

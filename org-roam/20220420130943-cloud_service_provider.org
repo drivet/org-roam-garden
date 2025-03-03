@@ -2,6 +2,7 @@
 :ID:       452805d5-6c0b-4cb1-a8b5-cb1955adc50c
 :END:
 #+date: [2022-04-20 13:09]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Cloud Service Provider
 
  * [[id:1c4f174b-9327-4a88-b896-741934a48210][Google Cloud Platform (GCP)]]

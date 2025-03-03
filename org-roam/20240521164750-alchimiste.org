@@ -2,6 +2,7 @@
 :ID:       3E20D85D-4A65-4E87-8675-9CE97BC0F318
 :END:
 #+date: [2024-05-21 16:47]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Alchimiste
 
 A [[id:BD759C00-5598-4433-8F98-54A5712D203B][Quebec Brewery]] in Joliette.

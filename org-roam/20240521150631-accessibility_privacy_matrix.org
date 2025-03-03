@@ -2,6 +2,7 @@
 :ID:       3C4BBDE1-7463-4EFA-B2CE-9CEC98982E86
 :END:
 #+date: [2024-05-21 15:06]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Accessibility Privacy Matrix
 
 A matrix of information accessibility (in terms of device sharing) and

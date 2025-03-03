@@ -9,16 +9,30 @@
     <main class="two-column main-content">
       <article class="h-entry two-column__col two-column__col1 main-content__col1">
         <header class="article-header">
-          <h1>{{ .Title }}</h1>
-          <div>
+          <h1 class="article-header__title">{{ .Title }}</h1> 
+          <div class="article-header__created article-header__line">
             Created: {{ .Date | time.Format "Jan 2 2006, 15:04 MST" }}
-          </div>  
+          </div>
+          <div class="article-header__lastmod article-header__line">
+            Last modified: {{ .Lastmod | time.Format "Jan 2 2006, 15:04 MST" }}
+          </div>
+          {{ with .Param "tags" }}
+          <div class="article-header__tags article-header__line">
+            Tags:
+            {{ $max := sub (. | len) 1 }}
+            {{ range $k, $v := . }}
+            <a href="/tags/{{ $v }}.html">{{ $v }}</a>{{- if lt $k $max -}}, {{- end -}}
+            {{ end }}
+          </div>
+          {{ end }}
         </header>
         <div>
           {{.Content}}
         </div>
       </article>
-      {{ partial "backlinks.html" . }}
+      <section class="backlinks two-column__col two-column__col2 main-content__col2">
+        {{ partial "backlinks.html" . }}
+      </section>
     </main>
     <footer class="main-footer center">
       Copyright 2025 by {{ .Site.Param "author" }}

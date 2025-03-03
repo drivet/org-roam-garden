@@ -2,6 +2,7 @@
 :ID:       68568f9f-7b3f-4422-8c96-e472fc44b393
 :END:
 #+date: [2022-04-05 21:04]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Email setup
 #+filetags: :email:
 

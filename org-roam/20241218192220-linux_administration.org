@@ -2,6 +2,7 @@
 :ID:       9b39db1c-a987-4a6f-8d3b-4d0cc2596867
 :END:
 #+date: [2024-12-18 19:22]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Linux Administration
 
 This is my home for Linux Administration notes, tips and tricks that makes

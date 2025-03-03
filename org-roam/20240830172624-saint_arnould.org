@@ -2,6 +2,7 @@
 :ID:       1a1028a8-2381-4f37-8188-b41cfafcbdae
 :END:
 #+date: [2024-08-30 17:26]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Saint Arnould
 
 A brewery in Quebec.

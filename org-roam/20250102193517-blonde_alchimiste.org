@@ -2,6 +2,7 @@
 :ID:       4f0ddd0f-5bf4-457b-afa8-77cb39d75ff9
 :END:
 #+date: [2025-01-02 Thu 19:35]
+#+hugo_lastmod: 2025-01-03 17:05:23 -0500
 #+title: Blonde (Alchimiste)
 
 A blond I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:3E20D85D-4A65-4E87-8675-9CE97BC0F318][Alchimiste]].

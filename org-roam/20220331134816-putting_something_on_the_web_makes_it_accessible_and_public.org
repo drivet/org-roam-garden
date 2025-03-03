@@ -2,6 +2,7 @@
 :ID:       0e21a159-3385-4a9c-9408-33c653527137
 :END:
 #+date: [2022-03-31 13:48]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Putting something on the web makes it accessible and public
 
 "Putting something on the web", in this context, means putting it on a

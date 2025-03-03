@@ -3,6 +3,7 @@
 :ROAM_REFS: https://www.hopvalleybrewing.com
 :END:
 #+date: [2024-06-25 09:57]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Hop Valley Breweing Co.
 
 Canadian brewery

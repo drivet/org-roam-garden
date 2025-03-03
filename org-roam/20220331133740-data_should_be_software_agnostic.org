@@ -2,6 +2,7 @@
 :ID:       a8414195-5b63-44f3-a8de-dbddb6d2f1f3
 :END:
 #+date: [2022-03-31 13:37]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Data should be software agnostic
 
 Data should be able to be used by a variety of different pieces of software.

@@ -2,6 +2,7 @@
 :ID:       24272f97-c23b-4aaf-92f2-513f1743e731
 :END:
 #+date: [2024-06-28 20:11]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Voyageur des Brume (Dieu du Ciel)
 
 A amber ale I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:133223ff-42db-415f-8627-d1e55504c5ea][Dieu Du Ciel]].

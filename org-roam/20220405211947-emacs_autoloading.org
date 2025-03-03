@@ -2,6 +2,7 @@
 :ID:       646eef99-f502-4186-9ca3-6d629b8de33c
 :END:
 #+date: [2022-04-05 21:19]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Emacs autoloading
 
 The autoload facility in [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] allows you to make a function or macro known

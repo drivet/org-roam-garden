@@ -2,6 +2,7 @@
 :ID:       9e9239fa-7a05-42bc-a314-b16795d42c2a
 :END:
 #+date: [2024-06-25 09:55]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Bubble Stash IPA (Hop Valley Brewing)
 
 A [[id:67dce812-c557-42d4-944a-c2e035db0e3d][IPA]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:d0792626-92a0-4086-8a6d-933640d5ec47][Hop Valley Breweing Co..]]

@@ -2,6 +2,7 @@
 :ID:       43207c75-f7c5-4627-951f-53453a3daf07
 :END:
 #+date: [2024-05-20 13:03]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Pale ale
 
 A type of blond beer that tends to be quite bitter, but not quite as bitter

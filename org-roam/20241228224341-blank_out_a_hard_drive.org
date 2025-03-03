@@ -2,6 +2,7 @@
 :ID:       ae5e0cf6-f5bf-4ee1-bc99-635bd7912d5c
 :END:
 #+date: [2024-12-28 Sat 22:43]
+#+hugo_lastmod: 2024-12-29 14:01:34 -0500
 #+title: Blank out a hard drive
 
 I use shred to wipe out a hard drive before selling it:

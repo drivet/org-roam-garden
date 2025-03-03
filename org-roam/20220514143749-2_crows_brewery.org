@@ -2,6 +2,7 @@
 :ID:       6560d13b-698d-42d0-a2cf-296d58448509
 :END:
 #+date: [2022-05-14 14:37]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: 2 Crows Brewery
 
 Brewery in Halifax, Nova Scotia

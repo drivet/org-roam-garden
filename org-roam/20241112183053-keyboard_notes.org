@@ -2,6 +2,7 @@
 :ID:       2612ac99-0883-474f-82a0-c01b4423f005
 :END:
 #+date: [2024-11-12 18:30]
+#+hugo_lastmod: 2024-12-25 08:19:42 -0500
 #+title: Keyboard Notes
 
 Keyboard buying guide here:

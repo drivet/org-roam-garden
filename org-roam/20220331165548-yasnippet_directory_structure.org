@@ -2,6 +2,7 @@
 :ID:       288375f6-0022-4ae6-987b-78abb5a587b1
 :END:
 #+date: [2022-03-31 16:55]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Yasnippet directory structure
 
 Snippet directories are located in the variable yas-snippet-dirs, which by

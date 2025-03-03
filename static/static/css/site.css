@@ -85,6 +85,7 @@ h6 {
 
 .backlinks__title {
   margin-bottom: 0;
+  font-weight: bold;
 }
 
 .backlinks-list {
@@ -97,4 +98,16 @@ h6 {
   list-style-type: none;
   padding-left: 0;
   margin-top: 0.5em;
+}
+
+.article-header {
+  margin-bottom: 2em;
+}
+
+.article-header__title {
+  margin-bottom: 0;
+}
+
+.article-header__line {
+  font-size: var(--font-size-smaller);
 }

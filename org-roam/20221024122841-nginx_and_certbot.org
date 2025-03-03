@@ -2,6 +2,7 @@
 :ID:       c829eff7-eec9-43d5-be5e-0c722792e25e
 :END:
 #+date: [2022-10-24 12:28]
+#+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Nginx and certbot
 
 [[id:9b39db1c-a987-4a6f-8d3b-4d0cc2596867][Linux Administration]]
