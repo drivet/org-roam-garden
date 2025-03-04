@@ -9,8 +9,8 @@
     <main class="main-content">
       <h1>{{ .Title }}</h1>
       {{ .Content }}
-      {{ range .Pages }}
-      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+      {{ range .Data.Terms.ByCount }}
+      <div><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a> ({{ .Count }})</div>
       {{ end }}
     </main>
     <footer class="main-footer center">
