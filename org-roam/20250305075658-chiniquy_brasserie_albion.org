@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       aff73663-1541-4664-9884-e6ba2ae52ce0
+:END:
+#+date: [2025-03-05 Wed 07:56]
+#+hugo_lastmod: [2025-03-05 Wed 07:56]
+#+title: Chiniquy (Brasserie Albion)
+
+A [[id:9d43b8e2-613f-47d0-a5d4-275a1ee8962e][Brown Ale]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:73322D8E-3810-48C4-B6FA-FE968BB0FC14][Brasserie Albion]].
+
+ * Alcohol: 4%
+ * Dark, not quite a porter, toasty, delicious
+ * 4 star(s)

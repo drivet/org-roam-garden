@@ -4,7 +4,7 @@
 #+date: [2024-09-30 15:51]
 #+title: Wills Dark Lager
 
-A dark lager I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from Wills.
+A [[id:34f25681-cbcf-4b7e-a2ed-d2a0b2c6d2e1][dark lager]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:ff117803-bbdd-42a2-b357-3db1087a73e4][Wills]].
 
  * Alcohol: 5%
  * dark lager, like a stout, very malty and roasted.  Good, but heavy.

@@ -4,7 +4,7 @@
 #+date: [2024-09-14 12:06]
 #+title: Wills Blonde Ale
 
-A blonde ale I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from Wills.
+A blonde ale I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:ff117803-bbdd-42a2-b357-3db1087a73e4][Wills]].
 
  * Alcohol: 4.2%
  * Unfiltered, grapefruity, bitter but not overly so, like a light IPA.  Refreshing
