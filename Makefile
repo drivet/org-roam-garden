@@ -1,8 +1,11 @@
+GO = ~/go/bin/go
+HUGO = ~/bin/hugo
+
 markdown:
 	emacs -batch -l ./export.el
 
 backlinks:
-	mkdir -p assets/data; go run backlinks.go
+	mkdir -p assets/data; $(GO) run backlinks.go
 
 clean:
 	rm content/*.md; rm -rf content/daily; rm -rf content/reference
@@ -14,10 +17,10 @@ veryclean:
 	make clean && make cleanout
 
 serve:
-	hugo server -D
+	$(HUGO) server -D
 
 build:
-	hugo build
+	$(HUGO) build
 
 all:
 	make markdown && make backlinks && make build
