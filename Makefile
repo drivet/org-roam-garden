@@ -2,13 +2,16 @@ markdown:
 	emacs -batch -l ./export.el
 
 backlinks:
-	go run backlinks.go
+	mkdir -p assets/data; go run backlinks.go
 
 clean:
 	rm content/*.md; rm -rf content/daily; rm -rf content/reference
 
-veryclean: clean
+cleanout:
 	rm -rf public/*
+
+veryclean:
+	make clean && make cleanout
 
 serve:
 	hugo server -D
