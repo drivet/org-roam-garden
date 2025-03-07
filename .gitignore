@@ -1,6 +1,7 @@
 node_modules/
 _site/
 content/**/*.md
+!content/all/index.md
 assets/data/backlinks.yaml
 org-roam/.org-roam.db
 .hugo_build.lock
