@@ -5,7 +5,7 @@ markdown:
 	emacs -batch -l ./export.el
 
 backlinks:
-	mkdir -p assets/data; $(GO) run backlinks.go
+	mkdir -p assets/data; $(GO) run backlinks.go ~/org-roam-garden
 
 clean:
 	rm content/*.md; rm -rf content/daily; rm -rf content/reference

@@ -11,8 +11,8 @@ import (
 )
 
 const OrgRoamDb = "./org-roam/.org-roam.db"
-const OrgRoamRoot = "./org-roam/"
-const BacklinkOutputDir = "./assets/data"
+const OrgRoamRoot = "org-roam/"
+const BacklinkOutputDir = "assets/data"
 const BacklinksFile = "backlinks.yaml"
 
 type Backlink struct {
@@ -25,11 +25,11 @@ func stripQuotes(str string) string {
 }
 
 // strips quotes plus the .org at the end, the trims the abs root
-func cleanFile(str string) string {
-	return strings.TrimLeft(str[1:(len(str)-5)], OrgRoamRoot)
+func cleanFile(root string, str string) string {
+	return strings.TrimLeft(str[1:(len(str)-5)], fmt.Sprintf("%s/%s", root, OrgRoamRoot))
 }
 
-func saveBacklinks(db *sql.DB, file string, file2bl map[string][]Backlink) {
+func saveBacklinks(db *sql.DB, root string, file string, file2bl map[string][]Backlink) {
 	row, err := db.Query("SELECT file, title FROM nodes WHERE id IN (SELECT DISTINCT l.source AS source FROM nodes n, links l WHERE n.file = ? AND n.id = l.dest)", file)
 	if err != nil {
 		log.Fatal(err)
@@ -42,15 +42,17 @@ func saveBacklinks(db *sql.DB, file string, file2bl map[string][]Backlink) {
 		if err != nil {
 			log.Fatal(err)
 		}
-		b.File = cleanFile(b.File)
+		b.File = cleanFile(root, b.File)
 		b.Title = stripQuotes(b.Title)
 		backlinks = append(backlinks, b)
 	}
-	file = cleanFile(file)
+	file = cleanFile(root, file)
 	file2bl[file] = backlinks
 }
 
 func main() {
+	root := os.Args[1]
+	
 	db, err := sql.Open("sqlite", OrgRoamDb)
 	if err != nil {
 		log.Fatal(err)
@@ -67,14 +69,14 @@ func main() {
 		if err != nil {
 			log.Fatal(err)
 		}
-		saveBacklinks(db, file, file2bl)
+		saveBacklinks(db, root, file, file2bl)
 	}
 	
 	blout, err := yaml.Marshal(file2bl)
 	if err != nil {
 		log.Fatal(err)
 	}
-	os.MkdirAll(BacklinkOutputDir, 0777)
+	os.MkdirAll(fmt.Sprintf("%s/%s", root, BacklinkOutputDir), 0777)
 	f, err := os.Create(fmt.Sprintf("%s/%s", BacklinkOutputDir, BacklinksFile))
 	if err != nil {
 		log.Fatal(err)
