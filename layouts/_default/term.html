@@ -1,0 +1,20 @@
+<html>
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+  <body>
+    <header class= "main-header">
+       {{ partial "nav.html" . }}
+    </header>
+    <main class="main-content">
+      <h1>{{ .Title }}</h1>
+      {{ .Content }}
+      {{ range .Pages }}
+      <div><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></div>
+      {{ end }}
+    </main>
+    <footer class="main-footer center">
+      Copyright 2025 by {{ .Site.Param "author" }}
+    </footer> 
+  </body>
+</html> 

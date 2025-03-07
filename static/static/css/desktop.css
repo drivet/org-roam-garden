@@ -30,6 +30,12 @@
   .main-content {
     width: 75%;
     margin: 0 auto;
+    padding: 0;
+  }
+
+  .two-column__col {
+    width: 100%;
+    padding: 0 0.5em;
   }
 
   .main-content__col1 {

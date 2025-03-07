@@ -39,6 +39,10 @@ h6 {
   font-size: 0.5em;
 }
 
+.main-content {
+  padding: 0 0.5em;
+}
+
 .main-header {
   border-bottom: 1px solid var(--lightest-color);
   padding: 0.5em;

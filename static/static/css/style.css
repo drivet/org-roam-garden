@@ -63,7 +63,9 @@ main {
     margin: 0 auto;
 }
 
-
+.main-content {
+  padding: 0 1em;
+}
 
 h2 {font-size: 1.6273em;}
 
@@ -101,6 +103,7 @@ h5, .larger {font-size: 0.833333em;}
     max-height: 148px;
     overflow: hidden;
 }
+
 .backlink__preview::after {
     content: "";
     position: absolute;
