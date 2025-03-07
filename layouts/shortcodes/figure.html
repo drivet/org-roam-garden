@@ -18,7 +18,7 @@
     {{- $img := $img.Content | resources.FromString $dest -}}   
     {{- $src = $img.RelPermalink -}}
   {{- end -}} 
-  <img src="{{ $src }}"
+  <img class="image" src="{{ $src }}"
     {{- if or (.Get "alt") (.Get "caption") }}
     alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
     {{- end -}}

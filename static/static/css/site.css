@@ -115,3 +115,11 @@ h6 {
 .article-header__line {
   font-size: var(--font-size-smaller);
 }
+
+.figure {
+  margin: 0;
+}
+
+.image {
+  width: 100%;
+}
