@@ -11,8 +11,8 @@ import (
 )
 
 const OrgRoamDb = "./org-roam/.org-roam.db"
-const OrgRoamRoot = "/home/dcr/org-roam-garden/org-roam/"
-const BacklinkOutputDir = "/home/dcr/org-roam-garden/assets/data"
+const OrgRoamRoot = "./org-roam/"
+const BacklinkOutputDir = "./assets/data"
 const BacklinksFile = "backlinks.yaml"
 
 type Backlink struct {
