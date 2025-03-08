@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       40cc7bce-3e6f-4cba-b6bc-1eeeb766351f
+:END:
+#+date: [2025-03-07 Fri 20:04]
+#+hugo_lastmod: 2025-03-08 11:48:36 -0500
+#+title: Emacs Electric Characters
+
+[[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]]
+
+Electric characters are characters that trigger a newline and an indent when
+you type them in, like an opening brace or a semicolon.
+
+You used to have to configure CC mode in emacs to get electric characters,
+but in emacs 24.1 they introduced electric-indent-mode which I think works
+with all sorts of text languages?
+
+The electric characters in ~electric-indent-mode~ will indent the current
+line once typed.
+
+Use ~electric-indent-chars~ to control which characters count as electric,
+like this:
+
+#+begin_src
+(setq electric-indent-chars '(?\n ?;))
+#+end_src
+
+The question mark will quote the character as a literal.
+
+Pair this with ~electric-pair-mode~ which will inserts pair of certain
+characters, like brackets.
