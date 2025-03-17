@@ -9,7 +9,7 @@
     <main class="two-column main-content">
       <article class="h-entry two-column__col two-column__col1 main-content__col1">
         <header class="article-header">
-          <h1 class="article-header__title">{{ .Title }}</h1> 
+          <h1 class="article-header__title">{{ .Title }}</h1>
           <div class="article-header__created article-header__line">
             Created: {{ .Date | time.Format "Jan 2 2006, 15:04 MST" }}
           </div>
@@ -34,8 +34,9 @@
         {{ partial "backlinks.html" . }}
       </section>
     </main>
+    
     <footer class="main-footer center">
       Copyright 2025 by {{ .Site.Param "author" }}
     </footer>
   </body>
-</html>      
+</html>

@@ -11,5 +11,8 @@ colour like Irish Ale, but sweeter.
 Does this deserve its own category?  I'm not sure, as I tend to avoid these
 because they tend to be higher proof.
 
-*** Best rated
+** Best rated
  * [[id:0a74a2fc-edce-4e6e-bd3b-fe54997941c9][Ecossaise (Alchimiste)]]
+
+** Worst rates
+ * [[id:a2f29832-42e0-4c30-a6a7-4dde6fdd7541][Glassgow Kiss (4 origines)]]

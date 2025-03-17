@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       5eac9492-ef45-4d82-bbe3-9cc0e8800382
+:END:
+#+date: [2025-03-17 Mon 08:51]
+#+hugo_lastmod: [2025-03-17 Mon 08:51]
+#+title: Darko (Brasserie Sir John)
+
+A [[id:34f25681-cbcf-4b7e-a2ed-d2a0b2c6d2e1][Schwarzbier]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:c5caecd2-8463-42ce-ad83-777f2bbd3a03][Brasserie Sir John]].
+
+ * Alcohol: 4.8%
+ * Dark, toasty, flavourful. Like a stout but not as heavy.
+ * 3 star(s)
+
