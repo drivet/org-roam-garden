@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       71ba9abb-3b55-4e2e-8443-8f5b66587854
+:END:
+#+date: [2025-03-22 Sat 18:19]
+#+hugo_lastmod: [2025-03-22 Sat 18:19]
+#+title: Lisp
+
+[[id:74fe4896-3281-4665-8051-556ce8eca8b5][Software Development]]
+
+A programming language based around s-expressions, first developed in the
+50's.
+

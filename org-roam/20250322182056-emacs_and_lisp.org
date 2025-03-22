@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       d17aef86-c053-4fdd-bad9-350b7fd7a5a3
+:END:
+#+date: [2025-03-22 Sat 18:20]
+#+hugo_lastmod: [2025-03-22 Sat 18:20]
+#+title: Emacs and Lisp
+
+You would expect [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] to have good support for editing [[id:71ba9abb-3b55-4e2e-8443-8f5b66587854][Lisp]] based languages
+since Emacs is configured with elisp
+
+Good reference here:
+
+https://kimi.im/2021-11-27-sexp-operations-in-emacs
+
+** Navigation
+
+| Key   | Map                | Description                                             |
+|-------+--------------------+---------------------------------------------------------|
+| C-M-d | down-list          | Move forward down one level of parentheses.             |
+| C-M-u | backward-up-list   | Move backward out of one level of parentheses.          |
+| C-M-f | forward-sexp       | Move forward across one balanced expression (sexp).     |
+| C-M-b | backward-sexp      | Move backward across one balanced expression (sexp).    |
+| C-M-n | forward-list       | Move forward across one balanced group of parentheses.  |
+| C-M-p | backward-list      | Move backward across one balanced group of parentheses. |
+| C-M-a | beginning-of-defun | Move backward to the beginning of a defun.              |
+| C-M-e | end-of-defun       | Move forward to next end of defun.                      |
+
+** Kill and Yank
+
+| Key               | Map                   | Description                                                    |
+|-------------------+-----------------------+----------------------------------------------------------------|
+| C-M-k             | kill-sexp             | Kill the sexp (balanced expression) following point.           |
+| M-k               | sp-kill-sexp          | Kill the balanced expression following point.                  |
+| C-k               | sp-kill-hybrid-sexp   | Kill a line as if with ‘kill-line’, but respecting delimiters. |
+| ESC C-<backspace> | backward-kill-sexp    | Kill the sexp (balanced expression) preceding point.           |
+|                   | sp-backward-kill-sexp | Kill the balanced expression preceding point.                  |
+| C-M-<backspace>   | sp-backward-copy-sexp | Copy the previous ARG expressions to the kill-ring.            |
+| C-M-w             | sp-copy-sexp          | Copy the following ARG expressions to the kill-ring.           |
+
+** Wrap and Unwrap
+
+| Key | Map                     | Description                               |
+|-----+-------------------------+-------------------------------------------|
+|     | sp-wrap-arround         | Wrap region with ()                       |
+|     | sp-wrap-curly           | Wrap region with {}                       |
+|     | sp-wrap-square          | Wrap region with []                       |
+|     | sp-unwrap-sexp          | remove parenthesis of next expression     |
+|     | sp-backward-unwrap-sexp | Remove parenthesis of previous expression |

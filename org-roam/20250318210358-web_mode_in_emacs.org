@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       6f1dab08-2612-4a9d-967a-32e76f968c81
+:END:
+#+date: [2025-03-18 Tue 21:03]
+#+hugo_lastmod: [2025-03-18 Tue 21:03]
+#+title: Web Mode in Emacs
+
+[[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]]
+
+I sometimes use web mode for editing HTML templated documents for my
+websites.
+
+I have all this enabled:
+
+#+begin_src
+(setq web-mode-enable-auto-pairing 't)
+(setq web-mode-enable-auto-closing 't)
+(setq web-mode-enable-auto-indentation 't)
+(setq web-mode-enable-auto-opening 't)
+(setq web-mode-enable-auto-quoting 't)
+(setq web-mode-enable-auto-expanding 't)
+#+end_src
+
+Roughly, we have:
+
+ * auto-pairing: automatic insertion of closing sequences of characters like
+   {% %} for nunjucks templates, after you press space.
+ * auto-closing: automatic insertion of a closing tag when you start to
+   close the tag.
+ * auto-opening: positioning the cursor in between the opening and closing
+   tags when you press enter, with proper newlines
+ * auto-quoting: inserting the paired quote when you type the first one.
+ * auto-expanding: d/ will insert a <div></div>, for example
+
+We also have a more general ~electric-pair-mode~ (See [[id:40cc7bce-3e6f-4cba-b6bc-1eeeb766351f][Emacs Electric
+Characters]]). which will insert matching braces or brackets or parentheses.
+This unfortunately messes with the auto-pairing of things with curly braces,
+like {% %}.

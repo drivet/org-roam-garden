@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       ec120ff3-709c-423a-9e21-c5ea340c2ee0
+:END:
+#+date: [2025-03-18 Tue 08:21]
+#+hugo_lastmod: [2025-03-18 Tue 08:21]
+#+title: Vasovagel
+
+When you faint because you overreact to certain triggers.  Blood pressure
+lowers.  It's apparently happened to me a couple of times (like when I was
+very nauseous).
+
+https://www.mayoclinic.org/diseases-conditions/vasovagal-syncope/symptoms-causes/syc-20350527
+
