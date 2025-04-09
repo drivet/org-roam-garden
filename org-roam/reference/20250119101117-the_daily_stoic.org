@@ -22,3 +22,545 @@ being calm under pressure sounds great.
 And I don't think that the Stoics would advocate just doing nothing in the
 face of adversity - you *can* do things when bad things come your way, this
 *is* under your control.
+
+** Notes
+
+*** January 18th
+
+I found this pretty:
+
+"Pass through this brief patch of time in harmony with nature, and come to
+your final resting place gracefully, just as a ripened olive might drop,
+praising the earth that nourished it and grateful to the tree that gave it
+growth." - Marcus Aurelius, Meditations 4.48.2
+
+*** January 20th
+
+We can always restart things after a bad day.
+
+*** January 21st
+
+A morning ritual is important, even if the activity itself isn't.  It's
+about taking time for yourself.
+
+You carve out moments of quiet time for yourself - this aligns with the
+advice in [[id:2c7c0b6d-cfdc-4a22-be7b-f8026ccc84a5][Atomic Habits]].
+
+*** January 22nd
+
+This about journaling, and how it's important to take daily notes about how
+to improve each day, or a review of what happened during the day.
+
+This tracks with org-roam [[id:0AC9298C-1F59-4518-8E3B-00EE144A3AF4][Daily notes]] but I'm really bad at it.  Maybe I
+need to try and get better.
+
+*** January 31th
+
+Philosophy as medicine for the soul.  When things get tough, return to
+philosophy.  Stoicism is meant to help you in troubled times.
+
+*** February 3rd
+
+People get anxious because they want something that is outside of their
+control.
+
+From the book:
+
+#+begin_quote
+It's as if we all belong to a religious cult that believes the gods of fate
+will only give us what we want if we sacrifice our peace of mind.
+#+end_quote
+
+This is especially relevant with Trump in power.  This is also *much* easier
+said than done.
+
+*** February 10th
+
+Being angry rarely helps.  And even when it does it creates toxic side
+effects.  Better to keep your head.
+
+*** February 14th
+
+Think before you act.  It's a cliche but important.  Don't act out of
+emotion.
+
+*** February 15th
+
+Basically this is about not worrying about hypothetical evils. I'm not sure
+I agree with it.  Shouldn't you prepare for the worst?
+
+Maybe prepare for the worst but don't worry about what might not happen.
+
+*** February 21st
+
+This reminds of Zen Buddhism - eliminating desires.  If you desire nothing,
+nothing can hurt you.
+
+This just seems like a recipe for emotional immaturity, though.  Unhealthy.
+Not sure I buy it.  It feels like you're asking people to suppress what they
+want.  Not good.
+
+*** February 23rd
+
+Don't get mad at circumstance, because circumstance aren't sentient.  They
+don't care about you.
+
+"Why should I be angry at the world?  As if the world would notice"
+
+*** February 24th
+
+Things don't hurt you, you're feelings about things hurt you.
+
+Which...I don't know, =again seems a bit like bullshit.  If you're being
+abused, it feels like it's the *abuse* that's hurting you.  You have every
+right to be upset about it.  This feels like victim blaming.
+
+*** February 26th
+
+Don't react to people.  Story about Lincoln, writing a letter to someone he
+had a beef with, and then putting it in his drawer, never sending it.
+
+I can see this as a form of therapy.  And I guess you should be very careful
+about what you say to people.  You can never take something back once said.
+
+*** February 28th
+
+Just because you've fucked up once, doesn't mean you have to give up.
+Regain your senses and try again.
+
+*** March 5th
+
+There is no such thing as a free lunch.  Even free things cost us in our
+minds.
+
+*** March 6th
+
+Don't perform for other people.  Don't bore them with stories about
+yourself.  I'm not sure how seriously to take this.  Surely sometimes people
+want to know about you?  Maybe it just means to be humble.
+
+*** March 8th
+
+Don't give your mind away to anyone or anything.  Social media for
+example. I do waste a lot of time on YouTube for example.
+
+*** March 18th
+
+Another part where we emphasize that nothing external can frustrate you.
+It's your interpretation that does it.  I get it, but I find this to be the
+hardest part of Stoicism.  It feels a bit like bullshit, like suppression.
+
+*** March 19th
+
+Accept and love what's happening around us?  hard when it's actual fascism.
+
+*** March 21st
+
+You can take a vacation right now.  Just sit down, listen to some music,
+meditate, etc.
+
+Okay but...I like travelling.  I like seeing interesting things and places.
+
+*** March 25th
+
+Get everything you want or want everything you have?  The latter is easier.
+But I feel like this can lead to complacency.  Lack of ambition.
+
+*** April 1st
+
+Negative thoughts every day colour your mind.  You become what you think.
+
+*** April 6th
+
+Understand that you will meet horrible people during the day.  Prepare for
+it.  And forgive them for they know not what they do.
+
+Easier said than done sometimes.
+
+*** April 15th
+
+Misfortune is a tax on life.  It means that your life is good if bad things happen.
+
+Interesting way of looking at it.
+
+*** April 21st
+
+Attention is a habit; letting your attention slip and wander builds bad
+habits and enables mistakes.
+
+*** April 29th
+
+Look up at the stars and put your problems in perspective.
+
+*** May 14th
+
+Take pleasure in your actions, rather than the results that come from them.
+
+This is a good lesson, and applies to my blogging habits as well.
+
+*** May 16th
+
+This day is linked to habits, and aligns with [[id:2c7c0b6d-cfdc-4a22-be7b-f8026ccc84a5][Atomic Habits]].  If you want to
+build a habit, do it every day.  Your goal is just not to break the chain,
+like your streak on Duo Lingo.
+
+It works for bad habits too.  Take it one day at a time.
+
+*** May 17th
+
+Philosophy is something that you apply.  One never arrives.  There is no
+destination, only direction.
+
+*** May 26th
+
+Worry less about what other people think, and more about what *you* think.
+
+This is good advice, but I wonder if it can lead to being conceited and self
+absorbed.  How to combat that?
+
+*** June 3rd
+
+Be flexible.  Do *something*.  Be modest in your goals.  This also aligns
+with [[id:2c7c0b6d-cfdc-4a22-be7b-f8026ccc84a5][Atomic Habits]].  Do just a little every day if you can't do more.
+
+*** June 8th
+
+This one is about tactics versus strategy.  I feel like Stoics lean into
+tactics - the "process".  They are less concerned with the end results.
+Once again, [[id:2c7c0b6d-cfdc-4a22-be7b-f8026ccc84a5][Atomic Habits]] is relevant here, as it emphasizes action over
+results.
+
+*** June 11th
+
+Don't make things worse by adding negative emotions to whatever else is
+happening.  Don't react for the sake of reacting.
+
+Good advice.  I wonder if there's a place for reacting in a safe space, for
+therapy.
+
+*** June 14th
+
+#+begin_quote
+Try the other handle.  If your brother does you wrong, don't grab it by his
+wronging, because this handle is incapable of lifting it.  Instead use the
+other - that he is your brother, that you were raised together, and then you
+will have hold of the handles that raises.
+#+end_quote
+- Epictetus
+
+Not bad advice, but not sure what to do when the other person it totally
+toxic.
+
+*** June 22nd
+
+Telling yourself "Today I won't get angry" doesn't do anything on its
+own. People say that and then don't do anything differently.  This is the
+definition of insanity.
+
+You have to learn from your failures and do something different.
+
+*** June 26th
+
+This is about breaking the pattern.  If things are not going well, try doing
+the opposite of what you're doing.  See June 22nd.
+
+*** June 29th
+
+How do people become better? They work at it.  They weren't born into it.
+People *become* who they are, just like you can.
+
+*** June 30th
+
+The Obstacle is the Way.  The things that stand in your way of a goal become
+they way you accomplish that goal.
+
+I like this when applied to the [[id:f9b01190-b396-4e6a-a912-83167d33968d][IndieWeb]].  The IndieWeb is not as smooth or
+convenient as social media.  But the obstacle is the way and it becomes part
+of the process.  The extra effort becomes part of the ceremony.
+
+Every obstacle is an opportunity to become better.
+
+*** July 3rd
+
+Turn a "have to" into a "get to".  Turn an obstacle into an opportunity.  I
+think this is related to "The obstacle is the way"
+
+*** July 6th
+
+This is one about the struggle to get up in the morning.
+
+You have a job to do - to be a human being.
+
+*** July 8th
+
+Self respect springs from the development of character.
+
+To be without character is the worst of all fates.
+
+#+begin_quote
+To live without self-respect is to lie awake some night, beyond the reach
+of warm milk, the phenobarbital, and the sleeping hand on the coverlet,
+counting up the sins of commission and omission, the trusts betrayed, the
+promises subtly broken, the gifts irrevocably wasted through sloth or
+cowardice or carelessness
+#+end_quote
+
+*** July 18th
+
+This one is basically just a call to let other people live their lives at
+they see fit.  Mind your own business, and give others their space.
+
+*** July 22nd
+
+#+begin_quote
+You don't have to do the right thing, just as you don't have to do your
+duty.  You *get* to, You *want* to.
+#+end_quote
+
+*** July 24th
+
+If you hear about the suffering of others (in the news let's say) then just
+*emoting* to the news helps no one.  Help if you can help.
+
+*** July 25th
+
+Some people make it to the top of the ladder of success only to realize that
+it's only for an inscription on their gravestone.
+
+*** August 3rd
+
+We tell ourselves we need the right setup before we finally buckle down and
+get serious.  Or that we really need a vacation.
+
+I do get the sentiment, but I wonder then, do we never go on vacation?
+Sometimes a good chair is required.
+
+*** August 8th
+
+Don't become trapped by idealism.  Start from the world as it is, not as you
+want it to be.  There are always lots of small things you could do right
+now.  Don't say the conditions are not right.
+
+*** August 10th
+
+"We don't abandon our pursuits because we despair of ever perfecting them"
+
+Don't get bogged down by all or nothing thinking.  Your actions are aimed at
+progress not perfection.
+
+*** August 17th
+
+This bit here says to not blame anyone when things go wrong.  If someone is
+rude for example, it's your sensitivity that interpreted the remark that way
+
+I don't think I buy this.  Sometimes, people really do suck.  Sometimes, the
+world really does suck.
+
+*** August 21st
+
+Worrying that sometime bad is going to occur is worse than useless.  If it
+doesn't happen you worried for nothing.  If it does, then you worried twice.
+
+Don't worry twice.  This is good advice.  I'm not good at following it.
+
+*** August 29th
+
+You can try to increase your wealth or you can take a shortcut and just want
+less.
+
+I like the idea behind this, but it's easier said than done.  Sometime you
+just want things.  A vacation, a chair, etc.
+
+*** September 1st
+
+This one is about physical discomfort strengthening the soul, which I have
+mixed feelings about.  I'm not going to pretend that I want to take a cold
+shower to make me strong.
+
+*** September 27th
+
+Power doesn't corrupt - it reveals.
+
+Prosperity, financial and personal is the same.  Like the super soldier
+serum.
+
+Hope for the strength of character to survive in bad fortune.  I'm bad at
+this.
+
+Never been laid off, saved money consistently.  I'm soft.
+
+*** September 30th
+
+This is about protecting your mind from the misfortune happening to your
+body.
+
+"If you lay violent hands on me, you'll have my body, but my mind will
+remain with Stilpo"
+
+*** October 7th
+
+"Watching other people succeed is one of the toughest things to do -
+especially if we are not doing well ourselves".
+
+I know I have major trouble with this.
+
+But empathy and selflessness takes practice.  Tech yourself to actively
+cheer for another person.
+
+Put aside jealously and possessiveness.
+
+*** October 13th
+
+"The best way to avenge yourself is to not be like that".
+- Marcus Aurelius
+
+I like that, but very hard to do.
+
+The best response, the best revenge is to exact no revenge at all.
+
+*** October 14th
+
+When someone is being ruse, or they smell, we fume, rather than just talk to
+the person.  We expect people to improve without talking.
+
+*** October 18th
+
+Stay away from false friends.
+
+But also: ask when we've been the false friend.  Have we strung someone
+along and abandoned them when they needed help?
+
+*** October 19th
+
+When a bad habit reveals itself, counteract it with a commitment to a
+contrary virtue.
+
+If you find yourself lazy, don't fight it, just immediately take a walk.
+
+Say something negative?  Immediately qualify it with something nice.
+
+*** October 22nd
+
+Self-improvement shouldn't be self serving.  Are you exercising to get a six
+pack because you want to look good?
+
+You should aim better, yes, but not at the expense of being a good person.
+
+*** October 25th
+
+What is it that only I can do?  What is the best use of my limited time on
+this planet?
+
+*** November 1st
+
+Instead of being angry that something has happened to us, we can change our
+opinion about it.
+
+The Stoics don't just accept what happens, they actually try to enjoy it.
+
+Not sure if I totally agree with this, but it's interesting.
+
+"Amor fati" - Love of fate.
+
+*** November 11th
+
+FDR accepted the fact that he had polio and made the most of it.
+
+It's the not thing, it's what we make of it.
+
+*** November 13th
+
+Basically don't complain?  Don't make excuses.  I'm bad at this.
+
+*** November 15th
+
+To get upset by things is to wrongly assume that they will last.  Embrace
+change.
+
+*** November 16th
+
+Hope and fear are the flip sides of the same coin.  They go against Amor
+fati.  Hope and fear contain a dangerous amount of want and worry.
+
+I swear, this is why Stoicism gets maligned.  It's like you're suppressing
+your emotions.
+
+*** November 27th
+
+Stoics cultivated a kind of curated ignorance.  Turn your mind away from
+that which provokes it.
+
+If politics upsets you, don't bring it up.
+
+It's not weak to shut that out.
+
+*** November 28th
+
+If someone upsets you, maybe it's on you.  if a friend is unreliable, maybe
+it's because we haven't tried helping them.
+
+*** November 29th
+
+When something bad happens, we tend to pity ourselves and feel misery.  But
+what good does that do?  You have no idea what the future holds.
+
+*** December 3rd
+
+Philosophy is meant to help you improve your life.  It's not an idle
+academic pursuit.
+
+*** December 5th
+
+Don't ignore the fact that bad things can happen to you at any time.
+
+(Re; the current political climate)
+
+*** December 8th
+
+Don't distract yourself from grief.  Face it, process it.  Try to find the
+positive in the situation.
+
+*** December 9th
+
+Guard your personal space diligently, from the intrusions of the world.
+
+We're good at protecting our physical property, but often lax at enforcing
+our mental boundaries.
+
+*** December 10th
+
+#+begin_quote
+I say, let no one rob me of a single day who isn't going to make a full
+return on the loss.
+- Seneca
+#+end_quote
+
+Don't waste time with people who are not worth your time.
+
+*** December 16th
+
+The Stoics go on and on about your reasoned choice and how that's the one
+thing under your control, but I'm not sure what this says about someone who
+has dementia.
+
+*** December 17th
+
+Know yourself.  Explore yourself.  Understand your mind before it's too
+late.
+
+*** December 19th
+
+You don't live long.  You're small.  Try and keep perspective the next time
+something bad happens.
+
+*** December 30th
+
+You can take the bit out of any tough situation by bringing a calm mind to
+it.  By considering it and meditating on it in advance.
+
+Our only asset in time of trial is our calm and reasoned mind.
+
+** On November and Amor fati
+
+I called bullshit a lot during November.  That's the one where you train
+yourself to love the bad things that happen to you.  It's almost delusional.
