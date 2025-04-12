@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       5ffa71bd-ed6a-4d87-8cfa-f1b1eae219c0
-:END:
-#+date: [2025-03-05 Wed 08:00]
-#+hugo_lastmod: [2025-03-05 Wed 08:00]
-#+title: Prydain (Brasserie Albion)

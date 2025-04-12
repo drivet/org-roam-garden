@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       1bb5ca64-bd67-4e0c-81f4-0a0526fbd867
+:END:
+#+date: [2025-04-12 Sat 13:09]
+#+hugo_lastmod: [2025-04-12 Sat 13:09]
+#+title: Wimbledon British Golden Ale
+
+A [[id:955adb37-99eb-4cef-929d-698d9fcb8b6d][golden ale]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from Le Chope Angus.
+
+ * Alcohol: 4.1%
+ * Flavourful and refreshing
+ * 3 star(s)
+
