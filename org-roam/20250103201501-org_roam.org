@@ -15,6 +15,20 @@ https://blog.jethro.dev/posts/processing_inbox/
 https://blog.jethro.dev/posts/zettelkasten_with_org/
 https://blog.jethro.dev/posts/introducing_org_roam/
 
+** Why org roam?
+
+Why org-roam and not something like Roam Research?
+
+ * You can leverage the power of [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] and [[id:FA31BDBE-5F87-4DEE-ABE2-D8AFD52F7D03][Org Mode]] but maybe more
+   importantly
+ * You can store all your notes in [[id:a2e09732-e1f9-4e01-a5fa-74092ae75cd5][plain text]] which means there's a better
+   chance they will last longer
+
+This is especially important for something like a Zettelkasten, which is
+supposed to be a life long companion, with your notes lasting years, maybe
+even decades.  Do we think Roam Research will be around 30 years from now?
+Emacs and plain text will be.
+
 ** How to take smart notes with org mode:
 https://blog.jethro.dev/posts/how_to_take_smart_notes_org/
 

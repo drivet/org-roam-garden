@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       345d7361-a20e-421b-a4f0-fd8381d3973a
+:END:
+#+date: [2025-04-26 Sat 12:33]
+#+hugo_lastmod: [2025-04-26 Sat 12:33]
+#+title: Org mode movement and editing
+
+[[id:FA31BDBE-5F87-4DEE-ABE2-D8AFD52F7D03][Org Mode]]
+
+** Moving
+
+[[https://orgmode.org/manual/Motion.html][Reference]]
+
+Highlights:
+ * ~C-c C-n~ (org-next-visible-heading)
+    Next heading.
+ * ~C-c C-p~ (org-previous-visible-heading)
+    Previous heading.
+ * ~C-c C-f~ (org-forward-heading-same-level)
+    Next heading same level.
+ * ~C-c C-b~ (org-backward-heading-same-level)
+    Previous heading same level.
+
+** Editing
+
+[[https://orgmode.org/manual/Structure-Editing.html][Reference]]
+
+ * ~M-up~ and ~M-down~ to move a subtree up and down, swapping it with the
+   next or previous subtree of the same level
+ * ~C-c C-x C-w~ to kill the subtree
+ * ~C-c C-x M-w~ to copy the subtree
