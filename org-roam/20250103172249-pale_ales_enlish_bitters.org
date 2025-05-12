@@ -21,8 +21,8 @@ colour in colour.
  * [[id:3038d8eb-5745-41cd-86d8-d529ae41044c][Le Castor Ukraine Pale]]
  * [[id:8eb7612d-2976-4805-a843-4c8dcfd2defe][Menaud Anglaise]]
  * [[id:eb8ac625-09f2-4846-a703-7318c9c93888][Pale ale (Alchimiste)]]
- * [[id:37fb3d97-3451-4883-869d-dfba45900a65][Prydain (Brasserie Albion)]]
-
+ * [[id:82ab5f44-d5da-4568-8ffe-bdba33eececd][Prydain (Brasserie Albion)]]
+   
 *** Worst rated
  * [[id:5656784f-5dda-410c-9b64-532f6249c88f][LTM Pale Ale Americaine]]
  * [[id:5a94163e-b6a2-4cbb-9395-3383decfecd2][Le Nain De Jardin]]
