@@ -1,0 +1,5864 @@
+:PROPERTIES:
+:ID:       4439e5b7-0944-4031-bcef-7dc3da7a29ca
+:END:
+#+date: [2025-05-12 Mon 18:37]
+#+hugo_lastmod: [2025-05-12 Mon 18:37]
+#+title: Reading List
+
+** READ The Daily Stoic: 366 meditations on wisdom, perseverance, and the art of living :stoicism:philosophy:selfhelp:
+:PROPERTIES:
+:AUTHOR:   Ryan Holiday
+:ADDED:    [2025-04-06]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780735211735&jscmd=data&format=json
+:END:
+
+** READ The Sea of Monsters (Percy Jackson and the Olympians, #2) :fantasy:greekmyth:ya:
+:PROPERTIES:
+:AUTHOR:   Rick Riordan
+:ADDED:    [2025-03-18]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780120000319&jscmd=data&format=json
+:END:
+
+** READ The Neverending Story                                       :fantasy:ya:
+:PROPERTIES:
+:AUTHOR:   Michael Ende, Ralph Manheim
+:ADDED:    [2015-07-24]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780525457589&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Redshirts                                                        :scifi:
+:PROPERTIES:
+:AUTHOR:   John Scalzi
+:ADDED:    [2015-07-31]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780765316998&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** TOREAD The Challenges of a Secular Quebec: Bill 21 in Perspective :politics:quebec:
+:PROPERTIES:
+:AUTHOR:   Lucia Ferretti, Francois Rocher
+:ADDED:    [2025-01-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780774868426&jscmd=data&format=json
+:END:
+
+** TOREAD The Language Instinct: How the Mind Creates Language     :linguistics:
+:PROPERTIES:
+:AUTHOR:   Steven Pinker
+:ADDED:    [2025-01-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780060958336&jscmd=data&format=json
+:END:
+
+** TOREAD The Mercy of Gods (The Captive’s War, #1)                      :scifi:
+:PROPERTIES:
+:AUTHOR:   James S.A. Corey
+:ADDED:    [2025-01-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780316525572&jscmd=data&format=json
+:END:
+
+** TOREAD Children of Memory (Children of Time, #3)                      :scifi:
+:PROPERTIES:
+:AUTHOR:   Adrian Tchaikovsky
+:ADDED:    [2025-01-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781529087208&jscmd=data&format=json
+:END:
+
+** TOREAD Taste: My Life Through Food                             :food:cooking:
+:PROPERTIES:
+:AUTHOR:   Stanley Tucci
+:ADDED:    [2025-01-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781982168018&jscmd=data&format=json
+:END:
+
+** READ The Lightning Thief (Percy Jackson and the Olympians, #1) :fantasy:greekmyth:ya:
+:PROPERTIES:
+:AUTHOR:   Rick Riordan
+:ADDED:    [2024-10-10]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780786838653&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD The Other Bennet Sister                                      :romance:
+:PROPERTIES:
+:AUTHOR:   Janice Hadlow
+:ADDED:    [2024-10-09]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781250129413&jscmd=data&format=json
+:END:
+
+** READ Dragons of Spring Dawning (Dragonlance: Chronicles, #3)        :fantasy:
+:PROPERTIES:
+:AUTHOR:   Margaret Weis, Tracy Hickman
+:ADDED:    [2024-08-06]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780786930708&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Around the World in Eighty Days                      :adventure:classic:
+:PROPERTIES:
+:AUTHOR:   Jules Verne, Brian W. Aldiss, Michael Glencross
+:ADDED:    [2016-06-09]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140449068&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD The Call of Cthulhu                                   :horror:classic:
+:PROPERTIES:
+:AUTHOR:   H.P. Lovecraft
+:ADDED:    [2014-09-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9788562022753&jscmd=data&format=json
+:END:
+
+** TOREAD How Long 'til Black Future Month?                    :scifi:anthology:
+:PROPERTIES:
+:AUTHOR:   N.K. Jemisin
+:ADDED:    [2024-08-06]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780316491341&jscmd=data&format=json
+:END:
+
+** TOREAD The Histories                                   :history:classic:rome:
+:PROPERTIES:
+:AUTHOR:   Tacitus, Kenneth Wellesley
+:ADDED:    [2016-03-08]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140441505&jscmd=data&format=json
+:END:
+
+** TOREAD Piranesi                                                     :fantasy:
+:PROPERTIES:
+:AUTHOR:   Susanna Clarke
+:ADDED:    [2024-06-13]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781635575637&jscmd=data&format=json
+:END:
+
+** READ Leviathan Falls (The Expanse, #9)                              :fantasy:
+:PROPERTIES:
+:AUTHOR:   James S.A. Corey
+:ADDED:    [2024-03-16]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780356510392&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD Erasure                                                      :fiction:
+:PROPERTIES:
+:AUTHOR:   Percival Everett
+:ADDED:    [2024-05-20]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780786888153&jscmd=data&format=json
+:END:
+
+** TOREAD The Science Fiction Century, Volume 1                :scifi:anthology:
+:PROPERTIES:
+:AUTHOR:   David G. Hartwell
+:ADDED:    [2024-04-23]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780312864842&jscmd=data&format=json
+:END:
+
+** TOREAD Dark Matter                                                    :scifi:
+:PROPERTIES:
+:AUTHOR:   Blake Crouch
+:ADDED:    [2024-04-22]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781101904220&jscmd=data&format=json
+:END:
+
+** TOREAD Project Hail Mary                                              :scifi:
+:PROPERTIES:
+:AUTHOR:   Andy Weir
+:ADDED:    [2024-04-22]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780593135204&jscmd=data&format=json
+:END:
+
+** READ Tiamat's Wrath (The Expanse, #8)                                 :scifi:
+:PROPERTIES:
+:AUTHOR:   James S.A. Corey
+:ADDED:    [2019-09-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780316332873&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Persepolis Rising (The Expanse, #7)                              :scifi:
+:PROPERTIES:
+:AUTHOR:   James S.A. Corey
+:ADDED:    [2019-09-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780316332828&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** TOREAD Children of Time (Children of Time, #1)                        :scifi:
+:PROPERTIES:
+:AUTHOR:   Adrian Tchaikovsky
+:ADDED:    [2023-12-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781447273288&jscmd=data&format=json
+:END:
+
+** TOREAD La Morte D'Arthure (Volume 1); The History of King Arthur and of the Knights of the Round Table :fantasy:arthur:
+:PROPERTIES:
+:AUTHOR:   Thomas Malory
+:ADDED:    [2023-12-06]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781150265969&jscmd=data&format=json
+:END:
+
+** TOREAD The Bell Jar                                         :classic:fiction:
+:PROPERTIES:
+:AUTHOR:   Sylvia Plath
+:ADDED:    [2023-12-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780571268863&jscmd=data&format=json
+:END:
+
+** TOREAD Backup & Recovery                                               :tech:
+:PROPERTIES:
+:AUTHOR:   W. Curtis Preston
+:ADDED:    [2023-11-26]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780596102463&jscmd=data&format=json
+:END:
+
+** TOREAD Writing Efficient Programs (Prentice-Hall Software Series) :tech:software:
+:PROPERTIES:
+:AUTHOR:   Jon L. Bentley
+:ADDED:    [2023-11-26]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780139702518&jscmd=data&format=json
+:END:
+
+** TOREAD Patterns of Enterprise Application Architecture        :tech:software:
+:PROPERTIES:
+:AUTHOR:   Martin Fowler
+:ADDED:    [2023-11-26]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780321127426&jscmd=data&format=json
+:END:
+
+** TOREAD Ideological Perspectives on Canada                   :politics:canada:
+:PROPERTIES:
+:AUTHOR:   M Patricia Marchak
+:ADDED:    [2023-11-26]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780773590915&jscmd=data&format=json
+:END:
+
+** TOREAD A Court of Thorns and Roses (A Court of Thorns and Roses, #1) :fantasy:
+:PROPERTIES:
+:AUTHOR:   Sarah J. Maas
+:ADDED:    [2023-10-30]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781635575569&jscmd=data&format=json
+:END:
+
+** TOREAD Down and Out in Paris and London                      :classic:memoir:
+:PROPERTIES:
+:AUTHOR:   George Orwell
+:ADDED:    [2023-10-26]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780156262248&jscmd=data&format=json
+:END:
+
+** TOREAD The Dawn of Everything: A New History of Humanity            :history:
+:PROPERTIES:
+:AUTHOR:   David Graeber, David Wengrow
+:ADDED:    [2023-10-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780374157357&jscmd=data&format=json
+:END:
+
+** TOREAD Code That Fits in Your Head : Heuristics for Software Engineering (Robert C. Martin Series) :tech:software:
+:PROPERTIES:
+:AUTHOR:   Mark Seemann
+:ADDED:    [2023-10-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780137464401&jscmd=data&format=json
+:END:
+
+** TOREAD Why Nations Go to War                                       :politics:
+:PROPERTIES:
+:AUTHOR:   John George Stoessinger
+:ADDED:    [2023-10-08]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780495097075&jscmd=data&format=json
+:END:
+
+** TOREAD Stolen Focus: Why You Can't Pay Attention— and How to Think Deeply Again :selfhelp:productivity:
+:PROPERTIES:
+:AUTHOR:   Johann Hari
+:ADDED:    [2023-10-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780593138519&jscmd=data&format=json
+:END:
+
+** READ My Man Jeeves (Jeeves, #1)                              :classic:humour:
+:PROPERTIES:
+:AUTHOR:   P.G. Wodehouse
+:ADDED:    [2014-07-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781585678754&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** TOREAD Us Conductors                            :historical:fiction:theremin:
+:PROPERTIES:
+:AUTHOR:   Sean Michaels
+:ADDED:    [2023-09-16]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781935639817&jscmd=data&format=json
+:END:
+
+** TOREAD Do You Remember Being Born?                                    :scifi:
+:PROPERTIES:
+:AUTHOR:   Sean Michaels
+:ADDED:    [2023-09-16]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781039006768&jscmd=data&format=json
+:END:
+
+** TOREAD Letters from a Stoic                             :stoicism:philosophy:
+:PROPERTIES:
+:AUTHOR:   Seneca
+:ADDED:    [2023-09-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140442106&jscmd=data&format=json
+:END:
+
+** TOREAD Discourses and Selected Writings                 :stoicism:philosophy:
+:PROPERTIES:
+:AUTHOR:   Epictetus, Robert Dobbin
+:ADDED:    [2023-09-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140449464&jscmd=data&format=json
+:END:
+
+** TOREAD Mona Lisa Overdrive (Sprawl, #3)                     :scifi:cyberpunk:
+:PROPERTIES:
+:AUTHOR:   William Gibson
+:ADDED:    [2023-09-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780553281743&jscmd=data&format=json
+:END:
+
+** TOREAD A Deepness in the Sky (Zones of Thought, #2)                   :scifi:
+:PROPERTIES:
+:AUTHOR:   Vernor Vinge
+:ADDED:    [2016-02-23]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780812536355&jscmd=data&format=json
+:END:
+
+** TOREAD Saga, Volume 8                                           :scifi:comic:
+:PROPERTIES:
+:AUTHOR:   Brian K. Vaughan, Fiona Staples
+:ADDED:    [2020-01-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781534303492&jscmd=data&format=json
+:END:
+
+** READ The Amber Spyglass (His Dark Materials, #3)        :fantasy:religion:ya:
+:PROPERTIES:
+:AUTHOR:   Philip Pullman
+:ADDED:    [2022-12-08]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780440238157&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** TOREAD Range: Why Generalists Triumph in a Specialized World       :selfhelp:
+:PROPERTIES:
+:AUTHOR:   David Epstein
+:ADDED:    [2022-11-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780735214484&jscmd=data&format=json
+:END:
+
+** TOREAD M Is for Magic                                               :fantasy:
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman, Teddy Kristiansen
+:ADDED:    [2022-11-04]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780061186424&jscmd=data&format=json
+:END:
+
+** READ Wendy, Darling (Wendy, Darling, #1)                  :fantasy:retelling:
+:PROPERTIES:
+:AUTHOR:   A.C. Wise
+:ADDED:    [2022-10-26]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781789096811&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** TOREAD A Memory of Light (The Wheel of Time, #14)                   :fantasy:
+:PROPERTIES:
+:AUTHOR:   Robert Jordan, Brandon Sanderson
+:ADDED:    [2022-09-23]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780765325952&jscmd=data&format=json
+:END:
+
+** TOREAD Made for Love                                                  :scifi:
+:PROPERTIES:
+:AUTHOR:   Alissa Nutting
+:ADDED:    [2022-08-13]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780062280558&jscmd=data&format=json
+:END:
+
+** READ Northanger Abbey                                       :romance:classic:
+:PROPERTIES:
+:AUTHOR:   Jane Austen, Alfred Mac Adam
+:ADDED:    [2015-01-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781593082642&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD The Modem World: A Prehistory of Social Media           :tech:history:
+:PROPERTIES:
+:AUTHOR:   Kevin Driscoll
+:ADDED:    [2022-06-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780300248142&jscmd=data&format=json
+:END:
+
+** READ Dragons of Winter Night (Dragonlance: Chronicles, #2)          :fantasy:
+:PROPERTIES:
+:AUTHOR:   Margaret Weis, Tracy Hickman
+:ADDED:    [2022-06-09]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780786954384&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Rubicon: The Last Years of the Roman Republic             :history:rome:
+:PROPERTIES:
+:AUTHOR:   Tom Holland
+:ADDED:    [2021-10-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781400078974&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** TOREAD The Once and Future King                              :fantasy:arthur:
+:PROPERTIES:
+:AUTHOR:   T.H. White
+:ADDED:    [2022-02-09]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780441627400&jscmd=data&format=json
+:END:
+
+** TOREAD The Thief (The Queen's Thief, #1)                         :fantasy:ya:
+:PROPERTIES:
+:AUTHOR:   Megan Whalen Turner
+:ADDED:    [2021-12-24]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780060824976&jscmd=data&format=json
+:END:
+
+** READ Wizard and Glass (The Dark Tower, #4)                          :fantasy:
+:PROPERTIES:
+:AUTHOR:   Stephen        King
+:ADDED:    [2021-07-30]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780613090995&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Babylon’s Ashes (The Expanse, #6)                                :scifi:
+:PROPERTIES:
+:AUTHOR:   James S.A. Corey
+:ADDED:    [2019-09-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780356504261&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Consider Phlebas (Culture, #1)                                   :scifi:
+:PROPERTIES:
+:AUTHOR:   Iain M. Banks
+:ADDED:    [2014-06-18]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781857231380&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** TOREAD The Poetic Edda. Stories of the Norse Gods and Heroes :classic:norsemyth:
+:PROPERTIES:
+:AUTHOR:   Jackson Crawford
+:ADDED:    [2019-06-02]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781624663567&jscmd=data&format=json
+:END:
+
+** TOREAD The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma :selfhelp:
+:PROPERTIES:
+:AUTHOR:   Bessel van der Kolk
+:ADDED:    [2020-12-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780670785933&jscmd=data&format=json
+:END:
+
+** TOREAD At the Mountains of Madness                           :horror:classic:
+:PROPERTIES:
+:AUTHOR:   H.P. Lovecraft, China Miéville
+:ADDED:    [2020-09-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780812974416&jscmd=data&format=json
+:END:
+
+** TOREAD White Fragility: Why It's So Hard for White People to Talk About Racism :society:
+:PROPERTIES:
+:AUTHOR:   Robin DiAngelo, Michael Eric Dyson, Manon Smits, Rob Kuitenbrouwer, Amy Landon
+:ADDED:    [2020-06-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780807071168&jscmd=data&format=json
+:END:
+
+** TOREAD Quantum of Solace                                       :spy:thriller:
+:PROPERTIES:
+:AUTHOR:   Ian Fleming, Henry Chancellor
+:ADDED:    [2015-12-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781846141997&jscmd=data&format=json
+:END:
+
+** READ Little Brother (Little Brother, #1)                 :scifi:cyberpunk:ya:
+:PROPERTIES:
+:AUTHOR:   Cory Doctorow
+:ADDED:    [2020-02-02]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780765319852&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD The Origin of Empire: Rome from the Republic to Hadrian (264 BC - AD 138) (The Profile History of the Ancient World Series) :history:rome:
+:PROPERTIES:
+:AUTHOR:   David Stone Potter
+:ADDED:    [2020-02-02]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781847654434&jscmd=data&format=json
+:END:
+
+** READ The Complete Persepolis                                   :comic:memoir:
+:PROPERTIES:
+:AUTHOR:   Marjane Satrapi
+:ADDED:    [2016-03-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780375714832&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** TOREAD Circe                                               :fantsy:greekmyth:
+:PROPERTIES:
+:AUTHOR:   Madeline Miller
+:ADDED:    [2020-01-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780316556347&jscmd=data&format=json
+:END:
+
+** READ Ringworld (Ringworld, #1)                                      :fantasy:
+:PROPERTIES:
+:AUTHOR:   Larry Niven
+:ADDED:    [2014-06-23]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345247957&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** TOREAD Saga, Volume 7                                           :scifi:comic:
+:PROPERTIES:
+:AUTHOR:   Brian K. Vaughan, Fiona Staples
+:ADDED:    [2020-01-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781534300606&jscmd=data&format=json
+:END:
+
+** TOREAD Saga, Volume 6                                           :scifi:comic:
+:PROPERTIES:
+:AUTHOR:   Brian K. Vaughan, Fiona Staples
+:ADDED:    [2020-01-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781632157119&jscmd=data&format=json
+:END:
+
+** TOREAD Saga, Volume 5                                           :scifi:comic:
+:PROPERTIES:
+:AUTHOR:   Brian K. Vaughan, Fiona Staples
+:ADDED:    [2020-01-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781632154385&jscmd=data&format=json
+:END:
+
+** READ Saga, Volume 4                                             :scifi:comic:
+:PROPERTIES:
+:AUTHOR:   Brian K. Vaughan, Fiona Staples
+:ADDED:    [2020-01-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781632150776&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Saga, Volume 3                                             :scifi:comic:
+:PROPERTIES:
+:AUTHOR:   Brian K. Vaughan, Fiona Staples
+:ADDED:    [2020-01-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781607069317&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Saga, Volume 2                                             :scifi:comic:
+:PROPERTIES:
+:AUTHOR:   Brian K. Vaughan, Fiona Staples
+:ADDED:    [2020-01-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781607066927&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Saga, Volume 1                                             :scifi:comic:
+CLOSED: [2025-04-19 Sat 16:40]
+:PROPERTIES:
+:AUTHOR:   Brian K. Vaughan, Fiona Staples
+:ADDED:    [2020-01-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781607066019&jscmd=data&format=json
+:END:
+
+** TOREAD Chosen                                                :comic:religion:
+:PROPERTIES:
+:AUTHOR:   Mark Millar, Peter Gross, Jeanne McGee, Cory Petit, Simon Pegg, Richard Hendrick, John Hanson
+:ADDED:    [2020-01-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781593072131&jscmd=data&format=json
+:END:
+
+** READ Nick Cave: Mercy on Me                                    :comic:memoir:
+:PROPERTIES:
+:AUTHOR:   Reinhard Kleist
+:ADDED:    [2019-12-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781910593363&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ How Did it Really Happen?                                   :nonfiction:
+:PROPERTIES:
+:AUTHOR:   Reader's Digest Association
+:ADDED:    [2019-05-24]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780762102778&jscmd=data&format=json
+:RATING:   :star:
+:END:
+
+** READ Nemesis Games (The Expanse, #5)                                  :scifi:
+:PROPERTIES:
+:AUTHOR:   James S.A. Corey
+:ADDED:    [2019-09-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780316217590&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** TOREAD The Rise and Fall of the Third Reich: A History of Nazi Germany :history:ww2:
+:PROPERTIES:
+:AUTHOR:   William L. Shirer, Ron Rosenbaum
+:ADDED:    [2012-10-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781451651683&jscmd=data&format=json
+:END:
+
+** READ The Selfish Gene                                     :science:evolution:
+:PROPERTIES:
+:AUTHOR:   Richard Dawkins
+:ADDED:    [2012-10-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780199291151&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Caliban’s War (The Expanse, #2)                                  :scifi:
+:PROPERTIES:
+:AUTHOR:   James S.A. Corey
+:ADDED:    [2019-09-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781841499901&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ 2010: Odyssey Two (Space Odyssey, #2)                            :scifi:
+:PROPERTIES:
+:AUTHOR:   Arthur C. Clarke
+:ADDED:    [2019-07-02]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345303066&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Danny Dunn and the Homework Machine (Danny Dunn, #3)                :ya:
+:PROPERTIES:
+:AUTHOR:   Jay Williams, Raymond Abrashkin
+:ADDED:    [2019-07-02]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780070705203&jscmd=data&format=json
+:END:
+
+** TOREAD Children of the New World                            :scifi:anthology:
+:PROPERTIES:
+:AUTHOR:   Alexander Weinstein
+:ADDED:    [2019-06-30]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781250099006&jscmd=data&format=json
+:END:
+
+** READ The Age of Spiritual Machines                          :tech:philosophy:
+:PROPERTIES:
+:AUTHOR:   Ray Kurzweil
+:ADDED:    [2014-07-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140282023&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD The Nibelungenlied                             :classic:poetry:german:
+:PROPERTIES:
+:AUTHOR:   Unknown, Margaret Armour, A.T. Hatto
+:ADDED:    [2019-06-02]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140441376&jscmd=data&format=json
+:END:
+
+** TOREAD The Prose Edda: Norse Mythology (Penguin Classics)         :norsemyth:
+:PROPERTIES:
+:AUTHOR:   Snorri Sturluson, Jesse L. Byock
+:ADDED:    [2019-06-02]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140447552&jscmd=data&format=json
+:END:
+
+** READ Wayne of Gotham                                       :batman:superhero:
+:PROPERTIES:
+:AUTHOR:   Tracy Hickman
+:ADDED:    [2019-03-16]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780062074201&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Leviathan Wakes (The Expanse, #1)                                :scifi:
+:PROPERTIES:
+:AUTHOR:   James S.A. Corey
+:ADDED:    [2016-04-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781841499888&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** TOREAD The Mother Tongue: English and How It Got That Way       :linguistics:
+:PROPERTIES:
+:AUTHOR:   Bill Bryson
+:ADDED:    [2019-04-30]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780380715435&jscmd=data&format=json
+:END:
+
+** READ Science Fiction: The Best of the Year, 2006 Edition    :scifi:anthology:
+:PROPERTIES:
+:AUTHOR:   Rich Horton
+:ADDED:    [2019-03-16]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780809556496&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** TOREAD The Master and Margarita                             :classic:fantasy:
+:PROPERTIES:
+:AUTHOR:   Mikhail Bulgakov, Diana Lewis Burgin, Katherine Tiernan O'Connor, Ellendea Proffer, Hans Fronius, Михаил Афанасьевич Булгаков
+:ADDED:    [2019-04-09]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780679760801&jscmd=data&format=json
+:END:
+
+** READ Eternals                                                  :comic:marvel:
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman, John Romita, Jr., Jack Kirby
+:ADDED:    [2019-03-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780785125419&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Next 20 Years of Your Life: A Personal Guide into the Year 2017 :nonfiction:
+:PROPERTIES:
+:AUTHOR:   Richard Worzel
+:ADDED:    [2019-02-27]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780773730137&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ How to Be a Villain: Evil Laughs, Secret Lairs, Master Plans, and More!!! :humour:
+:PROPERTIES:
+:AUTHOR:   Neil Zawacki, James Dignan
+:ADDED:    [2019-01-29]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780811846660&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Where's My Jetpack?: A Guide to the Amazing Science Fiction Future That Never Arrived :humour:nonfiction:
+:PROPERTIES:
+:AUTHOR:   Daniel H. Wilson, Richard Horne
+:ADDED:    [2019-01-29]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781596911369&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD Microworlds: Writings on Science Fiction and Fantasy       :anthology:
+:PROPERTIES:
+:AUTHOR:   Stanisław Lem
+:ADDED:    [2019-02-22]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780156594431&jscmd=data&format=json
+:END:
+
+** READ Microserfs                                                :tech:fiction:
+:PROPERTIES:
+:AUTHOR:   Douglas Coupland
+:ADDED:    [2016-04-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780060987046&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Romeo and/or Juliet: A Chooseable-Path Adventure        :humour:romance:
+:PROPERTIES:
+:AUTHOR:   Ryan North
+:ADDED:    [2017-12-30]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781101983300&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Dragons of Autumn Twilight  (Dragonlance: Chronicles, #1)      :fantasy:
+:PROPERTIES:
+:AUTHOR:   Margaret Weis, Tracy Hickman
+:ADDED:    [2019-01-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780786915743&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Transmetropolitan, Vol. 10: One More Time        :scifi:cyberpunk:comic:
+:PROPERTIES:
+:AUTHOR:   Warren Ellis, Darick Robertson, Rodney Ramos
+:ADDED:    [2016-04-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401202170&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Transmetropolitan, Vol. 9: The Cure              :scifi:cyberpunk:comic:
+:PROPERTIES:
+:AUTHOR:   Warren Ellis, Darick Robertson, Rodney Ramos
+:ADDED:    [2016-04-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563899881&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Transmetropolitan, Vol. 8: Dirge                 :scifi:cyberpunk:comic:
+:PROPERTIES:
+:AUTHOR:   Warren Ellis
+:ADDED:    [2016-04-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563899539&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Transmetropolitan, Vol. 7: Spider's Thrash       :scifi:cyberpunk:comic:
+:PROPERTIES:
+:AUTHOR:   Warren Ellis, Darick Robertson, Rodney Ramos, Darren Aronofsky
+:ADDED:    [2016-04-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563898945&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Transmetropolitan, Vol. 6: Gouge Away            :scifi:cyberpunk:comic:
+:PROPERTIES:
+:AUTHOR:   Warren Ellis, Darick Robertson, Rodney Ramos
+:ADDED:    [2016-04-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563897962&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Transmetropolitan, Vol. 5: Lonely City           :scifi:cyberpunk:comic:
+:PROPERTIES:
+:AUTHOR:   Warren Ellis, Darick Robertson, Rodney Ramos, Patrick Stewart
+:ADDED:    [2016-04-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563897221&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Transmetropolitan, Vol. 4: The New Scum          :scifi:cyberpunk:comic:
+:PROPERTIES:
+:AUTHOR:   Warren Ellis
+:ADDED:    [2016-04-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563896279&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Transmetropolitan, Vol. 3: Year of the Bastard   :scifi:cyberpunk:comic:
+:PROPERTIES:
+:AUTHOR:   Warren Ellis
+:ADDED:    [2013-07-29]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563895685&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Transmetropolitan, Vol. 2: Lust for Life         :scifi:cyberpunk:comic:
+:PROPERTIES:
+:AUTHOR:   Warren Ellis, Darick Robertson
+:ADDED:    [2013-02-10]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563894817&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Transmetropolitan, Vol. 1: Back on the Street    :scifi:cyberpunk:comic:
+:PROPERTIES:
+:AUTHOR:   Warren Ellis, Darick Robertson, Darick Robertston, Rodney Ramos, Garth Ennis, Nathan Eyring, Patrick Stewart
+:ADDED:    [2016-04-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563894459&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD Infinity Engine (Transformation, #3)                           :scifi:
+:PROPERTIES:
+:AUTHOR:   Neal Asher
+:ADDED:    [2018-07-22]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781597808897&jscmd=data&format=json
+:END:
+
+** TOREAD War Factory (Transformation #2)                                :scifi:
+:PROPERTIES:
+:AUTHOR:   Neal Asher
+:ADDED:    [2018-07-22]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781597808347&jscmd=data&format=json
+:END:
+
+** TOREAD Dark Intelligence (Transformation, #1)                         :scifi:
+:PROPERTIES:
+:AUTHOR:   Neal Asher
+:ADDED:    [2018-07-22]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781597808248&jscmd=data&format=json
+:END:
+
+** TOREAD From Sumer to Rome: The Military Capabilities of Ancient Armies (Contributions in Military Studies) :history:
+:PROPERTIES:
+:AUTHOR:   Richard A. Gabriel, Karen S. Metz
+:ADDED:    [2018-07-06]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780313276453&jscmd=data&format=json
+:END:
+
+** TOREAD Phantom                                            :fiction:retelling:
+:PROPERTIES:
+:AUTHOR:   susan-kay
+:ADDED:    [2018-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781933626048&jscmd=data&format=json
+:END:
+
+** TOREAD Sanditon                                             :romance:classic:
+:PROPERTIES:
+:AUTHOR:   Jane Austen, A.C. Grayling
+:ADDED:    [2015-01-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781843911845&jscmd=data&format=json
+:END:
+
+** TOREAD Death's End (Remembrance of Earth’s Past, #3)      :scifi:translation:
+:PROPERTIES:
+:AUTHOR:   Liu Cixin, Ken Liu
+:ADDED:    [2018-06-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780765386632&jscmd=data&format=json
+:END:
+
+** TOREAD The Horse, the Wheel, and Language: How Bronze-Age Riders from the Eurasian Steppes Shaped the Modern World :history:linguistics:
+:PROPERTIES:
+:AUTHOR:   David W. Anthony
+:ADDED:    [2018-05-29]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780691058870&jscmd=data&format=json
+:END:
+
+** TOREAD The Myth of Sisyphus                              :classic:philosophy:
+:PROPERTIES:
+:AUTHOR:   Albert Camus, Justin Obrien
+:ADDED:    [2018-03-24]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780141182001&jscmd=data&format=json
+:END:
+
+** TOREAD The Spirit Catches You and You Fall Down: A Hmong Child, Her American Doctors, and the Collision of Two Cultures :nonfiction:science:
+:PROPERTIES:
+:AUTHOR:   Anne Fadiman
+:ADDED:    [2018-03-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780374525644&jscmd=data&format=json
+:END:
+
+** READ Storage Made Easy                                             :selfhelp:
+:PROPERTIES:
+:AUTHOR:   Candace Ord Manroe
+:ADDED:    [2017-10-29]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780895778208&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** TOREAD Old Man's War (Old Man's War, #1)                              :scifi:
+:PROPERTIES:
+:AUTHOR:   John Scalzi
+:ADDED:    [2017-12-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780765348272&jscmd=data&format=json
+:END:
+
+** TOREAD Arrowood (Arrowood, #1)                      :mystery:fiction:history:
+:PROPERTIES:
+:AUTHOR:   Mick Finlay
+:ADDED:    [2017-12-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780778330943&jscmd=data&format=json
+:END:
+
+** READ How To Keep People From Pushing Your Buttons                  :selfhelp:
+:PROPERTIES:
+:AUTHOR:   Albert Ellis, Arthur J. Lange
+:ADDED:    [2017-10-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780806516707&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** TOREAD Wizard and Glass (The Dark Tower, #4)                        :fantasy:
+:PROPERTIES:
+:AUTHOR:   Stephen        King
+:ADDED:    [2013-01-09]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780451194862&jscmd=data&format=json
+:END:
+
+** READ Scrum: The Art of Doing Twice the Work in Half the Time :tech:management:
+:PROPERTIES:
+:AUTHOR:   Jeff Sutherland
+:ADDED:    [2017-10-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780385346450&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** TOREAD The Complete Idiot's Guide to Organizing your Life          :selfhelp:
+:PROPERTIES:
+:AUTHOR:   Georgene Lockwood
+:ADDED:    [2017-10-29]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781592574131&jscmd=data&format=json
+:END:
+
+** TOREAD Time Detectives: How Archaeologists Use Technology to Recapture the Past :history:archaeology:
+:PROPERTIES:
+:AUTHOR:   Brian M. Fagan
+:ADDED:    [2017-10-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780671793852&jscmd=data&format=json
+:END:
+
+** TOREAD Maximize Your Memory                                        :selfhelp:
+:PROPERTIES:
+:AUTHOR:   John Lee Hancock
+:ADDED:    [2017-10-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780762102426&jscmd=data&format=json
+:END:
+
+** TOREAD Remember Everything You Read: The Evelyn Wood 7-Day Speed Reading and Learning Program :selfhelp:
+:PROPERTIES:
+:AUTHOR:   Stanley D. Frank
+:ADDED:    [2017-10-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780812917734&jscmd=data&format=json
+:END:
+
+** TOREAD A Newfoundlander in Canada: Always Going Somewhere, Always Coming Home
+:PROPERTIES:
+:AUTHOR:   Alan Doyle
+:ADDED:    [2017-10-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780385686198&jscmd=data&format=json
+:END:
+
+** TOREAD Where I Belong
+:PROPERTIES:
+:AUTHOR:   Alan Doyle
+:ADDED:    [2017-10-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780385680363&jscmd=data&format=json
+:END:
+
+** TOREAD Culture and Imperialism
+:PROPERTIES:
+:AUTHOR:   Edward W. Said
+:ADDED:    [2017-10-18]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780679750543&jscmd=data&format=json
+:END:
+
+** TOREAD The Dawkins Delusion? Atheist Fundamentalism and the Denial of the Divine
+:PROPERTIES:
+:AUTHOR:   Alister E. McGrath, Joanna Collicutt McGrath
+:ADDED:    [2017-10-18]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780830834464&jscmd=data&format=json
+:END:
+
+** READ The Drawing of the Three (The Dark Tower, #2)
+:PROPERTIES:
+:AUTHOR:   Stephen        King
+:ADDED:    [2013-01-09]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780451925084&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD The Death and Life of Great American Cities
+:PROPERTIES:
+:AUTHOR:   Jane Jacobs
+:ADDED:    [2017-09-24]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780375508738&jscmd=data&format=json
+:END:
+
+** TOREAD The Princess Bride
+:PROPERTIES:
+:AUTHOR:   William Goldman
+:ADDED:    [2017-08-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345418265&jscmd=data&format=json
+:END:
+
+** TOREAD Astrophysics for People in a Hurry
+:PROPERTIES:
+:AUTHOR:   Neil deGrasse Tyson
+:ADDED:    [2017-08-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780393609394&jscmd=data&format=json
+:END:
+
+** READ Scrum and XP from the Trenches (Enterprise Software Development)
+:PROPERTIES:
+:AUTHOR:   Henrik Kniberg
+:ADDED:    [2017-07-31]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781430322641&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD Algorithms to Live By: The Computer Science of Human Decisions
+:PROPERTIES:
+:AUTHOR:   Brian  Christian, Tom  Griffiths
+:ADDED:    [2017-03-25]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781627790369&jscmd=data&format=json
+:END:
+
+** TOREAD ISIS: The State of Terror
+:PROPERTIES:
+:AUTHOR:   Jessica Stern, J.M. Berger
+:ADDED:    [2017-03-25]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780062395559&jscmd=data&format=json
+:END:
+
+** TOREAD Art History: The Basics
+:PROPERTIES:
+:AUTHOR:   Diana Newall, Grant Pooke
+:ADDED:    [2017-03-24]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780415373081&jscmd=data&format=json
+:END:
+
+** TOREAD Inside the Third Reich
+:PROPERTIES:
+:AUTHOR:   Albert Speer
+:ADDED:    [2017-03-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780684829494&jscmd=data&format=json
+:END:
+
+** READ The Republic
+:PROPERTIES:
+:AUTHOR:   Plato
+:ADDED:    [2012-10-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140440485&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** TOREAD The Portable Atheist: Essential Readings for the Nonbeliever
+:PROPERTIES:
+:AUTHOR:   Christopher Hitchens
+:ADDED:    [2017-02-20]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780306816086&jscmd=data&format=json
+:END:
+
+** TOREAD Starship Titanic (IMAGINAIRE)
+:PROPERTIES:
+:AUTHOR:   Terry Jones, Marie-Catherine Caillava
+:ADDED:    [2017-02-20]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9782290053652&jscmd=data&format=json
+:END:
+
+** TOREAD The Illusion of Conscious Will
+:PROPERTIES:
+:AUTHOR:   Daniel M. Wegner
+:ADDED:    [2017-02-04]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780262731621&jscmd=data&format=json
+:END:
+
+** TOREAD Second Treatise of Government (Hackett Classics)
+:PROPERTIES:
+:AUTHOR:   John Locke, C.B. MacPherson
+:ADDED:    [2017-01-31]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780915144860&jscmd=data&format=json
+:END:
+
+** READ Revolting Rhymes
+:PROPERTIES:
+:AUTHOR:   Roald Dahl, Quentin Blake
+:ADDED:    [2016-03-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780142302262&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD Metaphysics
+:PROPERTIES:
+:AUTHOR:   Aristotle, Joe Sachs, Michael Levine
+:ADDED:    [2017-01-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781888009033&jscmd=data&format=json
+:END:
+
+** TOREAD City of God
+:PROPERTIES:
+:AUTHOR:   Augustine of Hippo, Henry Bettenson
+:ADDED:    [2017-01-27]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140448948&jscmd=data&format=json
+:END:
+
+** TOREAD Meditations
+:PROPERTIES:
+:AUTHOR:   Marcus Aurelius, Martin Hammond
+:ADDED:    [2017-01-27]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140449334&jscmd=data&format=json
+:END:
+
+** TOREAD History of the Peloponnesian War
+:PROPERTIES:
+:AUTHOR:   Thucydides, M.I. Finley, Rex Warner
+:ADDED:    [2017-01-27]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140440393&jscmd=data&format=json
+:END:
+
+** READ Heart of Darkness
+:PROPERTIES:
+:AUTHOR:   Joseph Conrad, Stanley Appelbaum
+:ADDED:    [2014-07-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780486264646&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Life, the Universe and Everything (The Hitchhiker's Guide to the Galaxy, #3)
+:PROPERTIES:
+:AUTHOR:   Douglas Adams
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345418906&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ The Chocolate War
+:PROPERTIES:
+:AUTHOR:   Robert Cormier
+:ADDED:    [2012-10-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780440900320&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Charlie and the Chocolate Factory (Charlie Bucket, #1)
+:PROPERTIES:
+:AUTHOR:   Roald Dahl, Quentin Blake
+:ADDED:    [2012-10-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780142403884&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Exegesis
+:PROPERTIES:
+:AUTHOR:   Astro Teller
+:ADDED:    [2012-10-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780375700514&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Marvel 1602
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman, Andy Kubert, Richard Isanove, Peter Sanderson, Todd Klein
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780785123118&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Stories of Your Life: and Others
+:PROPERTIES:
+:AUTHOR:   Ted Chiang
+:ADDED:    [2016-03-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781931520898&jscmd=data&format=json
+:RATING:   :star::star::star::star::star:
+:END:
+
+** TOREAD Politics: Observations and Arguments, 1966-2004
+:PROPERTIES:
+:AUTHOR:   Hendrik Hertzberg
+:ADDED:    [2017-01-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780143035534&jscmd=data&format=json
+:END:
+
+** TOREAD Pro Git (Expert's Voice in Software Development)
+:PROPERTIES:
+:AUTHOR:   Scott Chacon
+:ADDED:    [2017-01-20]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781430218333&jscmd=data&format=json
+:END:
+
+** READ The Sandman: Overture
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman, J.H. Williams III, Todd Klein, Dave Stewart
+:ADDED:    [2016-12-27]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401248963&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ The Moon Is a Harsh Mistress
+:PROPERTIES:
+:AUTHOR:   Robert A. Heinlein
+:ADDED:    [2014-06-16]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780340837948&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD Blink: The Power of Thinking Without Thinking
+:PROPERTIES:
+:AUTHOR:   Malcolm Gladwell, Barry Fox, Irina Henegar
+:ADDED:    [2016-11-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780316010665&jscmd=data&format=json
+:END:
+
+** READ The Rise of Endymion (Hyperion Cantos, #4)
+:PROPERTIES:
+:AUTHOR:   Dan Simmons
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780553572988&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Twelve Tomorrows 2016
+:PROPERTIES:
+:AUTHOR:   Bruce Sterling, Nick Harkaway, Charles Stross, Daniel Suarez, Ilona Gaynor, Pepe Rojo, Ned Beauman, John Kessle, Annalee Newitz
+:ADDED:    [2016-09-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780991044436&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Endymion (Hyperion Cantos, #3)
+:PROPERTIES:
+:AUTHOR:   Dan Simmons, Gary Ruddell
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780553572940&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD The End of Absence: Reclaiming What We've Lost in a World of Constant Connection
+:PROPERTIES:
+:AUTHOR:   Michael  Harris
+:ADDED:    [2016-09-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781591846932&jscmd=data&format=json
+:END:
+
+** TOREAD This Changes Everything: Capitalism vs. The Climate
+:PROPERTIES:
+:AUTHOR:   Naomi Klein
+:ADDED:    [2016-08-31]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781451697384&jscmd=data&format=json
+:END:
+
+** READ No Logo: No Space, No Choice, No Jobs
+:PROPERTIES:
+:AUTHOR:   Naomi Klein
+:ADDED:    [2016-02-22]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780006530404&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD Merde Happens
+:PROPERTIES:
+:AUTHOR:   Stephen  Clarke
+:ADDED:    [2016-08-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780593056318&jscmd=data&format=json
+:END:
+
+** TOREAD A Year in the Merde
+:PROPERTIES:
+:AUTHOR:   Stephen  Clarke
+:ADDED:    [2016-08-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781582346175&jscmd=data&format=json
+:END:
+
+** READ The Best of Isaac Asimov
+:PROPERTIES:
+:AUTHOR:   Isaac Asimov
+:ADDED:    [2015-12-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780449230183&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD When You Are Engulfed in Flames
+:PROPERTIES:
+:AUTHOR:   David Sedaris
+:ADDED:    [2016-08-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780316143479&jscmd=data&format=json
+:END:
+
+** TOREAD Imagined Communities: Reflections on the Origin and Spread of Nationalism
+:PROPERTIES:
+:AUTHOR:   Benedict Anderson
+:ADDED:    [2015-03-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781844670864&jscmd=data&format=json
+:END:
+
+** READ Batman: Arkham Asylum - A Serious House on Serious Earth
+:PROPERTIES:
+:AUTHOR:   Grant Morrison, Dave McKean
+:ADDED:    [2014-07-22]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401204259&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The End of Eternity
+:PROPERTIES:
+:AUTHOR:   Isaac Asimov, Apostol András
+:ADDED:    [2016-02-20]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780449016190&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** TOREAD Continuous delivery
+:PROPERTIES:
+:AUTHOR:   Jez Humble, David  Farley
+:ADDED:    [2016-07-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780321601919&jscmd=data&format=json
+:END:
+
+** TOREAD It Can't Happen Here
+:PROPERTIES:
+:AUTHOR:   Sinclair Lewis
+:ADDED:    [2016-07-06]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780451216588&jscmd=data&format=json
+:END:
+
+** READ A Canticle for Leibowitz
+:PROPERTIES:
+:AUTHOR:   Walter M. Miller Jr.
+:ADDED:    [2014-07-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780553273816&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** TOREAD Jane Doe January: My Twenty-Year Search for Truth and Justice
+:PROPERTIES:
+:AUTHOR:   Emily Winslow
+:ADDED:    [2016-07-04]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780062434807&jscmd=data&format=json
+:END:
+
+** TOREAD The Unseen War in Europe: Espionage and Conspiracy in the Second World War
+:PROPERTIES:
+:AUTHOR:   John H. Waller
+:ADDED:    [2016-06-25]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780679448266&jscmd=data&format=json
+:END:
+
+** TOREAD The Gods of Riverworld (Riverworld, #5)
+:PROPERTIES:
+:AUTHOR:   Philip José Farmer
+:ADDED:    [2016-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345419712&jscmd=data&format=json
+:END:
+
+** TOREAD The Magic Labyrinth (Riverworld, #4)
+:PROPERTIES:
+:AUTHOR:   Philip José Farmer
+:ADDED:    [2016-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345419705&jscmd=data&format=json
+:END:
+
+** TOREAD The Dark Design (Riverworld, #3)
+:PROPERTIES:
+:AUTHOR:   Philip José Farmer
+:ADDED:    [2016-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345419699&jscmd=data&format=json
+:END:
+
+** READ The Fabulous Riverboat (Riverworld #2)
+:PROPERTIES:
+:AUTHOR:   Philip José Farmer
+:ADDED:    [2016-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345419682&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ To Your Scattered Bodies Go (Riverworld, #1)
+:PROPERTIES:
+:AUTHOR:   Philip José Farmer
+:ADDED:    [2016-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345419675&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Lady Susan
+:PROPERTIES:
+:AUTHOR:   Jane Austen, R.W. Chapman
+:ADDED:    [2015-01-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780486444079&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD The Silmarillion
+:PROPERTIES:
+:AUTHOR:   J.R.R. Tolkien, Christopher Tolkien, Ted Nasmith
+:ADDED:    [2014-06-27]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780618391110&jscmd=data&format=json
+:END:
+
+** READ JavaScript Patterns: Build Better Applications with Coding and Design Patterns
+:PROPERTIES:
+:AUTHOR:   Stoyan Stefanov
+:ADDED:    [2014-09-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780596806750&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine
+:PROPERTIES:
+:AUTHOR:   Charles Petzold
+:ADDED:    [2016-06-09]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780470229057&jscmd=data&format=json
+:END:
+
+** TOREAD Quantum: A Guide for the Perplexed
+:PROPERTIES:
+:AUTHOR:   Jim Al-Khalili
+:ADDED:    [2016-06-09]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781841882383&jscmd=data&format=json
+:END:
+
+** TOREAD QED: The Strange Theory of Light and Matter
+:PROPERTIES:
+:AUTHOR:   Richard P. Feynman
+:ADDED:    [2016-06-09]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780691024172&jscmd=data&format=json
+:END:
+
+** TOREAD Black Holes & Time Warps: Einstein's Outrageous Legacy
+:PROPERTIES:
+:AUTHOR:   Kip S. Thorne, Stephen Hawking
+:ADDED:    [2016-06-09]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780393312768&jscmd=data&format=json
+:END:
+
+** TOREAD A Brief History of Time
+:PROPERTIES:
+:AUTHOR:   Stephen Hawking
+:ADDED:    [2016-06-09]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780553380163&jscmd=data&format=json
+:END:
+
+** TOREAD A People’s History of the United States: 1492 - Present
+:PROPERTIES:
+:AUTHOR:   Howard Zinn
+:ADDED:    [2016-06-09]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780060838652&jscmd=data&format=json
+:END:
+
+** READ The Left Hand of Darkness
+:PROPERTIES:
+:AUTHOR:   Ursula K. Le Guin
+:ADDED:    [2016-02-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780441478071&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD The Last Temptation of Christ
+:PROPERTIES:
+:AUTHOR:   Nikos Kazantzakis, Peter A. Bien
+:ADDED:    [2016-06-08]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780684852560&jscmd=data&format=json
+:END:
+
+** READ I, Robot (Robot, #0.1)
+:PROPERTIES:
+:AUTHOR:   Isaac Asimov
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780553803709&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** TOREAD It's Superman!
+:PROPERTIES:
+:AUTHOR:   Tom De Haven
+:ADDED:    [2016-04-30]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345493927&jscmd=data&format=json
+:END:
+
+** READ Kick-Ass
+:PROPERTIES:
+:AUTHOR:   Mark Millar, John Romita Jr.
+:ADDED:    [2016-04-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780785132615&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Wanted
+:PROPERTIES:
+:AUTHOR:   Mark Millar, J.G. Jones, Dick Giordano, Paul Mounts, Robin Spehar, Dennis Heisler, Mark Roslan, Brian K. Vaughan
+:ADDED:    [2016-04-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781582404974&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Ready Player One (Ready Player One, #1)
+:PROPERTIES:
+:AUTHOR:   Ernest Cline
+:ADDED:    [2016-03-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780099560432&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** TOREAD Axiomatic
+:PROPERTIES:
+:AUTHOR:   Greg Egan
+:ADDED:    [2016-04-24]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780061052651&jscmd=data&format=json
+:END:
+
+** TOREAD The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
+:PROPERTIES:
+:AUTHOR:   Marie Kondō
+:ADDED:    [2016-04-22]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781607747307&jscmd=data&format=json
+:END:
+
+** READ Harriet the Spy
+:PROPERTIES:
+:AUTHOR:   Louise Fitzhugh
+:ADDED:    [2016-04-20]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780440416791&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ The Witch Herself (Witch Saga, #3)
+:PROPERTIES:
+:AUTHOR:   Phyllis Reynolds Naylor
+:ADDED:    [2016-04-20]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780689853173&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Witch's Sister (Witch Saga, #1)
+:PROPERTIES:
+:AUTHOR:   Phyllis Reynolds Naylor
+:ADDED:    [2016-04-20]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780689853159&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Witch Water (Witch Saga, #2)
+:PROPERTIES:
+:AUTHOR:   Phyllis Reynolds Naylor
+:ADDED:    [2016-04-20]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780689853166&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Diaspora
+:PROPERTIES:
+:AUTHOR:   Greg Egan
+:ADDED:    [2014-06-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780061057984&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ JavaScript: The Good Parts
+:PROPERTIES:
+:AUTHOR:   Douglas Crockford
+:ADDED:    [2014-09-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780596517748&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD Transmetropolitan, Vol. 0: Tales of Human Waste
+:PROPERTIES:
+:AUTHOR:   Warren Ellis, Darick Robertson
+:ADDED:    [2016-04-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401202446&jscmd=data&format=json
+:END:
+
+** TOREAD The Prince
+:PROPERTIES:
+:AUTHOR:   Niccolò Machiavelli, Rufus Goodwin, Benjamin Martinez, W.K. Marriott, Denis Daly, Μαρία Κασωτάκη
+:ADDED:    [2014-07-09]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780937832387&jscmd=data&format=json
+:END:
+
+** TOREAD The Alchemist
+:PROPERTIES:
+:AUTHOR:   Paulo Coelho, Alan R. Clarke
+:ADDED:    [2016-04-09]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780061122415&jscmd=data&format=json
+:END:
+
+** TOREAD The Steampunk Trilogy
+:PROPERTIES:
+:AUTHOR:   Paul Di Filippo
+:ADDED:    [2016-04-08]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781568581026&jscmd=data&format=json
+:END:
+
+** TOREAD Chaos: Making a New Science
+:PROPERTIES:
+:AUTHOR:   James Gleick
+:ADDED:    [2016-04-07]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140092509&jscmd=data&format=json
+:END:
+
+** TOREAD Unto the Sons
+:PROPERTIES:
+:AUTHOR:   Gay Talese
+:ADDED:    [2016-04-07]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780679410348&jscmd=data&format=json
+:END:
+
+** TOREAD The Catcher in the Rye
+:PROPERTIES:
+:AUTHOR:   J.D. Salinger
+:ADDED:    [2016-04-07]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780316769174&jscmd=data&format=json
+:END:
+
+** TOREAD Reflections on the Revolution in France
+:PROPERTIES:
+:AUTHOR:   Edmund Burke, L.G. Mitchell
+:ADDED:    [2016-04-04]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780192839787&jscmd=data&format=json
+:END:
+
+** TOREAD Leviathan
+:PROPERTIES:
+:AUTHOR:   Thomas Hobbes, Marshall Missner, Crawford Brough Macpherson
+:ADDED:    [2016-04-04]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140431957&jscmd=data&format=json
+:END:
+
+** TOREAD The Shock Doctrine: The Rise of Disaster Capitalism
+:PROPERTIES:
+:AUTHOR:   Naomi Klein
+:ADDED:    [2016-04-04]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780805079838&jscmd=data&format=json
+:END:
+
+** TOREAD Mr. Sammler's Planet
+:PROPERTIES:
+:AUTHOR:   Saul Bellow, Stanley Crouch
+:ADDED:    [2016-04-04]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780142437834&jscmd=data&format=json
+:END:
+
+** TOREAD Humboldt's Gift
+:PROPERTIES:
+:AUTHOR:   Saul Bellow
+:ADDED:    [2016-04-04]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140189445&jscmd=data&format=json
+:END:
+
+** TOREAD A Moment of True Feeling
+:PROPERTIES:
+:AUTHOR:   Peter Handke, Ralph Manheim
+:ADDED:    [2016-04-04]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780374172916&jscmd=data&format=json
+:END:
+
+** READ Parasite Pig (Interstellar Pig, #2)
+:PROPERTIES:
+:AUTHOR:   William Sleator
+:ADDED:    [2014-06-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780142400869&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Heat Wave (Nikki Heat, #1)
+:PROPERTIES:
+:AUTHOR:   Richard Castle
+:ADDED:    [2016-03-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780786891412&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD Learning GNU Emacs
+:PROPERTIES:
+:AUTHOR:   Debra Cameron, James Elliott, Marc Loy, Eric Raymond, Bill Rosenblatt
+:ADDED:    [2016-03-31]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780596006488&jscmd=data&format=json
+:END:
+
+** READ Beyond the Chocolate War (Chocolate War, #2)
+:PROPERTIES:
+:AUTHOR:   Robert Cormier
+:ADDED:    [2012-10-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780440905806&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Boy Who Reversed Himself
+:PROPERTIES:
+:AUTHOR:   William Sleator
+:ADDED:    [2014-06-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780553285703&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ A Wrinkle in Time (Time Quintet, #1)
+:PROPERTIES:
+:AUTHOR:   Madeleine L'Engle
+:ADDED:    [2014-06-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780440800545&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Duplicate
+:PROPERTIES:
+:AUTHOR:   William Sleator
+:ADDED:    [2014-06-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780553286342&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Interstellar Pig (Interstellar Pig #1)
+:PROPERTIES:
+:AUTHOR:   William Sleator
+:ADDED:    [2013-01-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780553255645&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** TOREAD The Nicomachean Ethics
+:PROPERTIES:
+:AUTHOR:   Aristotle, Hugh Tredennick, J.A.K. Thomson, Jonathan Barnes
+:ADDED:    [2016-03-29]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140449495&jscmd=data&format=json
+:END:
+
+** READ Danny the Champion of the World
+:PROPERTIES:
+:AUTHOR:   Roald Dahl, Quentin Blake
+:ADDED:    [2016-03-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780375814259&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Boy: Tales of Childhood (Roald Dahl's Autobiography, #1)
+:PROPERTIES:
+:AUTHOR:   Roald Dahl, Quentin Blake
+:ADDED:    [2016-03-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780141311401&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Charlie and the Great Glass Elevator (Charlie Bucket, #2)
+:PROPERTIES:
+:AUTHOR:   Roald Dahl, Quentin Blake
+:ADDED:    [2016-03-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780142404126&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Fantastic Mr. Fox
+:PROPERTIES:
+:AUTHOR:   Roald Dahl, Quentin Blake
+:ADDED:    [2016-03-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780375822070&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Twits
+:PROPERTIES:
+:AUTHOR:   Roald Dahl, Quentin Blake
+:ADDED:    [2016-03-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780141318301&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Witches
+:PROPERTIES:
+:AUTHOR:   Roald Dahl, Quentin Blake
+:ADDED:    [2016-03-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780590032490&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ James and the Giant Peach
+:PROPERTIES:
+:AUTHOR:   Roald Dahl, Quentin Blake
+:ADDED:    [2012-10-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780375814242&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Enormous Crocodile
+:PROPERTIES:
+:AUTHOR:   Roald Dahl, Quentin Blake
+:ADDED:    [2016-03-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780142302453&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Foundation and Earth (Foundation #5)
+:PROPERTIES:
+:AUTHOR:   Isaac Asimov
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345339966&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Kingdom Come
+:PROPERTIES:
+:AUTHOR:   Mark Waid, Alex Ross
+:ADDED:    [2016-03-24]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563893308&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD Whiskey: The Definitive World Guide
+:PROPERTIES:
+:AUTHOR:   Michael    Jackson
+:ADDED:    [2016-03-24]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780789497109&jscmd=data&format=json
+:END:
+
+** TOREAD Two Solitudes
+:PROPERTIES:
+:AUTHOR:   Hugh MacLennan
+:ADDED:    [2016-03-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780771034824&jscmd=data&format=json
+:END:
+
+** TOREAD The Myths and Legends of Ancient Greece and Rome
+:PROPERTIES:
+:AUTHOR:   E.M. Berens
+:ADDED:    [2016-03-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780893410292&jscmd=data&format=json
+:END:
+
+** TOREAD Melmoth the Wanderer
+:PROPERTIES:
+:AUTHOR:   Charles Robert Maturin, Victor Sage
+:ADDED:    [2016-03-13]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140447613&jscmd=data&format=json
+:END:
+
+** READ Dr. Jekyll and Mr. Hyde
+:PROPERTIES:
+:AUTHOR:   Robert Louis Stevenson, Vladimir Nabokov, Dan Chaon, Jerome Charyn, Simon Vestdijk
+:ADDED:    [2014-07-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780451528957&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+q
+
+** READ Robots and Empire (Robot, #4)
+:PROPERTIES:
+:AUTHOR:   Isaac Asimov
+:ADDED:    [2014-06-27]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345328946&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD The Conscious Mind: In Search of a Fundamental Theory
+:PROPERTIES:
+:AUTHOR:   David J. Chalmers
+:ADDED:    [2016-03-09]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780195117899&jscmd=data&format=json
+:END:
+
+** READ The Stars, Like Dust (Galactic Empire, #1)
+:PROPERTIES:
+:AUTHOR:   Isaac Asimov, Paul Lehr
+:ADDED:    [2014-06-27]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780449023730&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Currents of Space (Galactic Empire, #2)
+:PROPERTIES:
+:AUTHOR:   Isaac Asimov
+:ADDED:    [2014-06-27]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345311955&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Batman: The Long Halloween
+:PROPERTIES:
+:AUTHOR:   Jeph Loeb
+:ADDED:    [2014-07-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563894695&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Crisis on Infinite Earths
+:PROPERTIES:
+:AUTHOR:   Marv Wolfman, George Pérez
+:ADDED:    [2015-11-09]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563897504&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Infinite Crisis
+:PROPERTIES:
+:AUTHOR:   Geoff Johns, Phil Jimenez, George Pérez, Jerry Ordway, Ivan Reis, Andy Lanning
+:ADDED:    [2015-11-09]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401209599&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Bourne Identity (Jason Bourne, #1)
+:PROPERTIES:
+:AUTHOR:   Robert Ludlum
+:ADDED:    [2016-03-09]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780752864327&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD The Gateway Trip (Heechee Saga, #5)
+:PROPERTIES:
+:AUTHOR:   Frederik Pohl, Frank Kelly Freas
+:ADDED:    [2016-03-06]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345375445&jscmd=data&format=json
+:END:
+
+** TOREAD The Annals of the Heechee (Heechee Saga, #4)
+:PROPERTIES:
+:AUTHOR:   Frederik Pohl
+:ADDED:    [2016-03-06]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345325662&jscmd=data&format=json
+:END:
+
+** TOREAD Heechee Rendezvous (Heechee Saga, #3)
+:PROPERTIES:
+:AUTHOR:   Frederik Pohl
+:ADDED:    [2016-03-06]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345300553&jscmd=data&format=json
+:END:
+
+** TOREAD Beyond the Blue Event Horizon (Heechee Saga, #2)
+:PROPERTIES:
+:AUTHOR:   Frederik Pohl
+:ADDED:    [2016-03-06]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345446671&jscmd=data&format=json
+:END:
+
+** TOREAD Quantum Night
+:PROPERTIES:
+:AUTHOR:   Robert J. Sawyer
+:ADDED:    [2016-03-06]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780425256831&jscmd=data&format=json
+:END:
+
+** TOREAD The Joy of Cooking
+:PROPERTIES:
+:AUTHOR:   Irma S. Rombauer, Marion Rombauer Becker, Ethan Becker
+:ADDED:    [2016-03-06]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780684818702&jscmd=data&format=json
+:END:
+
+** TOREAD Ring for Jeeves (Jeeves, #10)
+:PROPERTIES:
+:AUTHOR:   P.G. Wodehouse
+:ADDED:    [2016-03-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781585675241&jscmd=data&format=json
+:END:
+
+** TOREAD Jeeves and the Tie That Binds (Jeeves, #14)
+:PROPERTIES:
+:AUTHOR:   P.G. Wodehouse
+:ADDED:    [2016-03-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780743203623&jscmd=data&format=json
+:END:
+
+** TOREAD How Right You Are, Jeeves (Jeeves, #12)
+:PROPERTIES:
+:AUTHOR:   P.G. Wodehouse
+:ADDED:    [2016-03-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780743203593&jscmd=data&format=json
+:END:
+
+** TOREAD The Mating Season (Jeeves, #9)
+:PROPERTIES:
+:AUTHOR:   P.G. Wodehouse
+:ADDED:    [2016-03-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781585672318&jscmd=data&format=json
+:END:
+
+** TOREAD Jeeves and the Feudal Spirit (Jeeves, #11)
+:PROPERTIES:
+:AUTHOR:   P.G. Wodehouse
+:ADDED:    [2016-03-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781585672295&jscmd=data&format=json
+:END:
+
+** TOREAD Thank You, Jeeves (Jeeves, #5)
+:PROPERTIES:
+:AUTHOR:   P.G. Wodehouse
+:ADDED:    [2016-03-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780393345995&jscmd=data&format=json
+:END:
+
+** TOREAD Aunts Aren't Gentlemen (Jeeves, #15)
+:PROPERTIES:
+:AUTHOR:   P.G. Wodehouse
+:ADDED:    [2016-03-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140041927&jscmd=data&format=json
+:END:
+
+** TOREAD Joy in the Morning (Jeeves, #8)
+:PROPERTIES:
+:AUTHOR:   P.G. Wodehouse
+:ADDED:    [2016-03-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780393339444&jscmd=data&format=json
+:END:
+
+** TOREAD Stiff Upper Lip, Jeeves (Jeeves, #13)
+:PROPERTIES:
+:AUTHOR:   P.G. Wodehouse
+:ADDED:    [2016-03-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781841591056&jscmd=data&format=json
+:END:
+
+** TOREAD Very Good, Jeeves! (Jeeves, #4)
+:PROPERTIES:
+:AUTHOR:   P.G. Wodehouse
+:ADDED:    [2016-03-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780393339796&jscmd=data&format=json
+:END:
+
+** TOREAD The Code of the Woosters (Jeeves, #7)
+:PROPERTIES:
+:AUTHOR:   P.G. Wodehouse
+:ADDED:    [2016-03-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780393339819&jscmd=data&format=json
+:END:
+
+** READ Infinity Welcomes Careful Drivers (Red Dwarf, #1)
+:PROPERTIES:
+:AUTHOR:   Grant Naylor
+:ADDED:    [2014-07-09]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780451452016&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The League of Extraordinary Gentlemen, Vol. 2
+:PROPERTIES:
+:AUTHOR:   Alan             Moore, Kevin O'Neill
+:ADDED:    [2014-07-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401201180&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Cinderella, Volume 2: Fables are Forever
+:PROPERTIES:
+:AUTHOR:   Chris Roberson, Bill Willingham, Various
+:ADDED:    [2015-08-10]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401233853&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Fairest, Volume 5: The Clamour for Glamour
+:PROPERTIES:
+:AUTHOR:   Mark Buckingham, Bill Willingham, Russ Braun, Meghan Hetrick, Andrew Pepoy, Andrew Dalhouse, Lee Loughridge, Guy Major, Todd Klein, Adam Hughes
+:ADDED:    [2015-08-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401254261&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Bullet Gal: It's Not You, It's Me
+:PROPERTIES:
+:AUTHOR:   Andrez Bergen
+:ADDED:    [2015-08-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780993853517&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Test-Driven Development: By Example
+:PROPERTIES:
+:AUTHOR:   Kent Beck
+:ADDED:    [2015-09-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780321146533&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Design Patterns: Elements of Reusable Object-Oriented Software
+:PROPERTIES:
+:AUTHOR:   Erich Gamma, Grady Booch, Richard Helm, Ralph Johnson, John Vlissides
+:ADDED:    [2015-09-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780201633610&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Outsiders
+:PROPERTIES:
+:AUTHOR:   S.E. Hinton
+:ADDED:    [2015-09-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780670532575&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Effective C++: 55 Specific Ways to Improve Your Programs and Designs
+:PROPERTIES:
+:AUTHOR:   Scott Meyers
+:ADDED:    [2015-10-07]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780321334879&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Blackbriar
+:PROPERTIES:
+:AUTHOR:   William Sleator
+:ADDED:    [2016-03-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780380002481&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Strange Attractors
+:PROPERTIES:
+:AUTHOR:   William Sleator
+:ADDED:    [2016-03-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140345827&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** TOREAD Distress
+:PROPERTIES:
+:AUTHOR:   Greg Egan
+:ADDED:    [2016-03-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:0061057274&jscmd=data&format=json
+:END:
+
+** TOREAD Quarantine
+:PROPERTIES:
+:AUTHOR:   Greg Egan
+:ADDED:    [2016-03-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780061054235&jscmd=data&format=json
+:END:
+
+** TOREAD Songs of Distant Earth
+:PROPERTIES:
+:AUTHOR:   Arthur C. Clarke
+:ADDED:    [2016-03-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780007115860&jscmd=data&format=json
+:END:
+
+** READ The Robots of Dawn (Robot, #3)
+:PROPERTIES:
+:AUTHOR:   Isaac Asimov
+:ADDED:    [2014-06-27]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345315717&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** TOREAD In Search of Schrödinger's Cat: Quantum Physics and Reality
+:PROPERTIES:
+:AUTHOR:   John Gribbin
+:ADDED:    [2014-08-18]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780553342536&jscmd=data&format=json
+:END:
+
+** TOREAD 1Q84 (1Q84, #1-3)
+:PROPERTIES:
+:AUTHOR:   Haruki Murakami, Jay Rubin, Philip Gabriel
+:ADDED:    [2016-02-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780307593313&jscmd=data&format=json
+:END:
+
+** TOREAD On Basilisk Station (Honor Harrington, #1)
+:PROPERTIES:
+:AUTHOR:   David Weber
+:ADDED:    [2016-02-16]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781416509370&jscmd=data&format=json
+:END:
+
+** TOREAD The Predicates of Fate
+:PROPERTIES:
+:AUTHOR:   V.A. Hezaran
+:ADDED:    [2016-02-18]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781771550840&jscmd=data&format=json
+:END:
+
+** TOREAD Rama II (Rama #2)
+:PROPERTIES:
+:AUTHOR:   Arthur C. Clarke, Gentry Lee
+:ADDED:    [2016-02-18]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9782290032046&jscmd=data&format=json
+:END:
+
+** TOREAD The Garden of Rama (Rama, #3)
+:PROPERTIES:
+:AUTHOR:   Arthur C. Clarke, Gentry Lee
+:ADDED:    [2016-02-18]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781857230215&jscmd=data&format=json
+:END:
+
+** TOREAD Rama Revealed (Rama, #4)
+:PROPERTIES:
+:AUTHOR:   Arthur C. Clarke, Gentry Lee
+:ADDED:    [2016-02-18]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781857232523&jscmd=data&format=json
+:END:
+
+** TOREAD The Martian Chronicles
+:PROPERTIES:
+:AUTHOR:   Ray Bradbury, Michael Whelan
+:ADDED:    [2016-02-18]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780553278224&jscmd=data&format=json
+:END:
+
+** TOREAD A Princess of Mars (Barsoom, #1)
+:PROPERTIES:
+:AUTHOR:   Edgar Rice Burroughs, John Seelye
+:ADDED:    [2016-02-18]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780143104889&jscmd=data&format=json
+:END:
+
+** TOREAD Forward the Foundation (Foundation, #7)
+:PROPERTIES:
+:AUTHOR:   Isaac Asimov
+:ADDED:    [2015-11-07]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780553565072&jscmd=data&format=json
+:END:
+
+** TOREAD The Shockwave Rider
+:PROPERTIES:
+:AUTHOR:   John Brunner
+:ADDED:    [2015-08-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345467171&jscmd=data&format=json
+:END:
+
+** TOREAD A Scanner Darkly
+:PROPERTIES:
+:AUTHOR:   Philip K. Dick
+:ADDED:    [2015-07-29]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780575076815&jscmd=data&format=json
+:END:
+
+** TOREAD The War of the Worlds
+:PROPERTIES:
+:AUTHOR:   H.G. Wells, Arthur C. Clarke
+:ADDED:    [2015-07-29]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780375759239&jscmd=data&format=json
+:END:
+
+** READ Lightning
+:PROPERTIES:
+:AUTHOR:   Dean Koontz
+:ADDED:    [2016-02-26]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780425192030&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Job: A Comedy of Justice
+:PROPERTIES:
+:AUTHOR:   Robert A. Heinlein
+:ADDED:    [2016-02-25]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345316509&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Foundation's Edge (Foundation, #4)
+:PROPERTIES:
+:AUTHOR:   Isaac Asimov
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345308986&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** TOREAD The Corporation: The Pathological Pursuit of Profit and Power
+:PROPERTIES:
+:AUTHOR:   Joel Bakan
+:ADDED:    [2016-02-23]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780743247467&jscmd=data&format=json
+:END:
+
+** TOREAD The Children of the Sky (Zones of Thought, #3)
+:PROPERTIES:
+:AUTHOR:   Vernor Vinge
+:ADDED:    [2016-02-23]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780312875626&jscmd=data&format=json
+:END:
+
+** TOREAD Something Wicked This Way Comes
+:PROPERTIES:
+:AUTHOR:   Ray Bradbury
+:ADDED:    [2016-02-22]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780380729401&jscmd=data&format=json
+:END:
+
+** TOREAD A History of Western Philosophy
+:PROPERTIES:
+:AUTHOR:   Bertrand Russell
+:ADDED:    [2014-06-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780671201586&jscmd=data&format=json
+:END:
+
+** READ The Unfolding of Language: An Evolutionary Tour of Mankind's Greatest Invention
+:PROPERTIES:
+:AUTHOR:   Guy Deutscher
+:ADDED:    [2014-07-07]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780805080124&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ The Club Dumas
+:PROPERTIES:
+:AUTHOR:   Arturo Pérez-Reverte, Sonia Soto
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780156032834&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Batman: Whatever Happened to the Caped Crusader?
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman, Andy Kubert, Various
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401223038&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Superman: Whatever Happened to the Man of Tomorrow?
+:PROPERTIES:
+:AUTHOR:   Alan             Moore, Curt Swan, George Pérez, Kurt Schaffenberger
+:ADDED:    [2015-05-04]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563893155&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** TOREAD The Puppet Masters
+:PROPERTIES:
+:AUTHOR:   Robert A. Heinlein
+:ADDED:    [2016-02-18]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781439133767&jscmd=data&format=json
+:END:
+
+** TOREAD Murder on the Orient Express (Hercule Poirot, #10)
+:PROPERTIES:
+:AUTHOR:   Agatha Christie
+:ADDED:    [2016-02-18]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780425200452&jscmd=data&format=json
+:END:
+
+** READ Second Foundation (Foundation, #3)
+:PROPERTIES:
+:AUTHOR:   Isaac Asimov
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780380292806&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD 1066 and All That: A Memorable History of England
+:PROPERTIES:
+:AUTHOR:   W.C. Sellar, R.J. Yeatman, John Reynolds
+:ADDED:    [2016-02-13]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780413772701&jscmd=data&format=json
+:END:
+
+** TOREAD Poetics
+:PROPERTIES:
+:AUTHOR:   Aristotle, Malcolm Heath
+:ADDED:    [2016-01-31]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140446364&jscmd=data&format=json
+:END:
+
+** TOREAD S.
+:PROPERTIES:
+:AUTHOR:   J.J. Abrams, Doug Dorst
+:ADDED:    [2016-02-07]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780316201643&jscmd=data&format=json
+:END:
+
+** READ Foundation and Empire (Foundation, #2)
+:PROPERTIES:
+:AUTHOR:   Isaac Asimov
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780380007745&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD The Emperor's New Mind
+:PROPERTIES:
+:AUTHOR:   Roger Penrose
+:ADDED:    [2012-10-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780192861986&jscmd=data&format=json
+:END:
+
+** READ Foundation (Foundation, #1)
+:PROPERTIES:
+:AUTHOR:   Isaac Asimov
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780380440658&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD Thing Explainer: Complicated Stuff in Simple Words
+:PROPERTIES:
+:AUTHOR:   Randall Munroe
+:ADDED:    [2016-01-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780544668256&jscmd=data&format=json
+:END:
+
+** TOREAD Climbing Mount Improbable
+:PROPERTIES:
+:AUTHOR:   Richard Dawkins
+:ADDED:    [2016-01-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780141026176&jscmd=data&format=json
+:END:
+
+** READ Lex Luthor: Man of Steel
+:PROPERTIES:
+:AUTHOR:   Brian Azzarello
+:ADDED:    [2014-12-10]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401204549&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD Mind & Cosmos: Why the Materialist Neo-Darwinian Conception of Nature is Almost Certainly False
+:PROPERTIES:
+:AUTHOR:   Thomas Nagel
+:ADDED:    [2016-01-13]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780199919758&jscmd=data&format=json
+:END:
+
+** TOREAD Odd and the Frost Giants
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman, Mark Buckingham
+:ADDED:    [2016-01-13]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780747595380&jscmd=data&format=json
+:END:
+
+** READ The God Delusion
+:PROPERTIES:
+:AUTHOR:   Richard Dawkins
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780618918249&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD Unweaving the Rainbow: Science, Delusion and the Appetite for Wonder
+:PROPERTIES:
+:AUTHOR:   Richard Dawkins
+:ADDED:    [2016-01-09]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780618056736&jscmd=data&format=json
+:END:
+
+** TOREAD The Lords of the Golden Horn: From Suleiman the Magnificent to Kamal Ataturk
+:PROPERTIES:
+:AUTHOR:   Noel Barber
+:ADDED:    [2016-01-09]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780333138618&jscmd=data&format=json
+:END:
+
+** TOREAD Moral Minds: How Nature Designed Our Universal Sense of Right and Wrong
+:PROPERTIES:
+:AUTHOR:   Marc Hauser
+:ADDED:    [2016-01-08]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780060780708&jscmd=data&format=json
+:END:
+
+** TOREAD The Satanic Verses
+:PROPERTIES:
+:AUTHOR:   Salman Rushdie
+:ADDED:    [2016-01-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780312270827&jscmd=data&format=json
+:END:
+
+** TOREAD The Globalizers: The IMF, the World Bank, and Their Borrowers (Cornell Studies in Money)
+:PROPERTIES:
+:AUTHOR:   Ngaire Woods
+:ADDED:    [2016-01-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780801474200&jscmd=data&format=json
+:END:
+
+** TOREAD A Universe from Nothing: Why There Is Something Rather Than Nothing
+:PROPERTIES:
+:AUTHOR:   Lawrence M. Krauss, Richard Dawkins
+:ADDED:    [2015-12-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781451624458&jscmd=data&format=json
+:END:
+
+** TOREAD The Morning After: The 1995 Quebec Referendum and the Day that Almost Was
+:PROPERTIES:
+:AUTHOR:   Chantal Hébert
+:ADDED:    [2015-12-26]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345807625&jscmd=data&format=json
+:END:
+
+** TOREAD The Machinery of Freedom: Guide to a Radical Capitalism
+:PROPERTIES:
+:AUTHOR:   David D. Friedman
+:ADDED:    [2015-12-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780812690699&jscmd=data&format=json
+:END:
+
+** READ Fables: The Wolf Among Us, Volume 1
+:PROPERTIES:
+:AUTHOR:   Lilah Sturges, Matthew Sturges, Dave Justus, Shawn McManus, Stephen Sadowski, Travis Moore, Christopher Mitten, Eric    Nguyen, Andrew Pepoy, Lee Loughridge, Sal Cipriano, Chrissie Zullo
+:ADDED:    [2015-11-27]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401256845&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** TOREAD Islam and the Future of Tolerance: A Dialogue
+:PROPERTIES:
+:AUTHOR:   Sam Harris, Maajid Nawaz
+:ADDED:    [2015-12-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780674088702&jscmd=data&format=json
+:END:
+
+** READ Pebble in the Sky (Galactic Empire, #3)
+:PROPERTIES:
+:AUTHOR:   Isaac Asimov
+:ADDED:    [2014-06-27]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345335630&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD The Martian
+:PROPERTIES:
+:AUTHOR:   Andy Weir
+:ADDED:    [2015-11-20]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780804139021&jscmd=data&format=json
+:END:
+
+** READ Les Misérables
+:PROPERTIES:
+:AUTHOR:   Victor Hugo, Charles E. Wilbour, Laurence M. Porter
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781593080662&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD You're Never Weird on the Internet (Almost)
+:PROPERTIES:
+:AUTHOR:   Felicia Day, Joss Whedon
+:ADDED:    [2015-11-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781476785653&jscmd=data&format=json
+:END:
+
+** TOREAD Fairest, Volume 4: Of Men and Mice
+:PROPERTIES:
+:AUTHOR:   Marc Andreyko, Shawn McManus, Adam Hughes, Lee Loughridge, Todd Klein
+:ADDED:    [2015-08-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401250058&jscmd=data&format=json
+:END:
+
+** TOREAD Fairest: In All the Land
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Various
+:ADDED:    [2015-10-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401239008&jscmd=data&format=json
+:END:
+
+** TOREAD Delusions of Gender: How Our Minds, Society, and Neurosexism Create Difference
+:PROPERTIES:
+:AUTHOR:   Cordelia Fine
+:ADDED:    [2015-09-27]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780393068382&jscmd=data&format=json
+:END:
+
+** READ Effective Python: 59 Specific Ways to Write Better Python (Effective Software Development Series)
+:PROPERTIES:
+:AUTHOR:   Brett Slatkin
+:ADDED:    [2015-04-13]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780134034287&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Le Petit Prince
+:PROPERTIES:
+:AUTHOR:   Antoine de Saint-Exupéry
+:ADDED:    [2014-07-09]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9785954200263&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD Clean Code: A Handbook of Agile Software Craftsmanship
+:PROPERTIES:
+:AUTHOR:   Robert C. Martin
+:ADDED:    [2015-08-26]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780132350884&jscmd=data&format=json
+:END:
+
+** TOREAD Catch-22
+:PROPERTIES:
+:AUTHOR:   Joseph Heller
+:ADDED:    [2015-08-26]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780684833392&jscmd=data&format=json
+:END:
+
+** READ Fables, Vol. 19: Snow White
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Mark Buckingham
+:ADDED:    [2014-06-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401242480&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Fables, Vol. 20: Camelot
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Mark Buckingham, Steve Leialoha, Russ Braun, Barry Kitson, Andrew Pepoy, Gary Erskine, Lee Loughridge, Todd Klein
+:ADDED:    [2015-05-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401245160&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Fables, Vol. 21: Happily Ever After
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Mark Buckingham, Steve Leialoha, Andrew Pepoy, Lilah Sturges, Shawn McManus, Nimit Malavia, Dan Green, Jae Lee, Terry Moore, Eric Shanower, Russ Braun, Chrissie Zullo, Lee Loughridge, June Chung, Todd Klein
+:ADDED:    [2015-08-10]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401251321&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Fables, Vol. 22: Farewell
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Mark Buckingham, Steve Leialoha, Andrew Pepoy, Dan           Green, José Marzán Jr., David Petersen, Russ Braun, Joëlle Jones, Mark Schultz, Lee Garbett, Teddy Kristiansen, Mike Allred, Aaron Alexovich, David Hahn, Lan Medina, Niko Henrichon, Terry Dodson, Rachel Dodson, Mark Farmer, Megan Levens, Bryan Talbot, Lee Loughridge, Andrew Dalhouse, Laura Allred, Todd Klein, Nimit Malavi
+:ADDED:    [2015-08-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401252335&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ The Fall of Hyperion (Hyperion Cantos, #2)
+:PROPERTIES:
+:AUTHOR:   Dan Simmons
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780553288209&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** TOREAD Ayn Rand and the World She Made
+:PROPERTIES:
+:AUTHOR:   Anne C. Heller
+:ADDED:    [2015-08-06]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780385513999&jscmd=data&format=json
+:END:
+
+** TOREAD Steampunk
+:PROPERTIES:
+:AUTHOR:   Ann VanderMeer, Jeff VanderMeer, Joe R. Lansdale, Molly Brown, Ted Chiang, Ian R. McLeod, Paul Di Filippo, Rachel E. Pollock, Joseph E. Lake, Stepan Chapman, Neal Stephenson, Mollly Brown, Jess Nevins, Rick Klaw, Bill  Baker, Michael Moorcock, Rachel E. Pollack, Mary Gentle, Jay Lake, Michael Chabon, Ian R. MacLeod, James P. Blaylock, Amparo Ramajo Huélamo, Santiago Eximeno
+:ADDED:    [2015-07-29]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781892391759&jscmd=data&format=json
+:END:
+
+** TOREAD The Difference Engine
+:PROPERTIES:
+:AUTHOR:   William Gibson
+:ADDED:    [2015-07-29]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780575099401&jscmd=data&format=json
+:END:
+
+** TOREAD Metaphors We Live By
+:PROPERTIES:
+:AUTHOR:   George Lakoff, Mark  Johnson
+:ADDED:    [2015-07-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780226468013&jscmd=data&format=json
+:END:
+
+** TOREAD The Big Sleep (Philip Marlowe, #1)
+:PROPERTIES:
+:AUTHOR:   Raymond Chandler
+:ADDED:    [2015-07-27]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780394758282&jscmd=data&format=json
+:END:
+
+** TOREAD Gulliver’s Travels
+:PROPERTIES:
+:AUTHOR:   Jonathan Swift, Robert DeMaria Jr.
+:ADDED:    [2015-07-24]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780141439495&jscmd=data&format=json
+:END:
+
+** TOREAD The Stuff of Thought: Language as a Window into Human Nature
+:PROPERTIES:
+:AUTHOR:   Steven Pinker
+:ADDED:    [2015-07-18]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780670063277&jscmd=data&format=json
+:END:
+
+** TOREAD Myths from Mesopotamia: Creation, the Flood, Gilgamesh, and Others
+:PROPERTIES:
+:AUTHOR:   Stephanie Dalley, Anonymous
+:ADDED:    [2015-05-31]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780192835895&jscmd=data&format=json
+:END:
+
+** READ Hyperion (Hyperion Cantos, #1)
+:PROPERTIES:
+:AUTHOR:   Dan Simmons
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780553283686&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD The Batman Adventures: Mad Love
+:PROPERTIES:
+:AUTHOR:   Paul Dini, Bruce Timm, Rick  Taylor, Tim Harkins
+:ADDED:    [2014-07-22]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563892448&jscmd=data&format=json
+:END:
+
+** TOREAD The Practice Effect
+:PROPERTIES:
+:AUTHOR:   David Brin
+:ADDED:    [2014-08-23]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780553269819&jscmd=data&format=json
+:END:
+
+** TOREAD The Lifecycle of Software Objects
+:PROPERTIES:
+:AUTHOR:   Ted Chiang
+:ADDED:    [2014-08-23]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781596063174&jscmd=data&format=json
+:END:
+
+** TOREAD Preacher, Volume 4: Ancient History
+:PROPERTIES:
+:AUTHOR:   Garth Ennis, Carlos Ezquerra, Steve Dillon
+:ADDED:    [2015-05-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781852869144&jscmd=data&format=json
+:END:
+
+** TOREAD Preacher, Volume 6: War in the Sun
+:PROPERTIES:
+:AUTHOR:   Garth Ennis, Steve Dillon, Peter Snejbjerg
+:ADDED:    [2015-05-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563894909&jscmd=data&format=json
+:END:
+
+** TOREAD Joker
+:PROPERTIES:
+:AUTHOR:   Brian Azzarello, Lee Bermejo
+:ADDED:    [2015-05-04]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401215811&jscmd=data&format=json
+:END:
+
+** TOREAD Batman: The Killing Joke
+:PROPERTIES:
+:AUTHOR:   Alan             Moore, Brian Bolland, Tim Sale
+:ADDED:    [2015-05-04]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780930289454&jscmd=data&format=json
+:END:
+
+** TOREAD Domain-Driven Design: Tackling Complexity in the Heart of Software
+:PROPERTIES:
+:AUTHOR:   Eric Evans
+:ADDED:    [2015-05-09]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780321125217&jscmd=data&format=json
+:END:
+
+** TOREAD The Sirens of Titan
+:PROPERTIES:
+:AUTHOR:   Kurt Vonnegut Jr.
+:ADDED:    [2015-05-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780385333498&jscmd=data&format=json
+:END:
+
+** TOREAD Preacher, Book 5
+:PROPERTIES:
+:AUTHOR:   Garth Ennis, Steve Dillon
+:ADDED:    [2015-05-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401232504&jscmd=data&format=json
+:END:
+
+** TOREAD Preacher, Volume 8: All Hell's a-Coming
+:PROPERTIES:
+:AUTHOR:   Garth Ennis, Steve Dillon, John McCrea
+:ADDED:    [2015-05-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563896170&jscmd=data&format=json
+:END:
+
+** TOREAD Preacher, Volume 2: Until the End of the World
+:PROPERTIES:
+:AUTHOR:   Garth Ennis, Steve Dillon
+:ADDED:    [2015-05-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563893124&jscmd=data&format=json
+:END:
+
+** TOREAD Preacher, Volume 9: Alamo
+:PROPERTIES:
+:AUTHOR:   Garth Ennis
+:ADDED:    [2015-05-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563897153&jscmd=data&format=json
+:END:
+
+** TOREAD Preacher, Volume 3: Proud Americans
+:PROPERTIES:
+:AUTHOR:   Garth Ennis, Steve Dillon, Penn Jillette
+:ADDED:    [2015-05-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563893278&jscmd=data&format=json
+:END:
+
+** TOREAD Preacher, Volume 7: Salvation
+:PROPERTIES:
+:AUTHOR:   Garth Ennis, Steve Dillon
+:ADDED:    [2015-05-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563895197&jscmd=data&format=json
+:END:
+
+** TOREAD Preacher, Volume 5: Dixie Fried
+:PROPERTIES:
+:AUTHOR:   Garth Ennis, Steve Dillon
+:ADDED:    [2015-05-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563894282&jscmd=data&format=json
+:END:
+
+** TOREAD Preacher, Volume 1: Gone to Texas
+:PROPERTIES:
+:AUTHOR:   Garth Ennis, Steve Dillon
+:ADDED:    [2015-05-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563892615&jscmd=data&format=json
+:END:
+
+** TOREAD Foucault’s Pendulum
+:PROPERTIES:
+:AUTHOR:   Umberto Eco, William Weaver
+:ADDED:    [2015-04-07]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780156032971&jscmd=data&format=json
+:END:
+
+** TOREAD God Is Not Great: How Religion Poisons Everything
+:PROPERTIES:
+:AUTHOR:   Christopher Hitchens
+:ADDED:    [2015-04-06]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780446579803&jscmd=data&format=json
+:END:
+
+** TOREAD Debt, the IMF, and the World Bank: Sixty Questions, Sixty Answers
+:PROPERTIES:
+:AUTHOR:   Éric Toussaint, Damien Millet
+:ADDED:    [2015-04-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781583672228&jscmd=data&format=json
+:END:
+
+** READ The Fine Art of Mixing Drinks
+:PROPERTIES:
+:AUTHOR:   David A. Embury
+:ADDED:    [2014-12-10]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781603111645&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD Gödel, Escher, Bach: An Eternal Golden Braid
+:PROPERTIES:
+:AUTHOR:   Douglas R. Hofstadter
+:ADDED:    [2012-10-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780465026562&jscmd=data&format=json
+:END:
+
+** READ Atlas Shrugged
+:PROPERTIES:
+:AUTHOR:   Ayn Rand, Leonard Peikoff
+:ADDED:    [2015-03-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780452011878&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** TOREAD Fateful Triangle: The United States, Israel and the Palestinians
+:PROPERTIES:
+:AUTHOR:   Noam Chomsky
+:ADDED:    [2012-10-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780745315300&jscmd=data&format=json
+:END:
+
+** READ Night of January 16th
+:PROPERTIES:
+:AUTHOR:   Ayn Rand
+:ADDED:    [2015-03-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780452264861&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** TOREAD I, Claudius (Claudius, #1)
+:PROPERTIES:
+:AUTHOR:   Robert Graves
+:ADDED:    [2015-02-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780679724773&jscmd=data&format=json
+:END:
+
+** READ Dune (Dune, #1)
+:PROPERTIES:
+:AUTHOR:   Frank Herbert
+:ADDED:    [2012-10-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780340839935&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** TOREAD The Inferno of Dante
+:PROPERTIES:
+:AUTHOR:   Dante Alighieri, Robert Pinsky
+:ADDED:    [2015-02-09]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780374524524&jscmd=data&format=json
+:END:
+
+** TOREAD Trigger Warning: Short Fictions and Disturbances
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman
+:ADDED:    [2015-02-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780062330291&jscmd=data&format=json
+:END:
+
+** TOREAD Kinds of Minds: Toward an Understanding of Consciousness
+:PROPERTIES:
+:AUTHOR:   Daniel C. Dennett
+:ADDED:    [2015-01-27]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780465073511&jscmd=data&format=json
+:END:
+
+** TOREAD The Society of Mind
+:PROPERTIES:
+:AUTHOR:   Marvin Minsky
+:ADDED:    [2015-01-27]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780671657130&jscmd=data&format=json
+:END:
+
+** TOREAD I Am a Strange Loop
+:PROPERTIES:
+:AUTHOR:   Douglas R. Hofstadter
+:ADDED:    [2015-01-23]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780465030781&jscmd=data&format=json
+:END:
+
+** TOREAD Ozma of Oz (Oz, #3)
+:PROPERTIES:
+:AUTHOR:   L. Frank Baum
+:ADDED:    [2013-01-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780543895141&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD Wolves of the Calla (The Dark Tower, #5)
+:PROPERTIES:
+:AUTHOR:   Stephen        King, Bernie Wrightson
+:ADDED:    [2013-01-09]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781416516934&jscmd=data&format=json
+:END:
+
+** TOREAD Song of Susannah (The Dark Tower, #6)
+:PROPERTIES:
+:AUTHOR:   Stephen        King, Darrel Anderson
+:ADDED:    [2013-01-09]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781416521495&jscmd=data&format=json
+:END:
+
+** TOREAD Our Magnificent Bastard Tongue: The Untold History of English
+:PROPERTIES:
+:AUTHOR:   John McWhorter
+:ADDED:    [2013-07-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781592403950&jscmd=data&format=json
+:END:
+
+** TOREAD The Origin of Consciousness in the Breakdown of the Bicameral Mind
+:PROPERTIES:
+:AUTHOR:   Julian Jaynes
+:ADDED:    [2014-06-27]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780618057078&jscmd=data&format=json
+:END:
+
+** TOREAD Civilization Before Greece and Rome
+:PROPERTIES:
+:AUTHOR:   Henry William Frederick Saggs
+:ADDED:    [2014-07-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780300050318&jscmd=data&format=json
+:END:
+
+** TOREAD A History of the Ancient World
+:PROPERTIES:
+:AUTHOR:   Chester G. Starr
+:ADDED:    [2014-07-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780195066296&jscmd=data&format=json
+:END:
+
+** TOREAD The Moral Landscape: How Science Can Determine Human Values
+:PROPERTIES:
+:AUTHOR:   Sam Harris
+:ADDED:    [2014-07-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781439171219&jscmd=data&format=json
+:END:
+
+** TOREAD The Big Questions: Tackling the Problems of Philosophy with Ideas from Mathematics, Economics, and Physics
+:PROPERTIES:
+:AUTHOR:   Steven E. Landsburg
+:ADDED:    [2014-07-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781439148211&jscmd=data&format=json
+:END:
+
+** TOREAD Manufacturing Consent: The Political Economy of the Mass Media
+:PROPERTIES:
+:AUTHOR:   Edward S. Herman, Noam Chomsky
+:ADDED:    [2014-07-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780375714498&jscmd=data&format=json
+:END:
+
+** TOREAD Gödel's Proof
+:PROPERTIES:
+:AUTHOR:   Ernest Nagel, James Roy Newman, Douglas R. Hofstadter
+:ADDED:    [2014-08-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780814758168&jscmd=data&format=json
+:END:
+
+** TOREAD Free Will
+:PROPERTIES:
+:AUTHOR:   Sam Harris
+:ADDED:    [2014-08-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781451683400&jscmd=data&format=json
+:END:
+
+** TOREAD Chasm City
+:PROPERTIES:
+:AUTHOR:   Alastair Reynolds
+:ADDED:    [2014-07-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780441010646&jscmd=data&format=json
+:END:
+
+** TOREAD Absolution Gap (Revelation Space, #3)
+:PROPERTIES:
+:AUTHOR:   Alastair Reynolds
+:ADDED:    [2014-07-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780441012916&jscmd=data&format=json
+:END:
+
+** TOREAD Redemption Ark (Revelation Space, #2)
+:PROPERTIES:
+:AUTHOR:   Alastair Reynolds, Chris     Moore
+:ADDED:    [2014-07-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780441011735&jscmd=data&format=json
+:END:
+
+** TOREAD Revelation Space (Revelation Space #1)
+:PROPERTIES:
+:AUTHOR:   Alastair Reynolds
+:ADDED:    [2014-07-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780441009428&jscmd=data&format=json
+:END:
+
+** TOREAD House of Suns
+:PROPERTIES:
+:AUTHOR:   Alastair Reynolds
+:ADDED:    [2014-07-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780575099128&jscmd=data&format=json
+:END:
+
+** TOREAD Pushing Ice
+:PROPERTIES:
+:AUTHOR:   Alastair Reynolds
+:ADDED:    [2014-07-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780441014019&jscmd=data&format=json
+:END:
+
+** TOREAD Good Without God: What a Billion Nonreligious People Do Believe
+:PROPERTIES:
+:AUTHOR:   Greg M. Epstein
+:ADDED:    [2014-07-20]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780061670114&jscmd=data&format=json
+:END:
+
+** TOREAD The Essential Turing: Seminal Writings in Computing, Logic, Philosophy, Artificial Intelligence, and Artificial Life plus The Secrets of Enigma
+:PROPERTIES:
+:AUTHOR:   Alan M. Turing, B. Jack Copeland
+:ADDED:    [2014-07-20]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780198250807&jscmd=data&format=json
+:END:
+
+** TOREAD Plutarch's Lives: Volume II
+:PROPERTIES:
+:AUTHOR:   Plutarch, John Dryden, James Atlas, Arthur Hugh Clough
+:ADDED:    [2014-07-13]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780375756771&jscmd=data&format=json
+:END:
+
+** TOREAD Plutarch's Lives: Volume I
+:PROPERTIES:
+:AUTHOR:   Plutarch, John Dryden, James Atlas, Arthur Hugh Clough
+:ADDED:    [2014-07-13]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780375756764&jscmd=data&format=json
+:END:
+
+** TOREAD Intuition Pumps And Other Tools for Thinking
+:PROPERTIES:
+:AUTHOR:   Daniel C. Dennett
+:ADDED:    [2014-08-20]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780393348781&jscmd=data&format=json
+:END:
+
+** TOREAD The Intentional Stance
+:PROPERTIES:
+:AUTHOR:   Daniel C. Dennett
+:ADDED:    [2014-08-20]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780262540537&jscmd=data&format=json
+:END:
+
+** TOREAD Refactoring: Improving the Design of Existing Code
+:PROPERTIES:
+:AUTHOR:   Martin Fowler, Kent Beck, Don Roberts, Erich Gamma
+:ADDED:    [2014-09-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780201485677&jscmd=data&format=json
+:END:
+
+** TOREAD Introduction to Algorithms
+:PROPERTIES:
+:AUTHOR:   Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
+:ADDED:    [2015-01-06]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780262032933&jscmd=data&format=json
+:END:
+
+** TOREAD Compilers: Principles, Techniques, and Tools
+:PROPERTIES:
+:AUTHOR:   Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman
+:ADDED:    [2015-01-06]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780201100884&jscmd=data&format=json
+:END:
+
+** TOREAD The Art of Computer Programming, Volume 1: Fundamental Algorithms
+:PROPERTIES:
+:AUTHOR:   Donald Ervin Knuth
+:ADDED:    [2015-01-06]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780201896831&jscmd=data&format=json
+:END:
+
+** TOREAD The Art of Computer Programming, Volume 2: Seminumerical Algorithms
+:PROPERTIES:
+:AUTHOR:   Donald Ervin Knuth
+:ADDED:    [2015-01-06]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780201896848&jscmd=data&format=json
+:END:
+
+** TOREAD The Art of Computer Programming: Volume 3: Sorting and Searching
+:PROPERTIES:
+:AUTHOR:   Donald Ervin Knuth
+:ADDED:    [2015-01-06]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:0785342896855&jscmd=data&format=json
+:END:
+
+** TOREAD Wiring a House (For Pros By Pros)
+:PROPERTIES:
+:AUTHOR:   Rex Cauldwell
+:ADDED:    [2015-01-08]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781561585274&jscmd=data&format=json
+:END:
+
+** TOREAD Why the West Rules—for Now: The Patterns of History, and What They Reveal About the Future
+:PROPERTIES:
+:AUTHOR:   Ian Morris
+:ADDED:    [2015-01-07]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781429977043&jscmd=data&format=json
+:END:
+
+** TOREAD Writing on the Wall: Social Media - The First 2,000 Years
+:PROPERTIES:
+:AUTHOR:   Tom Standage
+:ADDED:    [2015-01-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781620402856&jscmd=data&format=json
+:END:
+
+** TOREAD Illustrated Cabinetmaking: How to Design and Construct Furniture That Works (American Woodworker)
+:PROPERTIES:
+:AUTHOR:   Bill Hylton
+:ADDED:    [2014-12-13]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781565233690&jscmd=data&format=json
+:END:
+
+** TOREAD The Complete Manual of Woodworking: A Detailed Guide to Design, Techniques, and Tools for the Beginner and Expert
+:PROPERTIES:
+:AUTHOR:   Albert Jackson, David Day
+:ADDED:    [2014-12-13]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780679766117&jscmd=data&format=json
+:END:
+
+** TOREAD The Bell Curve: Intelligence and Class Structure in American Life
+:PROPERTIES:
+:AUTHOR:   Richard J. Herrnstein, Charles Murray
+:ADDED:    [2014-12-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780684824291&jscmd=data&format=json
+:END:
+
+** TOREAD Malt Whisky Companion
+:PROPERTIES:
+:AUTHOR:   Michael    Jackson
+:ADDED:    [2014-09-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780751307085&jscmd=data&format=json
+:END:
+
+** TOREAD Guns, Germs, and Steel: The Fates of Human Societies
+:PROPERTIES:
+:AUTHOR:   Jared Diamond
+:ADDED:    [2014-09-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780739467350&jscmd=data&format=json
+:END:
+
+** TOREAD The Meme Machine
+:PROPERTIES:
+:AUTHOR:   Susan Blackmore, Richard Dawkins
+:ADDED:    [2014-08-20]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780192862129&jscmd=data&format=json
+:END:
+
+** TOREAD The Third Chimpanzee: The Evolution and Future of the Human Animal
+:PROPERTIES:
+:AUTHOR:   Jared Diamond
+:ADDED:    [2014-08-18]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780060845506&jscmd=data&format=json
+:END:
+
+** READ The Last Question
+:PROPERTIES:
+:AUTHOR:   Isaac Asimov, Bob E. Flick, Jim Gallant
+:ADDED:    [2014-08-18]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781884214493&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** TOREAD In Defense of Food: An Eater's Manifesto
+:PROPERTIES:
+:AUTHOR:   Michael Pollan
+:ADDED:    [2014-08-18]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781594201455&jscmd=data&format=json
+:END:
+
+** TOREAD Fermat's Enigma
+:PROPERTIES:
+:AUTHOR:   Simon Singh, John Lynch
+:ADDED:    [2014-08-18]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780385493628&jscmd=data&format=json
+:END:
+
+** READ Snow Crash
+:PROPERTIES:
+:AUTHOR:   Neal Stephenson
+:ADDED:    [2012-10-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780553380958&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Queen of Angels (Queen of Angels, #1)
+:PROPERTIES:
+:AUTHOR:   Greg Bear
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780446361309&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Anvil of Stars (Forge of God, #2)
+:PROPERTIES:
+:AUTHOR:   Greg Bear
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780446364034&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Anansi Boys
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780060515195&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ The Man in the High Castle
+:PROPERTIES:
+:AUTHOR:   Philip K. Dick
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780679740674&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Watchmen
+:PROPERTIES:
+:AUTHOR:   Alan             Moore, Dave Gibbons, John    Higgins
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780930289232&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ And Another Thing... (The Hitchhiker's Guide to the Galaxy, #6)
+:PROPERTIES:
+:AUTHOR:   Eoin Colfer
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401323585&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Pride and Prejudice
+:PROPERTIES:
+:AUTHOR:   Jane Austen
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780553211542&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Atheism: The Case Against God
+:PROPERTIES:
+:AUTHOR:   George H. Smith
+:ADDED:    [2012-10-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780879751241&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Slant (Queen of Angels, #4)
+:PROPERTIES:
+:AUTHOR:   Greg Bear
+:ADDED:    [2012-10-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780812524826&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Sandman, Vol. 5: A Game of You
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman, Shawn McManus, Colleen Doran, Bryan Talbot, George Pratt, Stan Woch, Dick Giordano, Todd Klein
+:ADDED:    [2012-10-13]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563890932&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ A Random Walk Down Wall Street
+:PROPERTIES:
+:AUTHOR:   Burton G. Malkiel
+:ADDED:    [2012-10-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780393325355&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Sandman, Vol. 10: The Wake
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman
+:ADDED:    [2012-10-13]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563892875&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Fade
+:PROPERTIES:
+:AUTHOR:   Robert Cormier
+:ADDED:    [2012-10-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780385731348&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Freedom Evolves
+:PROPERTIES:
+:AUTHOR:   Daniel C. Dennett
+:ADDED:    [2012-10-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780142003848&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Brave New World
+:PROPERTIES:
+:AUTHOR:   Aldous Huxley
+:ADDED:    [2012-10-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780060929879&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Peter & Max
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Steve Leialoha
+:ADDED:    [2012-10-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401215736&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ The Sandman, Vol. 7: Brief Lives
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman, Jill Thompson, Vince Locke, Peter Straub
+:ADDED:    [2012-10-13]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563891373&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Sandman, Vol. 9: The Kindly Ones
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman, Marc Hempel, Richard Case, D'Israeli, Teddy Kristiansen, Glyn Dillon, Charles Vess, Dean Ormston, Kevin Nowlan, Todd Klein, Frank McConnell
+:ADDED:    [2012-10-13]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563892042&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Sandman, Vol. 2: The Doll's House
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman, Mike Dringenberg, Malcolm Jones III, Chris Bachalo, Michael Zulli, Steve Parkhouse, Todd Klein, Clive Barker
+:ADDED:    [2012-10-13]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563892257&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Sandman, Vol. 4: Season of Mists
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman, Kelley Jones, Mike Dringenberg, Malcolm Jones III, Matt Wagner, Dick Giordano, George Pratt, P. Craig Russell
+:ADDED:    [2012-10-13]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563890352&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Scott Pilgrim's Precious Little Life (Scott Pilgrim, #1)
+:PROPERTIES:
+:AUTHOR:   Bryan Lee O'Malley
+:ADDED:    [2012-10-13]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781932664089&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Scott Pilgrim vs. The World (Scott Pilgrim, #2)
+:PROPERTIES:
+:AUTHOR:   Bryan Lee O'Malley
+:ADDED:    [2012-10-13]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781932664126&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Scott Pilgrim, Volume 3: Scott Pilgrim & The Infinite Sadness
+:PROPERTIES:
+:AUTHOR:   Bryan Lee O'Malley
+:ADDED:    [2012-10-13]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781932664225&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ The Sandman, Vol. 6: Fables & Reflections
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman
+:ADDED:    [2012-10-13]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563891069&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Scott Pilgrim, Volume 4: Scott Pilgrim Gets It Together
+:PROPERTIES:
+:AUTHOR:   Bryan Lee O'Malley
+:ADDED:    [2012-10-13]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781932664492&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ The Salmon of Doubt: Hitchhiking the Galaxy One Last Time
+:PROPERTIES:
+:AUTHOR:   Douglas Adams
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345455291&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Sandman, Vol. 8: Worlds' End
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman, Mike Allred, Gary Amaro, Mark Buckingham, David Giordano, Tony Harris, Steve Leialoha, Vince Locke, Shea Anton Pensa, Alec Stevens, Bryan Talbot, John Watkiss, Todd Klein, Michael Zulli, Stephen        King
+:ADDED:    [2012-10-13]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563891700&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Sandman, Vol. 1: Preludes & Nocturnes
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman, Sam Kieth, Mike Dringenberg, Malcolm Jones III, Todd Klein, Karen  Berger, Daniel Vozzo
+:ADDED:    [2012-10-13]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563892271&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Sandman, Vol. 3: Dream Country
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman, Bob Kahan
+:ADDED:    [2012-10-13]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563892264&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Scott Pilgrim, Volume 5: Scott Pilgrim vs. the Universe
+:PROPERTIES:
+:AUTHOR:   Bryan Lee O'Malley
+:ADDED:    [2012-10-13]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781934964101&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Scott Pilgrim, Volume 6: Scott Pilgrim's Finest Hour
+:PROPERTIES:
+:AUTHOR:   Bryan Lee O'Malley
+:ADDED:    [2012-10-13]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781934964385&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ The Long Dark Tea-Time of the Soul (Dirk Gently, #2)
+:PROPERTIES:
+:AUTHOR:   Douglas Adams
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780671742515&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Neverwhere (London Below, #1)
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780060557812&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ The Celts: A History
+:PROPERTIES:
+:AUTHOR:   Peter Berresford Ellis
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780786712113&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ The Count of Monte Cristo
+:PROPERTIES:
+:AUTHOR:   Alexandre Dumas, Robin Buss
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140449266&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Language, Truth and Logic
+:PROPERTIES:
+:AUTHOR:   Alfred Jules Ayer
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780486200101&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ A Game of Thrones (A Song of Ice and Fire, #1)
+:PROPERTIES:
+:AUTHOR:   George R.R. Martin
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780553588484&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ The Graveyard Book
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman, Dave McKean
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780060530921&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Darwin's Radio (Darwin's Radio, #1)
+:PROPERTIES:
+:AUTHOR:   Greg Bear
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345459817&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Stardust
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780061142024&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ A Clash of Kings  (A Song of Ice and Fire, #2)
+:PROPERTIES:
+:AUTHOR:   George R.R. Martin
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780553381696&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Darwin's Dangerous Idea: Evolution and the Meanings of Life
+:PROPERTIES:
+:AUTHOR:   Daniel C. Dennett
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780684824710&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Consciousness Explained
+:PROPERTIES:
+:AUTHOR:   Daniel C. Dennett
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780316180665&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Persuasion
+:PROPERTIES:
+:AUTHOR:   Jane Austen, Deidre Shauna Lynch, James Kinsley
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780192802637&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Sense and Sensibility
+:PROPERTIES:
+:AUTHOR:   Jane Austen, Ros Ballaster, Джейн Остин
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780141439662&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ So Long, and Thanks for All the Fish (Hitchhiker's Guide to the Galaxy, #4)
+:PROPERTIES:
+:AUTHOR:   Douglas Adams
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780330491235&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Emma
+:PROPERTIES:
+:AUTHOR:   Jane Austen, Fiona Stafford
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780141439587&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Murder of Roger Ackroyd (Hercule Poirot, #4)
+:PROPERTIES:
+:AUTHOR:   Agatha Christie
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781579126278&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Wicked: The Life and Times of the Wicked Witch of the West (The Wicked Years, #1)
+:PROPERTIES:
+:AUTHOR:   Gregory Maguire, Douglas Smith
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780060987107&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Wealthy Barber: The Common Sense Guide to Successful Financial Planning
+:PROPERTIES:
+:AUTHOR:   David Chilton
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780968394731&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ The Forge of God (Forge of God, #1)
+:PROPERTIES:
+:AUTHOR:   Greg Bear
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780765301079&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ The Wealthy Barber Returns : Dramatically Older and Marginally Wiser, David Chilton Offers His Unique Perspectives on the World of Money by David Barr Chilton (2011-01-01)
+:PROPERTIES:
+:AUTHOR:   David Chilton
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780968394748&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Pride and Prejudice and Zombies (Pride and Prejudice and Zombies, #1)
+:PROPERTIES:
+:AUTHOR:   Seth Grahame-Smith, Jane Austen
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781594743344&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ The Diamond Age: Or, a Young Lady's Illustrated Primer
+:PROPERTIES:
+:AUTHOR:   Neal Stephenson
+:ADDED:    [2012-10-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780553380965&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character
+:PROPERTIES:
+:AUTHOR:   Richard P. Feynman, Albert R. Hibbs, Ralph Leighton, Edward Hutchings
+:ADDED:    [2012-10-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780393316049&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ What Do You Care What Other People Think? Further Adventures of a Curious Character
+:PROPERTIES:
+:AUTHOR:   Richard P. Feynman, Ralph Leighton
+:ADDED:    [2012-10-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780393320923&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Sophie’s World
+:PROPERTIES:
+:AUTHOR:   Jostein Gaarder, Paulette Møller
+:ADDED:    [2012-10-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781857993288&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Getting Things Done: The Art of Stress-Free Productivity
+:PROPERTIES:
+:AUTHOR:   David    Allen
+:ADDED:    [2012-10-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780142000281&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Smoke and Mirrors: Short Fiction and Illusions
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman
+:ADDED:    [2012-10-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780380789023&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ V for Vendetta
+:PROPERTIES:
+:AUTHOR:   Alan             Moore, David   Lloyd, Steve Whitaker, Siobhan Dodds
+:ADDED:    [2012-10-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401207922&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Superman: Red Son
+:PROPERTIES:
+:AUTHOR:   Mark Millar, Dave Johnson, Kilian Plunkett
+:ADDED:    [2012-10-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401201913&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD The Politics
+:PROPERTIES:
+:AUTHOR:   Aristotle, T.A. Sinclair, Trevor J. Saunders
+:ADDED:    [2012-10-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140444216&jscmd=data&format=json
+:END:
+
+** READ The Ocean at the End of the Lane
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman
+:ADDED:    [2013-07-29]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780062255655&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Fables: Werewolves of the Heartland
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Jim Fern
+:ADDED:    [2013-02-10]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401224790&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ A Flight of Angels
+:PROPERTIES:
+:AUTHOR:   Rebecca Guay, Holly Black, Louise Hawes, Todd Mitchell, Alisa Kwitney, Bill Willingham
+:ADDED:    [2013-02-10]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401232009&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Superman: Birthright
+:PROPERTIES:
+:AUTHOR:   Mark Waid, Alfred Gough, Miles Millar, Dave McCaig, Gerry Alanguilan, Leinil Francis Yu
+:ADDED:    [2013-06-30]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401202521&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Lord of the Flies
+:PROPERTIES:
+:AUTHOR:   William Golding
+:ADDED:    [2014-06-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140283334&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ A Wind in the Door (Time Quintet, #2)
+:PROPERTIES:
+:AUTHOR:   Madeleine L'Engle
+:ADDED:    [2014-06-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780440487616&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Mythical Man-Month: Essays on Software Engineering
+:PROPERTIES:
+:AUTHOR:   Frederick P. Brooks Jr.
+:ADDED:    [2014-06-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780201835953&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Dracula
+:PROPERTIES:
+:AUTHOR:   Bram Stoker, Rubén Toledo, Nina Auerbach, David J. Skal
+:ADDED:    [2014-06-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780393970128&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Contact
+:PROPERTIES:
+:AUTHOR:   Carl Sagan
+:ADDED:    [2014-06-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9782266079990&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ A Virtual Soul
+:PROPERTIES:
+:AUTHOR:   Kevin Teixeira
+:ADDED:    [2014-06-29]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345426758&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Locus Awards, The: Thirty Years of the Best in Science Fiction and Fantasy
+:PROPERTIES:
+:AUTHOR:   Charles N. Brown
+:ADDED:    [2014-06-29]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780060594268&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Songs of Earth and Power
+:PROPERTIES:
+:AUTHOR:   Greg Bear
+:ADDED:    [2014-07-02]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780812536034&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The New Hacker's Dictionary
+:PROPERTIES:
+:AUTHOR:   Eric S. Raymond
+:ADDED:    [2014-07-07]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780262680929&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Phantom of the Opera
+:PROPERTIES:
+:AUTHOR:   Gaston Leroux
+:ADDED:    [2014-07-08]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780060809249&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Screwtape Letters
+:PROPERTIES:
+:AUTHOR:   C.S. Lewis
+:ADDED:    [2014-07-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780060652890&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Hamlet
+:PROPERTIES:
+:AUTHOR:   William Shakespeare, Harold Bloom, Rex Gibson, Israel Gollancz, Henry Norman Hudson, L.A. Sherman, Max J. Herzberg
+:ADDED:    [2014-07-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780521618748&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Astonishing X-Men, Vol. 1: Gifted
+:PROPERTIES:
+:AUTHOR:   Joss Whedon, John Cassaday
+:ADDED:    [2014-07-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780785115311&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Astonishing X-Men, Vol. 2: Dangerous
+:PROPERTIES:
+:AUTHOR:   Joss Whedon, John Cassaday
+:ADDED:    [2014-07-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780785116776&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Astonishing X-Men, Vol. 3: Torn
+:PROPERTIES:
+:AUTHOR:   Joss Whedon, John Cassaday
+:ADDED:    [2014-07-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780785117599&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Astonishing X-Men, Vol. 4: Unstoppable
+:PROPERTIES:
+:AUTHOR:   Joss Whedon, John Cassaday
+:ADDED:    [2014-07-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780785122548&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ The Prisoner: Shattered Visage
+:PROPERTIES:
+:AUTHOR:   Dean Motter, Mark Askwith
+:ADDED:    [2014-07-27]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780930289539&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Peter Pan in Kensington Gardens
+:PROPERTIES:
+:AUTHOR:   J.M. Barrie, Arthur Rackham
+:ADDED:    [2014-08-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780486466071&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ A Christmas Carol
+:PROPERTIES:
+:AUTHOR:   Charles Dickens, Joe L. Wheeler
+:ADDED:    [2014-08-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781561797462&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Anthem
+:PROPERTIES:
+:AUTHOR:   Ayn Rand, Leonard Peikoff
+:ADDED:    [2014-08-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780452281257&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Tangents
+:PROPERTIES:
+:AUTHOR:   Greg Bear
+:ADDED:    [2014-08-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781857989793&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Vitals
+:PROPERTIES:
+:AUTHOR:   Greg Bear
+:ADDED:    [2014-08-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345423344&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Brainchildren: Essays on Designing Minds
+:PROPERTIES:
+:AUTHOR:   Daniel C. Dennett
+:ADDED:    [2014-08-04]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140265637&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Planet of the Apes
+:PROPERTIES:
+:AUTHOR:   Pierre Boulle, Xan Fielding
+:ADDED:    [2014-08-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345447982&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Blood Music
+:PROPERTIES:
+:AUTHOR:   Greg Bear
+:ADDED:    [2014-08-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781596871069&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Peter Pan
+:PROPERTIES:
+:AUTHOR:   J.M. Barrie, Michael Hague
+:ADDED:    [2014-08-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780805072457&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Candide
+:PROPERTIES:
+:AUTHOR:   Voltaire, Rockwell Kent, Walter Jerrold, Don Hagen, Sara Gioacchino Corcos
+:ADDED:    [2014-08-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780486266893&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Thrice Upon A Time
+:PROPERTIES:
+:AUTHOR:   James P. Hogan
+:ADDED:    [2014-08-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780671319489&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Chocky
+:PROPERTIES:
+:AUTHOR:   John Wyndham
+:ADDED:    [2014-07-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140031218&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Nightfall
+:PROPERTIES:
+:AUTHOR:   Isaac Asimov, Robert Silverberg
+:ADDED:    [2014-07-26]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780553290998&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Adventures of Huckleberry Finn
+:PROPERTIES:
+:AUTHOR:   Mark Twain, Guy Cardwell, E.W. Kemble, John Seelye, Walter Trier, Tom Wilson, William Little Hughes
+:ADDED:    [2014-07-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780142437179&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Merchant of Venice
+:PROPERTIES:
+:AUTHOR:   William Shakespeare, Barbara A. Mowat, Paul Werstine, David Scott Kastan, Felix Emmanuel Schelling, محمد عناني, David Bevington, Robert          Jackson
+:ADDED:    [2014-07-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780743477567&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Romeo and Juliet
+:PROPERTIES:
+:AUTHOR:   William Shakespeare
+:ADDED:    [2014-07-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780743477116&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Wonderful Wizard of Oz (Oz, #1)
+:PROPERTIES:
+:AUTHOR:   L. Frank Baum, W.W. Denslow
+:ADDED:    [2012-12-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140621679&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The League of Extraordinary Gentlemen, Vol. 1
+:PROPERTIES:
+:AUTHOR:   Alan             Moore
+:ADDED:    [2014-07-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563898587&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ And Then There Were None
+:PROPERTIES:
+:AUTHOR:   Agatha Christie
+:ADDED:    [2014-06-22]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780312330873&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Stupid White Men
+:PROPERTIES:
+:AUTHOR:   Michael Moore
+:ADDED:    [2014-06-18]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780141019994&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ The Omnivore's Dilemma: A Natural History of Four Meals
+:PROPERTIES:
+:AUTHOR:   Michael Pollan
+:ADDED:    [2014-07-09]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781594200823&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD The Art of UNIX Programming
+:PROPERTIES:
+:AUTHOR:   Eric S. Raymond
+:ADDED:    [2014-07-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780131429017&jscmd=data&format=json
+:END:
+
+** TOREAD The Hero With a Thousand Faces
+:PROPERTIES:
+:AUTHOR:   Joseph Campbell
+:ADDED:    [2014-07-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780691017846&jscmd=data&format=json
+:END:
+
+** TOREAD Steps towards Life: A Perspective on Evolution
+:PROPERTIES:
+:AUTHOR:   Manfred Eigen, Ruthild Winkler-Oswatitsch, Paul Woolley
+:ADDED:    [2014-07-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780198547525&jscmd=data&format=json
+:END:
+
+** TOREAD Right Ho, Jeeves (Jeeves, #6)
+:PROPERTIES:
+:AUTHOR:   P.G. Wodehouse
+:ADDED:    [2014-07-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780393339789&jscmd=data&format=json
+:END:
+
+** TOREAD Carry On, Jeeves (Jeeves, #3)
+:PROPERTIES:
+:AUTHOR:   P.G. Wodehouse
+:ADDED:    [2014-07-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781585673926&jscmd=data&format=json
+:END:
+
+** TOREAD The Inimitable Jeeves (Jeeves, #2)
+:PROPERTIES:
+:AUTHOR:   P.G. Wodehouse
+:ADDED:    [2014-07-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780393339802&jscmd=data&format=json
+:END:
+
+** TOREAD Gateway (Heechee Saga, #1)
+:PROPERTIES:
+:AUTHOR:   Frederik Pohl
+:ADDED:    [2014-07-04]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345475831&jscmd=data&format=json
+:END:
+
+** TOREAD The Mote in God's Eye (Moties, #1)
+:PROPERTIES:
+:AUTHOR:   Larry Niven, Jerry Pournelle
+:ADDED:    [2014-07-04]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781568650548&jscmd=data&format=json
+:END:
+
+** READ Coraline
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman, Dave McKean
+:ADDED:    [2014-06-16]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780061139376&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** TOREAD The Hydrogen Sonata (Culture, #10)
+:PROPERTIES:
+:AUTHOR:   Iain M. Banks
+:ADDED:    [2014-07-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780356501505&jscmd=data&format=json
+:END:
+
+** TOREAD Surface Detail (Culture, #9)
+:PROPERTIES:
+:AUTHOR:   Iain M. Banks
+:ADDED:    [2014-07-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780316123402&jscmd=data&format=json
+:END:
+
+** TOREAD Matter (Culture, #8)
+:PROPERTIES:
+:AUTHOR:   Iain M. Banks
+:ADDED:    [2014-07-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781841494180&jscmd=data&format=json
+:END:
+
+** TOREAD Look to Windward (Culture, #7)
+:PROPERTIES:
+:AUTHOR:   Iain M. Banks
+:ADDED:    [2014-07-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780743421928&jscmd=data&format=json
+:END:
+
+** TOREAD Inversions (Culture, #6)
+:PROPERTIES:
+:AUTHOR:   Iain M. Banks
+:ADDED:    [2014-07-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780743411967&jscmd=data&format=json
+:END:
+
+** TOREAD Excession (Culture, #5)
+:PROPERTIES:
+:AUTHOR:   Iain M. Banks
+:ADDED:    [2014-07-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780553575378&jscmd=data&format=json
+:END:
+
+** TOREAD The State of the Art (Culture, #4)
+:PROPERTIES:
+:AUTHOR:   Iain M. Banks
+:ADDED:    [2014-07-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781597800747&jscmd=data&format=json
+:END:
+
+** TOREAD Use of Weapons (Culture, #3)
+:PROPERTIES:
+:AUTHOR:   Iain M. Banks
+:ADDED:    [2014-07-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781857231359&jscmd=data&format=json
+:END:
+
+** TOREAD The Player of Games (Culture, #2)
+:PROPERTIES:
+:AUTHOR:   Iain M. Banks
+:ADDED:    [2014-07-01]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780061053566&jscmd=data&format=json
+:END:
+
+** READ Fortunately, the Milk
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman, Skottie Young
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780062224071&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Invisible Man
+:PROPERTIES:
+:AUTHOR:   H.G. Wells, Daniel Philpott, Дмитро Паламарчук, Микола Іванов, Герберт Велз
+:ADDED:    [2014-06-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780451528520&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Green Futures of Tycho
+:PROPERTIES:
+:AUTHOR:   William Sleator
+:ADDED:    [2014-06-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780765352385&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Singularity
+:PROPERTIES:
+:AUTHOR:   William Sleator
+:ADDED:    [2014-06-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780844669038&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Fingers
+:PROPERTIES:
+:AUTHOR:   William Sleator
+:ADDED:    [2014-06-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780765353498&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Children of the Mind (Ender's Saga, #4)
+:PROPERTIES:
+:AUTHOR:   Orson Scott Card
+:ADDED:    [2014-06-27]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780765304742&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Xenocide (Ender's Saga, #3)
+:PROPERTIES:
+:AUTHOR:   Orson Scott Card
+:ADDED:    [2014-06-27]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780312861872&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Speaker for the Dead (Ender's Saga, #2)
+:PROPERTIES:
+:AUTHOR:   Orson Scott Card
+:ADDED:    [2014-06-27]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780812550757&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Ender’s Game (Ender's Saga, #1)
+:PROPERTIES:
+:AUTHOR:   Orson Scott Card
+:ADDED:    [2014-06-27]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780812550702&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Mars (The Grand Tour, #4)
+:PROPERTIES:
+:AUTHOR:   Ben Bova, Bruno Bodin
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9782265071223&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Flatland: A Romance of Many Dimensions
+:PROPERTIES:
+:AUTHOR:   Edwin A. Abbott
+:ADDED:    [2014-06-18]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780486272634&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Two Towers (The Lord of the Rings, #2)
+:PROPERTIES:
+:AUTHOR:   J.R.R. Tolkien, Peter S. Beagle
+:ADDED:    [2014-06-27]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780618346264&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Fellowship of the Ring (The Lord of the Rings, #1)
+:PROPERTIES:
+:AUTHOR:   J.R.R. Tolkien, Francis Ledoux, Maria Skibniewska
+:ADDED:    [2014-06-27]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780618346257&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Fairest, Volume 3: The Return of the Maharaja
+:PROPERTIES:
+:AUTHOR:   Sean E. Williams, Stephen Sadowski, Phil Jimenez, Andrew Pepoy, Dan           Green, Russ Braun, Meghan Hetrick, Christian Alamy, José Marzán Jr., Andrew Dalhouse, Todd Klein, Adam Hughes
+:ADDED:    [2014-06-23]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401245931&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ For Love of Evil (Incarnations of Immortality, #6)
+:PROPERTIES:
+:AUTHOR:   Piers Anthony
+:ADDED:    [2014-06-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780380752850&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Being a Green Mother (Incarnations of Immortality, #5)
+:PROPERTIES:
+:AUTHOR:   Piers Anthony
+:ADDED:    [2014-06-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345322234&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Wielding a Red Sword (Incarnations of Immortality, #4)
+:PROPERTIES:
+:AUTHOR:   Piers Anthony
+:ADDED:    [2014-06-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345322210&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Bearing an Hourglass (Incarnations of Immortality, #2)
+:PROPERTIES:
+:AUTHOR:   Piers Anthony
+:ADDED:    [2014-06-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345313157&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ And Eternity (Incarnations of Immortality, #7)
+:PROPERTIES:
+:AUTHOR:   Piers Anthony
+:ADDED:    [2014-06-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780380752867&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ With a Tangled Skein (Incarnations of Immortality, #3)
+:PROPERTIES:
+:AUTHOR:   Piers Anthony
+:ADDED:    [2014-06-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345318855&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ On a Pale Horse (Incarnations of Immortality #1)
+:PROPERTIES:
+:AUTHOR:   Piers Anthony
+:ADDED:    [2014-06-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345338587&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD The Conquest of Gaul
+:PROPERTIES:
+:AUTHOR:   Gaius Julius Caesar, S.A. Handford, Jane F. Gardner, James Bradstreet Greenough, Benjamin Leonard d'Ooge, Aulus Hirtius, Moses Grant Daniell
+:ADDED:    [2014-06-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140444339&jscmd=data&format=json
+:END:
+
+** READ Fairest, Volume 2: The Hidden Kingdom
+:PROPERTIES:
+:AUTHOR:   Lauren Beukes, Bill Willingham, Inaki Miranda, Barry Kitson, Eva de la Cruz, Andrew Dalhouse, Todd Klein, Adam Hughes
+:ADDED:    [2014-06-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401240219&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD The Poetics
+:PROPERTIES:
+:AUTHOR:   Aristotle, Theodore Alois Buckley
+:ADDED:    [2014-06-18]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780879757762&jscmd=data&format=json
+:END:
+
+** TOREAD A Fire Upon the Deep (Zones of Thought, #1)
+:PROPERTIES:
+:AUTHOR:   Vernor Vinge
+:ADDED:    [2014-06-18]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780812515282&jscmd=data&format=json
+:END:
+
+** TOREAD The Mind’s I: Fantasies and Reflections on Self and Soul
+:PROPERTIES:
+:AUTHOR:   Douglas R. Hofstadter, Daniel C. Dennett
+:ADDED:    [2014-06-18]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780553345841&jscmd=data&format=json
+:END:
+
+** READ The Dead Cat Bounce (Home Repair is Homicide, #1)
+:PROPERTIES:
+:AUTHOR:   Sarah Graves
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780553578577&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD Rendezvous with Rama (Rama, #1)
+:PROPERTIES:
+:AUTHOR:   Arthur C. Clarke
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781857231588&jscmd=data&format=json
+:END:
+
+** READ Of Mice and Men
+:PROPERTIES:
+:AUTHOR:   John Steinbeck
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780142000670&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Winter's Heart (The Wheel of Time, #9)
+:PROPERTIES:
+:AUTHOR:   Robert Jordan
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780812575583&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ The Path of Daggers (The Wheel of Time, #8)
+:PROPERTIES:
+:AUTHOR:   Robert Jordan
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780812550290&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ A Crown of Swords (The Wheel of Time, #7)
+:PROPERTIES:
+:AUTHOR:   Robert Jordan
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780812550283&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Lord of Chaos (The Wheel of Time, #6)
+:PROPERTIES:
+:AUTHOR:   Robert Jordan
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780765334657&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Fires of Heaven (The Wheel of Time, #5)
+:PROPERTIES:
+:AUTHOR:   Robert Jordan
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781857232097&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Shadow Rising (The Wheel of Time, #4)
+:PROPERTIES:
+:AUTHOR:   Robert Jordan
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780812513738&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Dragon Reborn (The Wheel of Time, #3)
+:PROPERTIES:
+:AUTHOR:   Robert Jordan
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780765305114&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Great Hunt (The Wheel of Time, #2)
+:PROPERTIES:
+:AUTHOR:   Robert Jordan
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780812517729&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Eye of the World (The Wheel of Time, #1)
+:PROPERTIES:
+:AUTHOR:   Robert Jordan
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780812511819&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Jack of Fables, Vol. 9: The End
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Matthew Sturges, Tony Akins, Andrew Pepoy
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401231552&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Jack of Fables, Vol. 8: The Fulminate Blade
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Matthew Sturges, Tony Akins
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401229825&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Jack of Fables, Vol. 7: The New Adventures of Jack and Jack
+:PROPERTIES:
+:AUTHOR:   Chris Roberson, Bill Willingham, Brian Bolland
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401227128&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Jack of Fables, Vol. 6: The Big Book of War
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Matthew Sturges, Tony Akins
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401225001&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Jack of Fables, Vol. 5: Turning Pages
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Matthew Sturges, Tony Akins
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401221386&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Jack of Fables, Vol. 4: Americana
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Matthew Sturges
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401219796&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Jack of Fables, Vol. 3: The Bad Prince
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Matthew Sturges
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401218546&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Jack of Fables, Vol. 2: Jack of Hearts
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Matthew Sturges, Tony Akins, Steve Leialoha
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401214555&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Jack of Fables, Vol. 1: The (Nearly) Great Escape
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Matthew Sturges, Tony Akins, Andrew Pepoy
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401212223&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** TOREAD Lucifer, Vol. 11: Evensong
+:PROPERTIES:
+:AUTHOR:   Mike Carey, Peter Gross, Ryan Kelly, Jon J. Muth, Zander Cannon, Dean Ormston, Aaron Alexovich
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401212001&jscmd=data&format=json
+:END:
+
+** TOREAD Lucifer, Vol. 10: Morningstar
+:PROPERTIES:
+:AUTHOR:   Mike Carey, Colleen Doran
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401210069&jscmd=data&format=json
+:END:
+
+** TOREAD Lucifer, Vol. 9: Crux
+:PROPERTIES:
+:AUTHOR:   Mike Carey
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401210052&jscmd=data&format=json
+:END:
+
+** TOREAD Lucifer, Vol. 8: The Wolf Beneath the Tree
+:PROPERTIES:
+:AUTHOR:   Mike Carey
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401205027&jscmd=data&format=json
+:END:
+
+** TOREAD Lucifer, Vol. 7: Exodus
+:PROPERTIES:
+:AUTHOR:   Mike Carey, Peter Gross, Ryan Kelly
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401204914&jscmd=data&format=json
+:END:
+
+** TOREAD Lucifer, Vol. 6: Mansions of the Silence
+:PROPERTIES:
+:AUTHOR:   Mike Carey, Peter Gross, Ryan Kelley, Dean Ormston, David Hahn
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401202491&jscmd=data&format=json
+:END:
+
+** TOREAD Lucifer, Vol. 5: Inferno
+:PROPERTIES:
+:AUTHOR:   Mike Carey, Peter Gross, Ryan Kelly, Dean Ormston, Craig Hamilton
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401202101&jscmd=data&format=json
+:END:
+
+** TOREAD Lucifer, Vol. 4: The Divine Comedy
+:PROPERTIES:
+:AUTHOR:   Mike Carey
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401200091&jscmd=data&format=json
+:END:
+
+** READ Lucifer, Vol. 3: A Dalliance With the Damned
+:PROPERTIES:
+:AUTHOR:   Mike Carey, Peter Gross, Ryan Kelly, Dean Ormston
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563898921&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Lucifer, Vol. 2: Children and Monsters
+:PROPERTIES:
+:AUTHOR:   Mike Carey, Peter Gross, Ryan Kelly, Dean Ormston
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563898006&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Lucifer, Vol. 1: Devil in the Gateway
+:PROPERTIES:
+:AUTHOR:   Mike Carey, Scott Hampton, Chris Weston, James Hodgkins, Warren Pleece, Dean Ormston, Neil Gaiman
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563897337&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Fables: 1001 Nights of Snowfall
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Todd Klein
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401203672&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD I, Lucifer
+:PROPERTIES:
+:AUTHOR:   Glen Duncan
+:ADDED:    [2014-06-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780802140142&jscmd=data&format=json
+:END:
+
+** TOREAD The System of the World (The Baroque Cycle, #3)
+:PROPERTIES:
+:AUTHOR:   Neal Stephenson
+:ADDED:    [2014-06-16]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780060750862&jscmd=data&format=json
+:END:
+
+** TOREAD The Confusion (The Baroque Cycle, #2)
+:PROPERTIES:
+:AUTHOR:   Neal Stephenson
+:ADDED:    [2014-06-16]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780060733353&jscmd=data&format=json
+:END:
+
+** TOREAD Anathem
+:PROPERTIES:
+:AUTHOR:   Neal Stephenson
+:ADDED:    [2014-06-16]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780061474095&jscmd=data&format=json
+:END:
+
+** TOREAD Reamde
+:PROPERTIES:
+:AUTHOR:   Neal Stephenson
+:ADDED:    [2014-06-16]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780061977961&jscmd=data&format=json
+:END:
+
+** TOREAD The Brothers Karamazov
+:PROPERTIES:
+:AUTHOR:   Fyodor Dostoevsky, Richard Pevear, Larissa Volokhonsky
+:ADDED:    [2014-06-16]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780374528379&jscmd=data&format=json
+:END:
+
+** READ Fairest, Volume 1: Wide Awake
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Matthew Sturges, Phil Jimenez, Andy Lanning, Shawn McManus
+:ADDED:    [2013-02-10]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401235505&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** TOREAD Permutation City
+:PROPERTIES:
+:AUTHOR:   Greg Egan
+:ADDED:    [2014-06-05]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780061054815&jscmd=data&format=json
+:END:
+
+** READ The Cider House Rules
+:PROPERTIES:
+:AUTHOR:   John Irving
+:ADDED:    [2013-07-29]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780786226740&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ A Prayer for Owen Meany
+:PROPERTIES:
+:AUTHOR:   John Irving
+:ADDED:    [2013-07-29]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780552135399&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Fahrenheit 451
+:PROPERTIES:
+:AUTHOR:   Ray Bradbury
+:ADDED:    [2013-07-29]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780307347978&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ The Great Gatsby
+:PROPERTIES:
+:AUTHOR:   F. Scott Fitzgerald
+:ADDED:    [2013-07-29]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780743273565&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Fables, Vol. 18: Cubs in Toyland
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Mark Buckingham, Gene Ha
+:ADDED:    [2013-02-10]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401237691&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Marvelous Land of Oz (Oz, #2)
+:PROPERTIES:
+:AUTHOR:   L. Frank Baum, David McKee
+:ADDED:    [2013-01-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140350418&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Fables, Vol. 17: Inherit the Wind
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Mark Buckingham, Steve Leialoha, Andrew Pepoy, P. Craig Russell, Adam Hughes, Rick Leonardi, Ron Randall, Zander Cannon, Jim Fern, Ramón F. Bachs, Lee Loughridge, Todd Klein
+:ADDED:    [2013-01-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401235161&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Fables, Vol. 16: Super Team
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Mark Buckingham, Terry Moore, Eric Shanower
+:ADDED:    [2013-01-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401233068&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Fables, Vol. 15: Rose Red
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Mark Buckingham
+:ADDED:    [2013-01-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401230005&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Fables, Vol. 14: Witches
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Mark Buckingham
+:ADDED:    [2013-01-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401228804&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Fables, Vol. 12: The Dark Ages
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Mike Allred, Mark Buckingham
+:ADDED:    [2013-01-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401223168&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Fables, Vol. 11: War and Pieces
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Mark Buckingham, Steve Leialoha, Niko Henrichon, Andrew Pepoy
+:ADDED:    [2013-01-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401219130&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Fables, Vol. 10: The Good Prince
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Mark Buckingham
+:ADDED:    [2013-01-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401216863&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Fables, Vol. 13: The Great Fables Crossover
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Matthew Sturges, Russ Braun, José Marzán Jr., Mark Buckingham, Andrew Pepoy
+:ADDED:    [2013-01-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401225728&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Fables, Vol. 9: Sons of Empire
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, James Jean, Mike Allred, Joëlle Jones
+:ADDED:    [2013-01-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401213169&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Fables, Vol. 8: Wolves
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Mark Buckingham, Shawn McManus
+:ADDED:    [2013-01-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401210014&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Fables, Vol. 7: Arabian Nights (and Days)
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Mark Buckingham, Steve Leialoha, Jim Fern, Jimmy Palmiotti, Andrew Pepoy
+:ADDED:    [2013-01-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401210007&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Fables, Vol. 6: Homelands
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, David Hahn, Mark Buckingham, Lan Medina, Steve Leialoha
+:ADDED:    [2013-01-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401205003&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Fables, Vol. 5: The Mean Seasons
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Mark Buckingham
+:ADDED:    [2013-01-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401204860&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Fables, Vol. 4: March of the Wooden Soldiers
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Mark Buckingham, Craig Hamilton, Steve Leialoha, P. Craig Russell
+:ADDED:    [2013-01-03]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401202224&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Y: The Last Man, Vol. 8: Kimono Dragons
+:PROPERTIES:
+:AUTHOR:   Brian K. Vaughan, Pia Guerra, José Marzán Jr.
+:ADDED:    [2012-10-23]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401210106&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Y: The Last Man, Vol. 10: Whys and Wherefores
+:PROPERTIES:
+:AUTHOR:   Brian K. Vaughan, Pia Guerra, Claudia Fliege, José Marzán Jr.
+:ADDED:    [2012-10-23]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401218133&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Y: The Last Man, Vol. 6: Girl on Girl
+:PROPERTIES:
+:AUTHOR:   Brian K. Vaughan, Pia Guerra
+:ADDED:    [2012-10-23]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401205010&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Y: The Last Man, Vol. 7: Paper Dolls
+:PROPERTIES:
+:AUTHOR:   Brian K. Vaughan, Pia Guerra, José Marzán Jr.
+:ADDED:    [2012-10-23]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401210090&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Y: The Last Man, Vol. 3: One Small Step
+:PROPERTIES:
+:AUTHOR:   Brian K. Vaughan, Pia Guerra, José Marzán Jr.
+:ADDED:    [2012-10-23]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401202019&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Y: The Last Man, Vol. 5: Ring of Truth
+:PROPERTIES:
+:AUTHOR:   Brian K. Vaughan, Pia Guerra, José Marzán Jr.
+:ADDED:    [2012-10-23]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401204877&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Y: The Last Man, Vol. 9: Motherland
+:PROPERTIES:
+:AUTHOR:   Brian K. Vaughan, Pia Guerra
+:ADDED:    [2012-10-23]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401213510&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Y: The Last Man, Vol. 4: Safeword
+:PROPERTIES:
+:AUTHOR:   Brian K. Vaughan, Pia Guerra, Goran Parlov, José Marzán Jr.
+:ADDED:    [2012-10-23]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401202323&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Y: The Last Man, Vol. 2: Cycles
+:PROPERTIES:
+:AUTHOR:   Brian K. Vaughan, Pia Guerra, José Marzán Jr.
+:ADDED:    [2012-10-23]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401200763&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Y: The Last Man, Vol. 1: Unmanned
+:PROPERTIES:
+:AUTHOR:   Brian K. Vaughan, Pia Guerra
+:ADDED:    [2012-10-23]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563899805&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Fables, Vol. 1: Legends in Exile
+:PROPERTIES:
+:AUTHOR:   Bill Willingham, Lan Medina, Steve Leialoha, Terry Moore, Mike Allred, Mark Buckingham, Matthew Sturges, Russ Braun, Craig Hamilton, James Jean, Tony Akins, Eric Shanower, Shawn McManus, Jae Lee, Chrissie Zullo, David Petersen
+:ADDED:    [2012-10-18]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563899423&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** TOREAD Ideological Perspectives on Canada (McGraw-Hill Series in Fundamentals of Physics: An Undergradu)
+:PROPERTIES:
+:AUTHOR:   M. Patricia Marchak
+:ADDED:    [2012-10-17]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780070821972&jscmd=data&format=json
+:END:
+
+** READ Batman: Year One
+:PROPERTIES:
+:AUTHOR:   Frank Miller, David Mazzucchelli, Richmond Lewis, Dennis O'Neil, Todd Klein
+:ADDED:    [2012-10-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401207526&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Batman: The Dark Knight Returns
+:PROPERTIES:
+:AUTHOR:   Frank Miller, Klaus Janson, Lynn Varley
+:ADDED:    [2012-10-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781563893414&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD Shadows of the Mind: A Search for the Missing Science of Consciousness
+:PROPERTIES:
+:AUTHOR:   Roger Penrose
+:ADDED:    [2012-10-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780195106466&jscmd=data&format=json
+:END:
+
+** TOREAD Structure and Interpretation of Computer Programs
+:PROPERTIES:
+:AUTHOR:   Harold Abelson, Gerald Jay Sussman, Julie Sussman
+:ADDED:    [2012-10-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780262510875&jscmd=data&format=json
+:END:
+
+** TOREAD Paradise Lost
+:PROPERTIES:
+:AUTHOR:   John Milton
+:ADDED:    [2012-10-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140424393&jscmd=data&format=json
+:END:
+
+** TOREAD The Concept of Mind
+:PROPERTIES:
+:AUTHOR:   Gilbert Ryle, Daniel C. Dennett
+:ADDED:    [2012-10-15]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780226732961&jscmd=data&format=json
+:END:
+
+** READ Gods Behaving Badly
+:PROPERTIES:
+:AUTHOR:   Marie Phillips
+:ADDED:    [2012-10-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780316067621&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ The White Tiger
+:PROPERTIES:
+:AUTHOR:   Aravind Adiga
+:ADDED:    [2012-10-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781416562597&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Door Into Summer
+:PROPERTIES:
+:AUTHOR:   Robert A. Heinlein
+:ADDED:    [2012-10-14]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345413994&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ Moving Mars (Queen of Angels, #3)
+:PROPERTIES:
+:AUTHOR:   Greg Bear
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780765318237&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Eon (The Way, #1)
+:PROPERTIES:
+:AUTHOR:   Greg Bear
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780812520477&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** TOREAD The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe Without Design
+:PROPERTIES:
+:AUTHOR:   Richard Dawkins
+:ADDED:    [2012-10-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780141026169&jscmd=data&format=json
+:END:
+
+** READ Atomic Habits
+:PROPERTIES:
+:AUTHOR:   James Clear
+:ADDED:    [2025-04-06]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9798613461172&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** TOREAD Children of Ruin (Children of Time, #2)
+:PROPERTIES:
+:AUTHOR:   Adrian Tchaikovsky
+:ADDED:    [2025-04-06]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781509865857&jscmd=data&format=json
+:END:
+
+** TOREAD Mansfield Park
+:PROPERTIES:
+:AUTHOR:   Jane Austen
+:ADDED:    [2025-04-06]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:019280264X&jscmd=data&format=json
+:END:
+
+** READING The Philip K. Dick Reader
+:PROPERTIES:
+:AUTHOR:   Philip K. Dick
+:ADDED:    [2025-04-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780806537948&jscmd=data&format=json
+:END:
+
+** READ The Dark Forest (Remembrance of Earth'ss Past, #2)
+CLOSED: [2025-04-28 Mon 08:50]
+:PROPERTIES:
+:AUTHOR:   Liu Cixin, Joel Martinsen
+:ADDED:    [2025-04-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781784971618&jscmd=data&format=json
+:END:
+
+** TOREAD Memory's Legion
+:PROPERTIES:
+:AUTHOR:   James S.A. Corey
+:ADDED:    [2025-04-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780316669191&jscmd=data&format=json
+:END:
+
+** TOREAD The Great Divorce
+:PROPERTIES:
+:AUTHOR:   C.S. Lewis
+:ADDED:    [2025-04-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780060652951&jscmd=data&format=json
+:END:
+
+** READ The Three-Body Problem (Remembrance of Earth's Past, #2)
+:PROPERTIES:
+:AUTHOR:   Liu Cixi, Ken Liu
+:ADDED:    [2025-04-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780765382030&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** TOREAD Virtual light (Bridge Trilogy, #1)
+:PROPERTIES:
+:AUTHOR:   William Gibson
+:ADDED:    [2025-04-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:0553566067&jscmd=data&format=json
+:END:
+
+** TOREAD Count Zero (Sprawl, #2)
+:PROPERTIES:
+:AUTHOR:   William Gibson
+:ADDED:    [2025-04-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:0441117732&jscmd=data&format=json
+:END:
+
+** TOREAD The Exorcist (The Exorcist, #1)
+:PROPERTIES:
+:AUTHOR:   William Peter Blatty
+:ADDED:    [2025-04-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780553113402&jscmd=data&format=json
+:END:
+
+** READ Hooked (Wendy, Darling #2)
+:PROPERTIES:
+:AUTHOR:   A. C. Wise
+:ADDED:    [2025-04-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781789096835&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** TOREAD The Thrilling Adventures of Lovelace and Babbage
+:PROPERTIES:
+:AUTHOR:   Sydney Padua
+:ADDED:    [2025-04-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780307908278&jscmd=data&format=json
+:END:
+
+** READ The Stone Sky (The Broken Earth, #3)
+:PROPERTIES:
+:AUTHOR:   N. K. Jemisin
+:ADDED:    [2025-04-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780316229241&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Obelisk Gate (The Broken Earth, #2)
+:PROPERTIES:
+:AUTHOR:   N. K. Jemisin
+:ADDED:    [2025-04-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780316229265&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+hello
+
+** READ The Fifth Season (The Broken Earth #1)
+:PROPERTIES:
+:AUTHOR:   N. K. Jemisin
+:ADDED:    [2025-04-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780316229296&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking
+:PROPERTIES:
+:AUTHOR:   Sönke Ahrens
+:ADDED:    [2025-04-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781542866507&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Golden Compass (His Dark Materials #1)
+:PROPERTIES:
+:AUTHOR:   Philip Pullman
+:ADDED:    [2025-04-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780440418603&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ The Subtle Knife (His Dark Materials #2)
+:PROPERTIES:
+:AUTHOR:   Philip Pullman
+:ADDED:    [2025-04-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780440418610&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD City We Became (Great Cities, #1)
+:PROPERTIES:
+:AUTHOR:   N. K. Jemisin
+:ADDED:    [2025-04-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780356512686&jscmd=data&format=json
+:END:
+
+** TOREAD So You Want to Talk About Race
+:PROPERTIES:
+:AUTHOR:   Ijeoma Oluo
+:ADDED:    [2025-04-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781580056779&jscmd=data&format=json
+:END:
+
+** TOREAD Lady Susan / The Watsons / Sanditon
+:PROPERTIES:
+:AUTHOR:   Jane Austen
+:ADDED:    [2025-04-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:0140431020&jscmd=data&format=json
+:END:
+
+** TOREAD Saga, Volume 9
+:PROPERTIES:
+:AUTHOR:   Brian K. Vaughan, Fiona Staples
+:ADDED:    [2025-04-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781534308374&jscmd=data&format=json
+:END:
+
+** READ Cibola Burn (The Expanse #4)
+:PROPERTIES:
+:AUTHOR:   James S. A. Corey
+:ADDED:    [2025-04-11]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780316217620&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Exhalation
+:PROPERTIES:
+:AUTHOR:   Ted Chiang
+:ADDED:    [2025-04-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781101947883&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Abaddon's Gate (The Expanse, #3)
+:PROPERTIES:
+:AUTHOR:   James S. A. Corey
+:ADDED:    [2025-04-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780316129077&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ A Connecticut Yankee in King Arthur's court
+:PROPERTIES:
+:AUTHOR:   Mark Twain
+:ADDED:    [2025-04-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780393013788&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD 2001: A Space Odyssey (Space Odyssey, #1)
+:PROPERTIES:
+:AUTHOR:   Arthur C. Clarke
+:ADDED:    [2025-04-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:0451118642&jscmd=data&format=json
+:END:
+
+** TOREAD House of Leaves
+:PROPERTIES:
+:AUTHOR:   Mark Z. Danielewski
+:ADDED:    [2025-04-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780375420528&jscmd=data&format=json
+:END:
+
+** READ In Cold Blood
+:PROPERTIES:
+:AUTHOR:   Truman Capote
+:ADDED:    [2025-04-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:0816156646&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** TOREAD Carpet Diem
+:PROPERTIES:
+:AUTHOR:   Justin Lee Anderson
+:ADDED:    [2025-04-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781527224070&jscmd=data&format=json
+:END:
+
+** READ Breakfast of champion
+:PROPERTIES:
+:AUTHOR:   Kurt Vonnegut
+:ADDED:    [2025-04-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:0440131480&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Picture of Dorian Gray
+:PROPERTIES:
+:AUTHOR:   Oscar Wilde
+:ADDED:    [2025-04-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781784871710&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD The Conquest of Gaul
+:PROPERTIES:
+:AUTHOR:   Gaius Julius Caesar, S.A. Handford
+:ADDED:    [2025-04-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140444339&jscmd=data&format=json
+:END:
+
+** READ The Waste Lands
+:PROPERTIES:
+:AUTHOR:   Stephen King
+:ADDED:    [2025-04-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:0452267404&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ American Gods
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman
+:ADDED:    [2025-04-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780380973651&jscmd=data&format=json
+:RATING:   :star::star::star::star::star:
+:END:
+
+** READ Norse Mythology
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman
+:ADDED:    [2025-04-12]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781526619211&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ The Gunslinger
+:PROPERTIES:
+:AUTHOR:   Stephen King
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:0451210840&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Romantically Apocalyptic - Book 1
+:PROPERTIES:
+:AUTHOR:   Vitaly S. Alexius
+:ADDED:    [2025-04-19]
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD The Nicomachean ethics
+:PROPERTIES:
+:AUTHOR:   Aristotle
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140449495&jscmd=data&format=json
+:END:
+
+** TOREAD On the Good Life
+:PROPERTIES:
+:AUTHOR:   Cicero
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:0140442448&jscmd=data&format=json
+:END:
+
+** READ The Restaurant at the End of the Universe
+:PROPERTIES:
+:AUTHOR:   Douglas Adams
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780330262132&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Hitchhiker's Guide to the Galaxy
+:PROPERTIES:
+:AUTHOR:   Douglas Adams
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780671432416&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Good Omens
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman, Terry Pratchett
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780060853976&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** TOREAD Dubliners
+:PROPERTIES:
+:AUTHOR:   James Joyce
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781420953282&jscmd=data&format=json
+:END:
+
+** READ Waiting for Godot
+:PROPERTIES:
+:AUTHOR:   Samuel Beckett
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780571058082&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD New skies
+:PROPERTIES:
+:AUTHOR:   Patrick Nielsen Hayden
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:0765300168&jscmd=data&format=json
+:END:
+
+** TOREAD Tuesdays with Morrie
+:PROPERTIES:
+:AUTHOR:   Mitch Albom
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780767905923&jscmd=data&format=json
+:END:
+
+** TOREAD Mastering Emacs
+:PROPERTIES:
+:AUTHOR:   Mickey Petersen
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781320673914&jscmd=data&format=json
+:END:
+
+** READ Needful Things
+:PROPERTIES:
+:AUTHOR:   Stephen King
+:ADDED:    [2025-04-19]
+:RATING:   :star::star::star:
+:END:
+
+** READ The Stand
+:PROPERTIES:
+:AUTHOR:   Stephen King
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780451160959&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Eyes of the Dragon
+:PROPERTIES:
+:AUTHOR:   Stephen King
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780340899069&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ I Am the Cheese
+:PROPERTIES:
+:AUTHOR:   Robert Cormier
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:0440940605&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD Childhood's End
+:PROPERTIES:
+:AUTHOR:   Arthur C. Clarke
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781439557167&jscmd=data&format=json
+:END:
+
+** READ Wonderful Story of Henry Sugar and Six More
+:PROPERTIES:
+:AUTHOR:   Roald Dahl
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780553155419&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD Plutarch's Lives
+:PROPERTIES:
+:AUTHOR:   Plutarch
+:ADDED:    [2025-04-19]
+:END:
+
+** TOREAD The Annals of imperial Rome
+:PROPERTIES:
+:AUTHOR:   P. Cornelius Tacitus
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140440607&jscmd=data&format=json
+:END:
+
+** TOREAD The Three Muskateers
+:PROPERTIES:
+:AUTHOR:   Alexandre Dumas, William Robson
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781494423919&jscmd=data&format=json
+:END:
+
+** READ The Naked Sun (Robot #2)
+:PROPERTIES:
+:AUTHOR:   Isaac Asimov
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:0586010165&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+Alright, I think this is the first Asimov novel that I actually thoroughly
+enjoyed.  "The Caves of Steel" was okay, "The Stars, Like Dust" was okay,
+but "The Naked Sun" was downright good.
+
+The only wobble was the last 5 pages, when the murderer is finally revealed.
+That fell kinda flat, and was frankly unbelievable.
+
+But the depiction of two vastly different cultures, Earth and Solaria, was
+fascinating and detailed. And the seeds that were sown near the end for
+easing into the Galactic Empire series of novels was a nice touch.  Even
+then, Asimov had aspirations towards uniting his novels.
+
+All in all, this book makes me want to read the rest of the stuff in this
+timeline.  I even kinda want to re-read the Foundation novels now
+
+** TOREAD Slaughterhouse-Five
+:PROPERTIES:
+:AUTHOR:   Kurt Vonnegut
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780385333849&jscmd=data&format=json
+:END:
+
+** TOREAD Food, Inc.: A Participant Guide: How Industrial Food is Making Us Sicker, Fatter, and Poorer-And What You Can Do About It
+:PROPERTIES:
+:AUTHOR:   Karl Webber
+:ADDED:    [2025-04-19]
+:END:
+
+** TOREAD Jonathan Strange & Mr Norrell
+:PROPERTIES:
+:AUTHOR:   Susanna Clarke
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:1582346038&jscmd=data&format=json
+:END:
+
+** TOREAD Notes from the Underground
+:PROPERTIES:
+:AUTHOR:   Fyodor Dostoevsky, Constance Garnett
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:1095835548&jscmd=data&format=json
+:END:
+
+** READ The Fountainhead
+:PROPERTIES:
+:AUTHOR:   Ayn Rand
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:0451191153&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** TOREAD The Dark Tower (The Dark Tower, #7)
+:PROPERTIES:
+:AUTHOR:   Stephen King
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780743254564&jscmd=data&format=json
+:END:
+
+** TOREAD The Wind Through the Keyhole
+:PROPERTIES:
+:AUTHOR:   Stephen King
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781444731729&jscmd=data&format=json
+:END:
+
+** TOREAD Crime and Punishment
+:PROPERTIES:
+:AUTHOR:   Fyodor Dostoevsky, Constance Garnett
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781986348539&jscmd=data&format=json
+:END:
+
+** TOREAD Thus Spake Zarathustra
+:PROPERTIES:
+:AUTHOR:   Friedrich Nietzsche
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781071248454&jscmd=data&format=json
+:END:
+
+** TOREAD The Dispossessed
+:PROPERTIES:
+:AUTHOR:   Ursula K. Le Guin
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:006051275X&jscmd=data&format=json
+:END:
+
+** TOREAD The Stranger
+:PROPERTIES:
+:AUTHOR:   Albert Camus
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9798441401265&jscmd=data&format=json
+:END:
+
+** TOREAD The Picture of Dorian Gray
+:PROPERTIES:
+:AUTHOR:   Oscar Wilde
+:ADDED:    [2025-04-19]
+:END:
+
+** TOREAD Effective Java
+:PROPERTIES:
+:AUTHOR:   Joshua Bloch
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780321356680&jscmd=data&format=json
+:END:
+
+** READ Ivanhoe
+:PROPERTIES:
+:AUTHOR:   Sir Walter Scott
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:0140431438&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Cryptonomicon
+:PROPERTIES:
+:AUTHOR:   Neal Stephenson
+:ADDED:    [2025-04-19]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:0380973464&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Dirk Gently's Holistic Detective Agency (Dirk Gently, #1)
+:PROPERTIES:
+:AUTHOR:   Douglas Adams
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:1529034582&jscmd=data&format=json
+:ADDED:    [2025-04-21]
+:RATING:   :star::star::star:
+:END:
+
+** READ 1984
+:PROPERTIES:
+:AUTHOR:   George Orwell
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:0241430976&jscmd=data&format=json
+:ADDED:    [2025-04-21]
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Mostly Harmless (Hitchhiker's Guide to the Galaxy, #5)
+:PROPERTIES:
+:AUTHOR:   Douglas Adams
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:0434009261&jscmd=data&format=json
+:ADDED:    [2025-04-21]
+:RATING:   :star::star::star:
+:END:
+
+** READ Neuromancer (Sprawl, #1)
+:PROPERTIES:
+:AUTHOR:   William Gibson
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:0441007465&jscmd=data&format=json
+:ADDED:    [2025-04-21]
+:END:
+
+** READ A Clockwork Orange
+:PROPERTIES:
+:AUTHOR:   Anthony Burgess
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:3453130790&jscmd=data&format=json
+:ADDED:    [2025-04-21]
+:RATING:   :star::star::star:
+:END:
+
+** READ Fragile Things: Short Fictions and Wonders
+:PROPERTIES:
+:AUTHOR:   Neil Gaiman
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780060515225&jscmd=data&format=json
+:ADDED:    [2025-04-21]
+:RATING:   :star::star::star:
+:END:
+
+** READ Wuthering Heights
+:PROPERTIES:
+:AUTHOR:   Emily Brontë
+:ADDED:    [2025-04-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9798542843742&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Silence of the Lambs  (Hannibal Lecter, #2)
+:PROPERTIES:
+:AUTHOR:   Thomas Harris
+:ADDED:    [2025-04-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780312915445&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Frankenstein
+:PROPERTIES:
+:AUTHOR:   Mary Shelley
+:ADDED:    [2025-04-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:0451523369&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+** READ The Adventures of Sherlock Holmes and The Hound of the Baskervilles
+:PROPERTIES:
+:AUTHOR:   Arthur Conan Doyle
+:ADDED:    [2025-04-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781587265310&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Caves of Steel
+:PROPERTIES:
+:AUTHOR:   Isaac Asimov
+:ADDED:    [2025-04-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780345329004&jscmd=data&format=json
+:RATING:   :star::star:
+:END:
+
+I was going back and forth between a 2 star and a 3 star rating.  The book
+started with 2 stars.  Sometimes I thought it might go to 3. I finally
+settled on 2 stars.
+
+While I appreciate certain aspects of this story (the eponymous "caves of
+steel" themselves are fascinating) the plot and the characterization are
+just...blah.  Lije and Daneel are barely more real than cardboard cut outs.
+
+The book was at its best when describing what the far future might be like,
+even if it seems at the same time to be horribly dated.  But the rest was
+just tough to slog through.
+
+** READ The Cyberiad
+:PROPERTIES:
+:AUTHOR:   Stanisław Lem
+:ADDED:    [2025-04-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780156027595&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ King Lear
+:PROPERTIES:
+:AUTHOR:   William Shakespeare
+:ADDED:    [2025-04-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9798720402907&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** TOREAD Borges
+:PROPERTIES:
+:AUTHOR:   Jorge Luis Borges
+:ADDED:    [2025-04-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780140868487&jscmd=data&format=json
+:END:
+
+** TOREAD Do Androids Dream of Electric Sheep Omnibus
+:PROPERTIES:
+:AUTHOR:   Philip K. Dick
+:ADDED:    [2025-04-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781608867844&jscmd=data&format=json
+:END:
+
+** TOREAD Time Enough For Love
+:PROPERTIES:
+:AUTHOR:   Robert A. Heinlein
+:ADDED:    [2025-04-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780425079904&jscmd=data&format=json
+:END:
+
+** READ Prelude to Foundation
+:PROPERTIES:
+:AUTHOR:   Isaac Asimov
+:ADDED:    [2025-04-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:0385233132&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ The Two Towers
+:PROPERTIES:
+:AUTHOR:   J.R.R. Tolkien
+:ADDED:    [2025-04-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780007488339&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** TOREAD Quicksilver (The Baroque Cycle, #1)
+:PROPERTIES:
+:AUTHOR:   Neal Stephenson
+:ADDED:    [2025-04-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780380977420&jscmd=data&format=json
+:END:
+
+** TOREAD Stranger in a Strange Land
+:PROPERTIES:
+:AUTHOR:   Robert A. Heinlein
+:ADDED:    [2025-04-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780425017562&jscmd=data&format=json
+:END:
+
+** READ Fables Vol 3: Storybook Love
+:PROPERTIES:
+:AUTHOR:   Bill Willingham
+:ADDED:    [2025-04-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401202569&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** READ Fables Vol 2: Animal Farm
+:PROPERTIES:
+:AUTHOR:   Bill Willingham
+:ADDED:    [2025-04-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781401200770&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+** TOREAD The History of the Decline and Fall of the Romas Empire
+:PROPERTIES:
+:AUTHOR:   Edward Gibbon
+:ADDED:    [2025-04-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781346102832&jscmd=data&format=json
+:END:
+
+** TOREAD Idylls of the King
+:PROPERTIES:
+:AUTHOR:   Alfred Lord Tennyson
+:ADDED:    [2025-04-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:0140422536&jscmd=data&format=json
+:END:
+
+** READ The Hobbit
+:PROPERTIES:
+:AUTHOR:   J.R.R. Tolkien
+:ADDED:    [2025-04-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780395520215&jscmd=data&format=json
+:RATING:   :star::star::star:
+:END:
+
+** READ Animal Farm
+:PROPERTIES:
+:AUTHOR:   George Orwell
+:ADDED:    [2025-04-21]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780141036137&jscmd=data&format=json
+:RATING:   :star::star::star::star:
+:END:
+
+*** TOREAD Beyond the Aquila Rift: The Best of Alastair Reynolds
+:PROPERTIES:
+:AUTHOR:   Alastair Reynolds
+:ADDED:    [2025-04-29]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781473219861&jscmd=data&format=json
+:END:
+
