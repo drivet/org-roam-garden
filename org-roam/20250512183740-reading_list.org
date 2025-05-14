@@ -1,6 +1,9 @@
 :PROPERTIES:
 :ID:       4439e5b7-0944-4031-bcef-7dc3da7a29ca
 :END:
+#+TODO: TOREAD READING | READ
+#+STARTUP: showeverything
+#+COLUMNS: %TODO %50ITEM(TITLE) %30AUTHOR %30RATING
 #+date: [2025-05-12 Mon 18:37]
 #+hugo_lastmod: [2025-05-12 Mon 18:37]
 #+title: Reading List
