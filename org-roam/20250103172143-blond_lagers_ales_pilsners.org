@@ -30,6 +30,7 @@ be the main attraction.
  * [[id:84432bb5-3ce7-47bd-8079-21f0bcdf15fc][Classic Pilsner (Maltstrom)]]
  * [[id:2611e19b-c371-4f74-a7d4-a57a13c7d0f2][Louka Luca (Wills)]]
  * [[id:1bb5ca64-bd67-4e0c-81f4-0a0526fbd867][Wimbledon British Golden Ale]]
+ * [[id:50724227-e3cf-43c7-b88f-f8a951a54df2][Nasko Pivo (Nano Cinco)]]
    
 *** Worst rated (worst first)
 

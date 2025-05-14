@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       39ae4e5e-de86-4d97-a00a-63a6d88b7b51
+:END:
+#+date: [2025-05-13 Tue 20:12]
+#+hugo_lastmod: [2025-05-13 Tue 20:12]
+#+title: Plume Session IPA (Brasserie Vilains)
+
+A session [[id:67dce812-c557-42d4-944a-c2e035db0e3d][IPA]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:5e091e42-3e8b-4398-9d6c-2f0d82c3d082][Vilains]].
+
+ * Alcohol: 3.8%
+ * Juicy, citrusy, hoppy, refreshing
+ * 3 star(s)
+

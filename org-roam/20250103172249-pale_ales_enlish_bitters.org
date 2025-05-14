@@ -22,8 +22,12 @@ colour in colour.
  * [[id:8eb7612d-2976-4805-a843-4c8dcfd2defe][Menaud Anglaise]]
  * [[id:eb8ac625-09f2-4846-a703-7318c9c93888][Pale ale (Alchimiste)]]
  * [[id:82ab5f44-d5da-4568-8ffe-bdba33eececd][Prydain (Brasserie Albion)]]
-   
+ * [[id:8b181fd5-6924-474a-a767-f48f7886073f][Mile-Ex Pale Ale (Wills)]]
+ * [[id:1521dca7-da70-4c77-ab32-3807b01928df][Duo: Mosaic/Chinook (Wills)]]
+ * [[id:3b360dd0-7405-4cea-9b95-cc182f24f073][Fumisterie (Dieu du Ciel)]]
+
 *** Worst rated
  * [[id:5656784f-5dda-410c-9b64-532f6249c88f][LTM Pale Ale Americaine]]
  * [[id:5a94163e-b6a2-4cbb-9395-3383decfecd2][Le Nain De Jardin]]
  * [[id:532077b0-fa08-40b0-913e-26955af41305][Pale Ale Americaine (Dunham)]]
+ * [[id:8b181fd5-6924-474a-a767-f48f7886073f][Mile-Ex Pale Ale (Wills)]]

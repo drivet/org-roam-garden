@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       50724227-e3cf-43c7-b88f-f8a951a54df2
+:END:
+#+date: [2025-05-13 Tue 20:28]
+#+hugo_lastmod: [2025-05-13 Tue 20:28]
+#+title: Nasko Pivo (Nano Cinco)
+
+A [[id:955adb37-99eb-4cef-929d-698d9fcb8b6d][pilsner]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:45f430b5-5c70-42d8-9b9c-66c79f62e75e][Nano Cinco]].
+
+ * Alcohol: 4.7%
+ * Refreshing, standard pilsner
+ * 3 star(s)
