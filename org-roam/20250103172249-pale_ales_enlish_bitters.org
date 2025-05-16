@@ -31,3 +31,4 @@ colour in colour.
  * [[id:5a94163e-b6a2-4cbb-9395-3383decfecd2][Le Nain De Jardin]]
  * [[id:532077b0-fa08-40b0-913e-26955af41305][Pale Ale Americaine (Dunham)]]
  * [[id:8b181fd5-6924-474a-a767-f48f7886073f][Mile-Ex Pale Ale (Wills)]]
+ * [[id:2c2ff5e5-5bed-4ad6-8099-3b92100af672][Apriknot (4 Origines)]]

@@ -14,6 +14,7 @@ Ireland.  Tends to be toasty.
  * [[id:dd6653a6-02b2-4fbe-bea6-04e9aebcc326][Saint Arnould Riviere Rouge Toasted Red Ale]]
  * [[id:4b686406-db46-47f8-bd89-18cc98503e08][Quebec Marzen]]
  * [[id:18d88a28-9e41-4d39-b10f-c1622d05feb1][60-Shilling (Albion)]]
+ * [[id:b284e97e-6d1a-43b9-9ec0-d5c08ee3f3fd][LagaRousse (Lagabiere)]]
  
 *** Worst rated
  * [[id:7F55CFA0-087C-49E5-B6D6-78A480919A4B][Bois Blanc Red Burgey]]

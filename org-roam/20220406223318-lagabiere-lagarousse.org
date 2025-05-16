@@ -5,7 +5,7 @@
 #+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: LagaRousse (Lagabiere)
 
-A [[id:A429D54C-004D-4C18-A569-89C2F905D972][red ale]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:11c6ac15-957c-4a48-9fa7-6789f513e3b8][Lagabiere]]
+A [[id:48628120-0934-4297-a064-5d03b62847db][red]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:11c6ac15-957c-4a48-9fa7-6789f513e3b8][Lagabiere]]
 
  - Alcohol: 4.9%
  - malty, toasty red ale

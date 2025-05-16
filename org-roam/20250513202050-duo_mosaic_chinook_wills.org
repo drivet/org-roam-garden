@@ -5,7 +5,7 @@
 #+hugo_lastmod: [2025-05-13 Tue 20:20]
 #+title: Duo: Mosaic/Chinook (Wills)
 
-A [[id:43207c75-f7c5-4627-951f-53453a3daf07][pale ale]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:ff117803-bbdd-42a2-b357-3db1087a73e4][Wills]].
+A [[id:9d43b8e2-613f-47d0-a5d4-275a1ee8962e][pale ale]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:ff117803-bbdd-42a2-b357-3db1087a73e4][Wills]].
 
  * Alcohol: 5%
  * Juicy, grapefruity, refreshing
