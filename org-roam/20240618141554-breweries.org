@@ -5,10 +5,10 @@
 #+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Breweries
 
-I drink a fair amount of beer, so I suppose it makes sens to keep a record
+I drink a fair amount of beer, so I suppose it makes sense to keep a record
 of different brweries who's products I've tried.
 
-As of 2024, I live in MOntreal, Quebec, and Quebec has a big beer culture,
+As of 2024, I live in Montreal, Quebec, and Quebec has a big beer culture,
 so a lot of what I've tried is "local" in the sense that it's from Quebec.
 Still, I 've tried others too.
 
