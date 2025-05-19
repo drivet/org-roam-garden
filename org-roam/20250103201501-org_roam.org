@@ -29,7 +29,7 @@ supposed to be a life long companion, with your notes lasting years, maybe
 even decades.  Do we think Roam Research will be around 30 years from now?
 Emacs and plain text will be.
 
-** How to take smart notes with org mode:
+** How to take smart notes with org mode
 https://blog.jethro.dev/posts/how_to_take_smart_notes_org/
 
 Good quote here:
@@ -41,7 +41,6 @@ want to see this note again?”
 #+end_quote
 
  * Fleeting notes (random thoughts) are taken on the daily notes
- * 
 
 ** How I take notes with org-roam   
 https://jethrokuan.github.io/org-roam-guide/

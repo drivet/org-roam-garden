@@ -5,7 +5,7 @@
 #+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Emacs full text search
 
-I'm writing this with an eye to doing full text search in [[id:5942bb24-580d-49b6-a941-28c172b4d7b5][org-roam]], but I
+I'm writing this with an eye to doing full text search in [[id:4e639dc7-567a-408b-9ec1-c3f958958952][Org Roam]], but I
 suppose this is kinda generic as well.
 
 I use [[id:500B5CD1-8C3C-4251-8F44-0EFB22A439C1][ivy]] with org-roam since that's what [[id:f4553ccf-5624-492c-9a55-85962ab15f98][emacs prelude]] seems to have set up

@@ -22,7 +22,7 @@ niche of what I'm trying to accomplish here.  It was bascially a personal
 knowledge base.  It got hacked and I eventually stopped using it, partially
 because I wanted a purely text based one that I could edit with [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]].
 
-I've recently started experimenting with [[id:5942bb24-580d-49b6-a941-28c172b4d7b5][org-roam]] for this kind of stuff,
+I've recently started experimenting with [[id:4e639dc7-567a-408b-9ec1-c3f958958952][Org Roam]] for this kind of stuff,
 even if I'm not totally sold on the finicky zettelkaten aspect of it.
 
 ** Text based garden
