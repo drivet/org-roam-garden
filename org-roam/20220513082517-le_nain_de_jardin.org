@@ -5,10 +5,9 @@
 #+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Le Nain De Jardin
 
-[[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]
+An [[id:9d43b8e2-613f-47d0-a5d4-275a1ee8962e][amber session ale]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:48de6144-956c-49dc-85be-db2c882490ec][Microbasserie Du Lac Saint Jean]]
 
- * [[id:48de6144-956c-49dc-85be-db2c882490ec][Microbasserie Du Lac Saint Jean]]
- * Amber Session Ale, Moderate alcohol (4%)
- * Above average bitterness, but no real flavour beyond that
- * Can't detect any fruity or toasty notes
+ * Alcohol: 4%
+ * Above average bitterness, but no real flavour beyond that.  Can't detect
+   any fruity or toasty notes
  * 2 stars

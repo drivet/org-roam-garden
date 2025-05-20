@@ -5,10 +5,8 @@
 #+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: La Ferme Blonde Miel
 
-[[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]
+A [[id:955adb37-99eb-4cef-929d-698d9fcb8b6d][blond]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from  [[id:dad2a764-621e-4659-995a-8e18bd50eb31][La Ferme Brasserie Rurale]]
 
- * [[id:dad2a764-621e-4659-995a-8e18bd50eb31][La Ferme Brasserie Rurale]]
- * Low alcohol (4%)
- * Brewed with honey but I don't taste much of it
- * Mild, refreshing
+ * Alcohol: 4%
+ * Brewed with honey but I don't taste much of it. Mild, refreshing
  * 3 stars

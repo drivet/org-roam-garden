@@ -5,10 +5,9 @@
 #+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Le Castor NZ Pilsner
 
-[[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]
+A [[id:955adb37-99eb-4cef-929d-698d9fcb8b6d][pilsner]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:3cbcdf3e-13f2-417d-8150-d7f528cc2e2e][Le Castor Brewing Company]]
 
- * [[id:3cbcdf3e-13f2-417d-8150-d7f528cc2e2e][Le Castor Brewing Company]]
- * Hoppier than usual for a pilsner
- * Moderate alcohol (5%)
- * Bitter, but less citrus and more aftertaste
+ * Alcohol: 5%
+ * Bitter, but less citrus and more aftertaste. Hoppier than usual for a
+   pilsner
  * 2 stars

@@ -5,7 +5,7 @@
 #+hugo_lastmod: 2025-02-06 20:06:13 -0500
 #+title: Pale Ale Americaine (Dunham)
 
-A APA I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from Dunham.
+An [[id:ebe255e9-6553-4ebd-82a4-88e203e4c456][APA]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:2b869f11-bb20-4214-8187-a97cc6e76156][Dunham]].
 
  * Alcohol: 5.5%
  * Tropical, with a vague coconut taste I really didn't care for

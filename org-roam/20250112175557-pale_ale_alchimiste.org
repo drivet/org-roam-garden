@@ -5,7 +5,7 @@
 #+hugo_lastmod: 2025-01-19 21:49:46 -0500
 #+title: Pale ale (Alchimiste)
 
-A Pale Ale I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from Alchimiste.
+A [[id:9d43b8e2-613f-47d0-a5d4-275a1ee8962e][Pale Ale]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:3E20D85D-4A65-4E87-8675-9CE97BC0F318][Alchimiste]].
 
  * Alcohol: 4.8%
  * Bitter but not quite IPA level.  Almost too bitter, but still good.

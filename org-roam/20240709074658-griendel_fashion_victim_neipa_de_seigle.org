@@ -5,7 +5,7 @@
 #+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Griendel Fashion Victim NEIPA de seigle
 
-A NEIPA I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:b5a77bdc-dd0c-49b5-b9ba-dc018f17f190][Griendel]].
+A [[id:ebe255e9-6553-4ebd-82a4-88e203e4c456][NEIPA]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:b5a77bdc-dd0c-49b5-b9ba-dc018f17f190][Griendel]].
 
  * Alcohol: 5.2%
  * Rye NEIPA, fruity, hoppy, but not overpowering.  Quite good.

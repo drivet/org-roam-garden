@@ -5,10 +5,8 @@
 #+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Le Castor Talus
 
-[[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]
+An [[id:ebe255e9-6553-4ebd-82a4-88e203e4c456][IPA]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:3cbcdf3e-13f2-417d-8150-d7f528cc2e2e][Le Castor Brewing Company]]
 
- * [[id:3cbcdf3e-13f2-417d-8150-d7f528cc2e2e][Le Castor Brewing Company]]
- * IPA with Talus,  Simcoe, Citra
- * Strong beer (6.5%)
- * Hoppy, bitter, refreshing, citrusy
+ * Alcohol: 6.5%
+ * IPA with Talus,  Simcoe, Citra.  Hoppy, bitter, refreshing, citrusy
  * 3 stars

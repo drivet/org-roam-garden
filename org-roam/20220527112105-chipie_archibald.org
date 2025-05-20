@@ -5,10 +5,8 @@
 #+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Chipie (Archibald)
 
-[[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]
+A [[id:9d43b8e2-613f-47d0-a5d4-275a1ee8962e][red pale ale]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from  [[id:29c29abc-abe6-4051-81a3-fd68be7bc6b9][Archibald]] brewery
 
- * Brewed by the [[id:29c29abc-abe6-4051-81a3-fd68be7bc6b9][Archibald]] brwery
- * Red Pale Ale
- * Moderate alcohol (5%)
- * Bitter, toastiness
- * Tasty, would drink again
+ * Alcohol: 5%
+ * Bitter, toasty, Tasty, would drink again
+ * 3 star(s)

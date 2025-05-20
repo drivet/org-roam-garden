@@ -5,7 +5,7 @@
 #+hugo_lastmod: 2025-01-19 21:49:46 -0500
 #+title: Les Jardins (Albion)
 
-A honey blond I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:73322D8E-3810-48C4-B6FA-FE968BB0FC14][Albion]].
+A honey [[id:955adb37-99eb-4cef-929d-698d9fcb8b6d][blond]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:73322D8E-3810-48C4-B6FA-FE968BB0FC14][Albion]].
 
  * Alcohol: 4.5%
  * Bland, somewhat refreshing, can't really tastes the honey.

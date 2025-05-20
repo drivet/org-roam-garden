@@ -5,10 +5,8 @@
 #+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Nuit Blanche White IPA (Archibald)
 
-[[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]
+A white [[id:ebe255e9-6553-4ebd-82a4-88e203e4c456][IPA]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:29c29abc-abe6-4051-81a3-fd68be7bc6b9][Archibald]]
 
- * From [[id:29c29abc-abe6-4051-81a3-fd68be7bc6b9][Archibald]]
- * Strong beer (6%)
- * Fruity, strongly bitter, but not overwhelming.
- * Refreshing, but not as refreshing as a lager
+ * Alcohol: 6%
+ * Fruity, strongly bitter, but not overwhelming.  Refreshing, but not as refreshing as a lager.
  * 3 stars

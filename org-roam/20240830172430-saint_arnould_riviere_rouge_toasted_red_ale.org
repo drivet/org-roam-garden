@@ -5,7 +5,7 @@
 #+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Saint Arnould Riviere Rouge Toasted Red Ale
 
-A red ale I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:1a1028a8-2381-4f37-8188-b41cfafcbdae][Saint Arnould]].
+A [[id:48628120-0934-4297-a064-5d03b62847db][red ale]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:1a1028a8-2381-4f37-8188-b41cfafcbdae][Saint Arnould]].
 
  * Alcohol: 5.5%
  * toasty, a bit more bitter than we like, but still good

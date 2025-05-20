@@ -5,7 +5,7 @@
 #+hugo_lastmod: 2025-01-03 17:05:23 -0500
 #+title: Ecossaise (Alchimiste)
 
-A scottish ale I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:3E20D85D-4A65-4E87-8675-9CE97BC0F318][Alchimiste]].
+A [[id:9a70704c-417a-4f86-aa8f-bfec29d51e19][scottish ale]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:3E20D85D-4A65-4E87-8675-9CE97BC0F318][Alchimiste]].
 
  * Alcohol: 5.5%
  * Toasty and slightly sweet.  Very good and lower proof than many other Scottish ales.

@@ -5,7 +5,7 @@
 #+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Czech Pilser (Maltstrom)
 
-A pilsner I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tasted]] from [[id:1879a7ea-e582-4d21-8b8b-4a28e20e233a][Maltstrom Brewery]]
+A [[id:955adb37-99eb-4cef-929d-698d9fcb8b6d][pilsner]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tasted]] from [[id:1879a7ea-e582-4d21-8b8b-4a28e20e233a][Maltstrom Brewery]]
 
  * Alcohol: 5%
  * Bitter, hoppy, Refreshing, but a bit strong

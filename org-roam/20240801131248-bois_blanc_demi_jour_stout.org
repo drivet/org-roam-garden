@@ -5,7 +5,7 @@
 #+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Bois Blanc Demi Jour Stout
 
-A stout I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:78FD55CC-3D43-4A24-8832-2A55F9415B2B][Bois Blanc]].
+A [[id:34f25681-cbcf-4b7e-a2ed-d2a0b2c6d2e1][stout]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:78FD55CC-3D43-4A24-8832-2A55F9415B2B][Bois Blanc]].
 
  * Alcohol: 4.8%
  * Bitter and toasty

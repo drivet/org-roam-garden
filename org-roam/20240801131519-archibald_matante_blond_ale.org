@@ -5,7 +5,7 @@
 #+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Archibald Matante Blond Ale
 
-A blond ale I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:29c29abc-abe6-4051-81a3-fd68be7bc6b9][Archibald]].
+A [[id:955adb37-99eb-4cef-929d-698d9fcb8b6d][blond ale]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:29c29abc-abe6-4051-81a3-fd68be7bc6b9][Archibald]].
 
  * Alcohol: 4.9%
  * Light, crisp, refreshing, a bit sweet

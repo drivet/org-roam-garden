@@ -5,11 +5,9 @@
 #+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Stout Blanc Coffee Blonde Ale
 
-[[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]
+A [[id:955adb37-99eb-4cef-929d-698d9fcb8b6d][blonde ale]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:b9c1d0c2-ffb5-4994-a5c2-e4ccda18d615][Oshlag Brewery]]
 
- * [[id:b9c1d0c2-ffb5-4994-a5c2-e4ccda18d615][Oshlag Brewery]]
- * Moderate alcohol (5.6%)
- * Sweet, string coffee notes
- * Not too bitter
- * Good for people who don't like beer
+ * Alcohol: 5.6%
+ * Sweet, strong coffee notes, not too bitter, good for people who don't
+   like beer.
  * 2 stars

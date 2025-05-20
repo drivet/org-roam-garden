@@ -5,7 +5,7 @@
 #+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Wunderbar (Vagabond)
 
-A pilsner I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:10fef462-6985-4cb6-9567-f118eff8d583][Vagabond]].
+A [[id:955adb37-99eb-4cef-929d-698d9fcb8b6d][pilsner]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:10fef462-6985-4cb6-9567-f118eff8d583][Vagabond]].
 
  * Alcohol: 4%%
  * Light, crisp, like a better Labbatt Blue

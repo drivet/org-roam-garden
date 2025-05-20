@@ -5,7 +5,7 @@
 #+hugo_lastmod: [2025-05-13 Tue 20:12]
 #+title: Plume Session IPA (Brasserie Vilains)
 
-A session [[id:67dce812-c557-42d4-944a-c2e035db0e3d][IPA]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:5e091e42-3e8b-4398-9d6c-2f0d82c3d082][Vilains]].
+A session [[id:ebe255e9-6553-4ebd-82a4-88e203e4c456][IPA]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:5e091e42-3e8b-4398-9d6c-2f0d82c3d082][Vilains]].
 
  * Alcohol: 3.8%
  * Juicy, citrusy, hoppy, refreshing

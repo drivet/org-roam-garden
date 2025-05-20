@@ -5,7 +5,7 @@
 #+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: 60-Shilling (Albion)
 
-A session scottish I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:73322D8E-3810-48C4-B6FA-FE968BB0FC14][Albion]].
+A session [[id:9a70704c-417a-4f86-aa8f-bfec29d51e19][scottish]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:73322D8E-3810-48C4-B6FA-FE968BB0FC14][Albion]].
 
  * Alcohol: 3.7%
  * A quite tasty session scottish ale, notes of toast, much sweet and strong than typical scottish ale.  Quite good.

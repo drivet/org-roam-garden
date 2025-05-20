@@ -5,7 +5,7 @@
 #+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Albion (Brasseries Albion)
 
-A classic English style bitter I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from Albion.
+A classic English style [[id:9d43b8e2-613f-47d0-a5d4-275a1ee8962e][bitter]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:73322D8E-3810-48C4-B6FA-FE968BB0FC14][Albion]].
 
  * Alcohol: 4%
  * Classic English session bitter ale.  More hopped than a blond, but not

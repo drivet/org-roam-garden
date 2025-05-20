@@ -5,7 +5,7 @@
 #+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Griffintown blonde ale
 
-A blond ale I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:0bfccb99-19a0-4ac5-bc3c-661ac3b8dd1b][Brasseur de Montreal]].
+A [[id:955adb37-99eb-4cef-929d-698d9fcb8b6d][blond ale]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:0bfccb99-19a0-4ac5-bc3c-661ac3b8dd1b][Brasseur de Montreal]].
 
  * Alcohol: 5%
  * Slightly sweet, bitter, refreshing

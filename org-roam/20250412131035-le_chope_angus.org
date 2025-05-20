@@ -5,4 +5,4 @@
 #+hugo_lastmod: [2025-04-12 Sat 13:10]
 #+title: Le Chope Angus
 
-A [[id:44D50E8F-9D61-4BBA-93A2-DBED547DFA7D][brewery]] in [[id:BD759C00-5598-4433-8F98-54A5712D203B][Quebec]]
+A [[id:BD759C00-5598-4433-8F98-54A5712D203B][brewery]] in Quebec.

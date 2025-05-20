@@ -5,10 +5,8 @@
 #+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Refresh Lager (2 Crows)
 
-[[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][Beer tasting]]
+A [[id:955adb37-99eb-4cef-929d-698d9fcb8b6d][lager]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:6560d13b-698d-42d0-a2cf-296d58448509][2 Crows Brewery]]
 
- * [[id:6560d13b-698d-42d0-a2cf-296d58448509][2 Crows Brewery]]
- * Moderate alcohol (4.3 %)
- * Hoppy and bitter
- * More bitter than a normal lager
- * Good but not my favorite
+ * Alcohol: 4.3%
+ * Hoppy and bitter. More bitter than a normal lager
+ * 2 stars

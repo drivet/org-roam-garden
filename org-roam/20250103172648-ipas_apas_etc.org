@@ -3,7 +3,7 @@
 :END:
 #+date: [2025-01-03 Fri 17:26]
 #+hugo_lastmod: 2025-01-03 17:29:39 -0500
-#+title: IPAs, APAs, etc.
+#+title: IPAs, APAs, NEIPAa, etc.
 
 These tend to be hoppy and bitter.  Sometimes citrusy.  Though technically
 pale ales, it's worth putting these in their own category since they tend to

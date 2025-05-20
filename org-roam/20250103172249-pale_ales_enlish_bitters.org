@@ -3,7 +3,7 @@
 :END:
 #+date: [2025-01-03 Fri 17:22]
 #+hugo_lastmod: 2025-02-06 20:06:13 -0500
-#+title: Pale ales, Enlish bitters, etc.
+#+title: Pale ales, amber ales, bitters, etc.
 
 The hops tends to be a bit more pronounced in this category, and so these
 tend to be more bitter.  These tend to be golden, amber or light brown in
@@ -25,6 +25,7 @@ colour in colour.
  * [[id:8b181fd5-6924-474a-a767-f48f7886073f][Mile-Ex Pale Ale (Wills)]]
  * [[id:1521dca7-da70-4c77-ab32-3807b01928df][Duo: Mosaic/Chinook (Wills)]]
  * [[id:3b360dd0-7405-4cea-9b95-cc182f24f073][Fumisterie (Dieu du Ciel)]]
+ * [[id:412E3147-B84C-4C15-9954-5EB7F1DF48A2][Chipie (Archibald)]]
 
 *** Worst rated
  * [[id:5656784f-5dda-410c-9b64-532f6249c88f][LTM Pale Ale Americaine]]

@@ -5,7 +5,7 @@
 #+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Bench Short Hills Hazy IPA
 
-A IPA I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from Bench.
+A [[id:ebe255e9-6553-4ebd-82a4-88e203e4c456][IPA]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:d160a312-ae98-4722-b43d-bc53caee25aa][Bench]].
 
  * Alcohol: 6.5%
  * Too bitter, not enough citrus

@@ -5,7 +5,7 @@
 #+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Cai Men Men (Pilsner Atypique)
 
-A pilsner I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tasted]] from [[id:26692c61-d2ae-44b9-bbed-40734b062d37][Brasserie Depareillee]]
+A [[id:955adb37-99eb-4cef-929d-698d9fcb8b6d][pilsner]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tasted]] from [[id:26692c61-d2ae-44b9-bbed-40734b062d37][Brasserie Depareillee]]
 
  * Alcohol: 5.1%
  * Very bitter, like an IPA.  Too bitter in fact.
