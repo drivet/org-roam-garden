@@ -21,7 +21,7 @@ toasted, and hop content, indicating how bitter the end product will be.
 This informs how I categorize the beers I've tried.
 
  * [[id:955adb37-99eb-4cef-929d-698d9fcb8b6d][Blond lagers, ales, pilsners, etc.]]
- * [[id:9d43b8e2-613f-47d0-a5d4-275a1ee8962e][Pale ales, Enlish bitters, etc.]]
+ * [[id:9d43b8e2-613f-47d0-a5d4-275a1ee8962e][Pale ales, amber ales, bitters, etc.]]
  * [[id:48628120-0934-4297-a064-5d03b62847db][Red ales, lagers, etc.]]
  * [[id:34f25681-cbcf-4b7e-a2ed-d2a0b2c6d2e1][Stouts, Porters, Dark lagers, etc.]]
  * [[id:ebe255e9-6553-4ebd-82a4-88e203e4c456][IPAs, APAs, NEIPAa, etc.]]
