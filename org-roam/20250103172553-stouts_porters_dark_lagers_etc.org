@@ -10,8 +10,8 @@ I don't like stouts or porters all that much, but I've tried a handful.
 *** Best rated
  * [[id:E13B6B54-975C-4856-AD20-5990B84FB2C2][Bois Blanc Demi Jour Stout]]
  * [[id:31130a07-f62d-4c52-a13e-dd5e96a7faa7][Wills Dark Lager]]
+ * [[id:5eac9492-ef45-4d82-bbe3-9cc0e8800382][Darko (Brasserie Sir John)]]
    
 *** Worst rated:
- * [[id:67170c97-5d7f-46dc-92a2-5379df2f94b9][Stout Blanc Coffee Blonde Ale]]
  * [[id:ca495101-dbc8-404d-bd2a-a07f3939ebf6][Cobblestone Organic Stout (Mill St Brewery)]]
  * [[id:af0a5848-90cb-4ad3-997f-bc57cdd0ec80][Birra Finelli Tiramisu Stout]]
