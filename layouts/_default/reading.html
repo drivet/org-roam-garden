@@ -1,0 +1,28 @@
+<html>
+  <head>
+    {{ partial "head.html" . }}
+    <script type="text/javascript" src="/static/js/ox-tagfilter.js"></script>
+    <link href="/static/css/org-defaults.css" rel="stylesheet">
+    <link href="/static/css/reading-site.css" rel="stylesheet">
+    <link href="/static/css/reading-tablet.css" rel="stylesheet">
+    <link href="/static/css/reading-desktop.css" rel="stylesheet">
+  </head>
+  <body>
+    <header class= "main-header">
+      {{ partial "nav.html" . }}
+    </header>
+    <main class="main-content">
+      <article class="h-entry">
+        <header class="article-header">
+          <h1 class="article-header__title">{{ .Title }}</h1>
+        </header>
+        <div class="content">
+          {{.Content}}
+        </div>
+      </article>
+    </main>
+    <footer class="main-footer center">
+      Copyright 2025 by {{ .Site.Param "author" }}
+    </footer>
+  </body>
+</html>

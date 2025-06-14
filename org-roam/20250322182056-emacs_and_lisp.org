@@ -41,7 +41,7 @@ https://kimi.im/2021-11-27-sexp-operations-in-emacs
 
 | Key | Map                     | Description                               |
 |-----+-------------------------+-------------------------------------------|
-|     | sp-wrap-arround         | Wrap region with ()                       |
+|     | sp-wrap-round           | Wrap region with ()                       |
 |     | sp-wrap-curly           | Wrap region with {}                       |
 |     | sp-wrap-square          | Wrap region with []                       |
 |     | sp-unwrap-sexp          | remove parenthesis of next expression     |

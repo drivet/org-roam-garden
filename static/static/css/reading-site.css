@@ -1,0 +1,35 @@
+.outline-text-2 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.outline-text-2 aside {
+  order: -10;
+  width: 30%;
+  min-width: 30%;
+  overflow: hidden;
+  flex: 0 0 0;
+}
+
+.outline-text-2 aside figure {
+  margin: 0;
+}
+
+.outline-text-2 figure img {
+  width: 100px;
+  background-color: lightgray;
+  min-height: 100px;
+}
+
+.outline-text-2 pre {
+  margin: 0;
+  border: 0;
+  width: 70%;
+  min-width: 70%;
+  background-color: inherit;
+  font-family: Inter, sans-serif;
+  font-size: var(--font-size);
+  color: var(--color);
+  flex: 0 0 0;
+  order: -5;
+}

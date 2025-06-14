@@ -15,6 +15,7 @@
 (setq org-hugo-base-dir "~/org-roam-garden/")
 (setq org-hugo-section ".")
 (setq org-hugo-front-matter-format "yaml")
+(setq org-time-stamp-custom-formats '("%Y-%m-%d" . "%Y-%m-%d %H:%M"))
 
 (defun make-inout-pair (f indir outdir)
   (let ((prefix-regex (format "^%s" indir))
@@ -24,7 +25,7 @@
 (defun newer (pair)
   (file-newer-than-file-p (car pair) (cdr pair)))
 
-(defun doexport ()
+(defun roamexport ()
   (org-roam-update-org-id-locations)
   (org-roam-db-sync)
   (let* ((indir (expand-file-name "~/org-roam-garden/org-roam"))
@@ -50,4 +51,35 @@
               (kill-buffer))
             (setq cnt (1+ cnt))))
         (message "Done!")))))
-(doexport)
+
+(defun bookexport ()
+  (with-current-buffer (find-file-noselect "~/org-roam-garden/books.org")
+    (message (format "Exporting book file"))
+    (org-toggle-timestamp-overlays)
+    (org-html-export-to-html 'nil 'nil 'nil 't)
+    (kill-buffer)))
+
+(defun my-org-export-filter-timestamp-function (content backend info)
+  "makes rating into stars"
+  (when (org-export-derived-backend-p backend 'html)
+    (replace-regexp-in-string "&[lg]t;\\|[][]" "" content)))
+
+(add-to-list 'org-export-filter-timestamp-functions
+             'my-org-export-filter-timestamp-function)
+
+(add-to-list 'org-export-filter-planning-functions
+             'my-org-export-filter-timestamp-function)
+
+(add-to-list 'org-export-filter-property-drawer-functions
+             'my-org-export-filter-timestamp-function)
+
+(defun my-org-export-filter-rating-function (content backend info)
+  "removes relevant brackets from a timestamp"
+  (when (org-export-derived-backend-p backend 'html)
+    (replace-regexp-in-string ":star:" "&#x2605;" content)))
+
+(add-to-list 'org-export-filter-property-drawer-functions
+             'my-org-export-filter-rating-function)
+
+(roamexport)
+(bookexport)

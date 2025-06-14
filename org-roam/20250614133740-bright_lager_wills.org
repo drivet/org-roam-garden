@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       c3737478-a408-490d-9de3-e4e18a1cc58d
+:END:
+#+date: [2025-06-14 Sat 13:37]
+#+hugo_lastmod: [2025-06-14 Sat 13:37]
+#+title: Bright Lager (Wills)
+
+A [[id:955adb37-99eb-4cef-929d-698d9fcb8b6d][lager]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:ff117803-bbdd-42a2-b357-3db1087a73e4][Wills]].
+
+ * Alcohol: 4.5%
+ * Refreshing, flvourful lager
+ * 3 star(s)
+

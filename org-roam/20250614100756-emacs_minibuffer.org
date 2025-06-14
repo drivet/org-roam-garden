@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       05deeca6-74ce-4c3f-9233-294818120c80
+:END:
+#+date: [2025-06-14 Sat 10:07]
+#+hugo_lastmod: [2025-06-14 Sat 10:07]
+#+title: Emacs Minibuffer
+
+[[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]]
+
+Not much to say here except that using hitting enter in the minibuffer is
+usually a "go" command, so it's hard to insert the character as a literal
+newline.  But...
+
+You can insert things like newlines, TABs, etc by using the C-q key
+sequence, followed by the character (C-j for newline for example).  Very
+useful if you're using the minibuffer to do a search and replace and you
+want to include a newline or TAB for example.
