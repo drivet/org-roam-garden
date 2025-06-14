@@ -55,7 +55,7 @@
 (defun bookexport ()
   (with-current-buffer (find-file-noselect "~/org-roam-garden/books.org")
     (message (format "Exporting book file"))
-    (org-toggle-timestamp-overlays)
+    (org-toggle-time-stamp-overlays)
     (org-html-export-to-html 'nil 'nil 'nil 't)
     (kill-buffer)))
 
