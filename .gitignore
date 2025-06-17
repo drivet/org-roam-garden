@@ -1,6 +1,7 @@
 node_modules/
 _site/
 content/**/*.md
+content/**/*.html
 !content/all/index.md
 assets/data/backlinks.yaml
 org-roam/.org-roam.db

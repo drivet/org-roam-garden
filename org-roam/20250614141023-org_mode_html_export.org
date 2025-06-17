@@ -1,0 +1,83 @@
+:PROPERTIES:
+:ID:       98db5031-1c71-4fd6-b6da-114a654830bb
+:END:
+#+date: [2025-06-14 Sat 14:10]
+#+hugo_lastmod: [2025-06-14 Sat 14:10]
+#+title: Org mode HTML export
+
+[[id:FA31BDBE-5F87-4DEE-ABE2-D8AFD52F7D03][Org Mode]]
+
+Exporting an org file to HTML has certain warts that you have to be aware
+of, as I found out when exporting my book list.
+
+There's no real extensible templating system.  You can override templates,
+but it doesn't appear to be the first tool you reach for when you're
+implementing an export process from org to HTML.
+
+That means you have to "go with the flow" more than you would in a real HTML
+templated system.  You're exporting content as it appears in your org file.
+It's less about data that gets spliced into an output template and more
+about content that's being converted as is.
+
+** Settings
+
+Settings are set in various ways:
+
+ * global variable
+ * File keyword setting
+ * Shortcut in an OPTIONS keyword
+
+** Exported Content
+
+Not all content is exported by default.  And sometimes more content is
+exported than you want.
+
+Extra content you make want to kill:
+ * Table of contents (toc:nil in OPTIONS)
+ * Numbers headings (num:nil in OPTIONS)
+
+Content that you may want to include:
+
+ * Properties (prop:t)
+ * Tag (tags:t)
+ * Planning (like the CLOSED or SCHEDULED timestamps) (p:t)
+
+*** Verbatim content
+
+Use the "#+BEGIN_EXPORT HTML" section to have content sent to the output
+with no modification.
+
+** Wrapped content
+
+You can use a structure like this: ~#+BEGIN_X~ and ~#+END_X~ to wrap content
+in a HTML tag.  If the tag doesn't exist it'll use a div with a class.
+
+You can add attributes to the tag with ~#+ATTR_HTML~.
+
+** Filters
+
+An [[https://orgmode.org/manual/Advanced-Export-Configuration.html#Filters-1][org mode filter]] is a way fine tuning the export process.  There's a
+function for every "piece" of the org mode syntax tree.  That is a bit hard
+to follow sometimes because there's no much documentation on what each piece
+means.
+
+For example, in my book export system, I wanted to remove timestamps
+brackets (angled, square) from the result.  But my timestamps appears in
+several places: property drawers, planning lines, and just plain timestamps
+too.  So I had to strip the brackets in several places, like this:
+
+#+begin_src
+(defun my-org-export-filter-timestamp-function (content backend info)
+  "removes relevant brackets from a timestamp" 
+  (when (org-export-derived-backend-p backend 'html)
+    (replace-regexp-in-string "&[lg]t;\\|[][]" "" content)))
+
+(add-to-list 'org-export-filter-timestamp-functions
+             'my-org-export-filter-timestamp-function)
+
+(add-to-list 'org-export-filter-planning-functions
+             'my-org-export-filter-timestamp-function)
+
+(add-to-list 'org-export-filter-property-drawer-functions
+             'my-org-export-filter-timestamp-function)
+#+end_src
