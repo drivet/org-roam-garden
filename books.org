@@ -150,21 +150,6 @@ CLOSED: [2025-01-28]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780316525572&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Children of Memory (Children of Time, #3)                      :scifi:
-:PROPERTIES:
-:Author:   Adrian Tchaikovsky
-:Added:    [2025-01-03]
-:ISBN:     9781529087208
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781529087208-M.jpg]]
-
-[[https://openlibrary.org/books/OL53844724M/Children_of_Memory][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781529087208&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
 * TOREAD Taste: My Life Through Food                             :food:cooking:
 :PROPERTIES:
 :Author:   Stanley Tucci
@@ -488,21 +473,6 @@ CLOSED: [2024-01-03]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780139702518&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Patterns of Enterprise Application Architecture        :tech:software:
-:PROPERTIES:
-:Author:   Martin Fowler
-:Added:    [2023-11-26]
-:ISBN:     9780321127426
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780321127426-M.jpg]]
-
-[[https://openlibrary.org/books/OL51275278M/Patterns_of_Enterprise_Application_Architecture][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780321127426&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
 * TOREAD Ideological Perspectives on Canada                   :politics:canada:
 :PROPERTIES:
 :Author:   M Patricia Marchak
@@ -516,21 +486,6 @@ CLOSED: [2024-01-03]
 
 [[https://openlibrary.org/books/OL33999373M/Ideological_Perspectives_on_Canada][Open Library]] \\
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780773590915&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD A Court of Thorns and Roses (A Court of Thorns and Roses, #1) :fantasy:
-:PROPERTIES:
-:Author:   Sarah J. Maas
-:Added:    [2023-10-30]
-:ISBN:     9781635575569
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781635575569-M.jpg]]
-
-[[https://openlibrary.org/books/OL29858947M/A_Court_of_Thorns_and_Roses][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781635575569&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 * TOREAD Down and Out in Paris and London                      :classic:memoir:
@@ -625,21 +580,6 @@ CLOSED: [2023-08-19]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9781585678754&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Us Conductors                            :historical:fiction:theremin:
-:PROPERTIES:
-:Author:   Sean Michaels
-:Added:    [2023-09-16]
-:ISBN:     9781935639817
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781935639817-M.jpg]]
-
-[[https://openlibrary.org/books/OL28738197M/Us_conductors][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781935639817&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
 * TOREAD Do You Remember Being Born?                                    :scifi:
 :PROPERTIES:
 :Author:   Sean Michaels
@@ -682,36 +622,6 @@ CLOSED: [2023-08-19]
 
 [[https://openlibrary.org/books/OL10097380M/Discourses_and_Selected_Writings_(Penguin_Classics)][Open Library]] \\
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780140449464&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Mona Lisa Overdrive (Sprawl, #3)                     :scifi:cyberpunk:
-:PROPERTIES:
-:Author:   William Gibson
-:Added:    [2023-09-11]
-:ISBN:     9780553281743
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780553281743-M.jpg]]
-
-[[https://openlibrary.org/books/OL24226058M/Mona_Lisa_Overdrive][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780553281743&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD A Deepness in the Sky (Zones of Thought, #2)                   :scifi:
-:PROPERTIES:
-:Author:   Vernor Vinge
-:Added:    [2016-02-23]
-:ISBN:     9780812536355
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780812536355-M.jpg]]
-
-[[https://openlibrary.org/books/OL9347834M/A_Deepness_in_the_Sky_(Zones_of_Thought)][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780812536355&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 * TOREAD Saga, Volume 8                                           :scifi:comic:
@@ -1038,21 +948,6 @@ CLOSED: [2021-06-27]
 [[https://covers.openlibrary.org/b/ISBN/9780807071168-M.jpg]]
 
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780807071168&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Quantum of Solace                                       :spy:thriller:
-:PROPERTIES:
-:Author:   Ian Fleming, Henry Chancellor
-:Added:    [2015-12-28]
-:ISBN:     9781846141997
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781846141997-M.jpg]]
-
-[[https://openlibrary.org/books/OL35458898M/Quantum_of_Solace][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781846141997&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 * READ Little Brother (Little Brother, #1)                 :scifi:cyberpunk:ya:
@@ -1853,36 +1748,6 @@ CLOSED: [2013-06-30]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9781563894459&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Infinity Engine (Transformation, #3)                           :scifi:
-:PROPERTIES:
-:Author:   Neal Asher
-:Added:    [2018-07-22]
-:ISBN:     9781597808897
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781597808897-M.jpg]]
-
-[[https://openlibrary.org/books/OL26870843M/Infinity_Engine_Transformation_Book_Three][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781597808897&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD War Factory (Transformation #2)                                :scifi:
-:PROPERTIES:
-:Author:   Neal Asher
-:Added:    [2018-07-22]
-:ISBN:     9781597808347
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781597808347-M.jpg]]
-
-[[https://openlibrary.org/books/OL27210282M/War_factory][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781597808347&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
 * TOREAD Dark Intelligence (Transformation, #1)                         :scifi:
 :PROPERTIES:
 :Author:   Neal Asher
@@ -1915,7 +1780,7 @@ CLOSED: [2013-06-30]
 
 * TOREAD Phantom                                            :fiction:retelling:
 :PROPERTIES:
-:Author:   susan-kay
+:Author:   Susan Kay
 :Added:    [2018-06-17]
 :ISBN:     9781933626048
 :END:
@@ -2072,7 +1937,8 @@ CLOSED: [2017-12-21]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780806516707&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Wizard and Glass (The Dark Tower, #4)                        :fantasy:
+* READ Wizard and Glass (The Dark Tower, #4)                           :fantasy:
+CLOSED: [2025-06-15 Sun 11:16]
 :PROPERTIES:
 :Author:   Stephen        King
 :Added:    [2013-01-09]
@@ -2117,21 +1983,6 @@ CLOSED: [2017-12-08]
 
 [[https://openlibrary.org/books/OL23058437M/Complete_idiot's_guide_to_organizing_your_life][Open Library]] \\
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9781592574131&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Time Detectives: How Archaeologists Use Technology to Recapture the Past :history:archaeology:
-:PROPERTIES:
-:Author:   Brian M. Fagan
-:Added:    [2017-10-28]
-:ISBN:     9780671793852
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780671793852-M.jpg]]
-
-[[https://openlibrary.org/books/OL1107208M/Time_detectives][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780671793852&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 * TOREAD Maximize Your Memory                                        :selfhelp:
@@ -2534,7 +2385,7 @@ CLOSED: [2017-01-25]
 
 I liked this book more than I thought I would.  The prose is very dense, and
 there isn't much "action" and when you're faced with a book like that, your
-only choices are to avoid it or savour it.  I attempted to do that latter.
+only choices are to avoid it or savour it.  I attempted to do the latter.
 
 The language was vivid, intense and memorable.  Long, descriptive passages
 that one might be tempted to skip over in other works became the key to
@@ -2832,37 +2683,6 @@ CLOSED: [2016-10-01]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780006530404&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Merde Happens
-CLOSED: [2016-08-31]
-:PROPERTIES:
-:Author:   Stephen  Clarke
-:Added:    [2016-08-28]
-:ISBN:     9780593056318
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780593056318-M.jpg]]
-
-[[https://openlibrary.org/books/OL47170509M/Merde_Happens][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780593056318&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD A Year in the Merde
-:PROPERTIES:
-:Author:   Stephen  Clarke
-:Added:    [2016-08-28]
-:ISBN:     9781582346175
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781582346175-M.jpg]]
-
-[[https://openlibrary.org/books/OL32026866M/A_Year_in_the_Merde][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781582346175&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
 * READ The Best of Isaac Asimov
 CLOSED: [2016-08-13]
 :PROPERTIES:
@@ -2956,7 +2776,7 @@ with the 1950's era sexism.  It's mostly par for the course with this kind
 of book, though. It functions as a kind of prequel to the Foundation series,
 though the fact of that is somewhat of a twist ending.
 
-* TOREAD Continuous delivery
+* TOREAD Continuous Delivery
 :PROPERTIES:
 :Author:   Jez Humble, David  Farley
 :Added:    [2016-07-12]
@@ -3031,51 +2851,6 @@ CLOSED: [2016-07-06]
 
 [[https://openlibrary.org/books/OL796801M/The_unseen_war_in_Europe][Open Library]] \\
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780679448266&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD The Gods of Riverworld (Riverworld, #5)
-:PROPERTIES:
-:Author:   Philip José Farmer
-:Added:    [2016-06-17]
-:ISBN:     9780345419712
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780345419712-M.jpg]]
-
-[[https://openlibrary.org/books/OL400818M/Gods_of_riverworld][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780345419712&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD The Magic Labyrinth (Riverworld, #4)
-:PROPERTIES:
-:Author:   Philip José Farmer
-:Added:    [2016-06-17]
-:ISBN:     9780345419705
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780345419705-M.jpg]]
-
-[[https://openlibrary.org/books/OL400817M/The_magic_labyrinth][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780345419705&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD The Dark Design (Riverworld, #3)
-:PROPERTIES:
-:Author:   Philip José Farmer
-:Added:    [2016-06-17]
-:ISBN:     9780345419699
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780345419699-M.jpg]]
-
-[[https://openlibrary.org/books/OL400816M/The_dark_design][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780345419699&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 * READ The Fabulous Riverboat (Riverworld #2)
@@ -4235,66 +4010,6 @@ usual Asmovian style.
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780752864327&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD The Gateway Trip (Heechee Saga, #5)
-:PROPERTIES:
-:Author:   Frederik Pohl, Frank Kelly Freas
-:Added:    [2016-03-06]
-:ISBN:     9780345375445
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780345375445-M.jpg]]
-
-[[https://openlibrary.org/books/OL9871186M/Gateway_Trip][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780345375445&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD The Annals of the Heechee (Heechee Saga, #4)
-:PROPERTIES:
-:Author:   Frederik Pohl
-:Added:    [2016-03-06]
-:ISBN:     9780345325662
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780345325662-M.jpg]]
-
-[[https://openlibrary.org/books/OL9514079M/Annals_of_the_Heechee_(Heechee_Saga_Book_4)][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780345325662&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Heechee Rendezvous (Heechee Saga, #3)
-:PROPERTIES:
-:Author:   Frederik Pohl
-:Added:    [2016-03-06]
-:ISBN:     9780345300553
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780345300553-M.jpg]]
-
-[[https://openlibrary.org/books/OL24209289M/Heechee_rendezvous][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780345300553&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Beyond the Blue Event Horizon (Heechee Saga, #2)
-:PROPERTIES:
-:Author:   Frederik Pohl
-:Added:    [2016-03-06]
-:ISBN:     9780345446671
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780345446671-M.jpg]]
-
-[[https://openlibrary.org/books/OL9690582M/Beyond_the_Blue_Event_Horizon_(Heechee_Saga_Book_2)][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780345446671&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
 * TOREAD Quantum Night
 :PROPERTIES:
 :Author:   Robert J. Sawyer
@@ -4308,186 +4023,6 @@ usual Asmovian style.
 
 [[https://openlibrary.org/books/OL27202284M/Quantum_night][Open Library]] \\
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780425256831&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD The Joy of Cooking
-:PROPERTIES:
-:Author:   Irma S. Rombauer, Marion Rombauer Becker, Ethan Becker
-:Added:    [2016-03-06]
-:ISBN:     9780684818702
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780684818702-M.jpg]]
-
-[[https://openlibrary.org/books/OL24651394M/The_all_new_all_purpose_joy_of_cooking][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780684818702&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Ring for Jeeves (Jeeves, #10)
-:PROPERTIES:
-:Author:   P.G. Wodehouse
-:Added:    [2016-03-05]
-:ISBN:     9781585675241
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781585675241-M.jpg]]
-
-[[https://openlibrary.org/books/OL3382742M/Ring_for_Jeeves][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781585675241&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Jeeves and the Tie That Binds (Jeeves, #14)
-:PROPERTIES:
-:Author:   P.G. Wodehouse
-:Added:    [2016-03-05]
-:ISBN:     9780743203623
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780743203623-M.jpg]]
-
-[[https://openlibrary.org/books/OL6787332M/Jeeves_and_the_tie_that_binds][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780743203623&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD How Right You Are, Jeeves (Jeeves, #12)
-:PROPERTIES:
-:Author:   P.G. Wodehouse
-:Added:    [2016-03-05]
-:ISBN:     9780743203593
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780743203593-M.jpg]]
-
-[[https://openlibrary.org/books/OL6786592M/How_right_you_are_Jeeves][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780743203593&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD The Mating Season (Jeeves, #9)
-:PROPERTIES:
-:Author:   P.G. Wodehouse
-:Added:    [2016-03-05]
-:ISBN:     9781585672318
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781585672318-M.jpg]]
-
-[[https://openlibrary.org/books/OL3581574M/The_mating_season][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781585672318&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Jeeves and the Feudal Spirit (Jeeves, #11)
-:PROPERTIES:
-:Author:   P.G. Wodehouse
-:Added:    [2016-03-05]
-:ISBN:     9781585672295
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781585672295-M.jpg]]
-
-[[https://openlibrary.org/books/OL3581974M/Jeeves_and_the_feudal_spirit][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781585672295&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Thank You, Jeeves (Jeeves, #5)
-:PROPERTIES:
-:Author:   P.G. Wodehouse
-:Added:    [2016-03-05]
-:ISBN:     9780393345995
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780393345995-M.jpg]]
-
-[[https://openlibrary.org/books/OL29662897M/Thank_You_Jeeves][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780393345995&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Aunts Aren't Gentlemen (Jeeves, #15)
-:PROPERTIES:
-:Author:   P.G. Wodehouse
-:Added:    [2016-03-05]
-:ISBN:     9780140041927
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780140041927-M.jpg]]
-
-[[https://openlibrary.org/books/OL7346402M/Aunts_Aren't_Gentlemen][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780140041927&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Joy in the Morning (Jeeves, #8)
-:PROPERTIES:
-:Author:   P.G. Wodehouse
-:Added:    [2016-03-05]
-:ISBN:     9780393339444
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780393339444-M.jpg]]
-
-[[https://openlibrary.org/books/OL25108911M/Joy_in_the_morning][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780393339444&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Stiff Upper Lip, Jeeves (Jeeves, #13)
-:PROPERTIES:
-:Author:   P.G. Wodehouse
-:Added:    [2016-03-05]
-:ISBN:     9781841591056
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781841591056-M.jpg]]
-
-[[https://openlibrary.org/books/OL8920758M/Stiff_Upper_Lip_Jeeves][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781841591056&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Very Good, Jeeves! (Jeeves, #4)
-:PROPERTIES:
-:Author:   P.G. Wodehouse
-:Added:    [2016-03-05]
-:ISBN:     9780393339796
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780393339796-M.jpg]]
-
-[[https://openlibrary.org/books/OL25108912M/Very_good_Jeeves!][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780393339796&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD The Code of the Woosters (Jeeves, #7)
-:PROPERTIES:
-:Author:   P.G. Wodehouse
-:Added:    [2016-03-05]
-:ISBN:     9780393339819
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780393339819-M.jpg]]
-
-[[https://openlibrary.org/books/OL25108913M/The_code_of_the_Woosters][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780393339819&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 * READ Infinity Welcomes Careful Drivers (Red Dwarf, #1)
@@ -4765,21 +4300,6 @@ that do it.
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780307593313&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD On Basilisk Station (Honor Harrington, #1)
-:PROPERTIES:
-:Author:   David Weber
-:Added:    [2016-02-16]
-:ISBN:     9781416509370
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781416509370-M.jpg]]
-
-[[https://openlibrary.org/books/OL24966311M/On_Basilisk_Station][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781416509370&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
 * TOREAD The Predicates of Fate
 :PROPERTIES:
 :Author:   V.A. Hezaran
@@ -4792,51 +4312,6 @@ that do it.
 [[https://covers.openlibrary.org/b/ISBN/9781771550840-M.jpg]]
 
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9781771550840&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Rama II (Rama #2)
-:PROPERTIES:
-:Author:   Arthur C. Clarke, Gentry Lee
-:Added:    [2016-02-18]
-:ISBN:     9782290032046
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9782290032046-M.jpg]]
-
-[[https://openlibrary.org/books/OL8910551M/Rama_II][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9782290032046&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD The Garden of Rama (Rama, #3)
-:PROPERTIES:
-:Author:   Arthur C. Clarke, Gentry Lee
-:Added:    [2016-02-18]
-:ISBN:     9781857230215
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781857230215-M.jpg]]
-
-[[https://openlibrary.org/books/OL52969742M/The_Garden_of_Rama][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781857230215&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Rama Revealed (Rama, #4)
-:PROPERTIES:
-:Author:   Arthur C. Clarke, Gentry Lee
-:Added:    [2016-02-18]
-:ISBN:     9781857232523
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781857232523-M.jpg]]
-
-[[https://openlibrary.org/books/OL19810207M/Rama_revealed][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781857232523&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 * TOREAD The Martian Chronicles
@@ -5001,21 +4476,6 @@ That makes 3.5 stars.  I'll be generous and round to 4.
 
 [[https://openlibrary.org/books/OL7928295M/The_Corporation][Open Library]] \\
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780743247467&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD The Children of the Sky (Zones of Thought, #3)
-:PROPERTIES:
-:Author:   Vernor Vinge
-:Added:    [2016-02-23]
-:ISBN:     9780312875626
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780312875626-M.jpg]]
-
-[[https://openlibrary.org/books/OL25086649M/The_children_of_the_sky][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780312875626&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 * TOREAD Something Wicked This Way Comes
@@ -5578,21 +5038,6 @@ CLOSED: [2015-12-10]
 Not as good as The Naked Sun, but not bad.  The usual cardboard characters
 and awful dialogue, but with a certain redeeming world-building charm.
 
-* TOREAD The Martian
-:PROPERTIES:
-:Author:   Andy Weir
-:Added:    [2015-11-20]
-:ISBN:     9780804139021
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780804139021-M.jpg]]
-
-[[https://openlibrary.org/books/OL32815550M/The_Martian][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780804139021&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
 * READ Les Misérables
 :PROPERTIES:
 :Author:   Victor Hugo, Charles E. Wilbour, Laurence M. Porter
@@ -6018,36 +5463,6 @@ survive this whole ordeal.
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780553269819&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Preacher, Volume 4: Ancient History
-:PROPERTIES:
-:Author:   Garth Ennis, Carlos Ezquerra, Steve Dillon
-:Added:    [2015-05-01]
-:ISBN:     9781852869144
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781852869144-M.jpg]]
-
-[[https://openlibrary.org/books/OL8976643M/Preacher][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781852869144&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Preacher, Volume 6: War in the Sun
-:PROPERTIES:
-:Author:   Garth Ennis, Steve Dillon, Peter Snejbjerg
-:Added:    [2015-05-01]
-:ISBN:     9781563894909
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781563894909-M.jpg]]
-
-[[https://openlibrary.org/books/OL23049155M/Preacher][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781563894909&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
 * TOREAD Joker
 :PROPERTIES:
 :Author:   Brian Azzarello, Lee Bermejo
@@ -6106,126 +5521,6 @@ survive this whole ordeal.
 
 [[https://openlibrary.org/books/OL17987382M/The_Sirens_of_Titan][Open Library]] \\
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780385333498&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Preacher, Book 5
-:PROPERTIES:
-:Author:   Garth Ennis, Steve Dillon
-:Added:    [2015-05-01]
-:ISBN:     9781401232504
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781401232504-M.jpg]]
-
-[[https://openlibrary.org/books/OL25242293M/Preacher_Book_Five][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781401232504&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Preacher, Volume 8: All Hell's a-Coming
-:PROPERTIES:
-:Author:   Garth Ennis, Steve Dillon, John McCrea
-:Added:    [2015-05-01]
-:ISBN:     9781563896170
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781563896170-M.jpg]]
-
-[[https://openlibrary.org/books/OL23049131M/Preacher][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781563896170&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Preacher, Volume 2: Until the End of the World
-:PROPERTIES:
-:Author:   Garth Ennis, Steve Dillon
-:Added:    [2015-05-01]
-:ISBN:     9781563893124
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781563893124-M.jpg]]
-
-[[https://openlibrary.org/books/OL23049149M/Preacher][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781563893124&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Preacher, Volume 9: Alamo
-:PROPERTIES:
-:Author:   Garth Ennis
-:Added:    [2015-05-01]
-:ISBN:     9781563897153
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781563897153-M.jpg]]
-
-[[https://openlibrary.org/books/OL23074870M/Preacher][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781563897153&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Preacher, Volume 3: Proud Americans
-:PROPERTIES:
-:Author:   Garth Ennis, Steve Dillon, Penn Jillette
-:Added:    [2015-05-01]
-:ISBN:     9781563893278
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781563893278-M.jpg]]
-
-[[https://openlibrary.org/books/OL22300202M/Proud_Americans][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781563893278&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Preacher, Volume 7: Salvation
-:PROPERTIES:
-:Author:   Garth Ennis, Steve Dillon
-:Added:    [2015-05-01]
-:ISBN:     9781563895197
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781563895197-M.jpg]]
-
-[[https://openlibrary.org/books/OL23049144M/Preacher][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781563895197&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Preacher, Volume 5: Dixie Fried
-:PROPERTIES:
-:Author:   Garth Ennis, Steve Dillon
-:Added:    [2015-05-01]
-:ISBN:     9781563894282
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781563894282-M.jpg]]
-
-[[https://openlibrary.org/books/OL23049138M/Preacher][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781563894282&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Preacher, Volume 1: Gone to Texas
-:PROPERTIES:
-:Author:   Garth Ennis, Steve Dillon
-:Added:    [2015-05-01]
-:ISBN:     9781563892615
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781563892615-M.jpg]]
-
-[[https://openlibrary.org/books/OL576963M/Preacher][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781563892615&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 * TOREAD Foucault’s Pendulum
@@ -6305,7 +5600,7 @@ CLOSED: [2015-03-29]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780465026562&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Atlas Shrugged
+* TOREAD Atlas Shrugged
 :PROPERTIES:
 :Author:   Ayn Rand, Leonard Peikoff
 :Added:    [2015-03-11]
@@ -6676,36 +5971,6 @@ be reading the sequels.
 
 [[https://openlibrary.org/books/OL25550868M/Chasm_City][Open Library]] \\
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780441010646&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Absolution Gap (Revelation Space, #3)
-:PROPERTIES:
-:Author:   Alastair Reynolds
-:Added:    [2014-07-28]
-:ISBN:     9780441012916
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780441012916-M.jpg]]
-
-[[https://openlibrary.org/books/OL30128096M/Absolution_Gap][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780441012916&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Redemption Ark (Revelation Space, #2)
-:PROPERTIES:
-:Author:   Alastair Reynolds, Chris     Moore
-:Added:    [2014-07-28]
-:ISBN:     9780441011735
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780441011735-M.jpg]]
-
-[[https://openlibrary.org/books/OL24218132M/Redemption_ark][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780441011735&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 * TOREAD Revelation Space (Revelation Space #1)
@@ -7080,22 +6345,6 @@ be reading the sequels.
 
 [[https://openlibrary.org/books/OL7282927M/The_Third_Chimpanzee][Open Library]] \\
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780060845506&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* READ The Last Question
-:PROPERTIES:
-:Author:   Isaac Asimov, Bob E. Flick, Jim Gallant
-:Added:    [2014-08-18]
-:ISBN:     9781884214493
-:Rating:   :star::star::star::star:
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781884214493-M.jpg]]
-
-[[https://openlibrary.org/books/OL31840207M/The_Last_Question][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781884214493&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 * TOREAD In Defense of Food: An Eater's Manifesto
@@ -8903,36 +8152,6 @@ of how the murders were done, rather than who did them.
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780198547525&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Right Ho, Jeeves (Jeeves, #6)
-:PROPERTIES:
-:Author:   P.G. Wodehouse
-:Added:    [2014-07-05]
-:ISBN:     9780393339789
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780393339789-M.jpg]]
-
-[[https://openlibrary.org/books/OL25108910M/Right_Ho_Jeeves][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780393339789&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Carry On, Jeeves (Jeeves, #3)
-:PROPERTIES:
-:Author:   P.G. Wodehouse
-:Added:    [2014-07-05]
-:ISBN:     9781585673926
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781585673926-M.jpg]]
-
-[[https://openlibrary.org/books/OL3708706M/Carry_on_Jeeves][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781585673926&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
 * TOREAD The Inimitable Jeeves (Jeeves, #2)
 :PROPERTIES:
 :Author:   P.G. Wodehouse
@@ -8993,126 +8212,6 @@ CLOSED: [2014-07-03]
 
 [[https://openlibrary.org/books/OL7288609M/Coraline][Open Library]] \\
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780061139376&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD The Hydrogen Sonata (Culture, #10)
-:PROPERTIES:
-:Author:   Iain M. Banks
-:Added:    [2014-07-01]
-:ISBN:     9780356501505
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780356501505-M.jpg]]
-
-[[https://openlibrary.org/books/OL28137541M/The_Hydrogen_Sonata][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780356501505&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Surface Detail (Culture, #9)
-:PROPERTIES:
-:Author:   Iain M. Banks
-:Added:    [2014-07-01]
-:ISBN:     9780316123402
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780316123402-M.jpg]]
-
-[[https://openlibrary.org/books/OL24500323M/Surface_Detail][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780316123402&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Matter (Culture, #8)
-:PROPERTIES:
-:Author:   Iain M. Banks
-:Added:    [2014-07-01]
-:ISBN:     9781841494180
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781841494180-M.jpg]]
-
-[[https://openlibrary.org/books/OL27078660M/Matter][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781841494180&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Look to Windward (Culture, #7)
-:PROPERTIES:
-:Author:   Iain M. Banks
-:Added:    [2014-07-01]
-:ISBN:     9780743421928
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780743421928-M.jpg]]
-
-[[https://openlibrary.org/books/OL3707942M/Look_to_windward][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780743421928&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Inversions (Culture, #6)
-:PROPERTIES:
-:Author:   Iain M. Banks
-:Added:    [2014-07-01]
-:ISBN:     9780743411967
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780743411967-M.jpg]]
-
-[[https://openlibrary.org/books/OL26972638M/Inversions][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780743411967&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Excession (Culture, #5)
-:PROPERTIES:
-:Author:   Iain M. Banks
-:Added:    [2014-07-01]
-:ISBN:     9780553575378
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780553575378-M.jpg]]
-
-[[https://openlibrary.org/books/OL16857444M/Excession][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780553575378&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD The State of the Art (Culture, #4)
-:PROPERTIES:
-:Author:   Iain M. Banks
-:Added:    [2014-07-01]
-:ISBN:     9781597800747
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781597800747-M.jpg]]
-
-[[https://openlibrary.org/books/OL8895438M/The_State_Of_The_Art][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781597800747&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Use of Weapons (Culture, #3)
-:PROPERTIES:
-:Author:   Iain M. Banks
-:Added:    [2014-07-01]
-:ISBN:     9781857231359
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781857231359-M.jpg]]
-
-[[https://openlibrary.org/books/OL22109755M/Use_of_weapons][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781857231359&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 * TOREAD The Player of Games (Culture, #2)
@@ -10079,36 +9178,6 @@ CLOSED: [2014-06-21]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780802140142&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD The System of the World (The Baroque Cycle, #3)
-:PROPERTIES:
-:Author:   Neal Stephenson
-:Added:    [2014-06-16]
-:ISBN:     9780060750862
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780060750862-M.jpg]]
-
-[[https://openlibrary.org/books/OL7281024M/The_System_of_the_World_(The_Baroque_Cycle_Vol._3)][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780060750862&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD The Confusion (The Baroque Cycle, #2)
-:PROPERTIES:
-:Author:   Neal Stephenson
-:Added:    [2014-06-16]
-:ISBN:     9780060733353
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780060733353-M.jpg]]
-
-[[https://openlibrary.org/books/OL7280564M/The_Confusion_(The_Baroque_Cycle_Vol._2)][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780060733353&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
 * TOREAD Anathem
 :PROPERTIES:
 :Author:   Neal Stephenson
@@ -10898,21 +9967,6 @@ CLOSED: [2025-01-11]
 
 [[https://openlibrary.org/books/OL36939272M/Atomic_Habits_Journal_Tracking][Open Library]] \\
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9798613461172&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Children of Ruin (Children of Time, #2)
-:PROPERTIES:
-:Author:   Adrian Tchaikovsky
-:Added:    [2025-04-06]
-:ISBN:     9781509865857
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9781509865857-M.jpg]]
-
-[[https://openlibrary.org/books/OL28055858M/Children_of_Ruin][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781509865857&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 * TOREAD Mansfield Park
@@ -11735,12 +10789,6 @@ CLOSED: [2017-08-12]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780553155419&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Plutarch's Lives
-:PROPERTIES:
-:Author:   Plutarch
-:Added:    [2025-04-19]
-:END:
-
 * TOREAD The Annals of imperial Rome
 :PROPERTIES:
 :Author:   P. Cornelius Tacitus
@@ -11958,21 +11006,6 @@ CLOSED: [2018-08-08]
 :Author:   Oscar Wilde
 :Added:    [2025-04-19]
 :END:
-
-* TOREAD Effective Java
-:PROPERTIES:
-:Author:   Joshua Bloch
-:Added:    [2025-04-19]
-:ISBN:     9780321356680
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780321356680-M.jpg]]
-
-[[https://openlibrary.org/books/OL20640700M/Effective_Java][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780321356680&jscmd=data&format=json][Open Library Data]]
-#+END_aside
 
 * READ Ivanhoe
 :PROPERTIES:
@@ -12230,21 +11263,6 @@ just tough to slog through.
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9798720402907&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Borges
-:PROPERTIES:
-:Author:   Jorge Luis Borges
-:Added:    [2025-04-21]
-:ISBN:     9780140868487
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780140868487-M.jpg]]
-
-[[https://openlibrary.org/books/OL10098445M/Borges][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780140868487&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
 * TOREAD Do Androids Dream of Electric Sheep Omnibus
 :PROPERTIES:
 :Author:   Philip K. Dick
@@ -12459,4 +11477,49 @@ just tough to slog through.
 
 [[https://openlibrary.org/books/OL37026241M/Percy_Jackson_and_the_Olympians_The_Battle_of_the_Labyrinth][Open Library]] \\
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9781405664417&jscmd=data&format=json][Open Library Data]]
+#+END_aside
+
+* TOREAD Piranesi
+:PROPERTIES:
+:Author:   Susanna Clarke
+:Added:    2025-06-14
+:ISBN:     9788417918484
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/9788417918484-M.jpg]]
+
+[[https://openlibrary.org/books/OL46535148M/Piranesi][Open Library]] \\
+[[https://openlibrary.org/api/books?bibkeys=ISBN:9788417918484&jscmd=data&format=json][Open Library Data]]
+#+END_aside
+
+* TOREAD The Ladies of Grace Adieu and Other Stories
+:PROPERTIES:
+:Author:   Susanna Clarke
+:Added:    2025-06-14
+:ISBN:     9781596912519
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/9781596912519-M.jpg]]
+
+[[https://openlibrary.org/books/OL8892294M/The_Ladies_of_Grace_Adieu_and_Other_Stories][Open Library]] \\
+[[https://openlibrary.org/api/books?bibkeys=ISBN:9781596912519&jscmd=data&format=json][Open Library Data]]
+#+END_aside
+
+* TOREAD Labyrinths
+:PROPERTIES:
+:Author:   Jorge Luis Borges
+:Added:    2025-06-16
+:ISBN:     9780140093131
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/9780140093131-M.jpg]]
+
+[[https://openlibrary.org/books/OL46856373M/Labyrinths][Open Library]] \\
+[[https://openlibrary.org/api/books?bibkeys=ISBN:9780140093131&jscmd=data&format=json][Open Library Data]]
 #+END_aside

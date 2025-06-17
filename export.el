@@ -60,7 +60,7 @@
     (kill-buffer)))
 
 (defun my-org-export-filter-timestamp-function (content backend info)
-  "makes rating into stars"
+  "removes relevant brackets from a timestamp" 
   (when (org-export-derived-backend-p backend 'html)
     (replace-regexp-in-string "&[lg]t;\\|[][]" "" content)))
 
@@ -74,7 +74,7 @@
              'my-org-export-filter-timestamp-function)
 
 (defun my-org-export-filter-rating-function (content backend info)
-  "removes relevant brackets from a timestamp"
+  "makes rating into stars"
   (when (org-export-derived-backend-p backend 'html)
     (replace-regexp-in-string ":star:" "&#x2605;" content)))
 
