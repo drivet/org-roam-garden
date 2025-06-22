@@ -1470,7 +1470,7 @@ CLOSED: [2019-03-13]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780773730137&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ How to Be a Villain: Evil Laughs, Secret Lairs, Master Plans, and More!!! :humour:
+* READ How to Be a Villain: Evil Laughs, Secret Lairs, Master Plans, and More!!! :humorous:
 CLOSED: [2019-03-01]
 :PROPERTIES:
 :Author:   Neil Zawacki, James Dignan
@@ -1487,7 +1487,7 @@ CLOSED: [2019-03-01]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780811846660&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Where's My Jetpack?: A Guide to the Amazing Science Fiction Future That Never Arrived :humour:nonfiction:
+* READ Where's My Jetpack?: A Guide to the Amazing Science Fiction Future That Never Arrived :humorous:nonfiction:
 CLOSED: [2019-02-27]
 :PROPERTIES:
 :Author:   Daniel H. Wilson, Richard Horne
@@ -1545,7 +1545,7 @@ as ever.
 
 This book has a lot of heart. It was lovely.
 
-* READ Romeo and/or Juliet: A Chooseable-Path Adventure        :humour:romance:
+* READ Romeo and/or Juliet: A Chooseable-Path Adventure        :humorous:romance:
 CLOSED: [2019-01-12]
 :PROPERTIES:
 :Author:   Ryan North
@@ -6457,7 +6457,7 @@ be reading the sequels.
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780930289232&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ And Another Thing... (The Hitchhiker's Guide to the Galaxy, #6) :scifi:comedy:
+* READ And Another Thing... (The Hitchhiker's Guide to the Galaxy, #6) :scifi:humorous:
 :PROPERTIES:
 :Author:   Eoin Colfer
 :Added:    [2012-10-12]
@@ -6779,7 +6779,7 @@ very funny book.  It also gives hope to socially awkward men!
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9781932664492&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ The Salmon of Doubt: Hitchhiking the Galaxy One Last Time  :scifi:comedy:
+* READ The Salmon of Doubt: Hitchhiking the Galaxy One Last Time  :scifi:humorous:
 :PROPERTIES:
 :Author:   Douglas Adams
 :Added:    [2012-10-12]
@@ -6875,7 +6875,7 @@ very funny book.  It also gives hope to socially awkward men!
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9781934964385&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ The Long Dark Tea-Time of the Soul (Dirk Gently, #2)     :fantasy:comedy:
+* READ The Long Dark Tea-Time of the Soul (Dirk Gently, #2)     :fantasy:humorous:
 :PROPERTIES:
 :Author:   Douglas Adams
 :Added:    [2012-10-12]
@@ -7099,7 +7099,7 @@ very funny book.  It also gives hope to socially awkward men!
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780141439662&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ So Long, and Thanks for All the Fish (Hitchhiker's Guide to the Galaxy, #4) :scifi:comedy:
+* READ So Long, and Thanks for All the Fish (Hitchhiker's Guide to the Galaxy, #4) :scifi:humorous:
 :PROPERTIES:
 :Author:   Douglas Adams
 :Added:    [2012-10-12]
@@ -8136,7 +8136,7 @@ of how the murders were done, rather than who did them.
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780198547525&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD The Inimitable Jeeves (Jeeves, #2)                     :fiction:comedy:
+* TOREAD The Inimitable Jeeves (Jeeves, #2)                     :fiction:humorous:
 :PROPERTIES:
 :Author:   P.G. Wodehouse
 :Added:    [2014-07-05]
@@ -9068,7 +9068,7 @@ CLOSED: [2014-06-21]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9781401202101&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Lucifer, Vol. 4: The Divine Comedy                      :comic:fantasy:
+* TOREAD Lucifer, Vol. 4: The Divine Humorous                      :comic:fantasy:
 :PROPERTIES:
 :Author:   Mike Carey
 :Added:    [2014-06-17]
@@ -10564,7 +10564,7 @@ CLOSED: [2017-08-12]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:0140442448&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ The Restaurant at the End of the Universe                  :scifi:comedy:
+* READ The Restaurant at the End of the Universe                  :scifi:humorous:
 :PROPERTIES:
 :Author:   Douglas Adams
 :Added:    [2025-04-19]
@@ -10580,7 +10580,7 @@ CLOSED: [2017-08-12]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780330262132&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ The Hitchhiker's Guide to the Galaxy                       :scifi:comedy:
+* READ The Hitchhiker's Guide to the Galaxy                       :scifi:humorous:
 :PROPERTIES:
 :Author:   Douglas Adams
 :Added:    [2025-04-19]
@@ -10596,7 +10596,7 @@ CLOSED: [2017-08-12]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780671432416&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Good Omens                                      :fantasy:religion:comedy:
+* READ Good Omens                                      :fantasy:religion:humorous:
 :PROPERTIES:
 :Author:   Neil Gaiman, Terry Pratchett
 :Added:    [2025-04-19]
@@ -11053,7 +11053,7 @@ story.  The villains want them dead; the heroes are merely impolite.
 [[https://openlibrary.org/api/books?bibkeys=ISBN:0241430976&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Mostly Harmless (Hitchhiker's Guide to the Galaxy, #5)     :scifi:comedy:
+* READ Mostly Harmless (Hitchhiker's Guide to the Galaxy, #5)     :scifi:humorous:
 :PROPERTIES:
 :Author:   Douglas Adams
 :ISBN:     0434009261
