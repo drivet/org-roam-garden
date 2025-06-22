@@ -997,7 +997,7 @@ CLOSED: [2020-02-02]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780375714832&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Circe                                               :fantsy:greekmyth:
+* TOREAD Circe                                               :fantasy:greekmyth:
 :PROPERTIES:
 :Author:   Madeline Miller
 :Added:    [2020-01-21]
@@ -1355,7 +1355,7 @@ CLOSED: [2019-06-16]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780140447552&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Wayne of Gotham                                       :batman:superhero:
+* READ Wayne of Gotham                                       :superhero:
 CLOSED: [2019-05-28]
 :PROPERTIES:
 :Author:   Tracy Hickman
@@ -1436,7 +1436,7 @@ CLOSED: [2019-04-24]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780679760801&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Eternals                                                  :comic:marvel:
+* READ Eternals                                                  :comic:superhero:
 CLOSED: [2019-03-19]
 :PROPERTIES:
 :Author:   Neil Gaiman, John Romita, Jr., Jack Kirby
@@ -2455,7 +2455,7 @@ slow, inexorable journey to Kurtz.  It was quite amazing.
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780375700514&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Marvel 1602                                            :comics:superhero:
+* READ Marvel 1602                                            :comic:superhero:
 :PROPERTIES:
 :Author:   Neil Gaiman, Andy Kubert, Richard Isanove, Peter Sanderson, Todd Klein
 :Added:    [2014-06-17]
@@ -2522,7 +2522,7 @@ it?  Almost every single story in this anthology was like that.
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9781430218333&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ The Sandman: Overture                                   :commics:fantasy:
+* READ The Sandman: Overture                                   :comic:fantasy:
 CLOSED: [2017-01-04]
 :PROPERTIES:
 :Author:   Neil Gaiman, J.H. Williams III, Todd Klein, Dave Stewart
@@ -2729,7 +2729,7 @@ CLOSED: [2016-08-13]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9781844670864&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Batman: Arkham Asylum - A Serious House on Serious Earth :comics:superhero:
+* READ Batman: Arkham Asylum - A Serious House on Serious Earth :comic:superhero:
 CLOSED: [2016-p01-01]
 :PROPERTIES:
 :Author:   Grant Morrison, Dave McKean
@@ -3061,7 +3061,7 @@ CLOSED: [2016-06-08]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780553803709&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD It's Superman!                                       :comics:superhero:
+* TOREAD It's Superman!                                       :comic:superhero:
 :PROPERTIES:
 :Author:   Tom De Haven
 :Added:    [2016-04-30]
@@ -3076,7 +3076,7 @@ CLOSED: [2016-06-08]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780345493927&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Kick-Ass                                               :comics:superhero:
+* READ Kick-Ass                                               :comic:superhero:
 CLOSED: [2016-04-25]
 :PROPERTIES:
 :Author:   Mark Millar, John Romita Jr.
@@ -3093,7 +3093,7 @@ CLOSED: [2016-04-25]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780785132615&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Wanted                                                 :comics:superhero:
+* READ Wanted                                                 :comic:superhero:
 :PROPERTIES:
 :Author:   Mark Millar, J.G. Jones, Dick Giordano, Paul Mounts, Robin Spehar, Dennis Heisler, Mark Roslan, Brian K. Vaughan
 :Added:    [2016-04-28]
@@ -3253,7 +3253,7 @@ CLOSED: [2016-04-13]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780596517748&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Transmetropolitan, Vol. 0: Tales of Human Waste      :comics:cyberpunk:
+* TOREAD Transmetropolitan, Vol. 0: Tales of Human Waste      :comic:cyberpunk:
 :PROPERTIES:
 :Author:   Warren Ellis, Darick Robertson
 :Added:    [2016-04-12]
@@ -3768,7 +3768,7 @@ CLOSED: [2016-03-27]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780789497109&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Two Solitudes                                          :society:canada:
+* TOREAD Two Solitudes                                          :society:canada:quebec:
 :PROPERTIES:
 :Author:   Hugh MacLennan
 :Added:    [2016-03-17]
@@ -5761,7 +5761,7 @@ be reading the sequels.
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780465030781&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Ozma of Oz (Oz, #3)                                        :ya:fatnasy:
+* TOREAD Ozma of Oz (Oz, #3)                                        :ya:fantasy:
 :PROPERTIES:
 :Author:   L. Frank Baum
 :Added:    [2013-01-03]
@@ -7348,7 +7348,7 @@ CLOSED: [2014-06-24]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780380789023&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ V for Vendetta                                    :comic:scifi:dystopian:
+* READ V for Vendetta                                    :comic:scifi:
 :PROPERTIES:
 :Author:   Alan             Moore, David   Lloyd, Steve Whitaker, Siobhan Dodds
 :Added:    [2012-10-15]
