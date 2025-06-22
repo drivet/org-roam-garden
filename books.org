@@ -11396,7 +11396,7 @@ just tough to slog through.
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780395520215&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Animal Farm                                                     :fiction:politics
+* READ Animal Farm                                                     :fiction:politics:
 :PROPERTIES:
 :Author:   George Orwell
 :Added:    [2025-04-21]
