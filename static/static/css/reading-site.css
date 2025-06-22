@@ -33,3 +33,7 @@
   flex: 0 0 0;
   order: -5;
 }
+
+.outline-text-2 p {
+  width: 100%;
+}
