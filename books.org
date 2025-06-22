@@ -5552,7 +5552,7 @@ survive this whole ordeal.
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9781583672228&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ The Fine Art of Mixing Drinks                                    :drinks:
+* READ The Fine Art of Mixing Drinks                                    :drinking:
 CLOSED: [2015-03-29]
 :PROPERTIES:
 :Author:   David A. Embury
@@ -6271,7 +6271,7 @@ be reading the sequels.
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780684824291&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Malt Whisky Companion                                        :drinking:
+* TOREAD Malt Whisky Companion                                        :ref:drinking:
 :PROPERTIES:
 :Author:   Michael    Jackson
 :Added:    [2014-09-12]
@@ -8106,7 +8106,7 @@ of how the murders were done, rather than who did them.
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780131429017&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD The Hero With a Thousand Faces                                  :pysch:
+* TOREAD The Hero With a Thousand Faces                                  :psych:
 :PROPERTIES:
 :Author:   Joseph Campbell
 :Added:    [2014-07-05]
@@ -8278,7 +8278,7 @@ CLOSED: [2014-06-28]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780844669038&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Fingers                                                       :ya:mytery:
+* READ Fingers                                                       :ya:mystery:
 :PROPERTIES:
 :Author:   William Sleator
 :Added:    [2014-06-28]
