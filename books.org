@@ -5807,7 +5807,7 @@ be reading the sequels.
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9781416521495&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Our Magnificent Bastard Tongue: The Untold History of English :liguistics:
+* TOREAD Our Magnificent Bastard Tongue: The Untold History of English :linguistics:
 :PROPERTIES:
 :Author:   John McWhorter
 :Added:    [2013-07-01]
