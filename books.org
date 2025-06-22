@@ -70,7 +70,7 @@ CLOSED: [2025-05-25 Sun 21:27]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780120000319&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ The Neverending Story                                       :fantasy:ya:
+* READ The Neverending Story                            :fantasy:ya:translation:
 CLOSED: [2025-03-06]
 :PROPERTIES:
 :Author:   Michael Ende, Ralph Manheim
@@ -562,7 +562,7 @@ CLOSED: [2024-01-03]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780593138519&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ My Man Jeeves (Jeeves, #1)                              :classic:humour:
+* READ My Man Jeeves (Jeeves, #1)                              :classic:humorous:
 CLOSED: [2023-08-19]
 :PROPERTIES:
 :Author:   P.G. Wodehouse
@@ -2167,7 +2167,7 @@ CLOSED: [2017-09-26]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9781627790369&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD ISIS: The State of Terror                             :society:poltics:
+* TOREAD ISIS: The State of Terror                             :society:politics:
 :PROPERTIES:
 :Author:   Jessica Stern, J.M. Berger
 :Added:    [2017-03-25]
@@ -2790,7 +2790,7 @@ though the fact of that is somewhat of a twist ending.
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780321601919&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD It Can't Happen Here                                  :fiction:poltics:
+* TOREAD It Can't Happen Here                                  :fiction:politics:
 :PROPERTIES:
 :Author:   Sinclair Lewis
 :Added:    [2016-07-06]
@@ -2822,7 +2822,7 @@ CLOSED: [2016-07-06]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780553273816&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD The Unseen War in Europe: Espionage and Conspiracy in the Second World War :poltics:history:
+* TOREAD The Unseen War in Europe: Espionage and Conspiracy in the Second World War :politics:history:
 :PROPERTIES:
 :Author:   John H. Waller
 :Added:    [2016-06-25]
@@ -3268,7 +3268,7 @@ CLOSED: [2016-04-13]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9781401202446&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD The Prince                                            :classic:poltics:
+* TOREAD The Prince                                            :classic:politics:
 :PROPERTIES:
 :Author:   Niccolò Machiavelli, Rufus Goodwin, Benjamin Martinez, W.K. Marriott, Denis Daly, Μαρία Κασωτάκη
 :Added:    [2014-07-09]
@@ -4987,7 +4987,7 @@ CLOSED: [2015-12-14]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9781401256845&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Islam and the Future of Tolerance: A Dialogue               :relisgion:
+* TOREAD Islam and the Future of Tolerance: A Dialogue               :religion:
 :PROPERTIES:
 :Author:   Sam Harris, Maajid Nawaz
 :Added:    [2015-12-11]
@@ -6181,7 +6181,7 @@ be reading the sequels.
 [[https://openlibrary.org/api/books?bibkeys=ISBN:0785342896855&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Wiring a House (For Pros By Pros) :reference:
+* TOREAD Wiring a House (For Pros By Pros) :ref:
 :PROPERTIES:
 :Author:   Rex Cauldwell
 :Added:    [2015-01-08]
@@ -7170,7 +7170,7 @@ her father.  I *liked* Darcy.  I didn't really like anyone in Emma.
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9781579126278&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Wicked: The Life and Times of the Wicked Witch of the West (The Wicked Years, #1) :fantasy:
+* READ Wicked: The Life and Times of the Wicked Witch of the West (The Wicked Years, #1) :fantasy:retelling:
 CLOSED: [2012-12-21]
 :PROPERTIES:
 :Author:   Gregory Maguire, Douglas Smith
@@ -9976,7 +9976,7 @@ CLOSED: [2025-05-20 Tue 20:23]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780806537948&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ The Dark Forest (Remembrance of Earth'ss Past, #2)                :scifi:
+* READ The Dark Forest (Remembrance of Earth'ss Past, #2)    :scifi:translation:
 CLOSED: [2025-04-28 Mon 08:50]
 :PROPERTIES:
 :Author:   Liu Cixin, Joel Martinsen
@@ -10022,7 +10022,7 @@ CLOSED: [2025-04-28 Mon 08:50]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780060652951&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ The Three-Body Problem (Remembrance of Earth's Past, #2)          :scifi:
+* READ The Three-Body Problem (Remembrance of Earth's Past, #2)          :scifi:translation:
 CLOSED: [2023-11-12]
 :PROPERTIES:
 :Author:   Liu Cixi, Ken Liu
@@ -10084,7 +10084,7 @@ CLOSED: [2023-11-12]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780553113402&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Hooked (Wendy, Darling #2)                                      :fantasy:
+* READ Hooked (Wendy, Darling #2)                                      :fantasy:retelling:
 CLOSED: [2023-08-19]
 :PROPERTIES:
 :Author:   A. C. Wise
@@ -11209,7 +11209,7 @@ The book was at its best when describing what the far future might be like,
 even if it seems at the same time to be horribly dated.  But the rest was
 just tough to slog through.
 
-* READ The Cyberiad                                            :scifi:anthology:
+* READ The Cyberiad                                :scifi:anthology:translation:
 :PROPERTIES:
 :Author:   Stanisław Lem
 :Added:    [2025-04-21]
@@ -11364,7 +11364,7 @@ just tough to slog through.
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9781346102832&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Idylls of the King                                            :fantasy:
+* TOREAD Idylls of the King                                            :fantasy:poetry:arthur:
 :PROPERTIES:
 :Author:   Alfred Lord Tennyson
 :Added:    [2025-04-21]
