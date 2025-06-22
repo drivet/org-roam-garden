@@ -2014,7 +2014,7 @@ CLOSED: [2017-12-08]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780812917734&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD A Newfoundlander in Canada: Always Going Somewhere, Always Coming Home :canlit:
+* TOREAD A Newfoundlander in Canada: Always Going Somewhere, Always Coming Home :canada:
 :PROPERTIES:
 :Author:   Alan Doyle
 :Added:    [2017-10-21]
@@ -2029,7 +2029,7 @@ CLOSED: [2017-12-08]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780385686198&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Where I Belong                                                 :canlit:
+* TOREAD Where I Belong                                                 :canada:
 :PROPERTIES:
 :Author:   Alan Doyle
 :Added:    [2017-10-21]
@@ -3768,7 +3768,7 @@ CLOSED: [2016-03-27]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780789497109&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Two Solitudes                                          :society:canlit:
+* TOREAD Two Solitudes                                          :society:canada:
 :PROPERTIES:
 :Author:   Hugh MacLennan
 :Added:    [2016-03-17]
@@ -4940,7 +4940,7 @@ Good book, but feels little mean-spirited at times.
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9781451624458&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD The Morning After: The 1995 Quebec Referendum and the Day that Almost Was :society:canlit:
+* TOREAD The Morning After: The 1995 Quebec Referendum and the Day that Almost Was :society:canada:
 :PROPERTIES:
 :Author:   Chantal Hébert
 :Added:    [2015-12-26]
