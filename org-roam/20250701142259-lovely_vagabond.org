@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       8db5d988-3595-44db-9592-735bea2dbfef
+:END:
+#+date: [2025-07-01 Tue 14:22]
+#+hugo_lastmod: [2025-07-01 Tue 14:22]
+#+title: Lovely (Vagabond)
+
+A [[id:48628120-0934-4297-a064-5d03b62847db][Red ale]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:10fef462-6985-4cb6-9567-f118eff8d583][Vagabond]].
+
+ * Alcohol: 4.1%
+ * Okay, but too hoppy.
+ * 2 star(s)
+

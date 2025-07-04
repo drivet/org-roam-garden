@@ -23,7 +23,7 @@ while because it breaks C-r while searching.
 Can someone enlighten me?
 #+END_QUOTE
 
-And the asnwer:
+And the answer:
 #+BEGIN_QUOTE
 ivy is a generic narrowing framework, like helm, that both swiper and
 counsel use. So, instead of tabbing your way through options in the default

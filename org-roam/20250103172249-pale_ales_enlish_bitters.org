@@ -33,3 +33,5 @@ colour in colour.
  * [[id:532077b0-fa08-40b0-913e-26955af41305][Pale Ale Americaine (Dunham)]]
  * [[id:8b181fd5-6924-474a-a767-f48f7886073f][Mile-Ex Pale Ale (Wills)]]
  * [[id:2c2ff5e5-5bed-4ad6-8099-3b92100af672][Apriknot (4 Origines)]]
+ * [[id:f41f8df2-7571-48cd-be2c-ebb08fc26721][B Miniscule (La Barberie)]]
+ * [[id:b853832a-d091-4e7a-afdf-305597ab4669][Honey Brown (Louks)]]

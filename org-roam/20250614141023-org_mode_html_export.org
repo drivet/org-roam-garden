@@ -32,7 +32,8 @@ Settings are set in various ways:
 Not all content is exported by default.  And sometimes more content is
 exported than you want.
 
-Extra content you make want to kill:
+Extra content you may want to kill:
+
  * Table of contents (toc:nil in OPTIONS)
  * Numbers headings (num:nil in OPTIONS)
 
@@ -45,21 +46,24 @@ Content that you may want to include:
 *** Verbatim content
 
 Use the "#+BEGIN_EXPORT HTML" section to have content sent to the output
-with no modification.
+with no modification.  I use this to copy over a "front matter" section to
+the exported content, even though, ironically, the front matter is not in
+HTML.
 
 ** Wrapped content
 
 You can use a structure like this: ~#+BEGIN_X~ and ~#+END_X~ to wrap content
-in a HTML tag.  If the tag doesn't exist it'll use a div with a class.
+in a HTML X tag.  If the tag doesn't exist it'll use a div with a class
+called X.
 
 You can add attributes to the tag with ~#+ATTR_HTML~.
 
 ** Filters
 
-An [[https://orgmode.org/manual/Advanced-Export-Configuration.html#Filters-1][org mode filter]] is a way fine tuning the export process.  There's a
+An [[https://orgmode.org/manual/Advanced-Export-Configuration.html#Filters-1][org mode filter]] is a way to fine tuning the export process.  There's a
 function for every "piece" of the org mode syntax tree.  That is a bit hard
-to follow sometimes because there's no much documentation on what each piece
-means.
+to follow sometimes because there's not much documentation on what each
+piece means.
 
 For example, in my book export system, I wanted to remove timestamps
 brackets (angled, square) from the result.  But my timestamps appears in

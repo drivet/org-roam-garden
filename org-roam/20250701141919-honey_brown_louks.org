@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       b853832a-d091-4e7a-afdf-305597ab4669
+:END:
+#+date: [2025-07-01 Tue 14:19]
+#+hugo_lastmod: [2025-07-01 Tue 14:19]
+#+title: Honey Brown (Louks)
+
+A [[id:9d43b8e2-613f-47d0-a5d4-275a1ee8962e][Honey Brown Ale]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:a198156f-c2ab-44c4-8e9d-c6c01a0d6754][Louks]].
+
+ * Alcohol: 6%
+ * Okay, but too sweet
+ * 2 star(s)
+
