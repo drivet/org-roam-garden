@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f9046198-ca6b-4891-9744-ecd9bb6d2bb1
+:END:
+#+date: [2025-07-06 Sun 22:31]
+#+hugo_lastmod: [2025-07-06 Sun 22:31]
+#+title: Typescript
+
+** Project structure with tsconfig.json
+
+The ~rootDir~ config defines the root of all source files.  By default this
+is the longest common path of all non-declaration input files.
+
+The structure under ~rootDir~ will be preserved in the output directory.
+Relative imports are relative to this directory.
+
+The ~include~ config will define more specifically which files should be
+included.  You could include all *.ts files here for example.
+
+If ~include~ pulls in files that are not in ~rootDir~, you will get an
+error.  But presumably you could stash files under ~rootDir~ that the
+~include~ parameters does not pull in, and that would not be an error.
