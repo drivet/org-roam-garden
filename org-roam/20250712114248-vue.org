@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       d7439db7-fe43-48bc-8b4c-1d8975196e8a
+:END:
+#+date: [2025-07-12 Sat 11:42]
+#+hugo_lastmod: [2025-07-12 Sat 11:42]
+#+title: Vue
+
+[[id:74fe4896-3281-4665-8051-556ce8eca8b5][Software Development]]
+
+Use Vue as an open source, Meta and Zuckerberg free alternative to React.
+
+Tempted by Svelte as well, but Svelte seems for closely coupled with the
+vite bundler (i.e. SvelteKit *needs* vite) and that turns me off a bit.  So
+Vue it is.
+
+I'm currently trying it out with Parcel, but there's a mismatch in versions
+between the template compiler and the main program.
+
+**Note that this appears to be because I'm using Parcel 1.  If I use Parcel
+2, and install vue separately, then things seems to work.**
+
+** Vue 2 versus 3
+
+Vue 3 came out in 2020, so at the time of this writing, about 5 years ago.
+Probably time we used it.
+
+ * Vue 3 has better Typescript support.
+ * Vue 3 has the composition API
+
+** Single File Components
+
+Not sure if Single File Components (SFC) were introduced in Vue 3 but this
+is a pattern where the template, code and styling are all in one file -
+contrasted with the Angular approach of splitting these aspects into
+different files.
+
+** Parcel
+
+You need to use Vue 3 with Parcel if you want to use SFCs.

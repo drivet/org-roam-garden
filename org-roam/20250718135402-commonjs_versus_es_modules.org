@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       66615507-d59c-47eb-8492-cb9187062d1b
+:END:
+#+date: [2025-07-18 Fri 13:54]
+#+hugo_lastmod: [2025-07-18 Fri 13:54]
+#+title: CommonJS versus ES Modules
+
+These are competing [[id:de508103-e007-4aa0-8bfc-a290428f543f][Javascript]] module systems.
+
+In the beginning there was CommonJS.  This is the old, familiar module
+system that they used on Node.  You recognize it by the all the ~require~
+calls at the top of your file and the ~module.exports~ section at the
+bottom.
+
+
+ES(6?) modules are the newer Javascript standard.  They are supported in Node
+past version 8, but not by default.  You have to turn them on by either:
+
+ * Using an *.mjs extension or
+ * Using ~type: module~ in your package.json.
+
+Pretty simple, actually.  It's when you add [[id:f9046198-ca6b-4891-9744-ecd9bb6d2bb1][Typescript]] to the mix that
+things get super hairy.

@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       f3e2f7da-4141-4c06-aef0-576b3e1031b9
+:END:
+#+date: [2025-07-15 Tue 08:12]
+#+hugo_lastmod: [2025-07-15 Tue 08:12]
+#+title: Typescript Linting
+
+It can be a bit daunting to set up linting and formatting for [[id:f9046198-ca6b-4891-9744-ecd9bb6d2bb1][Typescript]].
+I'll trying a summarize the state of things here - by which I mean,
+summarize what we use at Unity, which seems to do the trick.
+
+First, make a distinction between linters and formatters.
+
+ * Linters flag possible bugs and bad practices
+ * Formatters fix your code to conform to style guides.
+
+First, use [[https://eslint.org/][eslint]] for linting.  This is a [[id:de508103-e007-4aa0-8bfc-a290428f543f][Javascript]] linter that has been
+updated to support Typescript.
+
+Next, use [[https://prettier.io/][prettier]] for formatting.  It's opinionated and generally good.
+
+Note that eslint can also do formatting There is therefore some overlap
+between these tools, so you have to set them up in such a way that they
+don't conflict.

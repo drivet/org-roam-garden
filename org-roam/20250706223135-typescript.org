@@ -5,7 +5,7 @@
 #+hugo_lastmod: [2025-07-06 Sun 22:31]
 #+title: Typescript
 
-** Project structure with tsconfig.json
+** Project Structure With tsconfig.json
 
 The ~rootDir~ config defines the root of all source files.  By default this
 is the longest common path of all non-declaration input files.
@@ -19,3 +19,34 @@ included.  You could include all *.ts files here for example.
 If ~include~ pulls in files that are not in ~rootDir~, you will get an
 error.  But presumably you could stash files under ~rootDir~ that the
 ~include~ parameters does not pull in, and that would not be an error.
+
+** Targets and Modules
+
+Typescript adopts the ES6 module *syntax* exclusively.  But nothing runs
+Typescript directly; it must be transpiled to Javascript for anything to
+run, so the question arises: what module system will the output Javascript
+file use?  And related: what version of Javascript will it use?
+
+Specifying the ~target~ in ~tsconfig.json~ will define what version of
+Javascript the output will be, in terms of language features.  Lots of
+choices here but ~es3~, ~es5~ and ~es6~ are popular ones.  Default is es5.
+
+Next, you specify the module system the output will use, with the ~module~
+field in ~tsconfig.json~.  Several options here but if you're targeting
+node, then you'll probably want commonjs or es6.  Default is commonjs if the
+target is es5, otherwise es6.
+
+Interesting combinations:
+
+ * target: es6, module: es6.  Everything looks modern.
+ * target: es5. module: commonjs.  Everything is old fashioned, with
+   requires for modules.
+ * target: es6, module: commonjs.  New language feature with old-fashioned
+   ~require~ based module system
+ * target: es5, module: es6.  This one is a bit odd.  This means an old
+   fashioned set of language feature with new import/export syntax.  Not
+   sure why you would do this, or in what context this would work.
+
+You can also specify a ~moduleResolution~ field, but I don't think I've ever
+used anything but node here.
+
