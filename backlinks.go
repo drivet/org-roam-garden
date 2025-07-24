@@ -26,7 +26,7 @@ func stripQuotes(str string) string {
 
 // strips quotes plus the .org at the end, the trims the abs root
 func cleanFile(root string, str string) string {
-	return strings.TrimLeft(str[1:(len(str)-5)], fmt.Sprintf("%s/%s", root, OrgRoamRoot))
+	return strings.TrimPrefix(str[1:(len(str)-5)], fmt.Sprintf("%s/%s", root, OrgRoamRoot))
 }
 
 func saveBacklinks(db *sql.DB, root string, file string, file2bl map[string][]Backlink) {
