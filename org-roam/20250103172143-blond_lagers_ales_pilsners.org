@@ -32,9 +32,13 @@ be the main attraction.
  * [[id:1bb5ca64-bd67-4e0c-81f4-0a0526fbd867][Wimbledon British Golden Ale]]
  * [[id:50724227-e3cf-43c7-b88f-f8a951a54df2][Nasko Pivo (Nano Cinco)]]
  * [[id:c3737478-a408-490d-9de3-e4e18a1cc58d][Bright Lager (Wills)]]
+ * [[id:dc6ce08a-8277-49f2-b385-c9a00da3ed7c][Festive Pilsner (Brasseurs Du Monde)]]
+ * [[id:bcac7e12-e001-4c45-b90a-95d1a4ecefc3][Kolsch (Livingstone Brewing)]]
+ * [[id:285485a0-efb6-4134-b526-d397d598cece][Citadin (5e Baron)]]
    
 *** Worst rated (worst first)
 
+ * [[id:4140f61d-f6df-4545-87ac-a5479b1b5183][Pic de l'Ours (Bieres des Cantons)]]
  * [[id:97c82029-b5fe-42fc-8a09-ee1b6a8c6130][Les Jardins (Albion)]]
  * [[id:4f0ddd0f-5bf4-457b-afa8-77cb39d75ff9][Blonde (Alchimiste)]]
  * [[id:f834bf5f-7fae-4e99-999f-f0c109226345][Cai Men Men (Pilsner Atypique)]]

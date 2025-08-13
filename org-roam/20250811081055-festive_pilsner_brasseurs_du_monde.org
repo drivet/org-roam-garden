@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       dc6ce08a-8277-49f2-b385-c9a00da3ed7c
+:END:
+#+date: [2025-08-11 Mon 08:10]
+#+hugo_lastmod: [2025-08-11 Mon 08:10]
+#+title: Festive Pilsner (Brasseurs Du Monde)
+
+A [[id:955adb37-99eb-4cef-929d-698d9fcb8b6d][Pilsner]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:b118465b-10c7-440a-8d42-8cb973358075][Brasseurs Du Monde]].
+
+ * Alcohol: 4.9%
+ * Standard pilsner.  Refreshing.  Not too bitter.
+ * 3 star(s)
+

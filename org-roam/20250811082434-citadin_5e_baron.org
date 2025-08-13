@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       285485a0-efb6-4134-b526-d397d598cece
+:END:
+#+date: [2025-08-11 Mon 08:24]
+#+hugo_lastmod: [2025-08-11 Mon 08:24]
+#+title: Citadin (5e Baron)
+
+A [[id:955adb37-99eb-4cef-929d-698d9fcb8b6d][Czech Pilsner]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:3274f272-9b38-4f8a-9d4e-8bdce5aa59d3][5e Baron]].
+
+ * Alcohol: 4.5%
+ * Typical pilsner, very drinkable but maybe a little boring.
+ * 3 star(s)
+

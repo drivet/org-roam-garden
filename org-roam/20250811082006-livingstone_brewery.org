@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       7fa22280-ce26-408c-99b4-110fbc017b31
+:END:
+#+date: [2025-08-11 Mon 08:20]
+#+hugo_lastmod: [2025-08-11 Mon 08:20]
+#+title: Livingstone Brewery
+
+A brewery in Covey Hill, Quebec

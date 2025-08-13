@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       bcac7e12-e001-4c45-b90a-95d1a4ecefc3
+:END:
+#+date: [2025-08-11 Mon 08:19]
+#+hugo_lastmod: [2025-08-11 Mon 08:19]
+#+title: Kolsch (Livingstone Brewing)
+
+A [[id:955adb37-99eb-4cef-929d-698d9fcb8b6d][Kolsch]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:7fa22280-ce26-408c-99b4-110fbc017b31][Livingstone Brewery]].
+
+ * Alcohol: 4%
+ * Typical Kolsch, very drinkable
+ * 3 star(s)
+
