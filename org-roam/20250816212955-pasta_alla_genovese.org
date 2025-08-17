@@ -1,0 +1,84 @@
+:PROPERTIES:
+:ID:       ea541a65-bfd9-47e2-afb8-96995c42c858
+:END:
+#+date: [2025-08-16 Sat 21:29]
+#+hugo_lastmod: [2025-08-16 Sat 21:29]
+#+title: Pasta alla Genovese
+#+filetags:
+
+[[id:3a1caf2c-7854-4cf0-bb11-bb7806618c36][Recipes]]
+
+Absolutely delicious Neopolitan onion beef sauce, tough to find in restaurants 
+
+Source: https://www.seriouseats.com/pasta-alla-genovese-neapolitan-beef-ragu
+
+Yield: 4-6 servings
+
+** Ingredients
+
+ * 1 1/2 pounds (700 g) boneless beef chuck roast, trimmed and cut into 4-by-3-inch pieces
+ * Kosher salt and freshly ground black pepper
+ * 1/4 cup (60 g; 60 ml) lard or extra-virgin olive oil (see note)
+ * 3 1/2 ounces (100 g) carrots, peeled and cut into small dice (2 small carrots)
+ * 1 celery rib (75 g), trimmed and cut into small dice
+ * 3 pounds (1.4 kg) yellow or red onions, thinly sliced, divided
+ * 1 tablespoon (15 g) tomato paste
+ * 1 cup (240 ml) dry white wine, divided
+ * 1 bay leaf
+ * 5 ounces (150 g) cherry tomatoes (optional, see note)
+ * 1 pound (450 g) short tubular dried pasta such as ziti, paccheri, or rigatoni (see note)
+ * 1 loosely packed cup (1/2 ounce; 15 g) fresh parsley leaves and tender stems, finely chopped
+ * Finely grated Pecorino Romano
+
+** Instructions
+
+Season beef all over with salt and pepper; set aside and let sit for at
+least 45 minutes before cooking.  Salted raw pieces of beef in a baking pan.
+
+Meanwhile, in a large Dutch oven, heat lard or olive oil over medium-high
+heat until shimmering. Add carrots and celery, and cook, stirring
+occasionally, until softened but not browned, about 5 minutes. Add roughly
+1/3 of the onions (about 1 pound; 450g), season lightly with salt, and
+continue to cook, stirring occasionally, until onions are also softened but
+not browned, about 5 minutes.
+
+Add tomato paste and 1/4 cup (60ml) wine. Use a wooden spoon to stir and
+scrape the bottom and sides of the pot to release any stuck-on bits, then
+spread onion mixture into an even layer covering bottom of the pot. Reduce
+heat to medium-low and add beef, nestling pieces into onion mixture in a
+single layer. Cover beef with remaining onions (about 2 pounds; 900g), add
+bay leaf, season lightly with salt, and cover pot with lid.
+
+Cook, uncovering and stirring occasionally to ensure vegetables and beef
+aren't sticking to bottom of the pot, until onions are very soft and have
+released their moisture, about 1 hour. Adjust heat as needed to maintain a
+gentle, steady simmer, and try to keep a layer of onion mixture between beef
+and bottom of the pot.
+
+Crack lid slightly so that pot is not completely covered and continue to
+cook until beef is tender, offering little resistance when pressed with a
+wooden spoon or poked with a paring knife, about 1 hour and 30 minutes
+longer. Using tongs, remove beef and bay leaf; set beef aside to cool
+slightly and discard bay leaf.
+
+Add remaining 3/4 cup (180ml) wine and cherry tomatoes (if using) to onion
+mixture and bring to a simmer over medium-low heat. Once beef is cool enough
+to handle, cut into 1 1/2-inch pieces and add back to the pot. Season with
+salt to taste and cook, stirring occasionally, until tomatoes begin to burst
+and mixture is reduced to a saucy braised ragù consistency, about 15
+minutes. You can coax the beef pieces into breaking down slightly by
+prodding them with a wooden spoon, but don't overdo it; the goal is to have
+a mixture of distinct pieces of beef and some shredded bits that meld into
+the sauce.
+
+Meanwhile, in a pot of salted boiling water, cook pasta until just shy of al
+dente (1 to 2 minutes less than the package directs). Using a spider
+skimmer, transfer pasta to the sauce, along with 1/2 cup (120ml) pasta
+cooking water. Alternatively, drain pasta using a colander or fine-mesh
+strainer, making sure to reserve at least 1 cup (240ml) pasta cooking water.
+
+Increase heat to high and cook, stirring rapidly, until pasta is al dente
+and sauce is thickened and coats noodles, 1 to 2 minutes, adding more pasta
+water in 1/4 cup (60ml) increments as needed. Remove from heat, add parsley,
+and stir rapidly to incorporate. Season with salt to taste. Serve
+immediately, passing grated cheese at the table.

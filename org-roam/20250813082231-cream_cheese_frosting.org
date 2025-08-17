@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       c0e0d8a9-afc6-46ab-b3d6-3dba1efedeee
+:END:
+#+date: [2025-08-13 Wed 08:22]
+#+hugo_lastmod: [2025-08-13 Wed 08:22]
+#+title: Cream Cheese Frosting
+#+filetags :dessert:
+
+[[id:3a1caf2c-7854-4cf0-bb11-bb7806618c36][Recipes]]
+
+Very good general purpose cream cheese frosting
+ 
+Source: https://sugarspunrun.com/cream-cheese-frosting/
+
+** Ingredients
+
+ * 1/2 cup (1 stick) unsalted butter softened (113g)
+ * 8 oz cream cheese softened (brick-style, not spreadable) (226g, 1 package)
+ * 1 teaspoon vanilla extract
+ * 1/4 teaspoon salt
+ * 4 cups powdered sugar (500g)
+
+** Instructions
+
+Combine butter and cream cheese in the bowl of a stand mixer (or you may use
+an electric mixer) and beat until creamy, well-combined, and lump-free.
+
+Add vanilla extract and salt and stir well to combine .
+
+With mixer on low, gradually add powdered sugar until completely combined.
+
+Use to frost completely cooled cake or cupcakes.
