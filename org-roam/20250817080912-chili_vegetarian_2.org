@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       bc4984c1-1240-4a51-a425-5beae909bd77
+:END:
+#+date: [2025-08-17 Sun 08:09]
+#+hugo_lastmod: [2025-08-17 Sun 08:09]
+#+title: Chili (Vegetarian #2)
+#+filetags:
+
+[[id:3a1caf2c-7854-4cf0-bb11-bb7806618c36][Recipes]]
+
+Another chili recipe, with diced tomatoes so it's chunkier
+
+** Ingredients
+
+ * 2 28 oz cans diced tomatoes
+ * 1 green pepper, diced
+ * 1 onion, diced
+ * 4 cloves garlic
+ * 2 cans of kidney beans (I use white and red)
+ * 1 package veggie ground round
+ * 6 tablespoons chili powder
+ * 1 tsp salt
+
+
+** Instructions
+
+Rinse beans.  Cook onion, pepper, garlic gently until soft.  Add tomatoes,
+beans, vege ground round, and 3 tablespoons chili powder.  Cook 30 minutes,
+add rest of chili powder.

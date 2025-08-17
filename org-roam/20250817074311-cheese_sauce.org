@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       84065124-ba9e-48e7-b91e-e0bd12a431e9
+:END:
+#+date: [2025-08-17 Sun 07:43]
+#+hugo_lastmod: [2025-08-17 Sun 07:43]
+#+title: Cheese Sauce
+#+filetags: :cheese:vegetarian:
+
+[[id:3a1caf2c-7854-4cf0-bb11-bb7806618c36][Recipes]]
+
+This is a really versatile cheese sauce that I often use with pasta
+
+Source: http://southernfood.about.com/od/cheeserecipes/r/bl30103x.htm
+
+Yield: 2 cups
+
+** Ingredients
+
+ * 3 tablespoons butter
+ * 3 tablespoons flour
+ * 1/2 teaspoon salt
+ * 1/8 teaspoon ground black or white pepper
+  *1 1/2 cups milk
+ * 1 cup grated sharp Cheddar or smoky flavor Cheddar cheese
+
+** Instructions
+
+Melt butter; remove from heat. Stir in flour and seasonings. Gradually add
+milk, stirring until well mixed. Cook over low heat, stirring constantly,
+until thickened and smooth. Cook for 5 minutes longer; add cheese. Stir
+until smooth and well blended. Serve with pasta or vegetables.

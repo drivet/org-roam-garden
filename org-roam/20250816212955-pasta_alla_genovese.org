@@ -4,7 +4,7 @@
 #+date: [2025-08-16 Sat 21:29]
 #+hugo_lastmod: [2025-08-16 Sat 21:29]
 #+title: Pasta alla Genovese
-#+filetags:
+#+filetags: :italian:
 
 [[id:3a1caf2c-7854-4cf0-bb11-bb7806618c36][Recipes]]
 
