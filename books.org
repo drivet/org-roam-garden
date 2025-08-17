@@ -1807,7 +1807,8 @@ CLOSED: [2013-06-30]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9781843911845&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READING Death's End (Remembrance of Earth’s Past, #3)     :scifi:translation:
+* READ Death's End (Remembrance of Earth’s Past, #3)         :scifi:translation:
+CLOSED: [2025-08-17 Sun 10:24]
 :PROPERTIES:
 :Author:   Liu Cixin, Ken Liu
 :Added:    [2018-06-03]
