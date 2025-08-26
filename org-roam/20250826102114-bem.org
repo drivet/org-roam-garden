@@ -1,0 +1,122 @@
+:PROPERTIES:
+:ID:       7680178b-eed9-4c23-84f3-fbdc29947cbc
+:END:
+#+date: [2025-08-26 Tue 10:21]
+#+hugo_lastmod: [2025-08-26 Tue 10:21]
+#+title: BEM
+
+** What is it?
+
+Part of my [[id:febef396-309c-4e2b-8173-61702964472b][Front End Development]] series.
+
+Stands for Block, Element, Modifier.  A methodology and naming convention
+for organizing CSS in medium to large projects.
+
+From https://getbem.com/introduction/
+
+*** Block
+
+Standalone entity that is meaningful on its own.  Examples:
+
+~header~, ~container~, ~menu~, ~checkbox~, ~input~
+
+Encapsulates a standalone entity that is meaningful on its own. While blocks
+can be nested and interact with each other, semantically they remain equal;
+there is no precedence or hierarchy. Holistic entities without DOM
+representation (such as controllers or models) can be blocks as well.
+
+Names are letters, numbers, dashes.  In CSS we use the class name only, not
+the element, tag or id.
+
+*** Element
+
+A part of a block that has no standalone meaning and is semantically tied to
+its block.  Examples:
+
+~menu item~, ~list item~, ~checkbox caption~, ~header title~
+
+In CSS, the element is separated from its block via two underscores, like
+this: ~.block__elem~.
+
+*** Modifier
+
+A flag on a block or element. Use them to change appearance or behaviour.
+Examples:
+
+~disabled~, ~highlighted~, ~checked~, ~fixed~, ~size big~, ~color yellow~
+
+In CSS, the modifier is attached to either the block or the element,
+separated by two dashes, like this:
+
+~.block--mod~, ~.block__elem--mod~
+
+Modifier is an extra class name which you add to a block/element DOM
+node. Add modifier classes only to blocks/elements they modify, and keep the
+original class:
+
+Good:
+
+#+begin_src 
+<div class="block block--mod">...</div>
+<div class="block block--size-big block--shadow-yes">...</div>
+#+end_src
+
+Bad:
+#+begin_src 
+<div class="block--mod">...</div>
+#+end_src
+
+** Why?
+
+It's a way of organizing your HTML elements into *components* in such a way
+that you alter the style of one of them without affecting the others.  A way
+to implement loose coupling in CSS.
+
+** Relationship to Web Components and Shadow DOM
+
+Web Components refer to a set of web native APIs allowing you to create
+self-contained reusable HTML elements with scoped CSS in a *Shadow DOM*.  In
+theory, a web component is reusable in any web framework or even vanilla
+JavaScript.
+
+BEM is essentially an alternative to Web Components - a way of emulating Web
+Components using simple CSS class naming conventions.  A poor man's Web
+Component system, if you will.
+
+** Relationship to Vue (or React, or Angular)
+
+Vue lets you create custom components in a similar fashion to Web
+Components.
+
+Vue components are usually defined in a single *.vue file and that file
+lets you define styles like this:
+
+
+#+begin_src 
+<style scope>
+...
+<style>
+#+end_src
+
+These style are local to the component, much like the Shadow DOM (question:
+is this implemented with the Shadow DOM?)
+
+This runs counter to the way people use BEM - global styles with a naming
+convention that isolates blocks.  Luckily, you can use global styles in Vue
+very easily - just import the CSS file into main.ts (or whatever you've named
+your entry point):
+
+#+begin_src 
+import './assets/main.css'
+#+end_src
+
+You can also use a non-scoped style section in your component like this:
+
+#+begin_src 
+<style>
+...
+<style>
+#+end_src
+
+These styles will be global, and have the advantage that they are local to
+the HTML being defined.

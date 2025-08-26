@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       febef396-309c-4e2b-8173-61702964472b
+:END:
+#+date: [2025-08-26 Tue 10:22]
+#+hugo_lastmod: [2025-08-26 Tue 10:22]
+#+title: Front End Development
+
+Part of a series on [[id:74fe4896-3281-4665-8051-556ce8eca8b5][Software Development]].
+
+
+
