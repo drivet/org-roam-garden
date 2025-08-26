@@ -272,11 +272,13 @@ CLOSED: [2024-09-23]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780140441505&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Piranesi                                                     :fantasy:
+* READ Piranesi                                                        :fantasy:
+CLOSED: [2025-08-26 Tue 12:42]
 :PROPERTIES:
 :Author:   Susanna Clarke
 :Added:    [2024-06-13]
 :ISBN:     9781635575637
+:Rating:   :star::star::star::star:
 :END:
 
 #+BEGIN_aside
@@ -286,6 +288,13 @@ CLOSED: [2024-09-23]
 [[https://openlibrary.org/books/OL28439584M/Piranesi][Open Library]] \\
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9781635575637&jscmd=data&format=json][Open Library Data]]
 #+END_aside
+
+A genuine page turner.  I found this book very hard to put down,
+particularly after the mystery started being revealed.
+
+Plot-focused people might be put off by the relatively thin narrative, but
+in my opinion this is made up for in full by the writing style and "vibe"
+of the book, for lack of a better work.
 
 * READ Leviathan Falls (The Expanse, #9)                              :fantasy:
 CLOSED: [2024-06-02]
