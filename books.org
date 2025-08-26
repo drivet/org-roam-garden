@@ -1813,6 +1813,7 @@ CLOSED: [2025-08-17 Sun 10:24]
 :Author:   Liu Cixin, Ken Liu
 :Added:    [2018-06-03]
 :ISBN:     9780765386632
+:Rating:   :star::star::star:
 :END:
 
 #+BEGIN_aside
