@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       97d687cf-4d9c-4376-97e8-116adae9703c
+:END:
+#+date: [2025-08-29 Fri 16:30]
+#+hugo_lastmod: [2025-08-29 Fri 16:30]
+#+title: Curry Powder
+#+filetags: :spices:indian:vegetarian:vegan:
+
+[[id:3a1caf2c-7854-4cf0-bb11-bb7806618c36][Recipes]]
+
+I know generic curry powder is sometimes frowned upon, but this is a good,
+reliable spice mix that can be used jazz up chickpeas and soups.
+
+Source: 
+
+Yield: 8 Tbsp
+
+** Ingredients
+
+ * 8 tsp Cumin Powder
+ * 7 tsp Coriander Powder
+ * 2 tsp Ginger Powder
+ * 4 tsp Turmeric Powder
+ * 1/2-2 tsp Cayenne Pepper/Chilli Powder
+
+** Instructions
+
+Mix together, store in a jar

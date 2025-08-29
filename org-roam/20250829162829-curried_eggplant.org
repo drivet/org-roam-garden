@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       edc6aa57-a692-44cc-955a-02cd2dfc48c1
+:END:
+#+date: [2025-08-29 Fri 16:28]
+#+hugo_lastmod: [2025-08-29 Fri 16:28]
+#+title: Curried Eggplant
+#+filetags: :eggplant:indian:vegetarian:vegan:
+
+[[id:3a1caf2c-7854-4cf0-bb11-bb7806618c36][Recipes]]
+
+This is a good way to use up a spare eggplant, which happens more often then
+you might imagine if you get a grocery basket delivered on a weekly basis.
+
+Source: 
+
+Yield: 4 servings
+
+** Ingredients
+
+ * 1 medium eggplant, cut into bite sized pieces
+ * 1/2 onion, chopped or minced
+ * 4 cloves garlic, minced
+ * 1 medium tomato, chopped
+ * 4 tbsp vegetable oil
+ * 1/2 tsp salt
+ * 1/2 tsp coriander
+ * 1/2 tsp cumin
+ * 2 tsp garam masala
+ * 1/2 cup water
+
+** Instructions
+
+Heat the oil in a pan.
+
+Fry garlic in oil on medium low for about a minute.
+
+Mix in onion and tomato, fry for 5 minutes.
+
+Mix in spices and salt, fry for 1 minute.
+
+Mix in eggplant, fry for 2 minutes.
+
+Add water, cover simmer for 15 minutes.
+
+Serve over rice.
