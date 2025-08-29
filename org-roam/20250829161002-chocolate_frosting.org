@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       03f3284e-5e27-476f-abda-28ba20bb5c57
+:END:
+#+date: [2025-08-29 Fri 16:10]
+#+hugo_lastmod: [2025-08-29 Fri 16:10]
+#+title: Chocolate Frosting
+#+filetags: :dessert:
+
+[[id:3a1caf2c-7854-4cf0-bb11-bb7806618c36][Recipes]]
+
+Easy, rich chocolate frosting
+
+Source: https://www.foodandwine.com/recipes/moms-chocolate-cake-chocolate-frosting
+
+Yield: 3.5 cups
+
+** Ingredients
+
+ * 1 1/3 cups heavy cream
+ * 1 1/2 cups sugar
+ * 6 ounces unsweetened chocolate, chopped
+ * 1 stick (4 ounces) plus 2 tablespoons unsalted butter
+ * 1 1/2 teaspoons vanilla extract
+ * Pinch of kosher salt
+
+** Instructions
+
+Bring cream and sugar to a boil in a medium saucepan over moderately high
+heat. Reduce heat to low and simmer, stirring occasionally, until liquid
+reduces slightly, about 6 minutes. Pour mixture into a medium bowl and add
+chocolate, butter, vanilla, and salt. Let stand, stirring occasionally,
+until chocolate and butter are melted.
+
+Set bowl in a larger bowl of ice water. Using a hand-held electric mixer,
+beat frosting on medium speed, scraping the sides occasionally with a rubber
+spatula, until thick and glossy and lightened in color, about 10
+minutes. Use at once.

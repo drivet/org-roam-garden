@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       f9d95ec3-d5b1-4ff6-9ec5-792aeeb368a4
+:END:
+#+date: [2025-08-29 Fri 16:22]
+#+hugo_lastmod: [2025-08-29 Fri 16:22]
+#+title: Crusta
+#+filetags: :cocktails:drinks:vegetarian:vegan:
+
+[[id:3a1caf2c-7854-4cf0-bb11-bb7806618c36][Recipes]]
+
+One of my favorite cocktails. It's like a sour, but dialed back a notch so
+that the base spirit shines through.
+
+Yield: 1 serving
+
+** Ingredients
+ * 4 cl Brandy (or Calvados, Whisky, etc.)
+ * 1.5 tsp triple sec
+ * 1 tsp sugar syrup (2-1)
+ * 2 tsp lemon juice
+
+** Instructions
+
+Shake with ice.  Serve in champagne glass.
+
