@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       b863b84f-31fc-41e0-91df-c49a24c9132a
+:END:
+#+date: [2025-08-30 Sat 18:25]
+#+hugo_lastmod: [2025-08-30 Sat 18:25]
+#+title: Pancakes
+#+filetags: :vegetarian:breakfast:
+[[id:3a1caf2c-7854-4cf0-bb11-bb7806618c36][Recipes]]
+
+My go to pancake recipe.  Never failed me.
+
+Yield: 4 servings
+
+** Ingredients
+
+ * 2 cups all-purpose flour
+ * 1 tablespoon sugar
+ * 1 teaspoon salt
+ * 1 tablespoon baking powder
+ * 2 cups milk (or buttermilk, or a combination of the two, as long as it's about 2 cups)
+ * 2 eggs
+ * 1/4 cup oil
+ * 1 teaspoon of vanilla
+  
+** Instructions
+
+Mix dry ingredients, then stir in the wet.  Stir until you have little lumps
+in an otherwise homogeneous mixture.  Ladle bit by bit onto a frying pan
+with non-stick cooking spray.  Cook 1 minute each side on slightly less than
+medium heat.
