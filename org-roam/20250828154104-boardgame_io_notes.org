@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       3cc53612-c352-47a6-bb38-5dbcfabd6ad1
+:END:
+#+date: [2025-08-28 Thu 15:41]
+#+hugo_lastmod: [2025-08-28 Thu 15:41]
+#+title: Boardgame.io Notes
+
+[[https://boardgame.io/][Boardgame.io]] is a [[id:de508103-e007-4aa0-8bfc-a290428f543f][Javascript]] library to help write turn-based games on the
+web.
+
+** Players and the Game Master
+
+You create a client with the game object.  You may or may not pass in a
+multiplayer parameter.
+
+Not using multiplayer basically means that everyone sees the same board, on
+the same physical screen.  There's one client, one rendered board, etc.  You
+could use this way for tic-tac-toe, checkers, chess - any game that doesn't
+really have any secrets and where the player state is public knowledge.
+
+In this kind of setup, a player would make a move and then pass the game
+(tablet? laptop?) to the next player and they would make the next move.
+It's actually quite similar to a real board game.
+
+*** Using multiplayer
+
+You can pass in a multiplayer parameter to the game client and this turns it
+into a multiplayer game.  For this to work you also need to supply a
+playerID to the client.  A client is only attached to one player now -
+without a playerID, the user is considered a spectator, able to watch but
+unable to make moves.
+
+The multiplayer parameter can be ~Local()~, in which case the game master
+runs in the browser.  You'll need to render a different client per player,
+but it has to be on the same page, because reloading the client on a
+different page, ostensibly for a different player, will give that player a
+different game, since the information is all stored in memory.
+
+(Note: I guess you could render each player's client in a different tab on
+the same page.  Might be a good way to prototype a multiplayer experience)
+
+You can get around this single page limitation by supplying storage options
+to the Local master:
+
+#+begin_src 
+Local({
+  // Enable localStorage cache.
+  persist: true,
+
+  // Set custom prefix to store data under. Default: 'bgio'.
+  storageKey: 'bgio',
+});
+#+end_src
+
+With this you can render a different client in different browser tabs, with
+different players - though it the clients are not automatically kept in
+sync; you'll have to update the page after a different player makes a move.
