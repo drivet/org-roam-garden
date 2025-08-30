@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       f5c3a980-6d53-42c7-957e-6dd60c3b3f6e
+:END:
+#+date: [2025-08-30 Sat 15:46]
+#+hugo_lastmod: [2025-08-30 Sat 15:46]
+#+title: One Pot French Onion Pasta
+#+filetags: :pasta:vegetarian:
+
+[[id:3a1caf2c-7854-4cf0-bb11-bb7806618c36][Recipes]]
+
+Quite easy to make, but long.  Very tasty, but not my favourite.
+
+Source: https://wanderingchickpea.com/2021/11/06/one-pot-french-onion-pasta/
+
+Yield: 4 servings
+
+** Ingredients
+
+ * 1/4 cup olive oil
+ * 3 yellow onions, thinly sliced
+ * 4 garlic cloves, minced
+ * 8 oz cremini mushrooms, sliced
+ * 1 tbsp fresh thyme
+ * 1/2 cup dry white wine
+ * 2 tbsp all purpose flour
+ * 2 cups beef broth (or vegetable broth)
+ * 2 cups water
+ * 12 oz dried orecchiette or other short cut pasta
+ * 1 tbsp sherry vinegar
+ * Salt and freshly ground black pepper to taste
+ * Fresh herbs and toasted breadcrumbs for serving (optional)
+
+** Instructions
+
+Heat oil over a large skillet over medium heat. When shimmering, add the
+onions and a generous pinch of salt. Cook, stirring frequently until deeply
+caramelized. About 25-30 minutes.
+
+Pour in the beef stock (or vegetable stock) and water. Season with salt and
+freshly ground black pepper. Bring to a boil then add the pasta and cook for
+8-10 minutes or until al dente. (Keep in mind that other pasta shapes will
+have different cook times).
+
+Add the garlic, mushrooms and thyme. Sauté for 3-4 minutes or until the
+mushrooms begin to soften. Add the wine to deglaze the pan and add the
+flour. Cook for another 2-3 minutes, until thickened.
+
+Turn off the heat and stir in the sherry vinegar. Serve warm.

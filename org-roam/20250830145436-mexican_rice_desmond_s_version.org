@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       4f45f907-d28c-44af-b77d-a84b05c4672c
+:END:
+#+date: [2025-08-30 Sat 14:54]
+#+hugo_lastmod: [2025-08-30 Sat 14:54]
+#+title: Mexican Rice (Desmond's Version)
+#+filetags: :mexican:rice:beans:vegetarian:vegan:
+  
+[[id:3a1caf2c-7854-4cf0-bb11-bb7806618c36][Recipes]]
+
+Adapted from various sources around the Internet. I add beans, to make it
+more meal-like, not just a side dish.  I don't bother measuring out the
+onion or pepper. And I use vegetable broth to make it vegetarian.
+
+Source: http://southernfood.about.com/od/ricerecipes/r/bl30116d.htm
+
+Yield: 4 servings
+
+** Ingredients
+
+ * 1 medium onion, diced
+ * 1 bell pepper, any colour, diced
+ * 1 stalk celery, diced
+ * 2 large clove garlic, minced
+ * 2 teaspoons cooking oil (vegetable, olive, etc.)
+ * 1 cup long-grain rice
+ * 1 28 oz can diced tomatoes
+ * 1 teaspoon chili powder
+ * 1 teaspoon ground cumin
+ * 1/2 teaspoon salt
+ * 1 1/2 cups vegetable broth
+ * 1 can kidney beans, drained
+  
+** Instructions
+
+In a heavy skillet sauté onion, celery and bell pepper on medium-high heat
+until softened, about 7 minutes.  Add garlic and cook 1 minute more.  Add
+rice to skillet and cook over until rice has browned slightly. Add tomatoes,
+chili powder, cumin, salt, and broth. Bring to a boil; cover, lower heat,
+and simmer until liquid has been absorbed, about 15 minutes.  Add the beans,
+continue cooking 5 minutes.  Taste and add more salt if needed.
