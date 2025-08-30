@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       5fbcb16b-c07d-4c36-b1bc-9590b69e2ac5
+:END:
+#+date: [2025-08-30 Sat 08:23]
+#+hugo_lastmod: [2025-08-30 Sat 08:23]
+#+title: Gravy (Vegetarian)
+#+filetags: :vegetarian:
+
+[[id:3a1caf2c-7854-4cf0-bb11-bb7806618c36][Recipes]]
+
+A pretty decent vegetarian gravy that I make fairly often to go with both
+vegetable and meat dishes.  This has been adapted and simplified from
+another recipe I found on the Internet.
+
+Source: http://umamigirl.com/2011/11/best-vegetarian-gravy-recipe.html
+
+Yield: 2 cups
+
+** Ingredients
+
+ * 2 cups vegetable broth
+ * 2 tbsp butter
+ * 2 tbsp all-purpose flour
+ * 1 tsp soy sauce
+ * 1/8 teaspoon Marmite
+ * ground black pepper, to taste
+
+** Instructions
+
+Cook flour and butter together until it's the colour of peanut butter.  Add
+broth, soy sauce, marmite, pepper.  Cook uncovered 15 minutes.
+
+Variation: add some sauteed mushrooms and minced fried onion to the broth
+before adding it to the roux.
