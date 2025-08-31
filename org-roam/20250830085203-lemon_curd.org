@@ -4,7 +4,7 @@
 #+date: [2025-08-30 Sat 08:52]
 #+hugo_lastmod: [2025-08-30 Sat 08:52]
 #+title: Lemon Curd
-#+filetags:
+#+filetags: :lemon:dessert:vegetarian:
 
 [[id:3a1caf2c-7854-4cf0-bb11-bb7806618c36][Recipes]]
 

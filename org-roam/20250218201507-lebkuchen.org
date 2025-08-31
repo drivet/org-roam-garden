@@ -3,6 +3,7 @@
 :END:
 #+date: [2025-02-18 Tue 20:15]
 #+title: Lebkuchen
+#+filetags: :dessert:
 
 [[id:3a1caf2c-7854-4cf0-bb11-bb7806618c36][Recipes]]
 

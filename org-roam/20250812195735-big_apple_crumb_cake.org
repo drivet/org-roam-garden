@@ -4,7 +4,7 @@
 #+date: [2025-08-12 Tue 19:57]
 #+hugo_lastmod: [2025-08-12 Tue 19:57]
 #+title: Big Apple Crumb Cake
-#+filetags: :apples:cake:
+#+filetags: :apples:cake:dessert:
 
 [[id:3a1caf2c-7854-4cf0-bb11-bb7806618c36][Recipes]]
 

@@ -6,4 +6,80 @@
 
 [[id:35EC8663-3548-4E1F-9A94-AE8FB8D7B5E7][Food and drink]]
 
-Recipes homepage
+This is my recipes homepage.  See the backlinks section for an
+undifferentiated list of all recipes.
+
+A selection of my favourites is below.
+
+** Vegetarian Recipes
+
+ * [[id:4f45f907-d28c-44af-b77d-a84b05c4672c][Mexican Rice (Desmond's Version)]]
+ * [[id:1ec98e02-c5d1-4342-842e-4b6da0edcd44][Red Lentil Curry (Yeung Man Cooking Version)]]
+ * [[id:a84c227f-86c1-4f77-8a32-665308b14244][Chickpea Curry]]
+ * [[id:037062f1-5ebe-48a8-9431-177421b6dfe6][Spinach and Chickpeas]]
+ * [[id:b749bf7e-a0c5-425a-9f3b-3586eea25d33][Spiced Red Lentil, Tomato and Kale Soup]]
+ * [[id:2aeeeac5-6ecf-45be-b0ef-7cee6f61f6b0][Misir Wat (Ethiopian Spiced Lentils)]]
+ * [[id:863d3b50-2d1f-4a23-9dbe-cb41ab738e20][Pasta e Fagioli (Desmond's vegan version)]]
+ * [[id:54b1c867-6e84-4904-9e8e-73cd243e264e][Potato Leek Soup]]
+ * [[id:d3ba1280-4186-4fcb-a2f6-8f610d118756][Shorbet Adas (Middle Eastern Lentil Soup)]]
+ * [[id:55df4997-f4dc-4fdc-b747-93e6cafc5f1e][Risotto]]
+ * [[id:bc4984c1-1240-4a51-a425-5beae909bd77][Chili (Vegetarian #2)]]
+ * [[id:8950a7e5-5885-47a7-8448-0f5deb256205][Endive Rice Soup]]
+
+** Sides and Sauces
+
+ * [[id:d8b3b4d6-4cfa-4f19-9c4b-26d11e3223bd][Roast Potatoes]]
+ * [[id:f4507721-dc4d-4e45-a8c7-118e62c968ed][Crispy Smashed Potatoes]]
+ * [[id:b83dc401-33cb-4aed-8684-8a1b6cceb605][Roasted Brussels Sprouts]]
+ * [[id:5fbcb16b-c07d-4c36-b1bc-9590b69e2ac5][Gravy (Vegetarian)]]
+ * [[id:84065124-ba9e-48e7-b91e-e0bd12a431e9][Cheese Sauce]]
+ * [[id:18d43274-350a-4664-b892-dffb955dcf5d][Orzo Salad]]
+ * [[id:3cd5fdb7-e2e2-4f2e-88ac-94ca6b9dc8f5][Stir Fry Sauce]]
+
+** Special Occasion
+
+I don't make these very often, either because they take along time or they
+have meat or they're very rich.  They're all good though.
+
+ * [[id:d4bc888c-32c1-47a8-9f47-e6f429be3c9b][Bolognese Sauce (Marcella Hazan's Version)]]
+ * [[id:ea541a65-bfd9-47e2-afb8-96995c42c858][Pasta alla Genovese]]
+ * [[id:37e3c2d4-5d50-406e-a0a6-8d05ac38bbbd][Roman Style Chicken]]
+ * [[id:aa772a01-2fce-43ae-a191-865bcf934c49][Chicken Picatta]]
+ * [[id:8c1bce0b-aa89-4bd0-8d22-849126e6b507][Cincinnati Chili]]
+ * [[id:2345ddcc-e913-4b5e-9106-7c9a2cb1a511][French Onion Soup]]
+ * [[id:df9767c2-f4f9-4ff9-9bf8-73ee5eb2014d][Tourtiere]]
+
+** Picnic or Potluck
+
+ * [[id:18d43274-350a-4664-b892-dffb955dcf5d][Orzo Salad]]
+ * [[id:57b30c81-b16e-4db9-b5c0-5e388ee9eb13][Orange Cranberry Buttermilk Muffins]]
+ * [[id:800c4d09-6848-42ba-8d04-d7e56055d82e][Sour Cream Coffee Cake]]
+ * [[id:58cde0ff-e3be-4878-8c43-d1fe5f1e4524][Pound Cake]]
+ * [[id:fc7d1c33-0d6b-4bda-993f-b04f20a2926f][Vanilla Pound Cake]]
+
+** Desserts for Visiting
+
+ * [[id:57b30c81-b16e-4db9-b5c0-5e388ee9eb13][Orange Cranberry Buttermilk Muffins]]
+ * [[id:aa1304bd-fc47-4c14-8672-2cd50e22b074][Key Lime Bars (Favourite Little Spice Jar Version)]]
+ * [[id:df777eb4-6bab-4429-ab1a-517396ac3662][Millionaire's Shortbread]]
+ * [[id:6460faa8-0a38-4e4f-9c22-d3f058bef03f][Tiramisu]]
+ * [[id:72824270-1b58-4c79-9df3-abb1ee8ded14][Gingerbread (Nigella Lawson's Version)]]
+ * [[id:05e9f59f-a8ad-4f19-b875-4f99eba6ee7d][Lebkuchen]]
+ * [[id:4363f409-77c4-4fd8-b128-249180bf1965][Lemon Curd]]
+ * [[id:0a9d6b2b-253a-44d2-aa57-54c58b0adb10][Big Apple Crumb Cake]]
+
+** Desserts for Home
+
+ * [[id:2fa2b796-f69e-4b15-b6f7-ac5b9e344f16][Rice Pudding]]
+ * [[id:3c958586-f438-4727-85c5-2befd4199e69][Carrot Cake]] and [[id:c0e0d8a9-afc6-46ab-b3d6-3dba1efedeee][Cream Cheese Frosting]]z
+ * [[id:bdee69a9-1f36-4163-9052-9edbdf610a65][Best Ever Creamy Crockpot Cocoa]]
+ * [[id:58cde0ff-e3be-4878-8c43-d1fe5f1e4524][Pound Cake]]
+ * [[id:fc7d1c33-0d6b-4bda-993f-b04f20a2926f][Vanilla Pound Cake]]
+
+** Christmas and New Year's Favourites
+
+ * [[id:d8b3b4d6-4cfa-4f19-9c4b-26d11e3223bd][Roast Potatoes]]
+ * [[id:b83dc401-33cb-4aed-8684-8a1b6cceb605][Roasted Brussels Sprouts]]
+ * [[id:df9767c2-f4f9-4ff9-9bf8-73ee5eb2014d][Tourtiere]]
+ * [[id:05e9f59f-a8ad-4f19-b875-4f99eba6ee7d][Lebkuchen]]
+ * [[id:bdee69a9-1f36-4163-9052-9edbdf610a65][Best Ever Creamy Crockpot Cocoa]]
