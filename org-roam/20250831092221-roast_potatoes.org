@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       d8b3b4d6-4cfa-4f19-9c4b-26d11e3223bd
+:END:
+#+date: [2025-08-31 Sun 09:22]
+#+hugo_lastmod: [2025-08-31 Sun 09:22]
+#+title: Roast Potatoes
+#+filetags: :potatoes:sides:vegetarian:vegan:
+
+[[id:3a1caf2c-7854-4cf0-bb11-bb7806618c36][Recipes]]
+
+Easy and tasty.  Other recipes will boil them first but I find that too much
+work.
+
+Yield: 6 servings
+
+** Ingredients
+
+ * 2 pounds potatoes (russet works well) about 3 large ones
+ * 2 tablespoons olive oil
+ * 1 teaspoon rosemary
+ * 1 teaspoon thyme
+ * 1/2 teaspoon smoked paprika
+ * 1/2 teaspoon black pepper
+ * salt to taste (1/2 to 1 teaspoon)
+
+** Instructions
+
+Cut potatoes into cubes.  If the potato is large, cut it in half, then cut
+each half into 6.  If the potato is medium, cut in half then each half into
+4.  If the potato is small, cut into 4.
+
+Put all ingredients into a ziploc bag.  Close the bag, shake it well.
+Alternatively, put everything into a big bowl and mix well.
+
+Place the seasoned potatoes on a baking sheet and spread out as much as you
+can.  Bake at 450 F for 20-25 minutes.

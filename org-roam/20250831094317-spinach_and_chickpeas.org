@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       037062f1-5ebe-48a8-9431-177421b6dfe6
+:END:
+#+date: [2025-08-31 Sun 09:43]
+#+hugo_lastmod: [2025-08-31 Sun 09:43]
+#+title: Spinach and Chickpeas
+#+filetags: :chickpeas:vegetarian:vegan:
+
+[[id:3a1caf2c-7854-4cf0-bb11-bb7806618c36][Recipes]]
+
+I had this in Seville, Spain.  Tasty, quick and healthy.  Some recipes add
+tomatoes, bread etc. but I prefer to keep this simple.
+
+Source: 
+
+Yield: 6 servings
+
+** Ingredients
+
+ * 10 ounces fresh or frozen spinach (this is the size of a bag at my
+   supermarket), chopped
+ * 1 540 ml can chickpeas
+ * 3 cloves garlic, chopped
+ * 2 tablespoons olive oil
+ * 1 teaspoon cumin
+ * 1 teaspoon smoked paprika
+ * 1/2 teaspoon salt
+ * 1/2 teaspoon black pepper
+
+** Instructions
+
+Heat the oil in a large skillet on medium-high heat.  Add the chopped garlic
+and cook it for a minute or two, just enough to get the rawness out.  Don't
+brown or burn it.
+
+Add the spices and toast for 30 seconds, then add the spinach and saute
+until wilted and well coated with the spices.  Add salt and pepper.
+
+Drain the chickpeas, and add them to the spinach.  Heat through.
