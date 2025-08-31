@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       065e6d35-04f5-49e5-918e-9374ac501a05
+:END:
+#+date: [2025-08-31 Sun 09:53]
+#+hugo_lastmod: [2025-08-31 Sun 09:53]
+#+title: Tonic Water (Desmond's Simplified Version)
+#+filetags: :cocktails:softdrinks:
+
+[[id:3a1caf2c-7854-4cf0-bb11-bb7806618c36][Recipes]]
+
+I based this one off of Jeffrey Morgenthaler's but I cut out a lot of the
+ingredients.  I prefer this one because it's simpler and doesn't fight so
+much when you pair it with a good gin.
+
+Yield: 4 cups syrup
+
+** Ingredients
+
+ * 4 cups water
+ * 1/4 cup cut cinchona bark
+ * zest of 1 orange
+ * zest of 1 lemon
+ * zest of 1 lime
+ * 3 Tbsp cup citric acid
+ * 1/4 tsp Kosher salt
+  
+** Instructions
+
+Combine ingredients in a medium saucepan and bring to a boil over high
+heat. Once mixture starts to boil, reduce heat to low, cover and simmer for
+20 minutes.  Strain through cheesecloth.
