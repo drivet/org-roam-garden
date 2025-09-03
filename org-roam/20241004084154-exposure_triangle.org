@@ -5,9 +5,11 @@
 #+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Exposure Triangle
 
+[[id:9f1a8982-7a7e-4918-a48d-278907e7f217][Photography]]
+
 Exposure is the amount of light that hits your sensor.
 
-Lots of good article.  Here's one:
+Lots of good articles.  Here's one:
 https://photographylife.com/what-is-exposure
 
 The exposure triangle are 3 settings that all interact to give you a
@@ -17,14 +19,61 @@ The exposure triangle are 3 settings that all interact to give you a
  * Aperture
  * ISO sensitivity
 
-What's properly exposed?  I guess it would be 
-
 According to this article:
 
 https://visualwilderness.com/fieldwork/reason-change-iso-in-photography
 
 You should just keep you ISO setting at the lowest and vary the other two
 settings.  The article says that you should only change your ISO when you're
-targeting a particular shutter speed.
+targeting a particular shutter speed.  Higher ISO sensitivity tends to
+increase noise.
 
-[[id:9f1a8982-7a7e-4918-a48d-278907e7f217][Photography]]
+Remember that exposure is about how much light reaches your film.
+Technically, ISO sensitivity isn't really about that.  So really we have
+shutter speed and aperture.
+
+** Shutter Speed
+
+Exposure is about how much light reaches your film.  Technically, ISO
+sensitivity isn't really about that.  So really we have shutter speed and
+aperture.
+
+Shutter Speed is measured in time.  It's the amount of time the camera
+spends taking the photo.  More time means more light coming in.  Too long
+and the photo is over exposed.  Too short and it's under-exposed.
+
+Shutter speed is also about *motion*.  Small exposure means you have a
+better chance of capturing a fast moving object.  In particular, zooming in
+magnifies speed, and you'll want a smaller shutter speed for a fast moving
+object.
+
+From the above article, quick and dirty guideline:
+
+#+begin_quote
+Want a quick-and-dirty guideline? Use 1/500 second or faster for sports and
+wildlife action. Use 1/100 second or faster for telephoto portrait
+images. Use 1/50 second or faster for wider-angle portrait or travel photos
+where your subject isn’t moving too much. If your subject is completely
+still, and you have a tripod, use any shutter speed you want.
+#+end_quote
+
+** Aperture
+
+This is the size of the hole that lets the light in.  It's measured as a
+fraction, f/N.  So f/2 is a bigger aperture than f/16, i.e. it lets more
+light in.
+
+Aperture controls exposure and depth of field.  Exposure is the amount of
+light you let in.  Field of depth controls how much of your image appears
+sharp.
+
+Small apertures (f/11, f/16) give you a large field of depth, which will
+make your entire photo, front to back, appear sharp.  Use this for landscape
+photos.  Remember that this lets less light in, though (less exposure).
+Counteract will longer shutter speed (though you may need a tripod at some
+point).
+
+Large apertures (f/1.4 or f/2.8) give you a thin Depth of field and will
+give a shallow focus effect, good if you're trying to make "zero in" on one
+part of the photo.  Remember that this let's more light in, though (more
+exposure).  Counteract with smaller shutter speed.
