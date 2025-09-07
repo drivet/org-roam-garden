@@ -9964,12 +9964,20 @@ CLOSED: [2025-01-11]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9798613461172&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Mansfield Park                                        :classic:romance:
+* READING Mansfield Park                                       :classic:romance:
 :PROPERTIES:
 :Author:   Jane Austen
 :Added:    [2025-04-06]
-:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:019280264X&jscmd=data&format=json
+:ISBN:     019280264X
 :END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/id/12641573-M.jpg]]
+
+[[https://openlibrary.org/books/OL3708086M/Mansfield_Park][Open Library]] \\
+[[https://openlibrary.org/api/books?bibkeys=ISBN:019280264X&jscmd=data&format=json][Open Library Data]]
+#+END_aside
 
 * READ The Philip K. Dick Reader                               :scifi:anthology:
 CLOSED: [2025-05-20 Tue 20:23]
