@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       ee5b717a-faa9-4a56-88e1-29c23cf13974
+:END:
+#+date: [2025-09-08 Mon 21:24]
+#+hugo_lastmod: [2025-09-08 Mon 21:24]
+#+title: Emacs Killing and Yanking
+
+Killing and yanking are [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] terms for what other editors call cutting and
+pasting, respectively.
+
+See this article:
+
+https://www.emacswiki.org/emacs/KillingAndYanking
