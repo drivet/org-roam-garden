@@ -2,7 +2,7 @@
 :ID:       0a9d6b2b-253a-44d2-aa57-54c58b0adb10
 :END:
 #+date: [2025-08-12 Tue 19:57]
-#+hugo_lastmod: [2025-08-12 Tue 19:57]
+#+hugo_lastmod: 2025-09-09 21:05:24 -0400
 #+title: Big Apple Crumb Cake
 #+filetags: :apples:cake:dessert:
 

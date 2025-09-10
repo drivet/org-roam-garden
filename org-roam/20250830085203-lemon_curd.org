@@ -2,7 +2,7 @@
 :ID:       4363f409-77c4-4fd8-b128-249180bf1965
 :END:
 #+date: [2025-08-30 Sat 08:52]
-#+hugo_lastmod: [2025-08-30 Sat 08:52]
+#+hugo_lastmod: 2025-09-09 21:06:00 -0400
 #+title: Lemon Curd
 #+filetags: :lemon:dessert:vegetarian:
 

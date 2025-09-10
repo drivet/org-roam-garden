@@ -5,6 +5,7 @@ import (
 	"log"
 	"os"
 	"fmt"
+	"sort"
 	"strings"
 	_ "modernc.org/sqlite"
 	"gopkg.in/yaml.v3"
@@ -18,6 +19,7 @@ const BacklinksFile = "backlinks.yaml"
 type Backlink struct {
     File string
     Title string
+	Mtime int
 }
 
 func stripQuotes(str string) string {
@@ -29,8 +31,17 @@ func cleanFile(root string, str string) string {
 	return strings.TrimPrefix(str[1:(len(str)-5)], fmt.Sprintf("%s/%s", root, OrgRoamRoot))
 }
 
+func makeTime(lispTime string) int {
+	var high, low, micro, pico int
+	fmt.Sscanf(lispTime, "(%d %d %d %d)", &high, &low, &micro, &pico)
+	return high * 65536 + low
+}
+
 func saveBacklinks(db *sql.DB, root string, file string, file2bl map[string][]Backlink) {
-	row, err := db.Query("SELECT file, title FROM nodes WHERE id IN (SELECT DISTINCT l.source AS source FROM nodes n, links l WHERE n.file = ? AND n.id = l.dest)", file)
+	row, err := db.Query(`SELECT n1.file, n1.title, f1.mtime
+FROM nodes n1, files f1
+WHERE n1.file = f1.file AND
+n1.id IN (SELECT DISTINCT l.source AS source FROM nodes n, links l WHERE n.file = ? AND n.id = l.dest)`, file)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -38,14 +49,20 @@ func saveBacklinks(db *sql.DB, root string, file string, file2bl map[string][]Ba
 	var backlinks []Backlink
 	for row.Next() {
 		b := Backlink{}
-		err := row.Scan(&b.File, &b.Title)
+		var mtimestr string
+		err := row.Scan(&b.File, &b.Title, &mtimestr)
 		if err != nil {
 			log.Fatal(err)
 		}
 		b.File = cleanFile(root, b.File)
 		b.Title = stripQuotes(b.Title)
+		b.Mtime = makeTime(mtimestr)
 		backlinks = append(backlinks, b)
 	}
+	sort.Slice(backlinks, func(i, j int) bool {
+		return backlinks[i].Mtime > backlinks[j].Mtime
+	})
+
 	file = cleanFile(root, file)
 	file2bl[file] = backlinks
 }

@@ -9,7 +9,7 @@
 Org mode handles local images and not remote images out of the box, but if
 you set up [[https://github.com/gaoDean/org-remoteimg][org-remoteimg]] then org mode can handle remote images as well.
 
-If you so use org-remoteimg, set this:
+If you do use org-remoteimg, set this:
 
 ~(setq org-display-remote-inline-images 'cache)~
 
