@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       73cccf57-a6af-43dc-afbb-41ca29dbce48
+:END:
+#+date: [2025-09-21 Sun 16:28]
+#+hugo_lastmod: [2025-09-21 Sun 16:28]
+#+title: Org Books Notes
+
+[[id:CAA54188-C8EF-4204-AB47-90A27514E2E8][Personal Information Management]]
+
+This is an [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] package for managing reading lists in [[id:FA31BDBE-5F87-4DEE-ABE2-D8AFD52F7D03][Org Mode]].
+
+Doesn't work very well:
+
+ * Claims to support Amazon, Goodreads and [[id:fc68e2a2-2b53-43ea-865a-4eb8d7877eb3][Open Library]] URLs, but Goodreads
+   doesn't work and Open Library only works when you use the Legacy Books
+   API JSON URL.
+
+ * Inserts the URL provided as a properties field which doesn't look nice
+   when exported.
+
+ * Doesn't insert the cover anywhere.
+
+ * You can insert books via ISBN, but this is implemnted in terms of Open
+   Library, with the aforementioned problems.
+

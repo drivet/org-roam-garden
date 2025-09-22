@@ -1,0 +1,68 @@
+:PROPERTIES:
+:ID:       fc68e2a2-2b53-43ea-865a-4eb8d7877eb3
+:END:
+#+date: [2025-09-20 Sat 11:52]
+#+hugo_lastmod: [2025-09-20 Sat 11:52]
+#+title: Open Library Notes
+
+[[https://openlibrary.org/][Open Library]] is a free online source of book information.
+
+Good info here:
+
+https://openlibrary.org/dev/docs/api/books
+
+** Works, Books, Editions
+
+Top level concept: **Works**.  These are logical collections of similar
+editions.  No ISBN here since a work doesn't specifically refer to a
+particular physical copy of anything.
+
+A Work contains information like Title, and Author, though the latter might
+be an identifier.
+
+The works pages and API all start with ~/works~. Here's an example:
+
+https://openlibrary.org/works/OL7924103W/The_Eye_of_the_World_(The_Wheel_of_Time_Book_1)
+
+That will bring you to the web page for the work.  You can turn it into a
+JSON endpoint by getting rid of the title and tacking on a json to the URL,
+like this:
+
+https://openlibrary.org/works/OL7924103W.json
+
+For a given work, you can have many **Editions**, and this is what we
+commonly think of as a "book".  These represent a particular instance of a
+work, one you can actually pick up, hold in your hand, etc. They are usually
+identified with an ISBN.
+
+You can show all editions of a work from the web page, by using ~mode=all~,
+like this:
+
+https://openlibrary.org/works/OL7924103W/The_Eye_of_the_World_%28The_Wheel_of_Time_Book_1%29?mode=all
+
+Or you can use the JSON API, like this:
+
+https://openlibrary.org/works/OL7924103W/editions.json
+
+To get information about a particular edition, you use the ~/books~ prefix,
+like this:
+
+https://openlibrary.org/books/OL9543758M/The_Eye_of_the_World
+
+Like the works, you can turn this into a JSON endpoint like so:
+
+https://openlibrary.org/books/OL9543758M.json
+
+** Using the Book API
+
+Notably the author information at the endpoint is in ID form:
+~/authors/OL233594A~.  This will lead to an author's page:
+
+https://openlibrary.org/authors/OL233594A/Robert_Jordan
+
+Sometimes all you want, though, is an endpoint with all the information in
+one convenient package.  If you have the ISBN, we can do this:
+
+https://openlibrary.org/api/books?bibkeys=ISBN:9780812500486&jscmd=data&format=json
+
+[[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]
