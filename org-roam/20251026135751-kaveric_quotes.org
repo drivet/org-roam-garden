@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       bc19cc9a-340a-4255-b615-3faf37417ed7
+:END:
+#+date: [2025-10-26 Sun 13:57]
+#+hugo_lastmod: [2025-10-26 Sun 13:57]
+#+title: Kavaeric quotes
+
+Kavaeric is a guy on Twitter.  He wrote this:
+
+#+begin_quote
+The winter is dark and harsh with stinging cold. They spread salt over the
+roads. It poisons water and eats metal, and they tell you now it is safe.
+#+end_quote
+
+The post apparently isn't there anymore, so my Indieweb like doesn't point
+to anything.  Rather than keep it there I copied the quote here because I
+like it.
+
+[[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]
+

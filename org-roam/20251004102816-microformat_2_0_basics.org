@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       aaae7f1e-4e2d-429f-9df1-20a261b8c2f6
+:END:
+#+date: [2025-10-04 Sat 10:28]
+#+hugo_lastmod: [2025-10-04 Sat 10:28]
+#+title: Microformat 2.0 Basics
+
+Closely related to the [[id:f9b01190-b396-4e6a-a912-83167d33968d][IndieWeb]], and how we interpret posts from other
+websites.
+
+Good articles here:
+
+ * [[https://waterpigs.co.uk/articles/getting-started-with-microformats2/][Barnaby Walters • Getting started with microformats2]]
+ * [[https://waterpigs.co.uk/articles/consuming-microformats/][Barnaby Walters • How to Consume Microformats 2 Data]]
+

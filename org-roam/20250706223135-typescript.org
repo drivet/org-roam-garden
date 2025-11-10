@@ -41,7 +41,7 @@ Interesting combinations:
  * target: es6, module: es6.  Everything looks modern.
  * target: es5. module: commonjs.  Everything is old fashioned, with
    requires for modules.
- * target: es6, module: commonjs.  New language feature with old-fashioned
+ * target: es6, module: commonjs.  New language features with old-fashioned
    ~require~ based module system
  * target: es5, module: es6.  This one is a bit odd.  This means an old
    fashioned set of language feature with new import/export syntax.  Not

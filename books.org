@@ -44,7 +44,7 @@ CLOSED: [2025-05-25 Sun 21:27]
 :Author:   Rick Riordan
 :Added:    [2025-05-22]
 :ISBN:     9780141321264
-:Rating:   :star::star::star:
+:Rating:   :star::star::star
 :END:
 
 #+BEGIN_aside
@@ -103,6 +103,9 @@ CLOSED: [2025-01-28]
 [[https://openlibrary.org/books/OL25253043M/Redshirts][Open Library]] \\
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780765316998&jscmd=data&format=json][Open Library Data]]
 #+END_aside
+
+I expected this book to be funny, and it was.  What I was *not* expecting
+was that this book would make me emotional.  I nearly cried.
 
 * TOREAD The Challenges of a Secular Quebec: Bill 21 in Perspective :politics:quebec:
 :PROPERTIES:

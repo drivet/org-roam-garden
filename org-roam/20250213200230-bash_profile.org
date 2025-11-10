@@ -5,6 +5,8 @@
 #+hugo_lastmod: 2025-02-13 20:18:48 -0500
 #+title: Bash profile
 
+[[id:9b39db1c-a987-4a6f-8d3b-4d0cc2596867][Linux Administration]]
+
 I always have trouble remembering which file to modify when we need to update
 a path or something for Bash.
 
@@ -40,6 +42,3 @@ it is like it is.
 by the package, so that you don't really need to set JAVA_HOME or change
 PATH)
 #+end_quote
-
-[[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]
-
