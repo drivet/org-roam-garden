@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       32f082a9-f34c-4513-abca-37389c4c2cd7
+:END:
+#+date: [2025-11-16 Sun 13:33]
+#+hugo_lastmod: [2025-11-16 Sun 13:33]
+#+title: Link Versus Reply Contexts
+
+The [[id:f9b01190-b396-4e6a-a912-83167d33968d][indieweb]] community makes a distinction between [[https://indieweb.org/link-preview\\][link contexts]] and [[https://indieweb.org/reply-context][reply
+contexts]].  The first is what you show when you embed a link, like a preview
+of what the link contains.  The second is what you show when you embed a
+link with the intention of [[https://indieweb.org/reply][replying]] to it,
+
+In the past I couldn't really see a reason to distinguish between these
+cases.  I would show the title and description in both cases.  Lately, I've
+been reconsidering my opinion, and I think there's a bit more nuance here
+than I originally thought.
+
+In particular, a reply context is what you show when you're responding to
+something - or, much more often, *someone*, and in that sense it's more
+about the "who" than the "what".  And it's usually in the context of the
+Indieweb.  You'd almost never post a reply to a newspaper article, for
+example; it would usually be a like or even just a note with a link and some
+commentary.
+
+So in a reply context, the author of the post is front and center.  In a
+link context, you might focus more on the site that the article came from.
+
+But is that always true?  What if the link in a link context is from the
+Indieweb?  In that case, maybe you still want to focus on the author.
+
+So maybe the rule here is: IndieWeb link previews focus on the author, since
+the IndieWeb is people-focused, and a non-IndieWeb link focuses on the site.
+And once we come to that conclusion, the difference between link and reply
+contexts once again collapses and the preview difference become more about
+IndieWeb versus non-IndieWeb.

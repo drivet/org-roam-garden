@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       dbc104a2-088d-41dc-ac0c-13d90fdb7461
+:END:
+#+date: [2025-11-10 Mon 08:43]
+#+hugo_lastmod: [2025-11-10 Mon 08:43]
+#+title: Local node testing
+
+[[id:74fe4896-3281-4665-8051-556ce8eca8b5][Software Development]]
+
+When breaking up your code into packages that you publish separately via
+npm, how do you test the published package in another project?
+
+Use npm link or npm pack.
