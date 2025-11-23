@@ -9983,7 +9983,8 @@ CLOSED: [2025-01-11]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9798613461172&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READING Mansfield Park                                       :classic:romance:
+* READ Mansfield Park                                          :classic:romance:
+CLOSED: [2025-11-22 Sat 20:50]
 :PROPERTIES:
 :Author:   Jane Austen
 :Added:    [2025-04-06]
