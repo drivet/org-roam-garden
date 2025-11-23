@@ -9989,6 +9989,7 @@ CLOSED: [2025-11-22 Sat 20:50]
 :Author:   Jane Austen
 :Added:    [2025-04-06]
 :ISBN:     019280264X
+:Rating:   :star::star::star:
 :END:
 
 #+BEGIN_aside
@@ -9998,6 +9999,15 @@ CLOSED: [2025-11-22 Sat 20:50]
 [[https://openlibrary.org/books/OL3708086M/Mansfield_Park][Open Library]] \\
 [[https://openlibrary.org/api/books?bibkeys=ISBN:019280264X&jscmd=data&format=json][Open Library Data]]
 #+END_aside
+
+I can see why this seems to be the least loved of all Jane Austen's books;
+the heroine is somewhat insipid, and the villains are genuinely charming.
+
+I remember reading, in fact, that this was Austen's intention - to see what
+readers would think of genuinely good but boring people.
+
+For my part, I don't tend to read Austen for the characters, I read her for
+her wit, of which this book has plenty, so I enjoyed it.
 
 * READ The Philip K. Dick Reader                               :scifi:anthology:
 CLOSED: [2025-05-20 Tue 20:23]
