@@ -11566,7 +11566,8 @@ CLOSED: [2025-09-16 Tue 00:03]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780393326048&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READING Blondes Are My Trouble
+* READ Blondes Are My Trouble
+CLOSED: [2025-11-27 Thu 21:16]
 :PROPERTIES:
 :Author:   Douglas Sanderson
 :Added:    2025-09-12
