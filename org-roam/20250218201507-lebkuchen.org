@@ -10,7 +10,7 @@
 #+attr_html: :alt Lebkuchen
 #+attr_html: :width 800
 #+attr_html: :class figure
-[[https://media.desmondrivet.com/1b/3d/23/9d/ba3af90a17813128b7010511627e8ad23eb4644c9706d18a89b94e05.jpg]]
+[[https://media.desmondrivet.com/1b/3d/23/9d/ba3af90a17813128b7010511627e8ad23eb4644c9706d18a89b94e05.jpg][Photo]]
 
 This is basically German gingerbread, often made during the Christmas
 season. A cross between a cookie, a cake and a bar. One of my favourites,

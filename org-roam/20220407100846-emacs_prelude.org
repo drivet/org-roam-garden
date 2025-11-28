@@ -5,7 +5,7 @@
 #+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Emacs Prelude
 
-Emacs Prelude is an [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] distribution that aims to make the out of the box
+[[https://prelude.emacsredux.com/en/latest/][Emacs Prelude]] is an [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] distribution that aims to make the out of the box
 Emacs experience a bit more pleasant.
 
 Compared to something like Spacemacs or Doom, it's a lot lighter and doesn't
