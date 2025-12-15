@@ -331,6 +331,8 @@ CLOSED: [2024-06-02]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780786888153&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
+The movie [[https://www.imdb.com/title/tt23561236/?ref_=fn_t_1][American Fiction]] was based on this.
+
 * TOREAD The Science Fiction Century, Volume 1                :scifi:anthology:
 :PROPERTIES:
 :Author:   David G. Hartwell
