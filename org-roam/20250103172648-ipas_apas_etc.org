@@ -35,4 +35,5 @@ accurate assessment of its flavour profile.
  * [[id:e854cb8a-ef35-4c69-b2fa-4a53924765a1][Bench Short Hills Hazy IPA]]
  * [[id:84fb95a1-065a-4f24-aeef-5bcc0594fbbb][Petite Morale (Dieu de Ciel)]]
  * [[id:ba90d736-1832-482b-a3cd-7ba3f28b20e5][Un Jour a la Fois (Vagabond)]]
+ * [[id:5ea7d004-c283-45ef-9454-da4b397895f0][Tropiques-sur-le-lac (Unibroue NEIPA)]]
    
