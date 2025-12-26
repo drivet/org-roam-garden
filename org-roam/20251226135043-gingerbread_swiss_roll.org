@@ -1,0 +1,103 @@
+:PROPERTIES:
+:ID:       bb195ee8-a17f-4668-9a2f-75569e88ad5e
+:END:
+#+date: [2025-12-26 Fri 13:50]
+#+hugo_lastmod: [2025-12-26 Fri 13:50]
+#+title: Gingerbread Swiss Roll
+#+filetags:
+
+[[id:3a1caf2c-7854-4cf0-bb11-bb7806618c36][Recipes]]
+
+Pretty good, light and delicate.  You can fill this with 1 recipe of [[id:6435e35c-e69a-4820-9fcf-607266b9e37d][eggnog
+whipped cream]] as well.
+
+Source: https://dishnthekitchen.com/gingerbread-swiss-roll-cake/#mv-creation-633-jtr
+
+Yield: 10 servings
+
+** Ingredients
+
+ * 1 cup Cake Flour (see notes below)
+ * 1 teaspoon Baking Powder
+ * 1/2 teaspoon Ground Cinnamon
+ * 1 teaspoon Ground Ginger
+ * 1/2 teaspoon Allspice
+ * 1/4 teaspoon Cloves
+ * 1/2 teaspoon Nutmeg
+ * 1/4 teaspoon Salt
+ * 4 large Eggs; divided
+ * 1/2 cup unsulphured Molasses
+ * 1/4 cup Brown Sugar
+ * 1/4 cup Granulated Sugar
+ * 1 teaspoon Vanilla Extract
+
+*** FOR THE EGGNOG CREAM
+
+ * 1 cup Butter; softened
+ * 8 ounces Cream Cheese; softened
+ * 4 cups Confectioners Sugar
+ * 1/4 cup Eggnog
+
+*** FOR THE MAPLE GLAZE
+
+ * 1 1/4 cups Powdered Sugar
+ * 2 Tablespoons Maple Syrup
+ * 1 - 2 Teaspoons Milk
+
+** Instructions
+
+ 1. Preheat oven to 375° F.  Line a 10 x 15 inch jelly roll pan with
+    parchment paper, making sure it is at least 2 inches longer on the
+    ends. Crumple the parchment well, then press into the bottom of the pan,
+    creasing it in the corners. Spray the parchment well with cooking spray.
+
+ 1. In a small mixing bowl, combine the flour, baking powder, ground ginger,
+    allspice, nutmeg, cloves, and salt.
+    
+ 1. In large mixing bowl or bowl of stand mixer stand mixer fitted with a
+    whisk attachment, whisk the egg whites until stiff peaks form (the peak
+    will stand up straight).
+     
+ 1. In another large mixing bowl, beat the egg yolks, molasses, brown sugar,
+    granulated sugar and vanilla together for 4 minutes until fluffy.
+    
+ 1. Add half of the egg whites into the egg yolk mixture and fold them in
+    Add the remaining egg whites and fold in again.
+
+ 1. Next, sift in half of the flour mixture, and then fold it into the
+    batter using a silicone spatula until just combined. Repeat with
+    remaining dry ingredients. Do not over mix.
+    
+ 1. Use a spatula to spread batter evenly in the prepared pan, making sure
+    to spread to the edges.
+
+ 1. Bake for 12 - 15 minutes at 375 F.
+
+ 1. Immediately remove cake from the baking pan and fold the parchment paper
+    over the short end of the cake, then roll cake up tightly.
+
+ 1. Cool the rolled cake on a rack until it is cool all the way through
+    (this may take 2-3 hours).
+
+ 1. While the cake is cooling, make the Eggnog Cream. Beat the butter and
+    cream cheese together for 3 minutes until fluffy then add the sugar and
+    eggnog. Beat until eggnog cream until completely smooth.
+
+ 1. When the cake has completely cooled, unroll it gently and spread the
+    eggnog cream over the cake all the way to the edges.
+
+ 1. Roll the cake back up and place seam side down on a serving platter.
+    
+ 1. To Make the Maple Glaze: Whisk the powdered sugar together with the
+    maple syrup and milk in a small bowl.
+    
+ 1.Spoon Maple Glaze over the Swiss roll cake and decorate with candied
+ ginger bits and sugared cranberries. Slice and serve.
+
+** Notes
+
+Many sponge cake recipes call for cake flour because it has a lower gluten
+content and is more finely milled than all purpose flour. It helps cakes to
+turn out light and fluffy, with a fine crumb. If you don’t have cake flour,
+make your own by substituting 3/4 cup all-purpose flour and 1/4 cup
+cornstarch for every one cup of cake flour.

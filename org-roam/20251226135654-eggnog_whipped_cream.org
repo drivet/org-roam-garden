@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       6435e35c-e69a-4820-9fcf-607266b9e37d
+:END:
+#+date: [2025-12-26 Fri 13:56]
+#+hugo_lastmod: [2025-12-26 Fri 13:56]
+#+title: Eggnog Whipped Cream
+#+filetags:
+
+[[id:3a1caf2c-7854-4cf0-bb11-bb7806618c36][Recipes]]
+
+Good over hot chocolate or as a swiss roll filling
+
+Yield: 12 servings
+
+** Ingredients
+ * 1 cups chilled whipping cream
+ * 1/4 cups eggnog
+ * 1-2 tablespoon powdered sugar
+ * 1/2 teaspoon nutmeg
+
+** Instructions
+
+Mix the powdered sugar, nutmeg and cream.  Whip the cream until you get soft
+peaks.  Beat in the eggnog at low speed until just mixed.

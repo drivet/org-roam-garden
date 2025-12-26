@@ -41,7 +41,7 @@ CLOSED: [2025-05-25 Sun 21:27]
 :Author:   Rick Riordan
 :Added:    [2025-05-22]
 :ISBN:     9780141321264
-:Rating:   :star::star::star
+:Rating:   :star::star::star:
 :END:
 
 #+BEGIN_aside
@@ -474,21 +474,6 @@ CLOSED: [2024-01-03]
 
 [[https://openlibrary.org/books/OL3481226M/Writing_efficient_programs][Open Library]] \\
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780139702518&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* TOREAD Ideological Perspectives on Canada                   :politics:canada:
-:PROPERTIES:
-:Author:   M Patricia Marchak
-:Added:    [2023-11-26]
-:ISBN:     9780773590915
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780773590915-M.jpg]]
-
-[[https://openlibrary.org/books/OL33999373M/Ideological_Perspectives_on_Canada][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780773590915&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 * TOREAD Down and Out in Paris and London                      :classic:memoir:
@@ -1208,23 +1193,6 @@ CLOSED: [2019-12-05]
 
 [[https://openlibrary.org/books/OL25607860M/How_Did_It_Really_Happen][Open Library]] \\
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780762102778&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
-* READ Nemesis Games (The Expanse, #5)                                  :scifi:
-CLOSED: [2019-11-16]
-:PROPERTIES:
-:Author:   James S.A. Corey
-:Added:    [2019-09-01]
-:ISBN:     9780316217590
-:Rating:   :star::star::star::star:
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780316217590-M.jpg]]
-
-[[https://openlibrary.org/books/OL34874264M/Nemesis_Games][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780316217590&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 * TOREAD The Rise and Fall of the Third Reich: A History of Nazi Germany :history:ww2:
@@ -2513,21 +2481,6 @@ CLOSED: [2016-03-28]
 I don't often give 5 stars, but this guy's something else.  You know when
 you finish a really good story and you're just itching to tell someone about
 it?  Almost every single story in this anthology was like that.
-
-* TOREAD Politics: Observations and Arguments, 1966-2004      :politics:society:
-:PROPERTIES:
-:Author:   Hendrik Hertzberg
-:Added:    [2017-01-21]
-:ISBN:     9780143035534
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780143035534-M.jpg]]
-
-[[https://openlibrary.org/books/OL7361521M/Politics][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780143035534&jscmd=data&format=json][Open Library Data]]
-#+END_aside
 
 * TOREAD Pro Git (Expert's Voice in Software Development)    :tech:software:ref:
 :PROPERTIES:
@@ -9756,21 +9709,6 @@ CLOSED: [2014-06-21]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9781563899423&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Ideological Perspectives on Canada (McGraw-Hill Series in Fundamentals of Physics: An Undergradu) :politics:canada:
-:PROPERTIES:
-:Author:   M. Patricia Marchak
-:Added:    [2012-10-17]
-:ISBN:     9780070821972
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780070821972-M.jpg]]
-
-[[https://openlibrary.org/books/OL3837204M/Ideological_perspectives_on_Canada][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780070821972&jscmd=data&format=json][Open Library Data]]
-#+END_aside
-
 * READ Batman: Year One                                        :comic:superhero:
 :PROPERTIES:
 :Author:   Frank Miller, David Mazzucchelli, Richmond Lewis, Dennis O'Neil, Todd Klein
@@ -11530,4 +11468,28 @@ CLOSED: [2025-11-27 Thu 21:16]
 #+BEGIN_aside
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780374619336-M.jpg]]
+#+END_aside
+
+* READ [[https://openlibrary.org/books/OL32667321M/Nemesis_Games][Nemesis Games (The Expanse #5]])                                    :scifi:
+:PROPERTIES:
+:Author:   James S. A. Corey
+:Added:    2025-12-24
+:ISBN:     9780316217583
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/9780316217583-M.jpg]]
+#+END_aside
+
+* TOREAD [[https://openlibrary.org/books/OL15304604M/Ideological_perspectives_on_Canada][Ideological perspectives on Canada]] :politics:canada
+:PROPERTIES:
+:Author:   M. Patricia Marchak
+:Added:    2025-12-24
+:ISBN:     9780075495055
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/9780075495055-M.jpg]]
 #+END_aside
