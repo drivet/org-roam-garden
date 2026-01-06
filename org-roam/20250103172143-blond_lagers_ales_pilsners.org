@@ -35,6 +35,7 @@ be the main attraction.
  * [[id:dc6ce08a-8277-49f2-b385-c9a00da3ed7c][Festive Pilsner (Brasseurs Du Monde)]]
  * [[id:bcac7e12-e001-4c45-b90a-95d1a4ecefc3][Kolsch (Livingstone Brewing)]]
  * [[id:285485a0-efb6-4134-b526-d397d598cece][Citadin (5e Baron)]]
+ * [[id:cdcb1f2d-c127-440a-8df1-4aad99f586f9][Ca Mon Ami, C'est Un Pinte]]
    
 *** Worst rated (worst first)
 
