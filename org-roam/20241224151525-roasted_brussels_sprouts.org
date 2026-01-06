@@ -5,4 +5,26 @@
 #+hugo_lastmod: 2024-12-25 07:50:29 -0500
 #+title: Roasted Brussels Sprouts
 
-Put recipe here
+[[id:3a1caf2c-7854-4cf0-bb11-bb7806618c36][Recipes]]
+
+Easy.  Delicious.  Best way to eat Brussels sprouts.
+
+Source: https://cookieandkate.com/perfect-roasted-brussels-sprouts-recipe/
+
+Yield: 4 servings
+
+** Ingredients
+
+ * 1 1/2 pounds Brussels sprouts, trimmed, halved
+ * 2 tablespoons extra-virgin olive oil
+ * 1/2 teaspoon fine sea salt
+ * 1/2 teaspoon black pepper
+   
+** Instructions
+
+ * Preheat oven to 425 F
+ * Put Brussels sprouts in plastic zip lock bag with salt, pepper, and oil.
+   Shake well to coat.
+ * Line baking sheet with parchment paper.  Spread sprouts on sheet.
+ * Bake sprouts for 20-25 minutes, until they are charred and caramelized.
+   
