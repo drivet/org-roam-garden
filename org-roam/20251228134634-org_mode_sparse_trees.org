@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       dc4bdb9c-7a29-458b-8f94-dce3ba71a6f6
+:END:
+#+date: [2025-12-28 Sun 13:46]
+#+hugo_lastmod: [2025-12-28 Sun 13:46]
+#+title: Org mode sparse trees
+
+
+Top level headings always remain visible.
+
+https://stackoverflow.com/questions/26845297/narrow-buffer-using-org-match-sparse-tree
+
+May need org-ql
+
+[[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] [[id:FA31BDBE-5F87-4DEE-ABE2-D8AFD52F7D03][Org Mode]]

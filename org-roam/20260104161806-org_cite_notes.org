@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       90e93d0f-1a87-417b-b5e0-fdba106f0a50
+:END:
+#+date: [2026-01-04 Sun 16:18]
+#+hugo_lastmod: [2026-01-04 Sun 16:18]
+#+title: Org-Cite Notes
+
+[[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] [[id:FA31BDBE-5F87-4DEE-ABE2-D8AFD52F7D03][Org Mode]]
+
+https://orgmode.org/manual/Citation-handling.html
+
+Org Cite is a way of citing external sources in your document.  It works
+with an external citation database, and a syntax that lets you insert
+references to entries in the database which get expended.
+
+There are systems that will insert the citations for you, like [[https://github.com/emacs-citar/citar][citar]].
+
+Database formats include bibtex, biblatex and natbib.  Some other piece of
+software usually produces this file, for example, [[https://www.zotero.org/][Zotero]].
