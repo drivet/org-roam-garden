@@ -1,5 +1,5 @@
 #+TODO: TOREAD READING | READ DNF
-#+STARTUP: showeverything
+#+STARTUP: showeverything noinlineimages
 #+COLUMNS: %TODO %50ITEM(TITLE) %30AUTHOR %30RATING
 #+HTML_DOCTYPE: html5
 #+OPTIONS: toc:nil num:nil prop:t tags:t p:t html5-fancy:t
@@ -63,6 +63,7 @@ CLOSED: [2025-05-25 Sun 21:27]
 [[https://covers.openlibrary.org/b/ISBN/9780141319148-M.jpg]]
 #+END_aside
 
+
 * READ [[https://openlibrary.org/books/OL1009317M/The_Neverending_Storyhttps://openlibrary.org/books/OL1009317M/The_Neverending_Story][The Neverending Story]]                            :fantasy:ya:translation:
 CLOSED: [2025-03-06]
 :PROPERTIES:
@@ -77,7 +78,8 @@ CLOSED: [2025-03-06]
 [[https://covers.openlibrary.org/b/ISBN/9780525457589-M.jpg]]
 #+END_aside
 
-* READ Redshirts                                                        :scifi:
+
+* READ [[https://openlibrary.org/books/OL25253043M/Redshirts][Redshirts]]                                                        :scifi:
 CLOSED: [2025-01-28]
 :PROPERTIES:
 :Author:   John Scalzi
@@ -89,15 +91,13 @@ CLOSED: [2025-01-28]
 #+BEGIN_aside
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780765316998-M.jpg]]
-
-[[https://openlibrary.org/books/OL25253043M/Redshirts][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780765316998&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 I expected this book to be funny, and it was.  What I was *not* expecting
 was that this book would make me emotional.  I nearly cried.
 
-* TOREAD The Challenges of a Secular Quebec: Bill 21 in Perspective :politics:quebec:
+
+* TOREAD [[https://openlibrary.org/books/OL48189205M/Challenges_of_a_Secular_Quebec][The Challenges of a Secular Quebec: Bill 21 in Perspective]] :politics:quebec:
 :PROPERTIES:
 :Author:   Lucia Ferretti, Francois Rocher
 :Added:    [2025-01-21]
@@ -107,12 +107,9 @@ was that this book would make me emotional.  I nearly cried.
 #+BEGIN_aside
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780774868426-M.jpg]]
-
-[[https://openlibrary.org/books/OL48189205M/Challenges_of_a_Secular_Quebec][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780774868426&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD The Language Instinct: How the Mind Creates Language     :linguistics:
+* TOREAD [[https://openlibrary.org/books/OL17013665M/The_language_instinct][The Language Instinct: How the Mind Creates Language]]     :linguistics:
 :PROPERTIES:
 :Author:   Steven Pinker
 :Added:    [2025-01-12]
@@ -122,10 +119,8 @@ was that this book would make me emotional.  I nearly cried.
 #+BEGIN_aside
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780060958336-M.jpg]]
-
-[[https://openlibrary.org/books/OL17013665M/The_language_instinct][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780060958336&jscmd=data&format=json][Open Library Data]]
 #+END_aside
+
 
 * TOREAD The Mercy of Gods (The Captive’s War, #1)                      :scifi:
 :PROPERTIES:
@@ -11205,7 +11200,7 @@ just tough to slog through.
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9798720402907&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Do Androids Dream of Electric Sheep Omnibus                     :scifi:
+* TOREAD [[https://openlibrary.org/books/OL27461049M/Do_Androids_Dream_of_Electric_Sheep_Omnibus][Do Androids Dream of Electric Sheep Omnibus]]                     :scifi:
 :PROPERTIES:
 :Author:   Philip K. Dick
 :Added:    [2025-04-21]
@@ -11215,12 +11210,9 @@ just tough to slog through.
 #+BEGIN_aside
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781608867844-M.jpg]]
-
-[[https://openlibrary.org/books/OL27461049M/Do_Androids_Dream_of_Electric_Sheep_Omnibus][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781608867844&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Time Enough For Love                                            :scifi:
+* TOREAD [[https://openlibrary.org/books/OL7502171M/Time_Enough_For_Love][Time Enough For Love]]                                            :scifi:
 :PROPERTIES:
 :Author:   Robert A. Heinlein
 :Added:    [2025-04-21]
@@ -11230,9 +11222,6 @@ just tough to slog through.
 #+BEGIN_aside
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780425079904-M.jpg]]
-
-[[https://openlibrary.org/books/OL7502171M/Time_Enough_For_Love][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780425079904&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 * READ [[https://openlibrary.org/books/OL2402762M/Prelude_to_Foundation][Prelude to Foundation]]                                             :scifi:
@@ -11492,4 +11481,40 @@ CLOSED: [2025-11-27 Thu 21:16]
 #+BEGIN_aside
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780075495055-M.jpg]]
+#+END_aside
+
+* TOREAD [[https://openlibrary.org/books/OL26459198M/The_Long_Way_to_a_Small_Angry_Planet][The Long Way to a Small, Angry Planet]] :@scifi:
+:PROPERTIES:
+:Author:   Becky Chambers
+:Added:    2025-12-27
+:ISBN:     9781473619814
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/9781473619814-M.jpg]]
+#+END_aside
+
+* TOREAD [[https://openlibrary.org/books/OL26474379M/A_Closed_and_Common_Orbit][A Closed and Common Orbit]] :@scifi:
+:PROPERTIES:
+:Author:   Becky Chambers
+:Added:    2025-12-27
+:ISBN:     9781473621473
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/9781473621473-M.jpg]]
+#+END_aside
+
+* TOREAD [[https://openlibrary.org/books/OL26971042M/Storm_Front][Storm Front (Book 1 of the Dresden Files )]]
+:PROPERTIES:
+:Author:   Jim Butcher
+:Added:    2026-01-10
+:ISBN:     0451457811
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/0451457811-M.jpg]]
 #+END_aside
