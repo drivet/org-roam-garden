@@ -18,3 +18,16 @@ of preserving that path of the file in the output.
 
 With ox-hugo you specify the section that the post is going under, with
 ~org-hugo-section~
+
+** Comparison with ox-html
+
+The ox-hugo converter turns org files into Hugo flavoured markdown.  When
+Hugo converts the markdown files into HTML, I've found that the there aren't
+as many CSS hooks available in the HTML, as compared to the ox-html
+converter which adds a bunch of wrapper divs which makes styling easier.
+
+This is why my reading list isn't strictly part of my org-roam site.  My
+org-roam notes are converted to HTML via markdown which is produced from
+ox-hugo, and I find that getting the styles to do what I want is tougher in
+that case.  So instead I use the ox-html converter and let then let Hugo
+pass the HTML through.
