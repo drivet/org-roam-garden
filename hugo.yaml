@@ -14,3 +14,7 @@ outputs:
   - JSON
 params:
   author: "Desmond Rivet"
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

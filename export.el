@@ -52,12 +52,16 @@
             (setq cnt (1+ cnt))))
         (message "Done!")))))
 
-(defun bookexport ()
-  (with-current-buffer (find-file-noselect "~/org-roam-garden/books.org")
-    (message (format "Exporting book file"))
+(defun export-org-file-html (infile)
+  (with-current-buffer (find-file-noselect infile)
+    (message (format "Exporting %s" infile))
     (org-toggle-time-stamp-overlays)
     (org-html-export-to-html 'nil 'nil 'nil 't)
-    (kill-buffer)))
+    (kill-buffer))
+  (let* ((abshtmlfile (concat (file-name-sans-extension infile) ".html"))
+          (outfile (concat "~/org-roam-garden/content/"
+                     (file-name-nondirectory abshtmlfile))))
+    (rename-file abshtmlfile outfile 't)))
 
 (defun my-org-export-filter-timestamp-function (content backend info)
   "removes relevant brackets from a timestamp" 
@@ -82,4 +86,5 @@
              'my-org-export-filter-rating-function)
 
 (roamexport)
-(bookexport)
+(export-org-file-html "~/org-roam-garden/books.org")
+(export-org-file-html "~/org-roam-garden/links.org")

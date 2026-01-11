@@ -1,0 +1,427 @@
+#+options: toc:nil num:nil prop:t tags:t p:t html5-fancy:t
+#+html_doctype: html5
+#+BEGIN_EXPORT HTML
+---
+title: "Links"
+author: ["Desmond Rivet"]
+date: 2025-05-14T20:42:00-04:00
+layout: bookmarks
+draft: false
+---
+#+END_EXPORT
+
+* [[https://livewithhu.com/][Live With Hu | Candles & Ritual Experience for Clarity & Alignment]]
+:PROPERTIES:
+:Added: [2026-01-10 Sat 16:58]
+:END:
+
+* [[https://www.quantamagazine.org/what-is-a-manifold-20251103/][What Is a Manifold? | Quanta Magazine]]                                   :math:
+:PROPERTIES:
+:Added: [2025-12-28 Sun 11:54]
+:END:
+
+* [[https://www.emilygorcenski.com/][Emily F. Gorcenski]]                                                    :people:
+:PROPERTIES:
+:Added: [2025-12-28 Sun 11:54]
+:END:
+
+* [[https://www.zylstra.org/blog/2019/09/joining-rss-club-as-an-experiment/][Joining RSS Club as an Experiment – Interdependent Thoughts]]              :rss:
+:PROPERTIES:
+:Added: [2025-12-28 Sun 11:53]
+:END:
+
+* [[https://smallweb.cc/][smallweb]]                                                  :blogging:smalleweb:
+:PROPERTIES:
+:Added: [2025-12-28 Sun 11:53]
+:END:
+
+A manually curated collection of neat indie websites :)
+
+* [[https://ooh.directory/][ooh.directory: a place to find good blogs that interest you]] :blogging:smallweb:
+:PROPERTIES:
+:Added: [2025-12-28 Sun 11:52]
+:END:
+
+Directory of small, indie websites
+
+* [[https://seds.nl/notes/org-roam-firefox-bookmark/][Org-roam Firefox bookmark | Ben Mezger]]             :emacs:orgroam:bookmarking:
+:PROPERTIES:
+:Added: [2025-12-28 Sun 11:52]
+:END:
+
+* [[https://seds.nl/notes/orgmode-firefox-bookmark/][Org-mode Firefox bookmarks | Ben Mezger]]            :emacs:orgmode:bookmarking:
+:PROPERTIES:
+:Added: [2025-12-28 Sun 11:51]
+:END:
+
+* [[https://gitlab.com/howardabrams/emacs-rpgdm][Howard Abrams / emacs-rpgdm · GitLab]]                             :emacs:games:
+:PROPERTIES:
+:Added: [2025-12-28 Sun 11:50]
+:END:
+
+* [[https://codeberg.org/howardabrams/emacs-rpgtk][howardabrams/emacs-rpgtk: A toolkit of functions for writing RPGs in Emacs. A...]] :emacs:games:
+:PROPERTIES:
+:Added: [2025-12-28 Sun 11:50]
+:END:
+
+* [[https://jmthornton.net/blog/p/org-roam-created-modified-dates][Org-roam: Automatically Set Node Created and Modified Dates | Blog | Jade Mic...]] :emacs:orgroam:
+:PROPERTIES:
+:Added: [2025-12-28 Sun 11:49]
+:END:
+
+* [[https://hugocisneros.com/blog/my-org-roam-notes-workflow/][My Org Roam Notes Workflow - Hugo Cisneros]]                     :emacs:orgroam:
+:PROPERTIES:
+:Added: [2025-12-28 Sun 11:49]
+:END:
+
+* [[https://lucidmanager.org/productivity/read-rss-feeds-with-emacs-and-elfeed/][Read RSS and Atom feeds with Emacs and Elfeed]]                      :emacs:rss:
+:PROPERTIES:
+:Added: [2025-12-28 Sun 11:48]
+:END:
+
+* [[https://dewaka.com/blog/bookmarking-with-org-mode/][Bookmarking with org-mode | Chathura Colombage]]     :emacs:orgmode:bookmarking:
+:PROPERTIES:
+:Added: [2025-12-28 Sun 11:47]
+:END:
+
+* [[https://blog.lazkani.io/posts/bookmark-with-org-capture/][Bookmark with Org-capture | The DevOps Blog]]        :emacs:orgmode:bookmarking:
+:PROPERTIES:
+:Added: [2025-12-28 Sun 11:46]
+:END:
+
+* [[https://cmdln.org/2023/03/25/how-i-org-in-2023/][How I org in 2023 ·]]                                            :emacs:orgmode:
+:PROPERTIES:
+:Added: [2025-12-28 Sun 11:44]
+:END:
+
+* [[https://edwardtufte.github.io/tufte-css/][Tufte CSS]]                                               :css:frontend:writing:
+:PROPERTIES:
+:Added: [2025-12-28 Sun 11:39]
+:END:
+
+* [[https://stackoverflow.com/questions/24330980/enumerate-all-tags-in-org-mode][Enumerate all tags in org-mode - Stack Overflow]]                :emacs:orgmode:
+:PROPERTIES:
+:Added: [2025-12-28 Sun 11:39]
+:END:
+
+* [[https://protesilaos.com/][Protesilaos Stavrou]]                                             :people:emacs:
+:PROPERTIES:
+:Added: [2025-12-28 Sun 11:38]
+:END:
+
+* [[https://lucidmanager.org/tags/emacs/][Analyse data and present the results with Emacs Data Studio]]    :emacs:writing:
+:PROPERTIES:
+:Added: [2025-12-28 Sun 11:37]
+:END:
+
+A bunch of [[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]] articles describing a writing studio setup.
+
+* [[https://adactio.com/journal/20515][Adactio: Journal—Crawlers]]                                             :ai:web:
+:PROPERTIES:
+:Added: [2025-12-28 Sun 11:37]
+:END:
+
+* [[https://youtu.be/Kok5RLFYtSo][Torta piu amata in Italia 🤩 La farai ogni settimana 🍋🍋🍋 - YouTube]]   :food:
+:PROPERTIES:
+:Added: [2025-12-28 Sun 11:36]
+:END:
+
+* [[https://golmac.org/about-the-time-i-wrote-an-inform-7-game/][About the Time I Wrote an Inform 7 Game – Gold Machine]]                 :games:
+:PROPERTIES:
+:Added: [2025-12-28 Sun 11:35]
+:END:
+
+* [[https://chelseatroy.com/2022/11/25/on-the-psychology-of-tech-money/][On the Psychology of “Tech Money” – Chelsea Troy]]                        :misc:
+:PROPERTIES:
+:Added: [2025-12-28 Sun 11:35]
+:END:
+
+* [[https://fedi.tips/what-other-kinds-of-servers-are-on-the-fediverse/][What other kinds of servers are on the Fediverse? | Fedi.Tips – An Unofficial...]] :fediverse:
+:PROPERTIES:
+:Added: [2025-12-28 Sun 00:04]
+:END:
+
+* [[https://werd.io/the-fediverse-and-the-indieweb/][The fediverse and the indieweb]]                            :indieweb:fediverse:
+:PROPERTIES:
+:Added: [2025-12-28 Sun 00:04]
+:END:
+
+* [[https://piccalil.li/blog/some-simple-ways-to-make-content-look-good/][Some simple ways to make content look good - Piccalilli]]         :css:frontend:
+:PROPERTIES:
+:Added: [2025-12-28 Sun 00:03]
+:END:
+
+* [[https://www.theguardian.com/commentisfree/2023/mar/04/the-joy-of-mediocrity-we-need-hobbies-even-if-were-bad-at-them-to-free-us-from-perfection][The joy of mediocrity: we need hobbies, even if we’re bad at them, to free us...]] :misc:
+:PROPERTIES:
+:Added: [2025-12-28 Sun 00:02]
+:END:
+
+* [[https://jhalabi.com/][Joni Halabi: Web creator. Author. Speaker.]]                   :people:indieweb:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 23:59]
+:END:
+
+* [[https://www.seriouseats.com/classic-french-omelette-recipe][Classic French Omelette Recipe]]                                          :food:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 23:58]
+:END:
+
+* [[https://storax.github.io/blog/2016/05/02/org-capture-tricks/][Org capture tricks - Storax]]                                    :orgmode:emacs:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 23:56]
+:END:
+
+* [[https://boffosocko.com/2022/06/10/reframing-and-simplifying-the-idea-of-how-to-keep-a-zettelkasten/][Reframing and simplifying the idea of how to keep a Zettelkasten | Chris Aldrich]] :zettel:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 23:55]
+:END:
+
+* [[https://coredumped.dev/2021/05/26/taking-org-roam-everywhere-with-logseq/][Taking org-roam everywhere with logseq • Core Dumped]]    :zettel:orgmode:emacs:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 23:54]
+:END:
+
+* [[https://evakeiffenheim.substack.com/][Lifelong Learning Club | Eva Keiffenheim MSc | Substack]]      :learning:zettel:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 23:53]
+:END:
+
+* [[https://medium.com/@rebeccawilliams9941/the-zettelkasten-method-examples-to-help-you-get-started-8f8a44fa9ae6][The Zettelkasten Method: Examples to help you get started. | by Rebecca Willi...]] :pim:zettel:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 23:41]
+:END:
+
+* [[https://github.com/james-stoup/emacs-org-mode-tutorial][GitHub - james-stoup/emacs-org-mode-tutorial: A primer for users trying to ma...]] :emacs:orgmode:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 23:39]
+:END:
+
+* [[https://mxb.dev/blog/how-to-turn-your-website-into-a-pwa/][How to turn your website into a PWA | Max Böck]]                      :frontend:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 23:39]
+:END:
+
+* [[https://mxb.dev/blog/indieweb-link-sharing/][IndieWeb Link Sharing | Max Böck]]                           :blogging:indieweb:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 23:39]
+:END:
+
+* [[https://www.smashingmagazine.com/2016/04/web-developer-guide-color/][A Simple Web Developer’s Color Guide — Smashing Magazine]]            :frontend:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 23:37]
+:END:
+
+* [[https://www.smashingmagazine.com/2010/02/color-theory-for-designer-part-3-creating-your-own-color-palettes/][Color Theory for Designers, Part 3: How To Create Your Own Color Schemes — Sm...]] :frontend:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 23:36]
+:END:
+
+* [[https://www.smashingmagazine.com/2010/02/color-theory-for-designers-part-2-understanding-concepts-and-terminology/][Color Theory For Designers, Part 2: Understanding Concepts And Color Terminol...]] :frontend:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 23:36]
+:END:
+
+* [[https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-color/][Color Theory for Designers, Part 1: The Meaning of Color — Smashing Magazine]] :frontend:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 23:36]
+:END:
+
+* [[https://blog.mollywhite.net/its-not-still-the-early-days/][It's not still the early days]]                                        :finance:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 23:35]
+:END:
+
+* [[https://css-tricks.com/considerations-for-using-markdown-writing-apps-on-static-sites/][Considerations for Using Markdown Writing Apps on Static Sites | CSS-Tricks]] :blogging:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 23:35]
+:END:
+
+* [[https://aaronparecki.com/2021/04/13/26/indieauth][How to Sign Users In with IndieAuth • Aaron Parecki]]                 :indieweb:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 23:33]
+:END:
+
+* [[https://slack.engineering/interops-labyrinth-sharing-code-between-web-electron-apps/][Interop’s Labyrinth: Sharing Code Between Web & Electron Apps | Engineering a...]] :frontend:programming:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 20:08]
+:END:
+
+* [[https://css-tricks.com/building-a-real-time-chat-app-with-react-and-firebase/][Building a Real-Time Chat App with React and Firebase | CSS-Tricks]] :programming:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 20:06]
+:END:
+
+* [[https://www.spicyweb.dev/why-tailwind-isnt-for-me/][Why Tailwind Isn’t for Me | The Spicy Web]]                       :css:frontend:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 20:05]
+:END:
+
+* [[https://evanstoner.com/posts/2020/indieweb-revisited/][IndieWeb, Revisited]]                                                 :indieweb:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 20:03]
+:END:
+
+Evan Stoner describes his complex IndieWeb workflow.
+
+* [[https://jlelse.blog/links/2020/11/stupid-light-software][“Stupid light software” - Jan-Lukas Else]]                         :programming:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 20:01]
+:END:
+
+* [[https://blog.jim-nielsen.com/2020/the-organic-web/][The Organic Web - Jim Nielsen’s Blog]]                                :indieweb:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 19:59]
+:END:
+
+* [[https://hacdias.com/2020/11/02/backing-up-email/][How to Effectively Backup Your Emails - Henrique Dias]]               :sysadmin:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 19:56]
+:END:
+
+* [[https://hacdias.com/2020/01/02/dynamic-static/][Build a Dynamic Website… or Not? - Henrique Dias]]                    :indieweb:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 19:55]
+:END:
+
+* [[https://indiebookclub.biz/][indiebookclub]]                                               :indieweb:reading:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 19:53]
+:END:
+
+An app for tracking the books you read
+
+* [[https://hacdias.com/2020/01/29/owning-reading-log/][Owning My Reading Log - Henrique Dias]]                       :reading:indieweb:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 19:53]
+:END:
+
+* [[https://hacdias.com/2015/03/31/how-to-create-a-node-js-command-line-application/][How To Create a Node.js Command-Line Application - Henrique Dias]] :programming:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 19:50]
+:END:
+
+* [[https://dev.to/meeshkan/functional-on-the-frontend-with-fp-ts-and-pipe-4mn9][Functional on the frontend with fp-ts and pipe - DEV Community]]   :programming:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 19:49]
+:END:
+
+* [[https://jlelse.blog/dev/miniflux-blogroll/][How my blogroll gets generated (now completely automatic!) - Jan-Lukas Else]] :blogging:indieweb:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 19:34]
+:END:
+
+* [[https://neilkakkar.com/things-I-learned-to-become-a-senior-software-engineer.html][Things I Learned to Become a Senior Software Engineer | Neil Kakkar]] :programming:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 19:33]
+:END:
+
+* [[https://www.jeremycherfas.net/blog/structured-data-for-book-reviews][Structured data for book reviews | Jeremy Cherfas]]           :reading:indieweb:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 19:32]
+:END:
+
+* [[https://asoftmurmur.com/][A Soft Murmur]]                                                          :sound:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 19:30]
+:END:
+
+Ambient sounds for focusing
+
+* [[https://vincentp.me/articles/2020/07/16/16-20/][From Indieweb Monolith to Microservices]]                             :indieweb:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 19:29]
+:END:
+
+* [[https://blog.logrocket.com/a-guide-to-theming-in-css/][A guide to theming in CSS - LogRocket Blog]]                      :frontend:css:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 19:29]
+:END:
+
+* [[https://gomakethings.com/the-amazing-power-of-service-workers/][The amazing power of service workers | Go Make Things]]               :frontend:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 19:28]
+:END:
+
+* [[https://interconnected.org/home/2020/07/29/improving_rss][How would I improve RSS? Three ideas (Interconnected)]]                    :web:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 19:28]
+:END:
+
+* [[https://adactio.com/journal/17140][Adactio: Journal—Hey now]]                                            :frontend:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 17:06]
+:END:
+
+Progressive enhancement post, focusing on the Hey email app.
+
+* [[https://matthiasott.com/articles/into-the-personal-website-verse][Into the Personal-Website-Verse · Matthias Ott]]                      :indieweb:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 17:01]
+:END:
+
+* [[https://sarahchima.com/blog/css-specificity/][What is CSS Specificity? Sarah Chima Atuonwu- Software Engineer]] :frontend:css:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 16:59]
+:END:
+
+* [[https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/][A little bit of plain Javascript can do a lot]]                       :frontend:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 16:59]
+:END:
+
+* [[https://css-tricks.com/in-defense-of-a-fussy-website/][In Defense of a Fussy Website | CSS-Tricks]]                          :frontend:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 16:57]
+:END:
+
+* [[https://matthiasott.com/notes/fussy-web-true-meaning][Fussy Web, True Meaning. · Matthias Ott]]                             :frontend:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 16:57]
+:END:
+
+* [[https://neustadt.fr/essays/against-a-user-hostile-web/][Against an Increasingly User-Hostile Web - Neustadt.fr]]              :smallweb:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 16:54]
+:END:
+
+* [[https://www.sarasoueidan.com/blog/style-settings-with-css-variables/][Global and Component Style Settings with CSS Variables]]          :frontend:css:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 16:54]
+:END:
+
+* [[https://neustadt.fr/essays/the-small-web/][Rediscovering the Small Web - Neustadt.fr]]                  :blogging:smallweb:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 16:53]
+:END:
+
+* [[http://tttthis.com/blog/if-i-could-bring-one-thing-back-to-the-internet-it-would-be-blogs][If I could bring one thing back to the internet it would be blogs]] :blogging:smallweb:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 16:50]
+:END:
+
+On blogging, and where it went.
+
+* [[https://www.csun.io/2020/05/17/gnucash-finance.html][Simple Personal Finance Tracking with GnuCash | Cameron Sun]]          :finance:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 16:48]
+:END:
+
+* [[https://www.ribbonfarm.com/2020/02/24/a-text-renaissance/][A Text Renaissance]]                                                 :plaintext:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 16:47]
+:END:
+
+* [[https://doubleloop.net/2020/05/03/read-feeder/][Read feeder - doubleloop]]                                    :reading:indieweb:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 16:45]
+:END:
+
+* [[https://adactio.com/journal/16803][Adactio: Journal—Reading]]                                             :reading:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 16:41]
+:END:
+
+* [[https://boffosocko.com/2020/04/26/a-short-post-mortem-video-and-note-links-and-challenge-from-the-garden-and-the-stream-indiewebcamp-pop-up-session/][A short post mortem, video and note links, and challenge from The Garden and ...]] :indieweb:
+:PROPERTIES:
+:Added: [2025-12-27 Sat 16:36]
+:END:

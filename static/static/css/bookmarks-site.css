@@ -1,0 +1,42 @@
+h2 {
+  font-size: 1.1em;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.outline-2 {
+  margin-bottom: 1.5em;
+}
+
+.outline-text-2 pre {
+  margin: 0;
+  border: 0;
+  width: 70%;
+  min-width: 70%;
+  background-color: inherit;
+  font-family: Inter, sans-serif;
+  font-size: 14px;
+  color: var(--color);
+  padding: 0;
+}
+
+.outline-text-2 p {
+  width: 100%;
+}
+
+.tag {
+  font-size: 12px;
+}
+
+.tag span {  
+  margin-right: 0.3em;
+}
+
+.tag span:last-child {
+  margin-right: 0em;
+}
+
+.outline-2 p {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}

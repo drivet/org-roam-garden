@@ -3,7 +3,6 @@ HUGO = ~/bin/hugo
 
 orgfiles:
 	emacs -batch -l ./export.el
-	mv ~/org-roam-garden/books.html ~/org-roam-garden/content/books.html
 
 backlinks:
 	mkdir -p assets/data; $(GO) run backlinks.go ~/org-roam-garden; sed -i 's/_index/index/g' assets/data/backlinks.yaml

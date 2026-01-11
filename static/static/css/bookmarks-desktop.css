@@ -1,0 +1,21 @@
+@media only screen and (min-width : 1024px) {  
+  .main-content {
+    width: 60%;
+  }
+
+  .outline-text-2 aside {  
+    width: 20%;
+    min-width: 20%;
+  }
+  
+  .outline-text-2 figure img {
+    width: 180px;
+    min-height: 180px;
+    background-color: lightgray;
+  }
+
+  .outline-text-2 pre {
+    width: 80%;
+    min-width: 80%;
+  }
+}

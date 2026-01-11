@@ -1,0 +1,16 @@
+@media only screen and (min-width : 768px) {
+  
+  .outline-text-2 aside {  
+    width: 25%;
+    min-width: 25%;
+  }
+  
+  .outline-text-2 figure img {
+    width: 180px;
+  }
+
+  .outline-text-2 pre {
+    width: 75%;
+    min-width: 75%;
+  }
+}

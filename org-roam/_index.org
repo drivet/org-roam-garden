@@ -31,4 +31,5 @@ I also have a page for [[id:296E9CFB-967A-495D-B99A-EE62BCC72244][orphaned or un
 
  * [[/all.html][All pages]]
  * [[/books.html][Reading List]]
-   
+ * [[/links.html][Links]]
+
