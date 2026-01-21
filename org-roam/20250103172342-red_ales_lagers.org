@@ -9,6 +9,7 @@ Somewhere south of an amber ale, this is bright red, and often comes from
 Ireland.  Tends to be toasty.
 
 *** Best rated
+ * [[id:ccf17885-e7c1-4f25-a27e-c5039f7fdecf][Orford (La Memphre)]]
  * [[id:412E3147-B84C-4C15-9954-5EB7F1DF48A2][Chipie (Archibald)]]
  * [[id:cd188d53-4ab0-4eea-bfd5-e64d284740ea][La Rouse Foutee (Shawbridge)]]
  * [[id:dd6653a6-02b2-4fbe-bea6-04e9aebcc326][Saint Arnould Riviere Rouge Toasted Red Ale]]
