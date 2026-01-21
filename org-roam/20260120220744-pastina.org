@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       b54fc206-5022-4638-a124-de2edfc98d00
+:END:
+#+date: [2026-01-20 Tue 22:07]
+#+hugo_lastmod: [2026-01-20 Tue 22:07]
+#+title: Pastina
+#+filetags:
+
+[[id:3a1caf2c-7854-4cf0-bb11-bb7806618c36][Recipes]]
+
+Easy and comforting, especially on a cold night.
+
+Yield: 4 servings
+
+** Ingredients
+ * 6 cups low-sodium vegetable broth
+ * 1 medium yellow onion, diced
+ * 1-2 carrots, diced
+ * 1-2 celery ribs, diced
+ * 2 tablespoons olive oil
+ * salt and pepper
+ * 1 cup pastina or any tiny pasta variety, like alphabet, orzo, or acini di pepe
+ * Grated Parmesan cheese, for serving
+
+** Instructions
+
+ 1. Fry the vegetables in the olive oil on medium heat with some and pepper
+    to taste, about 7 minutes
+ 2. Add the broth, simmer for 15 minutes on medium heat.
+ 3. Turn off the heat, and puree the soup with a hand blender until mostly
+    uniform with only a small amount chunkiness remaining.  Add some more
+    salt to taste.
+ 4. Add the pasta, raise temperature to medium high, cook for about 10-15
+    minutes.
+ 5. Ladle into bowls, sprinkle with cheese.
