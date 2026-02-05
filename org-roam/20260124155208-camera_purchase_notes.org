@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d30c76d8-5bb3-47b7-84f2-e407216d526c
+:END:
+#+date: [2026-01-24 Sat 15:52]
+#+hugo_lastmod: [2026-01-24 Sat 15:52]
+#+title: Camera Purchase Notes
+
+
+Types:
+
+ * DSLR, professional, but expensive and overkill
+ * Mirrorless seems to be the sweet spot
+
+Sensor type:
+
+ * Full frame (same as 35 mm)
+ * APS-C
+ * Medium (larger than FF)
+ * Four Thirds or MFT (smaller than APS-C)
