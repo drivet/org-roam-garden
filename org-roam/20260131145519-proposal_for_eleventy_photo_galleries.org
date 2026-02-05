@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       4f9c3205-b2ba-4812-8fe0-9bf5112b034b
+:END:
+#+date: [2026-01-31 Sat 14:55]
+#+hugo_lastmod: [2026-01-31 Sat 14:55]
+#+title: Proposal for Eleventy Photo Galleries
+
+[[id:0F0DCEA3-43C5-4396-AA23-8039242035F5][Eleventy]]
+
+ * Organize photos as they would appear in the gallery
+
+Templates required:
+
+ * Photo.  Shows the photo and details
+ * Album of photos.  Shows thumbnails of photos.
+ * Album of albums. Shows featured photos for each album.
+
