@@ -11447,18 +11447,6 @@ CLOSED: [2025-11-27 Thu 21:16]
 [[https://covers.openlibrary.org/b/ISBN/9781550654240-M.jpg]]
 #+END_aside
 
-* READING [[https://openlibrary.org/books/OL57609825M/Enshittification][Enshittification]]
-:PROPERTIES:
-:Author:   Cory Doctorow
-:Added:    2025-11-26
-:ISBN:     9780374619336
-:END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780374619336-M.jpg]]
-#+END_aside
-
 * READ [[https://openlibrary.org/books/OL32667321M/Nemesis_Games][Nemesis Games (The Expanse #5]])                                    :scifi:
 :PROPERTIES:
 :Author:   James S. A. Corey
@@ -11469,6 +11457,19 @@ CLOSED: [2025-11-27 Thu 21:16]
 #+BEGIN_aside
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780316217583-M.jpg]]
+#+END_aside
+
+* READ [[https://openlibrary.org/books/OL57609825M/Enshittification][Enshittification]]
+CLOSED: [2026-02-05 Thu 08:10]
+:PROPERTIES:
+:Author:   Cory Doctorow
+:Added:    2025-11-26
+:ISBN:     9780374619336
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/9780374619336-M.jpg]]
 #+END_aside
 
 * TOREAD [[https://openlibrary.org/books/OL15304604M/Ideological_perspectives_on_Canada][Ideological perspectives on Canada]] :politics:canada
@@ -11517,4 +11518,40 @@ CLOSED: [2025-11-27 Thu 21:16]
 #+BEGIN_aside
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/0451457811-M.jpg]]
+#+END_aside
+
+* TOREAD [[https://openlibrary.org/books/OL57768813M/All_That_We_See_or_Seem][All That We See or Seem]]
+:PROPERTIES:
+:Author:   Ken Liu
+:Added:    2026-01-24
+:ISBN:     9781668083178
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/9781668083178-M.jpg]]
+#+END_aside
+
+* TOREAD [[https://openlibrary.org/books/OL28440487M/Sapiens_A_brief_Story_of_Human_Kind][Sapiens A brief Story of Human Kind]]
+:PROPERTIES:
+:Author:   Yuval Noah Harari
+:Added:    2026-01-24
+:ISBN:     9780062316097
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/9780062316097-M.jpg]]
+#+END_aside
+
+* READING [[https://openlibrary.org/books/OL38240743M/The_Color_of_Magic][The Color of Magic]]
+:PROPERTIES:
+:Author:   Terry Pratchett
+:Added:    2026-02-05
+:ISBN:     9780061020711
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/9780061020711-M.jpg]]
 #+END_aside
