@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       656cb120-763b-4935-b3e6-9465da0d7ef0
+:END:
+#+date: [2026-01-25 Sun 11:54]
+#+hugo_lastmod: [2026-01-25 Sun 11:54]
+#+title: Emacs Faces
+
+[[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]]
+
+You can use ~describe-char~ over a character to see information about how
+the character is rendered, including its face.
+
+Once you have the face, you can use ~describe-face~ to see information about
+the face.
+
