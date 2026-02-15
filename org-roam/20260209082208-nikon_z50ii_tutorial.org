@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f25292cb-9fda-4cfd-8222-6fbcb991a91a
+:ROAM_REFS: https://www.kenrockwell.com/nikon/z/z50-ii-users-guide.htm https://www.youtube.com/watch?v=XeZfXkORHbw
+:END:
+#+date: [2026-02-09 Mon 08:22]
+#+hugo_lastmod: [2026-02-09 Mon 08:22]
+#+title: Nikon Z50ii Tutorial
+
+[[id:9f1a8982-7a7e-4918-a48d-278907e7f217][Photography]]
+
+ * Monitor mode button is next to the viewfinder.  Looks like an eye.
+   Cycles through different ways that the monitor and viewfinder operate
+   together.
+ * Has custom function buttons near the lens.  Set them to what you like.
+   Go to Menu, then the pencil icon, which is custom settings, then f
+   (Controls), then Custom controls (shooting)
+ * Vibration reduction (like image stabilization but through the lens) is
+   through the Photo shooting menu, it seems to be on by default.
+
+
+

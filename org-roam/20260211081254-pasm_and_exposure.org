@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       94cdae65-af29-4a15-bcdf-48a49bae4540
+:END:
+#+date: [2026-02-11 Wed 08:12]
+#+hugo_lastmod: [2026-02-11 Wed 08:12]
+#+title: PASM and Exposure
+
+PASM refers to the standard exposure modes available on most "serious"
+cameras.  Each letter is a different mode.
+
+Each mode is characterized by which setting(s) you control and which are set
+by the camera.  Settings in this case mean exposure settings, so we're
+talking about shutter speed, aperture and ISO.
+
+ * (P)rogram mode: Camera controls aperture and shutter
+ * (A)perture priority: You control aperture, camera controls shutter
+ * (S)hutter priority: Camera controls aperture, you control shutter
+ * (M)anual mode: You control aperture and shutter
+
+So, for example, if you have a scene where things are moving really fast,
+like a sports scene it makes sense that you would want to control shutter
+speed - make it really fast so things don't blur.
+
+If you have a landscape and you want the whole thing in focus, then you'll
+want a large Depth of Field, which means a very narrow Aperture.
+
+I guess you'd use Program mode if you just want the camera to set
+everything.
+
+[[id:9f1a8982-7a7e-4918-a48d-278907e7f217][Photography]]
+[[id:0533a79f-2eda-48d3-8842-0e943edcd64c][Exposure Triangle]]
+

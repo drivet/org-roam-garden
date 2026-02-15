@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       58cfa963-2a05-4892-b982-c25dfbbd0950
+:END:
+#+date: [2026-02-09 Mon 18:35]
+#+hugo_lastmod: [2026-02-09 Mon 18:35]
+#+title: Auto-Focus, Depth of Field and Aperture
+
+[[id:9f1a8982-7a7e-4918-a48d-278907e7f217][Photography]]
+
+Depth of field (DoF) refers to how much of a scene is in focus.
+
+Aperture controls how much light is let in through the camera hole.  Usually
+measured in f-stops, i.e. a fraction like f/N, where a small N means a
+bigger hole, or wider aperture.  Wider aperture creates a shallower DoF,
+which keeps a smaller part of the scene in focus.  A narrow aperture, i.e. a
+higher f-Number, or bigger N, will keep more of the scene in focus.
+
+Longer focal lengths (i.e. with a telephoto lens) means shallower DoF,
+i.e. smaller part of the scene in focus.
+
+** Auto-Focus (with the Nikon Z50 ii)
+
+https://www.kenrockwell.com/nikon/z/z50-ii-users-guide.htm
+
+Auto Focus (AF) is how the camera zeroes in on a subject.  There are
+different ways to do it, hence a selection of AF /modes/ on the Nikon Z50ii.
+
+AF modes are
+
+ * AF-S (static, for subjects standing still)
+ * AF-C (continuous, for moving subjects)
+ * AF-A, which switched between the above dynamically
+
+On the Nikon Z50ii, the AF modes are accessible from the Fn2 button out of
+the box, though you can change that.  Otherwise you can get the modes from
+the Menu, under Shooting/Focus.
+
+Press the Fn2 button, and the rear dial cycles through the modes.
+
+The front dial cycles through the AF Area modes.  The guy in the link above
+disables all the AF Area modes except for All Area AF (selects AF area
+automatically) and 3D which focuses on a single area.

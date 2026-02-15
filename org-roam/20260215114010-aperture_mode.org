@@ -1,0 +1,70 @@
+:PROPERTIES:
+:ID:       c811315d-f777-4020-9ec4-0711c08e7dc8
+:ROAM_REFS: https://www.youtube.com/watch?v=FcC0LyBIKPE&t=2s
+:END:
+#+date: [2026-02-15 Sun 11:40]
+#+hugo_lastmod: [2026-02-15 Sun 11:40]
+#+title: Aperture Mode
+
+Part of my [[id:9f1a8982-7a7e-4918-a48d-278907e7f217][Photography]] series.  May need to merge this with my [[id:58cfa963-2a05-4892-b982-c25dfbbd0950][Auto-Focus,
+Depth of Field and Aperture]] page.  Also the [[id:0533a79f-2eda-48d3-8842-0e943edcd64c][Exposure Triangle]].
+
+
+The internet seems to say that Aperture mode is the most useful mode to work
+in.  In this mode you control Aperture of the camera, while the camera
+controls the ISO and shutter speed.
+
+Aperture control depth of field and how much of your scene is in focus.
+
+** What is Aperture
+
+It's the size of the hole in your lens that lets in light.  Bigger means
+more light, smaller means less.
+
+** How is it measured?
+
+It's usually designated with a fraction like f/2 or f/16.  This is the
+f-number, or the numerical aperture and the denominator is the relative
+aperture.
+
+In any case, a small f-number means a smaller hole, less light, and a bigger
+denominator.  A bigger f-number means a bigger hole, more light and a bigger
+denominator.
+
+** Effects of larger and smaller aperture
+
+A smaller f-number means a smaller hole, and *also* means a bigger depth of
+field, which means that more of your image is in focus.  A larger f-number
+means a bigger hole and *also* means a smaller depth of field, which means
+less of your image is in focus.
+
+So, handy summary:
+
+- *bigger* depth of focus means a *bigger* part of your photo is in focus,
+  and is associated with a smaller f-number, or a *bigger* denominator.
+  This is a *narrow* aperture.
+- *smaller* depth of focus means a *smaller* part of the photo is in focus,
+  and is associated with a bigger f-number or a *smaller* denominator.  This
+  is a *wide* aperture.
+
+It's really all about the denominator.  It is directly related to the amount
+of your photo is in focus.
+
+** The Bokeh effect
+
+The Bokeh effect is that effect where the subject is in focus and the
+background is blurry.  This is associated with a small depth of field,
+i.e. a smaller denominator.
+
+** Other ways to affect your DOF
+
+ * distance to your subject
+ * focal length (i.e. your lens)
+
+The wider your lens (smaller mm) the more DOF you will have for the same
+aperture.  The tighter the lens, the less DOF you have (i.e. you'll have a
+bokeh effect).
+
+Also, the closer you are to your subject, the less DOF you have, for a given
+lens and aperture.  Move closer to your subject and you can get a bokeh
+effect.
