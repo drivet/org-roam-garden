@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       07a64938-68b7-4fa7-a437-cdf9824f16d7
+:END:
+#+date: [2026-01-27 Tue 22:02]
+#+hugo_lastmod: [2026-01-27 Tue 22:02]
+#+title: Kubernetes Notes
+
+Kubernetes is a distributed computing model used to create microservice
+based applications deployed onto a cluster.
+
+** Pods
+
+The pod concept is the atom of kubernetes, the smallest unit that can be
+manipulated.  A pod wraps one or more tightly coupled dockers images, but
+often only one.
+
+A pod is a single unit of execution.
+
+** Deployment
+
+A Deployment manages the life cycle of your pods.  Pods are created and
+destroyed by Deployment object.  When a pod dies, the Deployment is
+responsible for creating a new instance.
+
+** Service
+
+A Service fronts a bunch of pods and provides a single point of contact for
+a series of ephemeral pods.
