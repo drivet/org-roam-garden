@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       17bbd81f-3ff2-450c-b835-2ab7fe527e8f
+:END:
+#+date: [2026-03-21 Sat 08:29]
+#+hugo_lastmod: [2026-03-21 Sat 08:29]
+#+title: Survey of HTML 5 Tags
+
+[[id:febef396-309c-4e2b-8173-61702964472b][Front End Development]]
+
+**main** defines the primary content of a web page or application—content
+that is unique to that document and directly related to its central topic or
+functionality
+   
+**article** defines a self-contained, independent piece of content that can
+stand alone and be distributed or reused independently—such as a blog post,
+news article, forum post, or user comment.
+
+If there's only one article on a page, you can get away with just the main
+tag, though you can also nest an article tag under it.
+
+**header** define the introductory or navigational content for a document or
+a section. ￼ It typically contains headings (<h1> to <h6>), logos, site
+titles, navigation menus, search forms, or other introductory elements.
+Often appears under an article.  Can definitely have multiple instances of
+this on the same page.
+   
+If you can put a h<n> tag, then you can put a header tag, though the reverse
+may not be true.
