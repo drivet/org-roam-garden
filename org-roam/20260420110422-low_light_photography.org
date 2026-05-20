@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       264a0cfd-4267-4f2b-a872-2189924bc7f7
+:END:
+#+date: [2026-04-20 Mon 11:04]
+#+hugo_lastmod: [2026-04-20 Mon 11:04]
+#+title: Low Light Photography
+
+ISO:
+
+ * High ISO makes grainy photos in low light
+ * APS-C sensor, suggesting shooting below ISO 3200 (3200 ceiling)
+ * Full frame, suggesting shooting below ISO 6400 (6400 ceiling)
+
+Aperture:
+
+ * Probably the first thing to try changing in low light
+ * You can use wider aperture to let in more light.  This means a smaller
+   denominator in the f/N number.
+ * Just remember, this narrows your DOF.  Harder to focus on what you want.
+
+Lower your aperture as far as it will go.  Then you can perhaps lower your
+ISO as well.
+
+Shutter:
+
+ * Slower shutter speed (larger X in 1/X) lets in more light.
+ * Full Frame, suggested shutter speed (1/X) matches focal length (Y mm)
+ * APS-C sensor, suggested double focal length
+
+https://youtu.be/rxbP_vGTosU?si=VnsWgxsTMasI6PCl

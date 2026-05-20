@@ -17,5 +17,11 @@
  * Vibration reduction (like image stabilization but through the lens) is
    through the Photo shooting menu, it seems to be on by default.
 
+Dials
+ * Main command dial is the rear one
+ * Sub-command dial is the front one
 
-
+Aperture mode
+ * In A mode, adjust Aperture via the front dial.  Set to Auto ISO
+   (suggested 3200 max ISO, since it's a APS-C camera, see [[id:264a0cfd-4267-4f2b-a872-2189924bc7f7][Low Light Photography]])
+ * To adjust ISO, hold down the ISO button and move the rear dial.

@@ -9,7 +9,6 @@
 Part of my [[id:9f1a8982-7a7e-4918-a48d-278907e7f217][Photography]] series.  May need to merge this with my [[id:58cfa963-2a05-4892-b982-c25dfbbd0950][Auto-Focus,
 Depth of Field and Aperture]] page.  Also the [[id:0533a79f-2eda-48d3-8842-0e943edcd64c][Exposure Triangle]].
 
-
 The internet seems to say that Aperture mode is the most useful mode to work
 in.  In this mode you control Aperture of the camera, while the camera
 controls the ISO and shutter speed.
@@ -54,7 +53,7 @@ of your photo is in focus.
 
 The Bokeh effect is that effect where the subject is in focus and the
 background is blurry.  This is associated with a small depth of field,
-i.e. a smaller denominator.
+i.e. a **smaller** denominator.
 
 ** Other ways to affect your DOF
 

@@ -1,0 +1,59 @@
+:PROPERTIES:
+:ID:       a1908b21-2814-45df-a120-640f29d9393a
+:END:
+#+date: [2026-05-18 Mon 17:02]
+#+hugo_lastmod: [2026-05-18 Mon 17:02]
+#+title: Bucketed RRIF Strategies
+
+See these videos:
+
+https://www.youtube.com/watch?v=XDJXStsMOdI
+https://www.youtube.com/watch?v=y62H0GFWLqM
+
+** Split your Retirement
+
+Basically, bucket your money.  Don't invest everything the same way.  So if
+you want to retire at 50, let's say, divide your retirement into:
+
+ * Early (50-57)
+ * Middle (58-66)
+ * Late (67+)
+
+The videos are American so Social Security is taken at 67.  In Canada, it's
+usually best to delay benefits (CPP/QPP/OAS) until 70 to get the maximum
+effect.
+
+The point is that the late phase looks different than the earlier phases since
+
+ * You have government benefits and
+ * You tend to spend less at this age
+
+In the video about what to do with 1.5 million, she divides retirement into
+two phases:
+
+ * 55-67
+ * 67+
+
+In my case, I'm unlike to retire at 50, and 70 appears to be the government
+benefits magic number.  So we have a couple of options:
+
+ * Early 55-61
+ * Middle 63-70
+ * Late 70+
+
+Or just use two buckets:
+
+ * 55-70
+ * 70+
+
+** Investing
+
+The Early bucket is meant to be the money you live on.  This should not be
+in risky investments, but should be in cash, bond, treasury bills, etc.
+
+The Mid bucket is your bridge.  It exists to fill your early bucket when it
+goes down and the markets are good.  Invest in a balanced ETF.
+
+The Late bucket can be in high growth ETFs, like VGRO.
+   
+[[id:8c5f714a-6228-4fb1-a50d-f710a18ab590][Finance]]

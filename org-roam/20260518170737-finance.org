@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       8c5f714a-6228-4fb1-a50d-f710a18ab590
+:END:
+#+date: [2026-05-18 Mon 17:07]
+#+hugo_lastmod: [2026-05-18 Mon 17:07]
+#+title: Finance
+
+

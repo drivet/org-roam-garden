@@ -1,0 +1,66 @@
+:PROPERTIES:
+:ID:       48ae68c0-82aa-4362-85b2-ccdca7d3ea49
+:END:
+#+date: [2026-05-09 Sat 12:51]
+#+hugo_lastmod: [2026-05-09 Sat 12:51]
+#+title: Asset Allocation Funds
+
+
+Asset Allocation Funds are funds that invest in other ETFs.  Let's define
+some here.
+
+Equity ETFs:
+
+VUN - U.S. Total Market Index ETF
+VCN - FTSE Canada All Cap Index ETF
+VIU - FTSE Developed All Cap ex North America Index ETF
+VEE - FTSE Emerging Markets All Cap Index ETF
+
+These are all in the VEQT ETF, and the very approximate allocation tends to be:
+
+ * 45% VUN
+ * 30% VCN
+ * 20% VTU
+ * 5% VEE
+
+More exactly, as of May 10, 206, it's
+
+ * VUN - 43.66%
+ * VCN - 31.22%
+ * VIU - 17.92%
+ * VEE - 7.17%
+   
+Bond ETFs:
+
+VAB - Canadian Aggregate Bond Index ETF
+VBG - Global ex-U.S. Aggregate Bond Index ETF (CAD-hedged)
+VBU - U.S. Aggregate Bond Index ETF (CAD-hedged)
+
+Vanguard tends to allocate the bonds like this:
+
+ * 60% VAB
+ * 20% VBG
+ * 20% VBU
+
+VBAL (Vanguard Balanced ETF Portfolio)
+
+ * VEQT ~ 60%
+ * Bonds ~ 40%
+
+VGRO (Vanguard Growth ETF Portfolio)
+
+ * VEQT ~ 80%
+ * Bonds ~ 20%
+
+VCNS (Vanguard Conservative ETF Portfolio)
+
+ * VEQT ~ 40%
+ * Bonds ~ 60%
+
+VCIP (Vanguard Conservative Income ETF Portfolio)
+
+ * VEQT ~ 20%
+ * Bonds ~ 80%
+
+[[id:296E9CFB-967A-495D-B99A-EE62BCC72244][Unlinked]]
+

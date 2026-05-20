@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       837c91a7-328d-48d5-9fbb-31d00fecc53c
+:END:
+#+date: [2026-04-20 Mon 10:24]
+#+hugo_lastmod: [2026-04-20 Mon 10:24]
+#+title: Digital Minimalism
+
+#+begin_quote
+a philosophy of technology use in which you focus your online time on a
+small number of carefully selected and optimized activities that strongly
+support things you value, and then happily miss out on everything else.
+#+end_quote
+
+Involves
+
+ * keeping your phone out of sight most of the day
+ * focusing on analog activities
+ * in person socializing
+
+I'd like to do more of this, but I'm not sure the whole thing is for me.  I
+like YouTube and TV too much.
+
+But some things I can do:
+
+ * More board games
+ * More walks
+ * More in person activities
+ * More books
+
+That being said:
+
+ * Notes are better when they are digital
+ * I use an e-reader
+ * Paper maps are not always practical
+   
+https://katherinemartinko.substack.com/p/what-is-digital-minimalism
