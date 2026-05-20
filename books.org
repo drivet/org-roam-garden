@@ -121,8 +121,7 @@ was that this book would make me emotional.  I nearly cried.
 [[https://covers.openlibrary.org/b/ISBN/9780060958336-M.jpg]]
 #+END_aside
 
-
-* TOREAD The Mercy of Gods (The Captive’s War, #1)                      :scifi:
+* TOREAD [[https://openlibrary.org/books/OL50707940M/The_Mercy_of_Gods][The Mercy of Gods (The Captive’s War, #1)]]                 :scifi:
 :PROPERTIES:
 :Author:   James S.A. Corey
 :Added:    [2025-01-03]
@@ -132,12 +131,9 @@ was that this book would make me emotional.  I nearly cried.
 #+BEGIN_aside
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780316525572-M.jpg]]
-
-[[https://openlibrary.org/books/OL50707940M/The_Mercy_of_Gods][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780316525572&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Taste: My Life Through Food                             :food:cooking:
+* TOREAD [[https://openlibrary.org/books/OL33440577M/Taste][Taste: My Life Through Food]]                        :food:cooking:
 :PROPERTIES:
 :Author:   Stanley Tucci
 :Added:    [2025-01-01]
@@ -147,12 +143,9 @@ was that this book would make me emotional.  I nearly cried.
 #+BEGIN_aside
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781982168018-M.jpg]]
-
-[[https://openlibrary.org/books/OL33440577M/Taste][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781982168018&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ The Lightning Thief (Percy Jackson and the Olympians, #1) :fantasy:greekmyth:ya:
+* READ [[https://openlibrary.org/books/OL42476783M/The_Lightning_Thief][The Lightning Thief (Percy Jackson and the Olympians, #1)]] :fantasy:greekmyth:ya:
 :PROPERTIES:
 :Author:   Rick Riordan
 :Added:    [2024-10-10]
@@ -164,11 +157,9 @@ was that this book would make me emotional.  I nearly cried.
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780786838653-M.jpg]]
 
-[[https://openlibrary.org/books/OL42476783M/The_Lightning_Thief][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780786838653&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD The Other Bennet Sister                                      :romance:
+* TOREAD [[https://openlibrary.org/books/OL27933912M/The_other_Bennet_sister_a_novel][The Other Bennet Sister]]                                 :romance:
 :PROPERTIES:
 :Author:   Janice Hadlow
 :Added:    [2024-10-09]
@@ -179,11 +170,9 @@ was that this book would make me emotional.  I nearly cried.
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781250129413-M.jpg]]
 
-[[https://openlibrary.org/books/OL27933912M/The_other_Bennet_sister_a_novel][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781250129413&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Dragons of Spring Dawning (Dragonlance: Chronicles, #3)        :fantasy:
+* READ [[https://openlibrary.org/books/OL3695579M/Dragons_of_spring_dawning][Dragons of Spring Dawning (Dragonlance: Chronicles, #3)]]   :fantasy:
 CLOSED: [2024-09-23]
 :PROPERTIES:
 :Author:   Margaret Weis, Tracy Hickman
@@ -196,11 +185,9 @@ CLOSED: [2024-09-23]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780786930708-M.jpg]]
 
-[[https://openlibrary.org/books/OL3695579M/Dragons_of_spring_dawning][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780786930708&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Around the World in Eighty Days                      :adventure:classic:
+* READ [[https://openlibrary.org/books/OL3383804M/Around_the_world_in_eighty_days][Around the World in Eighty Days]]                 :adventure:classic:
 :PROPERTIES:
 :Author:   Jules Verne, Brian W. Aldiss, Michael Glencross
 :Added:    [2016-06-09]
@@ -212,8 +199,6 @@ CLOSED: [2024-09-23]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780140449068-M.jpg]]
 
-[[https://openlibrary.org/books/OL3383804M/Around_the_world_in_eighty_days][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780140449068&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 * TOREAD The Call of Cthulhu                                   :horror:classic:
@@ -226,11 +211,9 @@ CLOSED: [2024-09-23]
 #+BEGIN_aside
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9788562022753-M.jpg]]
-
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9788562022753&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD How Long 'til Black Future Month?                    :scifi:anthology:
+* TOREAD [[https://openlibrary.org/books/OL26978187M/How_long_'til_black_future_month][How Long 'til Black Future Month?]]               :scifi:anthology:
 :PROPERTIES:
 :Author:   N.K. Jemisin
 :Added:    [2024-08-06]
@@ -241,11 +224,9 @@ CLOSED: [2024-09-23]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780316491341-M.jpg]]
 
-[[https://openlibrary.org/books/OL26978187M/How_long_'til_black_future_month][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780316491341&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD The Histories                                   :history:classic:rome:
+* TOREAD [[https://openlibrary.org/books/OL4940406M/The_histories][The Histories]]                              :history:classic:rome:
 :PROPERTIES:
 :Author:   Tacitus, Kenneth Wellesley
 :Added:    [2016-03-08]
@@ -256,11 +237,9 @@ CLOSED: [2024-09-23]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780140441505-M.jpg]]
 
-[[https://openlibrary.org/books/OL4940406M/The_histories][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780140441505&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Piranesi                                                        :fantasy:
+* READ [[https://openlibrary.org/books/OL28439584M/Piranesi][Piranesi]]                                                  :fantasy:
 CLOSED: [2025-08-26 Tue 12:42]
 :PROPERTIES:
 :Author:   Susanna Clarke
@@ -273,8 +252,6 @@ CLOSED: [2025-08-26 Tue 12:42]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781635575637-M.jpg]]
 
-[[https://openlibrary.org/books/OL28439584M/Piranesi][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781635575637&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 A genuine page turner.  I found this book very hard to put down,
@@ -284,7 +261,7 @@ Plot-focused people might be put off by the relatively thin narrative, but
 in my opinion this is made up for in full by the writing style and "vibe"
 of the book, for lack of a better work.
 
-* READ Leviathan Falls (The Expanse, #9)                              :fantasy:
+* READ [[https://openlibrary.org/books/OL29533731M/Leviathan_Falls][Leviathan Falls (The Expanse, #9)]]                         :fantasy:
 CLOSED: [2024-06-02]
 :PROPERTIES:
 :Author:   James S.A. Corey
@@ -297,8 +274,6 @@ CLOSED: [2024-06-02]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780356510392-M.jpg]]
 
-[[https://openlibrary.org/books/OL29533731M/Leviathan_Falls][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780356510392&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 * TOREAD [[https://openlibrary.org/books/OL8143563M/ERASURE][Erasure]]                                                      :fiction:
@@ -315,7 +290,7 @@ CLOSED: [2024-06-02]
 
 The movie [[https://www.imdb.com/title/tt23561236/?ref_=fn_t_1][American Fiction]] was based on this.
 
-* TOREAD The Science Fiction Century, Volume 1                :scifi:anthology:
+* TOREAD [[https://openlibrary.org/books/OL9468018M/The_Science_Fiction_Century_Volume_One][The Science Fiction Century, Volume 1]]           :scifi:anthology:
 :PROPERTIES:
 :Author:   David G. Hartwell
 :Added:    [2024-04-23]
@@ -326,11 +301,9 @@ The movie [[https://www.imdb.com/title/tt23561236/?ref_=fn_t_1][American Fiction
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780312864842-M.jpg]]
 
-[[https://openlibrary.org/books/OL9468018M/The_Science_Fiction_Century_Volume_One][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780312864842&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Dark Matter                                                    :scifi:
+* TOREAD [[https://openlibrary.org/books/OL26741059M/Dark_Matter][Dark Matter]]                                               :scifi:
 :PROPERTIES:
 :Author:   Blake Crouch
 :Added:    [2024-04-22]
@@ -341,11 +314,9 @@ The movie [[https://www.imdb.com/title/tt23561236/?ref_=fn_t_1][American Fiction
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781101904220-M.jpg]]
 
-[[https://openlibrary.org/books/OL26741059M/Dark_Matter][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781101904220&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Project Hail Mary                                              :scifi:
+* TOREAD [[https://openlibrary.org/books/OL30036715M/Project_Hail_Mary][Project Hail Mary]]                                         :scifi:
 :PROPERTIES:
 :Author:   Andy Weir
 :Added:    [2024-04-22]
@@ -356,11 +327,9 @@ The movie [[https://www.imdb.com/title/tt23561236/?ref_=fn_t_1][American Fiction
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780593135204-M.jpg]]
 
-[[https://openlibrary.org/books/OL30036715M/Project_Hail_Mary][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780593135204&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Tiamat's Wrath (The Expanse, #8)                                 :scifi:
+* READ [[https://openlibrary.org/books/OL32667286M/Tiamat's_Wrath][Tiamat's Wrath (The Expanse, #8)]]                            :scifi:
 CLOSED: [2024-02-24]
 :PROPERTIES:
 :Author:   James S.A. Corey
@@ -373,11 +342,9 @@ CLOSED: [2024-02-24]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780316332873-M.jpg]]
 
-[[https://openlibrary.org/books/OL32667286M/Tiamat's_Wrath][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780316332873&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Persepolis Rising (The Expanse, #7)                              :scifi:
+* READ [[https://openlibrary.org/books/OL26880875M/Persepolis_Rising_(The_Expanse_Book_7)][Persepolis Rising (The Expanse, #7)]]                         :scifi:
 CLOSED: [2024-01-03]
 :PROPERTIES:
 :Author:   James S.A. Corey
@@ -390,11 +357,9 @@ CLOSED: [2024-01-03]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780316332828-M.jpg]]
 
-[[https://openlibrary.org/books/OL26880875M/Persepolis_Rising_(The_Expanse_Book_7)][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780316332828&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Children of Time (Children of Time, #1)                        :scifi:
+* TOREAD [[https://openlibrary.org/books/OL28225222M/Children_of_Time][Children of Time (Children of Time, #1)]]                   :scifi:
 :PROPERTIES:
 :Author:   Adrian Tchaikovsky
 :Added:    [2023-12-21]
@@ -405,8 +370,6 @@ CLOSED: [2024-01-03]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781447273288-M.jpg]]
 
-[[https://openlibrary.org/books/OL28225222M/Children_of_Time][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781447273288&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 * TOREAD La Morte D'Arthure (Volume 1); The History of King Arthur and of the Knights of the Round Table :fantasy:arthur:
@@ -423,7 +386,7 @@ CLOSED: [2024-01-03]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9781150265969&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD The Bell Jar                                         :classic:fiction:
+* TOREAD [[https://openlibrary.org/books/OL27295061M/The_Bell_Jar][The Bell Jar]] :classic:fiction:
 :PROPERTIES:
 :Author:   Sylvia Plath
 :Added:    [2023-12-01]
@@ -434,11 +397,9 @@ CLOSED: [2024-01-03]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780571268863-M.jpg]]
 
-[[https://openlibrary.org/books/OL27295061M/The_Bell_Jar][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780571268863&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Backup & Recovery                                               :tech:
+* TOREAD [[https://openlibrary.org/books/OL7581383M/Backup_Recovery][Backup & Recovery]]                                          :tech:
 :PROPERTIES:
 :Author:   W. Curtis Preston
 :Added:    [2023-11-26]
@@ -449,11 +410,9 @@ CLOSED: [2024-01-03]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780596102463-M.jpg]]
 
-[[https://openlibrary.org/books/OL7581383M/Backup_Recovery][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780596102463&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Writing Efficient Programs (Prentice-Hall Software Series) :tech:software:
+* TOREAD [[https://openlibrary.org/books/OL3481226M/Writing_efficient_programs][Writing Efficient Programs (Prentice-Hall Software Series)]] :tech:software:
 :PROPERTIES:
 :Author:   Jon L. Bentley
 :Added:    [2023-11-26]
@@ -464,11 +423,9 @@ CLOSED: [2024-01-03]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780139702518-M.jpg]]
 
-[[https://openlibrary.org/books/OL3481226M/Writing_efficient_programs][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780139702518&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Down and Out in Paris and London                      :classic:memoir:
+* TOREAD [[https://openlibrary.org/books/OL18618503M/Down_and_out_in_Paris_and_London][Down and Out in Paris and London]]                 :classic:memoir:
 :PROPERTIES:
 :Author:   George Orwell
 :Added:    [2023-10-26]
@@ -479,11 +436,9 @@ CLOSED: [2024-01-03]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780156262248-M.jpg]]
 
-[[https://openlibrary.org/books/OL18618503M/Down_and_out_in_Paris_and_London][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780156262248&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD The Dawn of Everything: A New History of Humanity            :history:
+* TOREAD [[https://openlibrary.org/books/OL32732512M/The_Dawn_of_Everything][The Dawn of Everything: A New History of Humanity]]       :history:
 :PROPERTIES:
 :Author:   David Graeber, David Wengrow
 :Added:    [2023-10-15]
@@ -494,11 +449,9 @@ CLOSED: [2024-01-03]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780374157357-M.jpg]]
 
-[[https://openlibrary.org/books/OL32732512M/The_Dawn_of_Everything][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780374157357&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Code That Fits in Your Head : Heuristics for Software Engineering (Robert C. Martin Series) :tech:software:
+* TOREAD [[https://openlibrary.org/books/OL34779883M/Code_That_Fits_in_Your_Head][Code That Fits in Your Head : Heuristics for Software Engineering (Robert C. Martin Series)]] :tech:software:
 :PROPERTIES:
 :Author:   Mark Seemann
 :Added:    [2023-10-15]
@@ -509,11 +462,9 @@ CLOSED: [2024-01-03]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780137464401-M.jpg]]
 
-[[https://openlibrary.org/books/OL34779883M/Code_That_Fits_in_Your_Head][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780137464401&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Why Nations Go to War                                       :politics:
+* TOREAD [[https://openlibrary.org/books/OL7651239M/Why_Nations_Go_to_War][Why Nations Go to War]] :politics:
 :PROPERTIES:
 :Author:   John George Stoessinger
 :Added:    [2023-10-08]
@@ -524,11 +475,9 @@ CLOSED: [2024-01-03]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780495097075-M.jpg]]
 
-[[https://openlibrary.org/books/OL7651239M/Why_Nations_Go_to_War][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780495097075&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Stolen Focus: Why You Can't Pay Attention— and How to Think Deeply Again :selfhelp:productivity:
+* TOREAD [[https://openlibrary.org/books/OL34132552M/Stolen_Focus][Stolen Focus: Why You Can't Pay Attention— and How to Think Deeply Again]] :selfhelp:productivity:
 :PROPERTIES:
 :Author:   Johann Hari
 :Added:    [2023-10-01]
@@ -539,11 +488,9 @@ CLOSED: [2024-01-03]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780593138519-M.jpg]]
 
-[[https://openlibrary.org/books/OL34132552M/Stolen_Focus][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780593138519&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ My Man Jeeves (Jeeves, #1)                              :classic:humorous:
+* READ [[https://openlibrary.org/books/OL8817989M/My_Man_Jeeves_(Collector's_Wodehouse)][My Man Jeeves (Jeeves, #1)]]                       :classic:humorous:
 CLOSED: [2023-08-19]
 :PROPERTIES:
 :Author:   P.G. Wodehouse
@@ -556,8 +503,6 @@ CLOSED: [2023-08-19]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781585678754-M.jpg]]
 
-[[https://openlibrary.org/books/OL8817989M/My_Man_Jeeves_(Collector's_Wodehouse)][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781585678754&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 * TOREAD Do You Remember Being Born?                                    :scifi:
@@ -574,7 +519,7 @@ CLOSED: [2023-08-19]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9781039006768&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Letters from a Stoic                             :stoicism:philosophy:
+* TOREAD [[https://openlibrary.org/books/OL5725664M/Letters_from_a_Stoic.][Letters from a Stoic]]                        :stoicism:philosophy:
 :PROPERTIES:
 :Author:   Seneca
 :Added:    [2023-09-15]
@@ -585,11 +530,9 @@ CLOSED: [2023-08-19]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780140442106-M.jpg]]
 
-[[https://openlibrary.org/books/OL5725664M/Letters_from_a_Stoic.][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780140442106&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Discourses and Selected Writings                 :stoicism:philosophy:
+* TOREAD [[https://openlibrary.org/books/OL10097380M/Discourses_and_Selected_Writings_(Penguin_Classics)][Discourses and Selected Writings]]            :stoicism:philosophy:
 :PROPERTIES:
 :Author:   Epictetus, Robert Dobbin
 :Added:    [2023-09-15]
@@ -600,11 +543,9 @@ CLOSED: [2023-08-19]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780140449464-M.jpg]]
 
-[[https://openlibrary.org/books/OL10097380M/Discourses_and_Selected_Writings_(Penguin_Classics)][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780140449464&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ The Amber Spyglass (His Dark Materials, #3)        :fantasy:religion:ya:
+* READ [[https://openlibrary.org/books/OL7520214M/The_Amber_Spyglass_(His_Dark_Materials_Book_3)][The Amber Spyglass (His Dark Materials, #3)]]   :fantasy:religion:ya:
 CLOSED: [2023-03-15]
 :PROPERTIES:
 :Author:   Philip Pullman
@@ -617,11 +558,9 @@ CLOSED: [2023-03-15]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780440238157-M.jpg]]
 
-[[https://openlibrary.org/books/OL7520214M/The_Amber_Spyglass_(His_Dark_Materials_Book_3)][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780440238157&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Range: Why Generalists Triumph in a Specialized World       :selfhelp:
+* TOREAD [[https://openlibrary.org/books/OL27311259M/Range][Range: Why Generalists Triumph in a Specialized World]]  :selfhelp:
 :PROPERTIES:
 :Author:   David Epstein
 :Added:    [2022-11-17]
@@ -632,11 +571,9 @@ CLOSED: [2023-03-15]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780735214484-M.jpg]]
 
-[[https://openlibrary.org/books/OL27311259M/Range][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780735214484&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD M Is for Magic                                               :fantasy:
+* TOREAD [[https://openlibrary.org/books/OL17926220M/M_is_for_magic][M Is for Magic]]                                          :fantasy:
 :PROPERTIES:
 :Author:   Neil Gaiman, Teddy Kristiansen
 :Added:    [2022-11-04]
@@ -647,11 +584,9 @@ CLOSED: [2023-03-15]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780061186424-M.jpg]]
 
-[[https://openlibrary.org/books/OL17926220M/M_is_for_magic][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780061186424&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Wendy, Darling (Wendy, Darling, #1)                  :fantasy:retelling:
+* READ [[https://openlibrary.org/books/OL32540476M/Wendy_Darling][Wendy, Darling (Wendy, Darling, #1)]]             :fantasy:retelling:
 CLOSED: [2022-11-04]
 :PROPERTIES:
 :Author:   A.C. Wise
@@ -664,11 +599,9 @@ CLOSED: [2022-11-04]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781789096811-M.jpg]]
 
-[[https://openlibrary.org/books/OL32540476M/Wendy_Darling][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781789096811&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD A Memory of Light (The Wheel of Time, #14)                   :fantasy:
+* TOREAD [[https://openlibrary.org/books/OL25420960M/A_Memory_of_Light][A Memory of Light (The Wheel of Time, #14)]] :fantasy:
 :PROPERTIES:
 :Author:   Robert Jordan, Brandon Sanderson
 :Added:    [2022-09-23]
@@ -679,11 +612,9 @@ CLOSED: [2022-11-04]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780765325952-M.jpg]]
 
-[[https://openlibrary.org/books/OL25420960M/A_Memory_of_Light][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780765325952&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Made for Love                                                  :scifi:
+* TOREAD [[https://openlibrary.org/books/OL26735684M/Made_For_Love][Made for Love]]                                             :scifi:
 :PROPERTIES:
 :Author:   Alissa Nutting
 :Added:    [2022-08-13]
@@ -694,11 +625,9 @@ CLOSED: [2022-11-04]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780062280558-M.jpg]]
 
-[[https://openlibrary.org/books/OL26735684M/Made_For_Love][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780062280558&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Northanger Abbey                                       :romance:classic:
+* READ [[https://openlibrary.org/books/OL8870278M/Northanger_Abbey][Northanger Abbey]]                                  :romance:classic:
 CLOSED: [2018-06-27]
 :PROPERTIES:
 :Author:   Jane Austen, Alfred Mac Adam
@@ -711,8 +640,6 @@ CLOSED: [2018-06-27]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781593082642-M.jpg]]
 
-[[https://openlibrary.org/books/OL8870278M/Northanger_Abbey][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781593082642&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 Things I find odd about Northanger Abbey:
@@ -727,7 +654,7 @@ Things I find odd about Jane Austen's books in general:
    the ones with children.  I mean, you guys are banging, right? I feel like
    you should be on a first name basis.
 
-* TOREAD The Modem World: A Prehistory of Social Media           :tech:history:
+* TOREAD [[https://openlibrary.org/books/OL33959951M/Modem_World][The Modem World: A Prehistory of Social Media]]      :tech:history:
 :PROPERTIES:
 :Author:   Kevin Driscoll
 :Added:    [2022-06-14]
@@ -738,11 +665,9 @@ Things I find odd about Jane Austen's books in general:
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780300248142-M.jpg]]
 
-[[https://openlibrary.org/books/OL33959951M/Modem_World][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780300248142&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Dragons of Winter Night (Dragonlance: Chronicles, #2)          :fantasy:
+* READ [[https://openlibrary.org/books/OL7462584M/Dragons_of_Winter_Night][Dragons of Winter Night (Dragonlance: Chronicles, #2)]]          :fantasy:
 CLOSED: [2022-06-09]
 :PROPERTIES:
 :Author:   Margaret Weis, Tracy Hickman
@@ -754,11 +679,9 @@ CLOSED: [2022-06-09]
 #+BEGIN_aside
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780786954384-M.jpg]]
-
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780786954384&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Rubicon: The Last Years of the Roman Republic             :history:rome:
+* READ [[https://openlibrary.org/books/OL8364128M/Rubicon][Rubicon: The Last Years of the Roman Republic]] :history:rome:
 CLOSED: [2022-02-17]
 :PROPERTIES:
 :Author:   Tom Holland
@@ -771,11 +694,9 @@ CLOSED: [2022-02-17]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781400078974-M.jpg]]
 
-[[https://openlibrary.org/books/OL8364128M/Rubicon][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781400078974&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD The Once and Future King                              :fantasy:arthur:
+* TOREAD [[https://openlibrary.org/books/OL22594016M/The_once_and_future_king][The Once and Future King]]                         :fantasy:arthur:
 :PROPERTIES:
 :Author:   T.H. White
 :Added:    [2022-02-09]
@@ -786,11 +707,9 @@ CLOSED: [2022-02-17]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780441627400-M.jpg]]
 
-[[https://openlibrary.org/books/OL22594016M/The_once_and_future_king][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780441627400&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD The Thief (The Queen's Thief, #1)                         :fantasy:ya:
+* TOREAD [[https://openlibrary.org/books/OL7282517M/The_Thief][The Thief (The Queen's Thief, #1)]]                    :fantasy:ya:
 :PROPERTIES:
 :Author:   Megan Whalen Turner
 :Added:    [2021-12-24]
@@ -801,11 +720,9 @@ CLOSED: [2022-02-17]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780060824976-M.jpg]]
 
-[[https://openlibrary.org/books/OL7282517M/The_Thief][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780060824976&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Wizard and Glass (The Dark Tower, #4)                          :fantasy:
+* READ [[https://openlibrary.org/books/OL9489941M/Wizard_and_Glass_(The_Dark_Tower_Book_4)][Wizard and Glass (The Dark Tower, #4)]]                     :fantasy:
 CLOSED: [2021-10-14]
 :PROPERTIES:
 :Author:   Stephen        King
@@ -818,11 +735,9 @@ CLOSED: [2021-10-14]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780613090995-M.jpg]]
 
-[[https://openlibrary.org/books/OL9489941M/Wizard_and_Glass_(The_Dark_Tower_Book_4)][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780613090995&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Babylon’s Ashes (The Expanse, #6)                                :scifi:
+* READ [[https://openlibrary.org/books/OL26972708M/Babylon's_Ashes_Book_Six_of_the_Expanse][Babylon’s Ashes (The Expanse, #6)]]                           :scifi:
 CLOSED: [2021-07-29]
 :PROPERTIES:
 :Author:   James S.A. Corey
@@ -835,11 +750,9 @@ CLOSED: [2021-07-29]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780356504261-M.jpg]]
 
-[[https://openlibrary.org/books/OL26972708M/Babylon's_Ashes_Book_Six_of_the_Expanse][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780356504261&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Consider Phlebas (Culture, #1)                                   :scifi:
+* READ [[https://openlibrary.org/books/OL21570206M/Consider_Phlebas][Consider Phlebas (Culture, #1)]]                              :scifi:
 CLOSED: [2021-06-27]
 :PROPERTIES:
 :Author:   Iain M. Banks
@@ -852,11 +765,9 @@ CLOSED: [2021-06-27]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781857231380-M.jpg]]
 
-[[https://openlibrary.org/books/OL21570206M/Consider_Phlebas][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781857231380&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD The Poetic Edda. Stories of the Norse Gods and Heroes :classic:norsemyth:
+* TOREAD [[https://openlibrary.org/books/OL29255171M/Poetic_Edda][The Poetic Edda. Stories of the Norse Gods and Heroes]] :classic:norsemyth:
 :PROPERTIES:
 :Author:   Jackson Crawford
 :Added:    [2019-06-02]
@@ -867,11 +778,9 @@ CLOSED: [2021-06-27]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781624663567-M.jpg]]
 
-[[https://openlibrary.org/books/OL29255171M/Poetic_Edda][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781624663567&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma :selfhelp:
+* TOREAD [[https://openlibrary.org/books/OL27158788M/The_Body_Keeps_the_Score][The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma]] :selfhelp:
 :PROPERTIES:
 :Author:   Bessel van der Kolk
 :Added:    [2020-12-14]
@@ -882,11 +791,9 @@ CLOSED: [2021-06-27]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780670785933-M.jpg]]
 
-[[https://openlibrary.org/books/OL27158788M/The_Body_Keeps_the_Score][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780670785933&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD At the Mountains of Madness                           :horror:classic:
+* TOREAD [[https://openlibrary.org/books/OL3421202M/At_the_mountains_of_madness][At the Mountains of Madness]]                      :horror:classic:
 :PROPERTIES:
 :Author:   H.P. Lovecraft, China Miéville
 :Added:    [2020-09-12]
@@ -897,11 +804,9 @@ CLOSED: [2021-06-27]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780812974416-M.jpg]]
 
-[[https://openlibrary.org/books/OL3421202M/At_the_mountains_of_madness][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780812974416&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD White Fragility: Why It's So Hard for White People to Talk About Racism :society:
+* TOREAD [[https://openlibrary.org/books/OL28029787M/White_Fragility][White Fragility: Why It's So Hard for White People to Talk About Racism]]:society:
 :PROPERTIES:
 :Author:   Robin DiAngelo, Michael Eric Dyson, Manon Smits, Rob Kuitenbrouwer, Amy Landon
 :Added:    [2020-06-19]
@@ -911,11 +816,9 @@ CLOSED: [2021-06-27]
 #+BEGIN_aside
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780807071168-M.jpg]]
-
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780807071168&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Little Brother (Little Brother, #1)                 :scifi:cyberpunk:ya:
+* READ [[https://openlibrary.org/books/OL10936455M/Little_Brother][Little Brother (Little Brother, #1)]]            :scifi:cyberpunk:ya:
 CLOSED: [2020-02-17]
 :PROPERTIES:
 :Author:   Cory Doctorow
@@ -928,11 +831,9 @@ CLOSED: [2020-02-17]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780765319852-M.jpg]]
 
-[[https://openlibrary.org/books/OL10936455M/Little_Brother][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780765319852&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD The Origin of Empire: Rome from the Republic to Hadrian (264 BC - AD 138) (The Profile History of the Ancient World Series) :history:rome:
+* TOREAD [[https://openlibrary.org/books/OL27338119M/The_Origin_of_Empire][The Origin of Empire: Rome from the Republic to Hadrian (264 BC - AD 138) (The Profile History of the Ancient World Series)]] :history:rome:
 :PROPERTIES:
 :Author:   David Stone Potter
 :Added:    [2020-02-02]
@@ -942,11 +843,9 @@ CLOSED: [2020-02-17]
 #+BEGIN_aside
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781847654434-M.jpg]]
-
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781847654434&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ The Complete Persepolis                                   :comic:memoir:
+* READ [[https://openlibrary.org/books/OL10751810M/The_complete_Persepolis][The Complete Persepolis]]                              :comic:memoir:
 CLOSED: [2020-02-02]
 :PROPERTIES:
 :Author:   Marjane Satrapi
@@ -959,11 +858,9 @@ CLOSED: [2020-02-02]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780375714832-M.jpg]]
 
-[[https://openlibrary.org/books/OL10751810M/The_complete_Persepolis][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780375714832&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Circe                                               :fantasy:greekmyth:
+* TOREAD [[https://openlibrary.org/books/OL26591039M/Circe][Circe]]                                         :fantasy:greekmyth:
 :PROPERTIES:
 :Author:   Madeline Miller
 :Added:    [2020-01-21]
@@ -974,11 +871,9 @@ CLOSED: [2020-02-02]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780316556347-M.jpg]]
 
-[[https://openlibrary.org/books/OL26591039M/Circe][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780316556347&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Ringworld (Ringworld, #1)                                      :fantasy:
+* READ [[https://openlibrary.org/books/OL10682340M/Ringworld][Ringworld (Ringworld, #1)]]                                 :fantasy:
 CLOSED: [2020-01-18]
 :PROPERTIES:
 :Author:   Larry Niven
@@ -991,11 +886,9 @@ CLOSED: [2020-01-18]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780345247957-M.jpg]]
 
-[[https://openlibrary.org/books/OL10682340M/Ringworld][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780345247957&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Saga, Volume 9                                            :comic:scifi:
+* TOREAD [[https://openlibrary.org/books/OL26973950M/Saga][Saga, Volume 9]]                                      :comic:scifi:
 :PROPERTIES:
 :Author:   Brian K. Vaughan, Fiona Staples
 :Added:    [2025-04-11]
@@ -1006,11 +899,9 @@ CLOSED: [2020-01-18]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781534308374-M.jpg]]
 
-[[https://openlibrary.org/books/OL26973950M/Saga][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781534308374&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Saga, Volume 8                                           :scifi:comic:
+* TOREAD [[https://openlibrary.org/books/OL26944500M/Saga][Saga, Volume 8]] :scifi:comic:
 :PROPERTIES:
 :Author:   Brian K. Vaughan, Fiona Staples
 :Added:    [2020-01-05]
@@ -1021,12 +912,10 @@ CLOSED: [2020-01-18]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781534303492-M.jpg]]
 
-[[https://openlibrary.org/books/OL26944500M/Saga][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781534303492&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 
-* TOREAD Saga, Volume 7                                           :scifi:comic:
+* TOREAD [[https://openlibrary.org/books/OL27233605M/Saga][Saga, Volume 7]]                                      :scifi:comic:
 :PROPERTIES:
 :Author:   Brian K. Vaughan, Fiona Staples
 :Added:    [2020-01-05]
@@ -1037,11 +926,9 @@ CLOSED: [2020-01-18]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781534300606-M.jpg]]
 
-[[https://openlibrary.org/books/OL27233605M/Saga][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781534300606&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Saga, Volume 6                                           :scifi:comic:
+* TOREAD [[https://openlibrary.org/books/OL25934774M/Saga_Volume_6][Saga, Volume 6]]                                      :scifi:comic:
 :PROPERTIES:
 :Author:   Brian K. Vaughan, Fiona Staples
 :Added:    [2020-01-05]
@@ -1052,11 +939,9 @@ CLOSED: [2020-01-18]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781632157119-M.jpg]]
 
-[[https://openlibrary.org/books/OL25934774M/Saga_Volume_6][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781632157119&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Saga, Volume 5                                           :scifi:comic:
+* TOREAD [[https://openlibrary.org/books/OL27189899M/Saga][Saga, Volume 5]] :scifi:comic:
 :PROPERTIES:
 :Author:   Brian K. Vaughan, Fiona Staples
 :Added:    [2020-01-05]
@@ -1067,11 +952,9 @@ CLOSED: [2020-01-18]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781632154385-M.jpg]]
 
-[[https://openlibrary.org/books/OL27189899M/Saga][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781632154385&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Saga, Volume 4                                             :scifi:comic:
+* READ [[https://openlibrary.org/books/OL27170261M/Saga][Saga, Volume 4]]                                        :scifi:comic:
 CLOSED: [2020-03-10]
 :PROPERTIES:
 :Author:   Brian K. Vaughan, Fiona Staples
@@ -1084,11 +967,9 @@ CLOSED: [2020-03-10]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781632150776-M.jpg]]
 
-[[https://openlibrary.org/books/OL27170261M/Saga][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781632150776&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Saga, Volume 3                                             :scifi:comic:
+* READ [[https://openlibrary.org/books/OL27155737M/Saga_Vol._3][Saga, Volume 3]]                                        :scifi:comic:
 CLOSED: [2020-03-07]
 :PROPERTIES:
 :Author:   Brian K. Vaughan, Fiona Staples
@@ -1101,11 +982,9 @@ CLOSED: [2020-03-07]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781607069317-M.jpg]]
 
-[[https://openlibrary.org/books/OL27155737M/Saga_Vol._3][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781607069317&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Saga, Volume 2                                             :scifi:comic:
+* READ [[https://openlibrary.org/books/OL25434650M/Saga_volume_two][Saga, Volume 2]] :scifi:comic:
 CLOSED: [2020-01-20]
 :PROPERTIES:
 :Author:   Brian K. Vaughan, Fiona Staples
@@ -1118,11 +997,9 @@ CLOSED: [2020-01-20]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781607066927-M.jpg]]
 
-[[https://openlibrary.org/books/OL25434650M/Saga_volume_two][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781607066927&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Saga, Volume 1                                             :scifi:comic:
+* READ [[https://openlibrary.org/books/OL25421257M/Saga][Saga, Volume 1]]                                        :scifi:comic:
 CLOSED: [2020-01-19]
 :PROPERTIES:
 :Author:   Brian K. Vaughan, Fiona Staples
@@ -1134,11 +1011,9 @@ CLOSED: [2020-01-19]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781607066019-M.jpg]]
 
-[[https://openlibrary.org/books/OL25421257M/Saga][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781607066019&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Chosen                                                :comic:religion:
+* TOREAD [[https://openlibrary.org/books/OL8869781M/Chosen][Chosen]]                                           :comic:religion:
 :PROPERTIES:
 :Author:   Mark Millar, Peter Gross, Jeanne McGee, Cory Petit, Simon Pegg, Richard Hendrick, John Hanson
 :Added:    [2020-01-05]
@@ -1149,11 +1024,9 @@ CLOSED: [2020-01-19]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781593072131-M.jpg]]
 
-[[https://openlibrary.org/books/OL8869781M/Chosen][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781593072131&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Nick Cave: Mercy on Me                                    :comic:memoir:
+* READ [[https://openlibrary.org/books/OL26943021M/Nick_Cave][Nick Cave: Mercy on Me]]                               :comic:memoir:
 CLOSED: [2019-12-17]
 :PROPERTIES:
 :Author:   Reinhard Kleist
@@ -1166,11 +1039,9 @@ CLOSED: [2019-12-17]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781910593363-M.jpg]]
 
-[[https://openlibrary.org/books/OL26943021M/Nick_Cave][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781910593363&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ How Did it Really Happen?                                   :nonfiction:
+* READ [[https://openlibrary.org/books/OL25607860M/How_Did_It_Really_Happen][How Did it Really Happen?]]                              :nonfiction:
 CLOSED: [2019-12-05]
 :PROPERTIES:
 :Author:   Reader's Digest Association
@@ -1183,11 +1054,9 @@ CLOSED: [2019-12-05]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780762102778-M.jpg]]
 
-[[https://openlibrary.org/books/OL25607860M/How_Did_It_Really_Happen][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780762102778&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD The Rise and Fall of the Third Reich: A History of Nazi Germany :history:ww2:
+* TOREAD [[https://openlibrary.org/books/OL26444916M/The_Rise_and_Fall_of_the_Third_Reich][The Rise and Fall of the Third Reich: A History of Nazi Germany]] :history:ww2:
 :PROPERTIES:
 :Author:   William L. Shirer, Ron Rosenbaum
 :Added:    [2012-10-15]
@@ -1198,11 +1067,9 @@ CLOSED: [2019-12-05]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781451651683-M.jpg]]
 
-[[https://openlibrary.org/books/OL26444916M/The_Rise_and_Fall_of_the_Third_Reich][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781451651683&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ The Selfish Gene                                     :science:evolution:
+* READ [[https://openlibrary.org/books/OL17856751M/The_selfish_gene][The Selfish Gene]]                                :science:evolution:
 :PROPERTIES:
 :Author:   Richard Dawkins
 :Added:    [2012-10-14]
@@ -1214,11 +1081,9 @@ CLOSED: [2019-12-05]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780199291151-M.jpg]]
 
-[[https://openlibrary.org/books/OL17856751M/The_selfish_gene][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780199291151&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Caliban’s War (The Expanse, #2)                                  :scifi:
+* READ [[https://openlibrary.org/books/OL26318318M/Caliban's_war][Caliban’s War (The Expanse, #2)]]                             :scifi:
 CLOSED: [2019-09-19]
 :PROPERTIES:
 :Author:   James S.A. Corey
@@ -1231,11 +1096,9 @@ CLOSED: [2019-09-19]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781841499901-M.jpg]]
 
-[[https://openlibrary.org/books/OL26318318M/Caliban's_war][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781841499901&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ 2010: Odyssey Two (Space Odyssey, #2)                            :scifi:
+* READ [[https://openlibrary.org/books/OL24199177M/2010_odyssey_two][2010: Odyssey Two (Space Odyssey, #2)]]                       :scifi:
 CLOSED: [2019-07-24]
 :PROPERTIES:
 :Author:   Arthur C. Clarke
@@ -1248,8 +1111,6 @@ CLOSED: [2019-07-24]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780345303066-M.jpg]]
 
-[[https://openlibrary.org/books/OL24199177M/2010_odyssey_two][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780345303066&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 I was teetering between two and three stars but settled on two.  The plot,
@@ -1257,7 +1118,7 @@ such as it was, lacked focus. The dialogue was awful. The ending was kinda
 cool and redeemed the book somewhat, but not enough. Maybe two and a half
 stars? Not three though.
 
-* READ Danny Dunn and the Homework Machine (Danny Dunn, #3)                :ya:
+* READ [[https://openlibrary.org/books/OL9355214M/Danny_Dunn_and_the_Homework_Machine][Danny Dunn and the Homework Machine (Danny Dunn, #3)]]           :ya:
 :PROPERTIES:
 :Author:   Jay Williams, Raymond Abrashkin
 :Added:    [2019-07-02]
@@ -1269,11 +1130,9 @@ stars? Not three though.
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780070705203-M.jpg]]
 
-[[https://openlibrary.org/books/OL9355214M/Danny_Dunn_and_the_Homework_Machine][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780070705203&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Children of the New World                            :scifi:anthology:
+* TOREAD [[https://openlibrary.org/books/OL35956222M/Children_of_the_New_World][Children of the New World]]                       :scifi:anthology:
 :PROPERTIES:
 :Author:   Alexander Weinstein
 :Added:    [2019-06-30]
@@ -1284,11 +1143,9 @@ stars? Not three though.
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781250099006-M.jpg]]
 
-[[https://openlibrary.org/books/OL35956222M/Children_of_the_New_World][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781250099006&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ The Age of Spiritual Machines                          :tech:philosophy:
+* READ [[https://openlibrary.org/books/OL25672499M/The_age_of_spiritual_machines][The Age of Spiritual Machines]]                     :tech:philosophy:
 CLOSED: [2019-06-16]
 :PROPERTIES:
 :Author:   Ray Kurzweil
@@ -1301,11 +1158,9 @@ CLOSED: [2019-06-16]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780140282023-M.jpg]]
 
-[[https://openlibrary.org/books/OL25672499M/The_age_of_spiritual_machines][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780140282023&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD The Nibelungenlied                             :classic:poetry:german:
+* TOREAD [[https://openlibrary.org/books/OL15095542M/The_Nibelungenlied][The Nibelungenlied]]                        :classic:poetry:german:
 :PROPERTIES:
 :Author:   Unknown, Margaret Armour, A.T. Hatto
 :Added:    [2019-06-02]
@@ -1316,11 +1171,9 @@ CLOSED: [2019-06-16]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780140441376-M.jpg]]
 
-[[https://openlibrary.org/books/OL15095542M/The_Nibelungenlied][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780140441376&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD The Prose Edda: Norse Mythology (Penguin Classics)         :norsemyth:
+* TOREAD [[https://openlibrary.org/books/OL20023785M/The_prose_Edda][The Prose Edda: Norse Mythology (Penguin Classics)]]    :norsemyth:
 :PROPERTIES:
 :Author:   Snorri Sturluson, Jesse L. Byock
 :Added:    [2019-06-02]
@@ -1331,11 +1184,9 @@ CLOSED: [2019-06-16]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780140447552-M.jpg]]
 
-[[https://openlibrary.org/books/OL20023785M/The_prose_Edda][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780140447552&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Wayne of Gotham                                       :superhero:
+* READ [[https://openlibrary.org/books/OL26064395M/Wayne_Of_Gotham][Wayne of Gotham]] :superhero:
 CLOSED: [2019-05-28]
 :PROPERTIES:
 :Author:   Tracy Hickman
@@ -1348,11 +1199,9 @@ CLOSED: [2019-05-28]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780062074201-M.jpg]]
 
-[[https://openlibrary.org/books/OL26064395M/Wayne_Of_Gotham][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780062074201&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Leviathan Wakes (The Expanse, #1)                                :scifi:
+* READ [[https://openlibrary.org/books/OL26843807M/Leviathan_Wakes][Leviathan Wakes (The Expanse, #1)]]                           :scifi:
 CLOSED: [2019-05-19]
 :PROPERTIES:
 :Author:   James S.A. Corey
@@ -1365,11 +1214,9 @@ CLOSED: [2019-05-19]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781841499888-M.jpg]]
 
-[[https://openlibrary.org/books/OL26843807M/Leviathan_Wakes][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781841499888&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD The Mother Tongue: English and How It Got That Way       :linguistics:
+* TOREAD [[https://openlibrary.org/books/OL26647268M/The_Mother_Tongue][The Mother Tongue: English and How It Got That Way]]  :linguistics:
 :PROPERTIES:
 :Author:   Bill Bryson
 :Added:    [2019-04-30]
@@ -1380,11 +1227,9 @@ CLOSED: [2019-05-19]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780380715435-M.jpg]]
 
-[[https://openlibrary.org/books/OL26647268M/The_Mother_Tongue][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780380715435&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Science Fiction: The Best of the Year, 2006 Edition    :scifi:anthology:
+* READ [[https://openlibrary.org/books/OL17203992M/Science_fiction][Science Fiction: The Best of the Year, 2006 Edition]] :scifi:anthology:
 CLOSED: [2019-04-24]
 :PROPERTIES:
 :Author:   Rich Horton
@@ -1397,11 +1242,9 @@ CLOSED: [2019-04-24]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780809556496-M.jpg]]
 
-[[https://openlibrary.org/books/OL17203992M/Science_fiction][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780809556496&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD The Master and Margarita                             :classic:fantasy:
+* TOREAD [[https://openlibrary.org/books/OL27910148M/The_Master_and_Margarita][The Master and Margarita]]                        :classic:fantasy:
 :PROPERTIES:
 :Author:   Mikhail Bulgakov, Diana Lewis Burgin, Katherine Tiernan O'Connor, Ellendea Proffer, Hans Fronius, Михаил Афанасьевич Булгаков
 :Added:    [2019-04-09]
@@ -1412,11 +1255,9 @@ CLOSED: [2019-04-24]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780679760801-M.jpg]]
 
-[[https://openlibrary.org/books/OL27910148M/The_Master_and_Margarita][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780679760801&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Eternals                                                  :comic:superhero:
+* READ [[https://openlibrary.org/books/OL23276787M/Eternals][Eternals]]                                          :comic:superhero:
 CLOSED: [2019-03-19]
 :PROPERTIES:
 :Author:   Neil Gaiman, John Romita, Jr., Jack Kirby
@@ -1429,11 +1270,9 @@ CLOSED: [2019-03-19]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780785125419-M.jpg]]
 
-[[https://openlibrary.org/books/OL23276787M/Eternals][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780785125419&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ The Next 20 Years of Your Life: A Personal Guide into the Year 2017 :nonfiction:
+* READ [[https://openlibrary.org/books/OL16885588M/The_next_20_years_of_your_life][The Next 20 Years of Your Life: A Personal Guide into the Year 2017]] :nonfiction:
 CLOSED: [2019-03-13]
 :PROPERTIES:
 :Author:   Richard Worzel
@@ -1446,11 +1285,9 @@ CLOSED: [2019-03-13]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780773730137-M.jpg]]
 
-[[https://openlibrary.org/books/OL16885588M/The_next_20_years_of_your_life][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780773730137&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ How to Be a Villain: Evil Laughs, Secret Lairs, Master Plans, and More!!! :humorous:
+* READ [[https://openlibrary.org/books/OL3329467M/How_to_be_a_villain][How to Be a Villain: Evil Laughs, Secret Lairs, Master Plans, and More!!!]] :humorous:
 CLOSED: [2019-03-01]
 :PROPERTIES:
 :Author:   Neil Zawacki, James Dignan
@@ -1463,11 +1300,9 @@ CLOSED: [2019-03-01]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780811846660-M.jpg]]
 
-[[https://openlibrary.org/books/OL3329467M/How_to_be_a_villain][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780811846660&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Where's My Jetpack?: A Guide to the Amazing Science Fiction Future That Never Arrived :humorous:nonfiction:
+* READ [[https://openlibrary.org/books/OL8892255M/Where's_My_Jetpack][Where's My Jetpack?: A Guide to the Amazing Science Fiction Future That Never Arrived]] :humorous:nonfiction:
 CLOSED: [2019-02-27]
 :PROPERTIES:
 :Author:   Daniel H. Wilson, Richard Horne
@@ -1480,11 +1315,9 @@ CLOSED: [2019-02-27]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781596911369-M.jpg]]
 
-[[https://openlibrary.org/books/OL8892255M/Where's_My_Jetpack][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781596911369&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* TOREAD Microworlds: Writings on Science Fiction and Fantasy       :anthology:
+* TOREAD [[https://openlibrary.org/books/OL7366091M/Microworlds][Microworlds: Writings on Science Fiction and Fantasy]]  :anthology:
 :PROPERTIES:
 :Author:   Stanisław Lem
 :Added:    [2019-02-22]
@@ -1495,11 +1328,9 @@ CLOSED: [2019-02-27]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780156594431-M.jpg]]
 
-[[https://openlibrary.org/books/OL7366091M/Microworlds][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780156594431&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Microserfs                                                :tech:fiction:
+* READ [[https://openlibrary.org/books/OL14438854M/Microserfs][Microserfs]]                                           :tech:fiction:
 CLOSED: [2019-01-29]
 :PROPERTIES:
 :Author:   Douglas Coupland
@@ -1512,8 +1343,6 @@ CLOSED: [2019-01-29]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780060987046-M.jpg]]
 
-[[https://openlibrary.org/books/OL14438854M/Microserfs][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780060987046&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 The technology is quaintly dated and if that was all the book was about this
@@ -1525,7 +1354,7 @@ as ever.
 
 This book has a lot of heart. It was lovely.
 
-* READ Romeo and/or Juliet: A Chooseable-Path Adventure        :humorous:romance:
+* READ [[https://openlibrary.org/books/OL27209227M/Romeo_and_or_Juliet][Romeo and/or Juliet: A Chooseable-Path Adventure]] :humorous:romance:
 CLOSED: [2019-01-12]
 :PROPERTIES:
 :Author:   Ryan North
@@ -1538,11 +1367,9 @@ CLOSED: [2019-01-12]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781101983300-M.jpg]]
 
-[[https://openlibrary.org/books/OL27209227M/Romeo_and_or_Juliet][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781101983300&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Dragons of Autumn Twilight  (Dragonlance: Chronicles, #1)      :fantasy:
+* READ [[https://openlibrary.org/books/OL8144184M/Dragons_of_Autumn_Twilight][Dragons of Autumn Twilight  (Dragonlance: Chronicles, #1)]] :fantasy:
 :PROPERTIES:
 :Author:   Margaret Weis, Tracy Hickman
 :Added:    [2019-01-05]
@@ -1554,11 +1381,9 @@ CLOSED: [2019-01-12]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780786915743-M.jpg]]
 
-[[https://openlibrary.org/books/OL8144184M/Dragons_of_Autumn_Twilight][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780786915743&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Transmetropolitan, Vol. 10: One More Time        :scifi:cyberpunk:comic:
+* READ [[https://openlibrary.org/books/OL20270077M/Transmetropolitan][Transmetropolitan, Vol. 10: One More Time]]   :scifi:cyberpunk:comic:
 CLOSED: [2018-09-09]
 :PROPERTIES:
 :Author:   Warren Ellis, Darick Robertson, Rodney Ramos
@@ -1571,11 +1396,9 @@ CLOSED: [2018-09-09]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781401202170-M.jpg]]
 
-[[https://openlibrary.org/books/OL20270077M/Transmetropolitan][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781401202170&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Transmetropolitan, Vol. 9: The Cure              :scifi:cyberpunk:comic:
+* READ [[https://openlibrary.org/books/OL18174545M/Transmetropolitan][Transmetropolitan, Vol. 9: The Cure]]         :scifi:cyberpunk:comic:
 CLOSED: [2018-09-04]
 :PROPERTIES:
 :Author:   Warren Ellis, Darick Robertson, Rodney Ramos
@@ -1588,11 +1411,9 @@ CLOSED: [2018-09-04]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781563899881-M.jpg]]
 
-[[https://openlibrary.org/books/OL18174545M/Transmetropolitan][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781563899881&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Transmetropolitan, Vol. 8: Dirge                 :scifi:cyberpunk:comic:
+* READ [[https://openlibrary.org/books/OL17150163M/Transmetropolitan][Transmetropolitan, Vol. 8: Dirge]]            :scifi:cyberpunk:comic:
 CLOSED: [2018-09-04]
 :PROPERTIES:
 :Author:   Warren Ellis
@@ -1605,11 +1426,9 @@ CLOSED: [2018-09-04]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781563899539-M.jpg]]
 
-[[https://openlibrary.org/books/OL17150163M/Transmetropolitan][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781563899539&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Transmetropolitan, Vol. 7: Spider's Thrash       :scifi:cyberpunk:comic:
+* READ [[https://openlibrary.org/books/OL18174893M/Transmetropolitan][Transmetropolitan, Vol. 7: Spider's Thrash]]  :scifi:cyberpunk:comic:
 CLOSED: [2018-09-03]
 :PROPERTIES:
 :Author:   Warren Ellis, Darick Robertson, Rodney Ramos, Darren Aronofsky
@@ -1622,11 +1441,9 @@ CLOSED: [2018-09-03]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781563898945-M.jpg]]
 
-[[https://openlibrary.org/books/OL18174893M/Transmetropolitan][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781563898945&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Transmetropolitan, Vol. 6: Gouge Away            :scifi:cyberpunk:comic:
+* READ [[https://openlibrary.org/books/OL20270077M/Transmetropolitan][Transmetropolitan, Vol. 6: Gouge Away]]       :scifi:cyberpunk:comic:
 CLOSED: [2018-09-03]
 :PROPERTIES:
 :Author:   Warren Ellis, Darick Robertson, Rodney Ramos
@@ -1639,11 +1456,9 @@ CLOSED: [2018-09-03]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781563897962-M.jpg]]
 
-[[https://openlibrary.org/books/OL20270077M/Transmetropolitan][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781563897962&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Transmetropolitan, Vol. 5: Lonely City           :scifi:cyberpunk:comic:
+* READ [[https://openlibrary.org/books/OL20270077M/Transmetropolitan][Transmetropolitan, Vol. 5: Lonely City]]      :scifi:cyberpunk:comic:
 CLOSED: [2018-09-02]
 :PROPERTIES:
 :Author:   Warren Ellis, Darick Robertson, Rodney Ramos, Patrick Stewart
@@ -1656,11 +1471,9 @@ CLOSED: [2018-09-02]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781563897221-M.jpg]]
 
-[[https://openlibrary.org/books/OL20270077M/Transmetropolitan][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781563897221&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Transmetropolitan, Vol. 4: The New Scum          :scifi:cyberpunk:comic:
+* READ [[https://openlibrary.org/books/OL20270077M/Transmetropolitan][Transmetropolitan, Vol. 4: The New Scum]]     :scifi:cyberpunk:comic:
 CLOSED: [2018-08-25]
 :PROPERTIES:
 :Author:   Warren Ellis
@@ -1673,11 +1486,9 @@ CLOSED: [2018-08-25]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781563896279-M.jpg]]
 
-[[https://openlibrary.org/books/OL20270077M/Transmetropolitan][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781563896279&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Transmetropolitan, Vol. 3: Year of the Bastard   :scifi:cyberpunk:comic:
+* READ [[https://openlibrary.org/books/OL20270077M/Transmetropolitan][Transmetropolitan, Vol. 3: Year of the Bastard]] :scifi:cyberpunk:comic:
 CLOSED: [2018-08-24]
 :PROPERTIES:
 :Author:   Warren Ellis
@@ -1690,11 +1501,9 @@ CLOSED: [2018-08-24]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781563895685-M.jpg]]
 
-[[https://openlibrary.org/books/OL20270077M/Transmetropolitan][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781563895685&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Transmetropolitan, Vol. 2: Lust for Life         :scifi:cyberpunk:comic:
+* READ [[https://openlibrary.org/books/OL20270077M/Transmetropolitan][Transmetropolitan, Vol. 2: Lust for Life]]    :scifi:cyberpunk:comic:
 CLOSED: [2013-06-30]
 :PROPERTIES:
 :Author:   Warren Ellis, Darick Robertson
@@ -1707,11 +1516,9 @@ CLOSED: [2013-06-30]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781563894817-M.jpg]]
 
-[[https://openlibrary.org/books/OL20270077M/Transmetropolitan][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781563894817&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Transmetropolitan, Vol. 1: Back on the Street    :scifi:cyberpunk:comic:
+* READ [[https://openlibrary.org/books/OL20270077M/Transmetropolitan][Transmetropolitan, Vol. 1: Back on the Street]] :scifi:cyberpunk:comic:
 :PROPERTIES:
 :Author:   Warren Ellis, Darick Robertson, Darick Robertston, Rodney Ramos, Garth Ennis, Nathan Eyring, Patrick Stewart
 :Added:    [2016-04-12]
@@ -1723,8 +1530,6 @@ CLOSED: [2013-06-30]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781563894459-M.jpg]]
 
-[[https://openlibrary.org/books/OL20270077M/Transmetropolitan][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781563894459&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 * TOREAD Dark Intelligence (Transformation, #1)                         :scifi:
@@ -8608,7 +8413,8 @@ CLOSED: [2014-06-21]
 [[https://openlibrary.org/api/books?bibkeys=ISBN:9780553578577&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READING [[https://openlibrary.org/books/OL8998739M/Rendezvous_with_Rama][Rendezvous with Rama (Rama, #1)]]                                :scifi:
+* READ [[https://openlibrary.org/books/OL8998739M/Rendezvous_with_Rama][Rendezvous with Rama (Rama, #1)]]                                   :scifi:
+CLOSED: [2026-05-19 Tue 19:24]
 :PROPERTIES:
 :Author:   Arthur C. Clarke
 :Added:    [2014-06-17]
@@ -11003,7 +10809,7 @@ story.  The villains want them dead; the heroes are merely impolite.
 [[https://openlibrary.org/api/books?bibkeys=ISBN:0241430976&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Mostly Harmless (Hitchhiker's Guide to the Galaxy, #5)     :scifi:humorous:
+* READ [[https://openlibrary.org/books/OL18772737M/Mostly_harmless][Mostly Harmless (Hitchhiker's Guide to the Galaxy, #5)]] :scifi:humorous:
 :PROPERTIES:
 :Author:   Douglas Adams
 :ISBN:     0434009261
@@ -11014,12 +10820,9 @@ story.  The villains want them dead; the heroes are merely impolite.
 #+BEGIN_aside
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/0434009261-M.jpg]]
-
-[[https://openlibrary.org/books/OL18772737M/Mostly_harmless][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:0434009261&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Neuromancer (Sprawl, #1)                                :scifi:cyberpunk:
+* READ [[https://openlibrary.org/books/OL3963678M/Neuromancer][Neuromancer (Sprawl, #1)]]                          :scifi:cyberpunk:
 :PROPERTIES:
 :Author:   William Gibson
 :ISBN:     0441007465
@@ -11029,12 +10832,9 @@ story.  The villains want them dead; the heroes are merely impolite.
 #+BEGIN_aside
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/0441007465-M.jpg]]
-
-[[https://openlibrary.org/books/OL3963678M/Neuromancer][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:0441007465&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ A Clockwork Orange                                        :scifi:classic:
+* READ [[https://openlibrary.org/books/OL9040880M/A_Clockwork_Orange][A Clockwork Orange]]                                  :scifi:classic:
 :PROPERTIES:
 :Author:   Anthony Burgess
 :ISBN:     3453130790
@@ -11045,12 +10845,9 @@ story.  The villains want them dead; the heroes are merely impolite.
 #+BEGIN_aside
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/3453130790-M.jpg]]
-
-[[https://openlibrary.org/books/OL9040880M/A_Clockwork_Orange][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:3453130790&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Fragile Things: Short Fictions and Wonders            :fantasy:anthology:
+* READ [[https://openlibrary.org/books/OL7277554M/Fragile_Things][[[https://openlibrary.org/books/OL7277554M/Fragile_Things][Fragile Things: Short Fictions and Wonders]]]] :fantasy:anthology:
 :PROPERTIES:
 :Author:   Neil Gaiman
 :ISBN:     9780060515225
@@ -11061,12 +10858,9 @@ story.  The villains want them dead; the heroes are merely impolite.
 #+BEGIN_aside
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780060515225-M.jpg]]
-
-[[https://openlibrary.org/books/OL7277554M/Fragile_Things][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780060515225&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Wuthering Heights                                       :classic:romance:
+* READ [[https://openlibrary.org/books/OL57650591M/Wuthering_Heights][Wuthering Heights]] :classic:romance:
 :PROPERTIES:
 :Author:   Emily Brontë
 :Added:    [2025-04-21]
@@ -11077,12 +10871,9 @@ story.  The villains want them dead; the heroes are merely impolite.
 #+BEGIN_aside
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9798542843742-M.jpg]]
-
-[[https://openlibrary.org/books/OL57650591M/Wuthering_Heights][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9798542843742&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ The Silence of the Lambs  (Hannibal Lecter, #2)                 :mystery:
+* READ [[https://openlibrary.org/books/OL10393961M/The_Silence_of_the_Lambs][The Silence of the Lambs  (Hannibal Lecter, #2)]] :mystery:
 :PROPERTIES:
 :Author:   Thomas Harris
 :Added:    [2025-04-21]
@@ -11093,12 +10884,9 @@ story.  The villains want them dead; the heroes are merely impolite.
 #+BEGIN_aside
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780312915445-M.jpg]]
-
-[[https://openlibrary.org/books/OL10393961M/The_Silence_of_the_Lambs][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780312915445&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ Frankenstein                                              :classic:scifi:
+* READ [[https://openlibrary.org/books/OL24959307M/Frankenstein][Frankenstein]]                                              :classic:scifi:
 :PROPERTIES:
 :Author:   Mary Shelley
 :Added:    [2025-04-21]
@@ -11109,12 +10897,9 @@ story.  The villains want them dead; the heroes are merely impolite.
 #+BEGIN_aside
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/0451523369-M.jpg]]
-
-[[https://openlibrary.org/books/OL24959307M/Frankenstein][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:0451523369&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ The Adventures of Sherlock Holmes and The Hound of the Baskervilles :mystery:classic:
+* READ [[https://openlibrary.org/books/OL30128922M/The_Adventures_of_Sherlock_Holmes_and_The_Hound_of_the_Baskervilles][The Adventures of Sherlock Holmes and The Hound of the Baskervilles]] :mystery:classic:
 :PROPERTIES:
 :Author:   Arthur Conan Doyle
 :Added:    [2025-04-21]
@@ -11125,12 +10910,9 @@ story.  The villains want them dead; the heroes are merely impolite.
 #+BEGIN_aside
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781587265310-M.jpg]]
-
-[[https://openlibrary.org/books/OL30128922M/The_Adventures_of_Sherlock_Holmes_and_The_Hound_of_the_Baskervilles][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9781587265310&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ The Caves of Steel                                                :scifi:
+* READ [[https://openlibrary.org/books/OL10684706M/The_Caves_of_Steel][The Caves of Steel]]                                                :scifi:
 CLOSED: [2014-07-30]
 :PROPERTIES:
 :Author:   Isaac Asimov
@@ -11142,9 +10924,6 @@ CLOSED: [2014-07-30]
 #+BEGIN_aside
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780345329004-M.jpg]]
-
-[[https://openlibrary.org/books/OL10684706M/The_Caves_of_Steel][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780345329004&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 I was going back and forth between a 2 star and a 3 star rating.  The book
@@ -11159,7 +10938,7 @@ The book was at its best when describing what the far future might be like,
 even if it seems at the same time to be horribly dated.  But the rest was
 just tough to slog through.
 
-* READ The Cyberiad                                :scifi:anthology:translation:
+* READ [[https://openlibrary.org/books/OL7365553M/The_Cyberiad][The Cyberiad]]                                :scifi:anthology:translation:
 :PROPERTIES:
 :Author:   Stanisław Lem
 :Added:    [2025-04-21]
@@ -11170,12 +10949,9 @@ just tough to slog through.
 #+BEGIN_aside
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9780156027595-M.jpg]]
-
-[[https://openlibrary.org/books/OL7365553M/The_Cyberiad][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9780156027595&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
-* READ King Lear                                                  :classic:play:
+* READ [[https://openlibrary.org/books/OL42365667M/King_Lear][King Lear]]                                                  :classic:play:
 :PROPERTIES:
 :Author:   William Shakespeare
 :Added:    [2025-04-21]
@@ -11186,9 +10962,6 @@ just tough to slog through.
 #+BEGIN_aside
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9798720402907-M.jpg]]
-
-[[https://openlibrary.org/books/OL42365667M/King_Lear][Open Library]] \\
-[[https://openlibrary.org/api/books?bibkeys=ISBN:9798720402907&jscmd=data&format=json][Open Library Data]]
 #+END_aside
 
 * TOREAD [[https://openlibrary.org/books/OL27461049M/Do_Androids_Dream_of_Electric_Sheep_Omnibus][Do Androids Dream of Electric Sheep Omnibus]]                     :scifi:
