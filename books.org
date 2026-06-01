@@ -9565,3 +9565,27 @@ CLOSED: [2026-03-29 Sun 09:48]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9781988344324-M.jpg]]
 #+END_aside
+
+* READING [[http://openlibrary.org/books/OL11220388M/The_Odyssey][The Odyssey]]
+:PROPERTIES:
+:Author:   Όμηρος
+:Added:    2026-05-22
+:ISBN:     9780881036572
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/9780881036572-M.jpg]]
+#+END_aside
+
+* TOREAD [[http://openlibrary.org/books/OL35402559M/The_Illiad][The Illiad]]
+:PROPERTIES:
+:Author:   Homeros;Homer
+:Added:    2026-05-22
+:ISBN:     9786058051089
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/9786058051089-M.jpg]]
+#+END_aside
