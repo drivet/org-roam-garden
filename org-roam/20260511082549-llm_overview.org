@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       f8e0b008-8de7-4a10-84de-5289edc692b8
+:END:
+#+date: [2026-05-11 Mon 08:25]
+#+hugo_lastmod: [2026-05-11 Mon 08:25]
+#+title: LLM overview
+
+I get confused the by the terminology and the ecosystem, so here are some
+notes.
+
+For coding, Anthropic seems to be king.  They produce two models, Claude
+Sonnet and Clause Opus, widely used in coding.
+
+They *also* produce Claude Code, which is confusing.  Claude Code is the
+tool that makes use of the models.  You can actually swap out the models
+used by Claude Code.  For example, you can use Claude Code with ChatGPT
+
+Copilot is an LLM orchestrator produce by Microsoft, It's not an LLM
+directly.  So I guess it make more sense to compare Copilot to Claude Code,
+rather than any particular model.
+
+Cursor has its own agents and models, but you can point it at Claude models.
+Does it make sens to point it at Claude Code?  Not sure how.
+
+** LiteLLM
+
+LiteLLM acts as a model gateway, fronted by the OpenAPI API.  I think what
+this means is that you can plug in LiteLLM to Claude Code or Copilot and
+make it use any model.
+
+[[id:b222f935-8552-4069-aff1-6d796f5a84b6][AI]]
