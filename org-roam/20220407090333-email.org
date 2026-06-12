@@ -27,3 +27,8 @@ apps (Twitter).  Or via chat apps from social networks (Facebook Messanger).
 Or even simple cell phone texting.
 
 Still, email is good for people who don't have social media.  
+
+** Self hosting
+
+https://janlukas.blog/thoughts/2025/02/self-hosting-emails-again
+https://janlukas.blog/posts/a-few-weeks-self-hosting-mails

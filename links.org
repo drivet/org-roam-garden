@@ -10,6 +10,208 @@ draft: false
 ---
 #+END_EXPORT
 
+* [[https://sachachua.com/blog/2026/04/yayemacs-10-emacs-coaching-with-prot-packaging-emacs-lisp/][#YayEmacs 10: Emacs coaching with Prot: Emacs workflows and streaming :: Sach...]] :emacs:
+:PROPERTIES:
+:Added: [2026-06-08 Mon 19:05]
+:END:
+
+This is a session between Sacha and Prot.  Definitely looks interesting but
+there's a lot there, so look later.
+
+* [[https://baty.net/posts/2025/10/depression/][Depression — Baty.net]]
+:PROPERTIES:
+:Added: [2026-06-08 Mon 18:50]
+:END:
+
+* [[https://sachachua.com/blog/2025/07/finding-my-blog-posts-with-consult-omni/][Finding my blog posts with consult-omni :: Sacha Chua]] :emacs:
+:PROPERTIES:
+:Added: [2026-06-08 Mon 08:43]
+:END:
+
+* [[https://protesilaos.com/codelog/2020-08-03-emacs-custom-functions-galore/][Emacs: custom functions galore! | Protesilaos]] :emacs:
+:PROPERTIES:
+:Added: [2026-06-08 Mon 08:41]
+:END:
+
+* [[https://standardebooks.org/][Standard Ebooks: Free and liberated ebooks, carefully produced for the true b...]]
+:PROPERTIES:
+:Added: [2026-06-08 Mon 08:13]
+:END:
+
+* [[https://www.vanrenterghem.biz/posts/emacs_calendar.html][Using Emacs Org mode to manage my appointments.]] :emacs:
+:PROPERTIES:
+:Added: [2026-06-07 Sun 18:11]
+:END:
+
+* [[https://emacsredux.com/blog/2025/02/03/debugging-emacs-commands/][Debugging Emacs Commands | Emacs Redux]] :emacs:
+:PROPERTIES:
+:Added: [2026-06-07 Sun 18:03]
+:END:
+
+* [[https://opencloud.eu/en][Excellent file sharing: Secure and scalable cloud solutions | OpenCloud]]
+:PROPERTIES:
+:Added: [2026-06-07 Sun 18:00]
+:END:
+
+* [[https://netigen.com/week-notes-4][Netigen: Week Notes #4]]
+:PROPERTIES:
+:Added: [2026-06-07 Sun 17:57]
+:END:
+
+* [[https://adactio.com/journal/22093][Adactio: Journal—Newsletters]]
+:PROPERTIES:
+:Added: [2026-06-07 Sun 17:40]
+:END:
+
+* [[https://adactio.com/journal/22188][Adactio: Journal—Reasoning]] :web:
+:PROPERTIES:
+:Added: [2026-06-07 Sun 17:38]
+:END:
+
+Fast navigations and smooth animations in CSS
+* [[https://blog.jim-nielsen.com/2026/small-html-pages/][Reminder: You Can Stitch Together Lots of Little HTML Pages With Navigations ...]] :web:
+:PROPERTIES:
+:Added: [2026-06-07 Sun 17:34]
+:END:
+
+Interesting approach to menus, that are maybe a bit more user-friendly than
+just plopping the whole thing on the page in the non-JS case.
+
+* [[https://github.com/kickingvegas/casual][GitHub - kickingvegas/casual: A collection of opinionated keyboard-driven use...]] :emacs:
+:PROPERTIES:
+:Added: [2026-06-07 Sun 17:29]
+:END:
+
+* [[https://stuffeverybodyknows.com/][How to be a web developer: Stuff Everybody Knows]]
+:PROPERTIES:
+:Added: [2026-06-06 Sat 16:55]
+:END:
+
+* [[https://kickingvegas.github.io/casual/index.html][Top (Casual User Guide)]] :emacs:
+:PROPERTIES:
+:Added: [2026-06-06 Sat 16:49]
+:END:
+
+* [[https://sachachua.com/blog/2025/09/emacs-cycle-through-different-paragraph-formats-all-on-one-line-wrapped-max-one-sentence-per-line-one-sentence-per-line/][Emacs: Cycle through different paragraph formats: all on one line, wrapped, m...]] :emacs:
+:PROPERTIES:
+:Added: [2026-06-06 Sat 14:37]
+:END:
+
+Might be interesting to move into my config.  Cycle through different format
+methods.
+* [[https://emacsredux.com/blog/2025/06/01/let-s-make-keyboard-quit-smarter/][Let’s make keyboard-quit smarter | Emacs Redux]] :emacs:
+:PROPERTIES:
+:Added: [2026-06-06 Sat 14:30]
+:END:
+
+Interesting way to improve Ctrl-G
+* [[https://localghost.dev/blog/this-page-is-under-construction/][This page is under construction - localghost]]
+:PROPERTIES:
+:Added: [2026-06-06 Sat 14:25]
+:END:
+
+* [[https://localghost.dev/blog/this-page-is-under-construction/][This page is under construction - localghost]] :indieweb:
+:PROPERTIES:
+:Added: [2026-06-06 Sat 12:33]
+:END:
+
+* [[https://www.zylstra.org/blog/2025/02/leaving-amazon-pt-2-on-switch-day/][Leaving Amazon Pt 2. on Switch Day – Interdependent Thoughts]]
+:PROPERTIES:
+:Added: [2026-06-06 Sat 12:25]
+:END:
+
+On leaving Amazon.  Interesting for the e-book discussion
+
+* [[https://github.com/input-leap/input-leap][GitHub - input-leap/input-leap: Open-source KVM software · GitHub]]
+:PROPERTIES:
+:Added: [2026-06-06 Sat 12:14]
+:END:
+
+* [[https://kimberlyhirsh.com/2025/01/21/reading-notes-on-on-tyranny.html][📚 Reading notes on ON TYRANNY: TWENTY LESSONS FROM THE TWENTIETH CENTURY by T...]] :social:
+:PROPERTIES:
+:Added: [2026-06-06 Sat 12:11]
+:END:
+
+* [[https://ar.al/2020/08/07/what-is-the-small-web/][What is the Small Web? – Aral Balkan]] :indoeweb:
+:PROPERTIES:
+:Added: [2026-06-05 Fri 07:38]
+:END:
+
+* [[https://ohhelloana.blog/my-indieweb-journey/][Oh Hello Ana - My IndieWeb Journey: Building, Sharing, and Owning Your Online...]] :indieweb:
+:PROPERTIES:
+:Added: [2026-06-05 Fri 07:34]
+:END:
+
+* [[https://ohhelloana.blog/overthinking-ai/][Oh Hello Ana - Overthinking: AI wasn't the first to break my heart]] :ai:social:
+:PROPERTIES:
+:Added: [2026-06-05 Fri 07:28]
+:END:
+
+* [[https://zettelkasten.de/posts/how-to-start-zettelkasten-when-stuck-in-theory/][How to Start a Zettelkasten When You Are Stuck in Theory • Zettelkasten Method]] :zettel:
+:PROPERTIES:
+:Added: [2026-06-05 Fri 07:25]
+:END:
+
+* [[https://www.joanwestenberg.com/the-cult-of-hard-mode-why-simplicity-offends-tech-elites/][The Cult of Hard Mode]]
+:PROPERTIES:
+:Added: [2026-06-04 Thu 19:50]
+:END:
+
+I wonder about this one.  Do I do things in hard mode?
+
+* [[https://sachachua.com/blog/2025/07/my-emacs-writing-experience/][My Emacs writing experience :: Sacha Chua]] :emacs:
+:PROPERTIES:
+:Added: [2026-06-04 Thu 19:46]
+:END:
+
+There's just a lot to read here
+* [[https://github.com/tanrax/org-social][GitHub - tanrax/org-social: Org Social is a decentralized social network that...]] :emacs:social:
+:PROPERTIES:
+:Added: [2026-06-04 Thu 19:38]
+:END:
+
+* [[https://www.youtube.com/watch?v=wE8vCWyr1Eo][EmacsConf 2025: Zettelkasten for regular Emacs hackers - Christian Tietze (he...]] :emacs:
+:PROPERTIES:
+:Added: [2026-06-04 Thu 19:25]
+:END:
+
+* [[https://netigen.com/a-year-without-azeroth][Netigen: A Year Without Azeroth]]
+:PROPERTIES:
+:Added: [2026-06-03 Wed 21:19]
+:END:
+
+I just liked the introspection, especially the bits about how he just
+replaced WoW with other obsessive things.
+* [[https://github.com/buckket/twtxt][GitHub - buckket/twtxt: Decentralised, minimalist microblogging service for h...]] :blogging:
+:PROPERTIES:
+:Added: [2026-06-03 Wed 20:58]
+:END:
+
+* [[https://zettelkasten.de/posts/zettelkasten-thinking-environment/][Mindscapes: The Zettelkasten as a Thinking Environment • Zettelkasten Method]] :zettel:
+:PROPERTIES:
+:Added: [2026-06-03 Wed 20:45]
+:END:
+
+* [[https://www.howardism.org/Technical/Emacs/query-data-structures.html][Querying Data Structures in Lisp]] :emacs:
+:PROPERTIES:
+:Added: [2026-06-03 Wed 20:38]
+:END:
+
+* [[https://scripter.co/looping-through-org-mode-headings/?utm_source=atom_feed][Looping through Org mode headings ❚ A Scripter's Notes]] :emacs:
+:PROPERTIES:
+:Added: [2026-06-03 Wed 20:35]
+:END:
+
+* [[https://www.howardism.org/Technical/Emacs/browsing-in-emacs.html][Emacs-focused Web Browsing]] :emacs:
+:PROPERTIES:
+:Added: [2026-06-03 Wed 20:30]
+:END:
+
+* [[https://www.howardism.org/Technical/Emacs/orgmode-wordprocessor.html][Org as a Word Processor]] :emacs:
+:PROPERTIES:
+:Added: [2026-06-03 Wed 20:27]
+:END:
+
 * [[https://livewithhu.com/][Live With Hu | Candles & Ritual Experience for Clarity & Alignment]]
 :PROPERTIES:
 :Added: [2026-01-10 Sat 16:58]

@@ -8,4 +8,3 @@
 I enjoy blogging, and the IndieWeb.
 
 Blogging is my main outlet for both writing and [[id:74fe4896-3281-4665-8051-556ce8eca8b5][programming]].
-

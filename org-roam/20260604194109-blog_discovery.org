@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       65d3b03e-90f4-43a2-b47f-8083b4810329
+:END:
+#+date: [2026-06-04 Thu 19:41]
+#+hugo_lastmod: [2026-06-04 Thu 19:41]
+#+title: Blog discovery
+
+Interesting post on generating a list of blogs to follow:
+
+https://sachachua.com/blog/2025/03/reading-more-blogs-emacs-lisp-listing-blogs-based-on-an-opml-file/
+
+** Directories
+
+ * https://ooh.directory/
+ * https://blogroll.org/
+ * https://www.blogsareback.com/explore
+ * https://blogosphere.app/
+ * https://scour.ing/browse/posts/popular
+ * https://indieblog.page/
+ * https://personalsit.es/
+ * http://biglist.terraaeon.com/
+ * https://hacdias.com/blogroll/
+ * https://blogroll.org/
+ * https://internetphonebook.net/
+ * https://marisabel.nl/public/blogroll.php
+   
+** Rings
+
+ * https://web.archive.org/web/20230605015058/https://sadgrl.online/cyberspace/webrings
+ * https://webring.xxiivv.com/
+ * https://fediring.net/
+   
+[[id:073f104c-8e48-44a6-8f5f-81e5e89b4881][Blogging]]

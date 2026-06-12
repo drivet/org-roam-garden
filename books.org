@@ -9580,7 +9580,7 @@ CLOSED: [2026-03-29 Sun 09:48]
 
 * TOREAD [[http://openlibrary.org/books/OL35402559M/The_Illiad][The Illiad]]
 :PROPERTIES:
-:Author:   Homeros;Homer
+:Author:   Homer
 :Added:    2026-05-22
 :ISBN:     9786058051089
 :END:
@@ -9588,4 +9588,136 @@ CLOSED: [2026-03-29 Sun 09:48]
 #+BEGIN_aside
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/9786058051089-M.jpg]]
+#+END_aside
+
+* TOREAD [[http://openlibrary.org/books/OL37996710M/Ithaca][Ithaca]]
+:PROPERTIES:
+:Author:   Claire North
+:Added:    2026-06-04
+:ISBN:     9780356516066
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/9780356516066-M.jpg]]
+#+END_aside
+
+* TOREAD [[http://openlibrary.org/books/OL50640489M/House_of_Odysseus][House of Odysseus]]
+:PROPERTIES:
+:Author:   Claire North
+:Added:    2026-06-04
+:ISBN:     9780356516103
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/9780356516103-M.jpg]]
+#+END_aside
+
+* TOREAD [[http://openlibrary.org/books/OL39271799M/Sea_of_Tranquility][Sea of Tranquility]]
+:PROPERTIES:
+:Author:   Emily St. John Mandel
+:Added:    2026-06-04
+:ISBN:     9781529083514
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/9781529083514-M.jpg]]
+#+END_aside
+
+* TOREAD [[http://openlibrary.org/books/OL51343524M/Hera][Hera]]
+:PROPERTIES:
+:Author:   Jennifer Saint
+:Added:    2026-06-04
+:ISBN:     9781250855626
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/9781250855626-M.jpg]]
+#+END_aside
+
+* TOREAD [[http://openlibrary.org/books/OL32177625M/A_Psalm_for_the_Wild-Built][A Psalm for the Wild-Built]]
+:PROPERTIES:
+:Author:   Becky Chambers
+:Added:    2026-06-04
+:ISBN:     9781250236227
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/9781250236227-M.jpg]]
+#+END_aside
+
+* TOREAD [[http://openlibrary.org/books/OL28352605M/salt_slow][salt slow]]
+:PROPERTIES:
+:Author:   Julia Armfield
+:Added:    2026-06-04
+:ISBN:     9781529012590
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/9781529012590-M.jpg]]
+#+END_aside
+
+* TOREAD [[http://openlibrary.org/books/OL32582314M/Folk][Folk]]
+:PROPERTIES:
+:Author:   Zoe Gilbert
+:Added:    2026-06-04
+:ISBN:     9781408884393
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/9781408884393-M.jpg]]
+#+END_aside
+
+* TOREAD [[http://openlibrary.org/books/OL46938M/Parable_of_the_Sower][Parable of the Sower]]
+:PROPERTIES:
+:Author:   Octavia E. Butler
+:Added:    2026-06-08
+:ISBN:     0446675504
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/0446675504-M.jpg]]
+#+END_aside
+
+* TOREAD [[http://openlibrary.org/books/OL28058464M/A_Memory_Called_Empire][A Memory Called Empire]]
+:PROPERTIES:
+:Author:   Arkady Martine
+:Added:    2026-06-08
+:ISBN:     9781529001594
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/9781529001594-M.jpg]]
+#+END_aside
+
+* TOREAD [[http://openlibrary.org/books/OL31845746M/The_Beast_That_Shouted_Love_at_the_Heart_of_the_World][The Beast That Shouted Love at the Heart of the World]]
+:PROPERTIES:
+:Author:   Harlan Ellison
+:Added:    2026-06-08
+:ISBN:     9781497642881
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/9781497642881-M.jpg]]
+#+END_aside
+
+* TOREAD [[http://openlibrary.org/books/OL1561481M/Doomsday_book][Doomsday book]]
+:PROPERTIES:
+:Author:   Connie Willis
+:Added:    2026-06-08
+:ISBN:     0553351672
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/0553351672-M.jpg]]
 #+END_aside

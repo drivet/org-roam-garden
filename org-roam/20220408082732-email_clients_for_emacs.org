@@ -12,3 +12,8 @@
 
 You might think that email has little to do with text editiing but that's
 wrong.  Reading and writing email is very much a text base activity.
+
+** Links
+
+https://coyotetracks.org/blog/best-worst-email/
+https://jamesendreshowell.com/2026-01-08-custom-sorting-of-mu4e-headers.html

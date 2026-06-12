@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       49b55a4f-c943-49b1-b34e-6d0730d954f7
+:END:
+#+date: [2026-06-07 Sun 13:12]
+#+hugo_lastmod: [2026-06-07 Sun 13:12]
+#+title: Emacs on MacOS
+
+Need to fill this with information.  Emacs on MacOS isn't very easy.
+
+Start here:
+
+[[https://irreal.org/blog/?p=13567][Emacs Performance on macOS | Irreal]]
+
+[[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]]

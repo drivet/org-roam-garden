@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       71f1914f-16b4-4d92-8a40-19e16566c078
+:END:
+#+date: [2026-06-07 Sun 17:17]
+#+hugo_lastmod: [2026-06-07 Sun 17:17]
+#+title: Emacs delimiters
+
+There are several ways to managed "delimiters" in Emacs.  This often mean
+parentheses when talking about Lisp code, but I guess this could mean quotes
+too.
+
+Redux has a pretty good post here:
+
+[[https://emacsredux.com/blog/2026/03/14/removing-paired-delimiters-in-emacs/][Removing Paired Delimiters in Emacs | Emacs Redux]]
+
+He's basically describing paredit and smartaparens.  I have smartparens
+turns off in Emacs Prelude because I find it fucks around with my editing
+too much.  I really need to look into how to use the package.
+
+The redux guy has actually stopped using smartparens, considering it too
+heavy.
+
+
+[[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]]

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       d2749043-c3d8-419e-b462-9ac8fc3d3ac6
+:END:
+#+date: [2026-06-06 Sat 16:52]
+#+hugo_lastmod: [2026-06-06 Sat 16:52]
+#+title: Literate Programming
+
+Something for me to try out when I get the chance.
+
+https://howardism.org/Technical/LP/introduction.html
+https://howardism.org/Technical/Emacs/literate-writ-large.html
+
+[[id:74fe4896-3281-4665-8051-556ce8eca8b5][Software Development]]
