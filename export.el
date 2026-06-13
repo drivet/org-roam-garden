@@ -4,64 +4,50 @@
 (require 'org-roam)
 (require 'org-roam-export)
 (require 'org-roam-dailies)
+(require 'ox-publish)
 
 (setq make-backup-files 'nil)
-(setq org-roam-directory (file-truename "~/org-roam-garden/org-roam/"))
+(setq org-roam-directory (file-truename "~/org-roam-garden/org-roam"))
 ;; we apparently don't need to set a connector in Emacs 29 and above
 (if (version< emacs-version "29")
     (setq org-roam-database-connector 'sqlite))
-(setq org-roam-db-location (concat org-roam-directory ".org-roam.db"))
+(setq org-roam-db-location (concat org-roam-directory "/.org-roam.db"))
 
 (setq org-hugo-base-dir "~/org-roam-garden/")
 (setq org-hugo-section ".")
 (setq org-hugo-front-matter-format "yaml")
 (setq org-time-stamp-custom-formats '("%Y-%m-%d" . "%Y-%m-%d %H:%M"))
 
-(defun make-inout-pair (f indir outdir)
-  (let ((prefix-regex (format "^%s" indir))
-        (md-file (concat (file-name-sans-extension f) ".md")))
-    (cons f (replace-regexp-in-string prefix-regex outdir md-file))))
+(setq org-garden-pub-dir (file-truename "~/org-roam-garden/content"))
+(setq org-publish-timestamp-directory "~/org-roam-garden/.org-timestamps/")
 
-(defun newer (pair)
-  (file-newer-than-file-p (car pair) (cdr pair)))
-
-(defun roamexport ()
+(defun org-roam-update-meta (plist)
+  "Update the roam metadata so the build will work"
   (org-roam-update-org-id-locations)
-  (org-roam-db-sync)
-  (let* ((indir (expand-file-name "~/org-roam-garden/org-roam"))
-         (outdir (expand-file-name "~/org-roam-garden/content"))
-         (search-path (file-name-as-directory indir))
-         (org-files (directory-files-recursively search-path "\.org$"))
-         (org-export-pair
-          (mapcar (lambda(f) (make-inout-pair f indir outdir)) org-files))
-         (org-export-update (remove-if-not 'newer org-export-pair))
-         (num-files (length org-export-update))
-         (cnt 1))
-     (if (= 0 num-files)
-        (message (format "No new org files to export in %s" search-path))
-      (progn
-        (message (format "Exporting %d files recursively from %S .."
-                         num-files search-path))
-        (dolist (org-export-pair org-export-update)
-          (let ((org-file (car org-export-pair))
-                (md-file (cdr org-export-pair)))
-            (with-current-buffer (find-file-noselect org-file)
-              (message (format "[%d/%d] Exporting %s to %s" cnt num-files org-file md-file))
-              (org-hugo-export-wim-to-md :all-subtrees)
-              (kill-buffer))
-            (setq cnt (1+ cnt))))
-        (message "Done!")))))
+  (org-roam-db-sync))
 
-(defun export-org-file-html (infile)
-  (with-current-buffer (find-file-noselect infile)
-    (message (format "Exporting %s" infile))
-    (org-toggle-time-stamp-overlays)
-    (org-html-export-to-html 'nil 'nil 'nil 't)
-    (kill-buffer))
-  (let* ((abshtmlfile (concat (file-name-sans-extension infile) ".html"))
-          (outfile (concat "~/org-roam-garden/content/"
-                     (file-name-nondirectory abshtmlfile))))
-    (rename-file abshtmlfile outfile 't)))
+(defun org-hugo-publish (plist org-file pub-dir)
+  "Publish org file to hugo markdown"
+  (with-current-buffer (find-file-noselect org-file)
+    (org-hugo-export-wim-to-md :all-subtrees)
+    (kill-buffer)))
+
+(setq org-publish-list-skipped-files 'nil)
+(setq org-publish-project-alist
+  `(("org-roam-pages"
+      :recursive t
+      :base-extension "org"
+      :base-directory "~/org-roam-garden/org-roam"
+      :publishing-directory "~/org-roam-garden/content"
+      :preparation-function org-roam-update-meta
+      :publishing-function org-hugo-publish)
+     ("org-pages"
+       :recursive t
+       :base-extension "org"
+       :base-directory "~/org-roam-garden/pages"
+       :publishing-directory "~/org-roam-garden/content"
+       :publishing-function org-html-publish-to-html
+       :body-only t)))
 
 (defun my-org-export-filter-timestamp-function (content backend info)
   "removes relevant brackets from a timestamp" 
@@ -85,6 +71,5 @@
 (add-to-list 'org-export-filter-property-drawer-functions
              'my-org-export-filter-rating-function)
 
-(roamexport)
-(export-org-file-html "~/org-roam-garden/books.org")
-(export-org-file-html "~/org-roam-garden/links.org")
+(org-publish-all)
+

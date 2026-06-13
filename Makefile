@@ -7,8 +7,18 @@ orgfiles:
 backlinks:
 	mkdir -p assets/data; $(GO) run backlinks.go ~/org-roam-garden; sed -i 's/_index/index/g' assets/data/backlinks.yaml
 
+build:
+	$(HUGO) build
+
+all:
+	make orgfiles && make backlinks && make build
+
 clean:
-	rm content/*.md; rm content/*.html; rm -rf content/daily; rm -rf content/reference
+	rm content/*.md
+	rm content/*.html
+	rm -rf content/daily
+	rm -rf content/reference
+	rm -rf .org-timestamps
 
 cleanout:
 	rm -rf public/*
@@ -18,12 +28,6 @@ veryclean:
 
 serve:
 	$(HUGO) server -D
-
-build:
-	$(HUGO) build
-
-all:
-	make orgfiles && make backlinks && make build
 
 allserve:
 	make orgfiles && make backlinks && make serve

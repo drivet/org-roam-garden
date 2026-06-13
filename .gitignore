@@ -8,3 +8,4 @@ org-roam/.org-roam.db
 .hugo_build.lock
 public/
 resources/*
+.org-timestamps/*
