@@ -9721,3 +9721,16 @@ CLOSED: [2026-03-29 Sun 09:48]
 #+ATTR_HTML: :loading lazy
 [[https://covers.openlibrary.org/b/ISBN/0553351672-M.jpg]]
 #+END_aside
+
+* TOREAD [[http://openlibrary.org/books/OL27788564M/Effective_Notetaking][Effective Notetaking]]
+:PROPERTIES:
+:Author:   Fiona McPherson
+:Added:    2026-06-14
+:ISBN:     9781927166529
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/9781927166529-M.jpg]]
+#+END_aside
+
