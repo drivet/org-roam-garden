@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       cdd26199-1eca-4728-b513-78e98c2e2f66
+:ROAM_REFS: https://zettelkasten.de/posts/open-letter-cal-newport/
+:END:
+#+date: [2026-06-14 Sun 14:03]
+#+hugo_lastmod: [2026-06-14 Sun 14:03]
+#+title: Cal Newport vs. Zettelkestan
+
+Basically, what I want to take away from this is that according the
+Zettelkestan guru, processing a book isn't the same as taking notes.  You're
+basically integrating the knowledge gained from the book into the knowledge
+that already exists in your Zettelkestan.
+
+The reference material doesn't necessarily exist as a discrete thing anymore,
+unattached to anything else.

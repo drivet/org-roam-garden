@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       432c2a36-aa4b-45cf-ab5d-37e36ad1772c
+:ROAM_REFS: https://zettelkasten.de/posts/the-friction-fallacy/
+:END:
+#+date: [2026-06-14 Sun 16:09]
+#+hugo_lastmod: [2026-06-14 Sun 16:09]
+#+title: The Friction Fallacy
+
+ * The friction of your ZK system cannot increase with scale.
+ * Operations should be local, and not require knowledge of the rest of the
+   system
+ * Friction is a cost, not a value (possible contradicting with Stoicism)
+ * Maybe look at what a structure note is

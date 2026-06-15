@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       cdecaf55-8adc-4963-8ebe-0c25b15f815e
+:ROAM_REFS: https://zettelkasten.de/atomicity/guide/
+:END:
+#+date: [2026-06-14 Sun 17:40]
+#+hugo_lastmod: [2026-06-14 Sun 17:40]
+#+title: The Complete Guide to Atomic Note Taking
+
+Describes an iceberg with 4 levels of taking notes:
+
+ * Just take notes, link them together
+ * Take atomic notes, with heruistics, like having an easy title, or a
+   "short" note.
+ * Understand that the heuristics are part of a bigger system of knowledge,
+   where we truly understand what an atomic note is, as an element of
+   thinking.
+ * Level 4 is weird, it's basically just understanding that level 3 exists
+
+Steps to create an atomic note:
+
+ * Just make the note.  Don't worry about it.
+ * Edit it.  Remove unnecessary stuff.  Is it one idea?  Do you have t9o
+   break it up?  Is the title good?  Do you have a good one line summary?
+ * Identify the knowledge block.
+
+Tiers of notes and ideas.
+
+| Tier | The Idea | What to do with it |
+----------------------------------------
+| S | Major leap for your thinking, very likely to support a current and important project                      | Unleash the kraken                                                  |
+| A | Improves your thinking, supports a current project, helps with future projects or areas of responsibility | Get at least to level 2, consider level 3 and 4                     |
+| B | Seems useful,  a clear connection to an area of responsibility                                            | go to level 2                                                       |
+| C | Interesting, possible connection to an area of responsibility                                             | Don’t sweat it, consider putting in your Rumen                      |
+| D | Interesting, has some connection to your life                                                             | Put it somewhere, but not in your Zettelkasten, possibly your Rumen |
+| F | Interesting                                                                                               | Nothin g                                                            |

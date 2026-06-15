@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ID:       32d96005-2686-4fed-958e-be79b2216c65
+:ROAM_REFS: https://zettelkasten.de/posts/field-report-8-how-i-process-book-chapter/
+:END:
+#+date: [2026-06-13 Sat 07:51]
+#+hugo_lastmod: [2026-06-13 Sat 07:51]
+#+title: How to process a chapter of a book
+
+This goes into some explanation for how the author processes a chapter of a
+book into his Zettelkestan.
+
+First make a task for the processing in your task management system
+
+Ask what you can make of the material presented and how it fits into your
+knowledge base.
+
+Here are some choice the author presents (concrete and helpful):
+
+#+begin_quote
+I process with a certain goal in mind and don’t add notes to my Zettelkasten
+mindlessly, hoping for the best. Instead, I ask myself what I can make of
+the substance that is presented in the source.
+
+Sometimes, I use it to improve an entry point into a topic (like in the
+above case of the habit book).
+
+Sometimes, I want to enrich a toolbox (e.g. an inventory of interval
+training protocols).
+
+Sometimes, I want to deepen my understanding of knowledge building
+blocks. Then I might work more on individual notes and their
+connections.
+#+end_quote
+
+It helps to have a goal in mind when you're doing this:
+
+#+begin_quote
+Oftentimes a goal is missing, and therefore it is very hard to make
+decisions on how to attack each unit of processing. You need two ingredients
+for your decisions:
+
+You need a concrete goal (e.g. create a structures overview for a certain
+object of interest)
+
+You need a vision what reaching the goal looks like (e.g. improved clarity,
+added nuance to a structure note)
+
+These ingredients are tactical. They allow you to be effective while you are
+processing.
+#+end_quote
+
+(the above is generally good advice for life)
+
+Good takeaway:
+
+#+begin_quote
+Don’t demote yourself to a passive processing machine. Start with an intent
+when you process a chapter. Ask yourself: What do I want to build?
+
+Develop tactics and strategies. Without these, your workflow keeps
+disorganised.
+#+end_quote
