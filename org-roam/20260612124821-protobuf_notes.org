@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       6109c7ec-faf5-407f-9aa9-3c0793b9b88b
+:END:
+#+date: [2026-06-12 Fri 12:48]
+#+hugo_lastmod: [2026-06-12 Fri 12:48]
+#+title: Protobuf notes
+
+ * ~import~ will import a protobuf definition.  Language agnostic, file
+   based.  -I with protoc for root, path with buf.
+ * ~package~ will declare the namespace of the entities, so no conflicts.
+   
+[[id:74fe4896-3281-4665-8051-556ce8eca8b5][Software Development]]
