@@ -11,10 +11,10 @@ some here.
 
 Equity ETFs:
 
-VUN - U.S. Total Market Index ETF
-VCN - FTSE Canada All Cap Index ETF
-VIU - FTSE Developed All Cap ex North America Index ETF
-VEE - FTSE Emerging Markets All Cap Index ETF
+ * VUN - U.S. Total Market Index ETF
+ * VCN - FTSE Canada All Cap Index ETF
+ * VIU - FTSE Developed All Cap ex North America Index ETF
+ * VEE - FTSE Emerging Markets All Cap Index ETF
 
 These are all in the VEQT ETF, and the very approximate allocation tends to be:
 
@@ -23,7 +23,7 @@ These are all in the VEQT ETF, and the very approximate allocation tends to be:
  * 20% VTU
  * 5% VEE
 
-More exactly, as of May 10, 206, it's
+More exactly, as of May 10, 2026, it's
 
  * VUN - 43.66%
  * VCN - 31.22%

@@ -15,6 +15,15 @@ If you do use org-remoteimg, set this:
 
 (TODO: figure out where it keeps the cache)
 
+Edit: 2026-07-01: This seems to not work on Emacs 30, or Org 9.7.  The only
+way I have managed to get this to work is:
+
+ * Install Emacs 30.
+ * Install current packaged Org mode (as of 2026-07-01, this was 9.8) as a
+   command: ~emacs -Q -batch -eval "(progn (package-refresh-contents)
+   (package-upgrade 'org))"~
+ * Pick out the >= 9.8 bits from org-remoteimg and paste them in my init.el
+
 Some docs:
 
 https://orgmode.org/manual/Images.html

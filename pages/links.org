@@ -10,6 +10,29 @@ draft: false
 ---
 #+END_EXPORT
 
+* [[https://nodebb.org/][NodeBB - Modern Forum Software]]
+:PROPERTIES:
+:Added: [2026-07-15 Wed 21:04]
+:END:
+
+From the fediverse conference, this organization looks like they have an AI
+skeptical attitude, and they are fediverse friendly.
+
+this guy:
+julian@activitypub.space
+
+works there.
+
+* [[https://spritely.institute/][Spritely Institute]]
+:PROPERTIES:
+:Added: [2026-07-15 Wed 21:03]
+:END:
+
+* [[https://fedihost.co/][FediHost - Managed Fediverse Hosting]]
+:PROPERTIES:
+:Added: [2026-07-15 Wed 21:01]
+:END:
+
 * [[https://sachachua.com/blog/2026/04/yayemacs-10-emacs-coaching-with-prot-packaging-emacs-lisp/][#YayEmacs 10: Emacs coaching with Prot: Emacs workflows and streaming :: Sach...]] :emacs:
 :PROPERTIES:
 :Added: [2026-06-08 Mon 19:05]

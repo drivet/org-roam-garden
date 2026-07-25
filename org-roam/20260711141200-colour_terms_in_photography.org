@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9c4d2050-025e-4622-aed5-4a349973734f
+:END:
+#+date: [2026-07-11 Sat 14:12]
+#+hugo_lastmod: [2026-07-11 Sat 14:12]
+#+title: Colour terms in Photography
+
+
+** Gamma
+
+** White Balance
+
+This is about making sure your photos appear as they do in real life.
+Cameras capture colour casts or tints that eyes tend to filter out.
+
+Adjusting colour along two spectrums:
+
+ * blue-yellow  (natural light, colour temperature)
+ * green-magenta (some artificial light)
+
+
+[[id:9f1a8982-7a7e-4918-a48d-278907e7f217][Photography]]

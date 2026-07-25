@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       2fd12b14-9331-41e9-9601-4ab2f4a803eb
+:END:
+#+date: [2026-07-13 Mon 21:27]
+#+hugo_lastmod: [2026-07-13 Mon 21:27]
+#+title: A Possible Blogging Strategy With Emacs
+
+Assume that [[id:0F0DCEA3-43C5-4396-AA23-8039242035F5][Eleventy]] handles drafts.
+
+ * Have a function for every [[id:f9b01190-b396-4e6a-a912-83167d33968d][IndieWeb]] post type.
+ * By default we create a draft
+ * Prefix argument creates a real post
+ * Drafts are in a special folder without a date
+ * Real posts have a date and are stored by year
+ * A function will turn a draft into a real post by adding a date and moving
+   the post to the real folder
+
+[[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]]

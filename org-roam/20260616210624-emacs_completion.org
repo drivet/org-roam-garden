@@ -1,0 +1,60 @@
+:PROPERTIES:
+:ID:       74e26c80-8c84-488e-849f-768d738e403c
+:END:
+#+date: [2026-06-16 Tue 21:06]
+#+hugo_lastmod: [2026-06-16 Tue 21:06]
+#+title: Emacs Completion
+
+Good article here:
+
+https://mint.westdri.ca/emacs/intro_completion
+
+Completion in Emacs refers to the ability of Emacs to select one from
+several options in a list, in the minibuffer.  You see it in action when you
+switch buffers for example, or open a file.
+
+There is also in-buffer completion, but that's a different topic.  See
+[[id:41adf1e0-3700-4733-896a-be824fbfec60][Company-mode]] for example.
+
+Completion in the minibuffer traditionally the original Emacs completion
+function, [[help:completing-read][completing-read]].  The documentation isn't specific about how this
+happens, but calling completing-read will call up the minibuffer with a
+prompt, after which you start typing and you start hitting TAB to get more
+complete options.
+
+Then came Ido and Ido-vertical which allowed you to select your items
+vertically in the minibuffer.
+
+Then came Helm, which was basically a completely different Emacs completion
+system.  It was incompatible with ~completing-read~, and so a lot of the
+functionality that needed completion, like buffer switching, needed to have
+helm specific versions.
+
+** Ivy, Counsel, Swiper
+ 
+Then came Ivy.  Ivy looks kinda similar to Ido-vertical, but it offers fuzzy
+matching and seemingly is better written.
+
+Ivy sometimes gets bundled up with other package like Counsel and Swiper and
+I often get these packages confused.  I wrote a [[id:500B5CD1-8C3C-4251-8F44-0EFB22A439C1][page]] about it.
+
+** Vertico
+
+Vertico seems to be the most recent, most modern completion framework, and
+it is compatible with completing-read, so the standard functions all work.
+
+*** What does it mean to be compatible with completing-read?
+
+One of vertico's big selling points is that existing functions which use
+completing-read, like switch-to-buffer, will get access to Vertico's
+functionality.
+
+I'm not sure how this works exactly.  In a very general sense, calling
+completing-read "outsources" to the minibuffer for reading input, and in
+some fashion Vertico enhances the minibuffer with vertical selection and an
+ecosystem of "add ons", like marginalia and orderless, that further enhance
+the experience.
+
+Look at consult as well, for some extra tooling around this.
+
+[[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]]

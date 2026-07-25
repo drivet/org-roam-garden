@@ -13,6 +13,43 @@ draft: false
 ---
 #+END_EXPORT
 
+* TOREAD [[http://openlibrary.org/books/OL35447857M/The_Name_of_the_Wind][The Name of the Wind]]
+:PROPERTIES:
+:Author:   Patrick Rothfuss
+:Added:    2026-07-19
+:ISBN:     9781407234724
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/9781407234724-M.jpg]]
+#+END_aside
+
+* READ [[http://openlibrary.org/books/OL38057959M/Supergirl][Supergirl: Woman of Tomorrow]]
+:PROPERTIES:
+:Author:   Tom King
+:Added:    2026-07-17
+:ISBN:     9781779515681
+:Rating:   :star::star::star::star:
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/9781779515681-M.jpg]]
+#+END_aside
+
+* TOREAD [[http://openlibrary.org/books/OL22765300M/The_stuff_of_thought][The Stuff of Thought]]
+:PROPERTIES:
+:Author:   Steven Pinker
+:Added:    2026-07-11
+:ISBN:     9780670063277
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/9780670063277-M.jpg]]
+#+END_aside
+
 * READ [[https://openlibrary.org/books/OL27226469M/The_daily_stoic][The Daily Stoic: 366 meditations on wisdom, perseverance, and the art of living]] :stoicism:philosophy:selfhelp:
 CLOSED: [2025-03-18]
 :PROPERTIES:
@@ -103,11 +140,6 @@ was that this book would make me emotional.  I nearly cried.
 :Added:    [2025-01-21]
 :ISBN:     9780774868426
 :END:
-
-#+BEGIN_aside
-#+ATTR_HTML: :loading lazy
-[[https://covers.openlibrary.org/b/ISBN/9780774868426-M.jpg]]
-#+END_aside
 
 * TOREAD [[https://openlibrary.org/books/OL17013665M/The_language_instinct][The Language Instinct: How the Mind Creates Language]]     :linguistics:
 :PROPERTIES:
@@ -9547,6 +9579,19 @@ CLOSED: [2026-03-07 Sat 14:47]
 [[https://covers.openlibrary.org/b/ISBN/9780061020711-M.jpg]]
 #+END_aside
 
+* TOREAD [[http://openlibrary.org/books/OL7286705M/The_Light_Fantastic][The Light Fantastic]]
+:PROPERTIES:
+:Author:   Terry Pratchett
+:Added:    2026-07-17
+:ISBN:     9780061020704
+:END:
+
+#+BEGIN_aside
+#+ATTR_HTML: :loading lazy
+[[https://covers.openlibrary.org/b/ISBN/9780061020704-M.jpg]]
+#+END_aside
+
+
 * TOREAD [[https://openlibrary.org/books/OL21036482M/The_body_on_Mount_Royal][The Body on Mount Royal]]
 :PROPERTIES:
 :AUTHOR:   David Montrose
@@ -9559,6 +9604,7 @@ CLOSED: [2026-03-29 Sun 09:48]
 :Author:   Dan Bortolotti
 :Added:    2026-03-07
 :ISBN:     9781988344324
+:Rating:   :star::star::star:
 :END:
 
 #+BEGIN_aside
@@ -9566,11 +9612,12 @@ CLOSED: [2026-03-29 Sun 09:48]
 [[https://covers.openlibrary.org/b/ISBN/9781988344324-M.jpg]]
 #+END_aside
 
-* READING [[http://openlibrary.org/books/OL11220388M/The_Odyssey][The Odyssey]]
+* READ [[http://openlibrary.org/books/OL11220388M/The_Odyssey][The Odyssey]]
 :PROPERTIES:
 :Author:   Όμηρος
 :Added:    2026-05-22
 :ISBN:     9780881036572
+:Rating:   :star::star::star:
 :END:
 
 #+BEGIN_aside
@@ -9734,3 +9781,9 @@ CLOSED: [2026-03-29 Sun 09:48]
 [[https://covers.openlibrary.org/b/ISBN/9781927166529-M.jpg]]
 #+END_aside
 
+* TOREAD Circe
+:PROPERTIES:
+:AUTHOR:   Madeline Miller
+:ADDED:    [2026-06-28]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781526612519&jscmd=data&format=json
+:END:
