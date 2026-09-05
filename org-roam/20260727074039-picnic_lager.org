@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       6db30abd-e852-4616-8f5c-2fee5fe41be9
+:END:
+#+date: [2026-07-27 Mon 07:40]
+#+hugo_lastmod: [2026-07-27 Mon 07:40]
+#+title: Picnic Lager
+
+A [[id:955adb37-99eb-4cef-929d-698d9fcb8b6d][blond lager]] I [[id:0b228ecf-49f5-4f3f-8732-95edc5e21b4e][tried]] from [[id:b036bb00-3136-4cdf-8508-5645eb9517fe][Gaspard]].
+
+ * Alcohol: 5%
+ * fruity, but not my favorite
+ * 2 star(s)
+
