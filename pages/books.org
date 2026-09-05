@@ -13,7 +13,7 @@ draft: false
 ---
 #+END_EXPORT
 
-* TOREAD [[http://openlibrary.org/books/OL35447857M/The_Name_of_the_Wind][The Name of the Wind]]
+* READING [[http://openlibrary.org/books/OL35447857M/The_Name_of_the_Wind][The Name of the Wind]]
 :PROPERTIES:
 :Author:   Patrick Rothfuss
 :Added:    2026-07-19
