@@ -1,0 +1,54 @@
+:PROPERTIES:
+:ID:       14631110-dd2b-40f1-9040-6fb495cb9ad0
+:END:
+#+date: [2026-07-31 Fri 13:12]
+#+hugo_lastmod: [2026-07-31 Fri 13:12]
+#+title: Emacs Treesitter Notes
+
+** Why Use Treesitter?
+
+Good question and I don't a killer answer.  From what I read:
+
+ * More efficient, noticible on very large files
+ * Syntax highlighting is less brittle and error prone.
+
+But no real killer features here.
+
+** Treesitter on Emacs 30
+
+I don't know the details except:
+
+ * Treesitter major modes are different from the standard ones.
+ * Treesitter mode rely on a shared library to be installed.
+ * The shared library has to match the version the your Emacs is expecting,
+   summarized in the ABI version.
+ * Emacs 30 is at API 14
+
+It is surprisingly hard to find grammar shared libraries at ABI 14.  I would
+point to a library release at a particular tag and it would consistently
+give me ABI 15 - at least when I tried this with treesit-auto.
+
+And the grammar repos don't seem to put the ABI number in their release.
+
+** To Make It Work
+
+In the end I relied on this:
+
+https://github.com/emacs-tree-sitter/tree-sitter-langs/releases/tag/0.12.329
+
+I run linux, so I downloaded the linux tar ball.  Unpack it into
+~/emacs.d/tree-sitter
+
+You'll see a bunch of language grammar *.so files, where each file is named
+after the language.  On linux at least, you need to make sure to rename the
+files so that they all start with libtree-sitter-<lang>.so
+
+** Renaming files in Dired
+
+To rename the files in Dired:
+
+ * Rename command: % R
+ * Matching regexp: \(.+\)\.so (captures the filename part)
+ * Replacement: libtree-sitter--\1.so
+
+[[id:e8f63911-0c0b-4f37-9aed-b2e415144f9d][Emacs]]
