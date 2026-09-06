@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       162b8344-50f5-43ad-a9dc-0061e2214f01
+:END:
+#+date: [2026-09-05 Sat 19:46]
+#+hugo_lastmod: [2026-09-05 Sat 19:46]
+#+title: Books and links are not org roam nodes
+
+You may notice that I didn't implement my reading list or my links as
+org-roam notes.
+
+That decision has to do with how these all these files are exported to HTML.
+My process for exporting my org roam notes involves an intermediate step of
+first converting them to Hugo flavoured markdown via ox-hugo, and then
+converting that markdown to HTML.
+
+The problem is that markdown (as far as I'm aware?) doesn't give you as much
+control over the final HTML export.  So I'm not sure how I would ensure that
+each cover image in my book list gets a "loading lazy" attribute attached to
+the HTML img tag.
+
+By keeping everything in org, and converting it directly to HTML, I have
+more control over the final result.  But this means that it's easier to keep
+these files distinct from the rest of my org roam notes.
